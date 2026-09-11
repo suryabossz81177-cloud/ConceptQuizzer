@@ -1,5 +1,65 @@
 window.ChapterRegistry = [
   {
+    id: "10-economics-development",
+    aliases: ["class10-economics-development"],
+    class: 10,
+    subject: "Economics",
+    chapterNumber: 1,
+    title: "Development",
+    file: "js/notes/class10/economics/development.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-economics-sectors-of-the-indian-economy",
+    aliases: ["class10-economics-sectors-of-the-indian-economy"],
+    class: 10,
+    subject: "Economics",
+    chapterNumber: 2,
+    title: "Sectors of the Indian Economy",
+    file: "js/notes/class10/economics/sectors-of-the-indian-economy.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-economics-money-and-credit",
+    aliases: ["class10-economics-money-and-credit"],
+    class: 10,
+    subject: "Economics",
+    chapterNumber: 3,
+    title: "Money and Credit",
+    file: "js/notes/class10/economics/money-and-credit.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-economics-globalisation-and-the-indian-economy",
+    aliases: ["class10-economics-globalisation-and-the-indian-economy"],
+    class: 10,
+    subject: "Economics",
+    chapterNumber: 4,
+    title: "Globalisation and the Indian Economy",
+    file: "js/notes/class10/economics/globalisation-and-the-indian-economy.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-economics-consumer-rights",
+    aliases: ["class10-economics-consumer-rights"],
+    class: 10,
+    subject: "Economics",
+    chapterNumber: 5,
+    title: "Consumer Rights",
+    file: "js/notes/class10/economics/consumer-rights.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
     id: "10-politicalscience-power-sharing",
     aliases: ["class10-political-science-power-sharing"],
     class: 10,
