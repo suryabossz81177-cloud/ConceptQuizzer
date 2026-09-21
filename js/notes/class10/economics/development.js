@@ -1,469 +1,480 @@
-// Class 10 Economics — very detailed renderable chapter
+// Class 10 Economics — detailed, continuous-flow, renderable chapter
 const ChapterData = {
   "id": "10-economics-development",
   "class": 10,
   "subject": "Economics",
   "chapterNumber": 1,
   "title": "Development",
-  "description": "How people define progress, compare development using income and other indicators, understand public facilities and evaluate sustainability. Very detailed continuous-flow notes with integrated real Wikimedia Commons visuals, nearby charts, examples, comics and exact-answer board practice.",
-  "summary": "How people define progress, compare development using income and other indicators, understand public facilities and evaluate sustainability.",
+  "description": "How people define development, compare indicators, understand public facilities and examine sustainability. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments.",
+  "summary": "A multidimensional study of goals, income, public facilities, human well-being and sustainability.",
   "sections": [
     {
       "title": "Development",
       "blocks": [
         {
           "type": "figure",
-          "title": "Farm field in India",
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Farm_field_in_india.jpg",
-          "caption": "A real Indian farm landscape illustrating material livelihoods and the role of productive resources.",
-          "alt": "Farm field in India",
+          "title": "A worker on an Indian farm",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_on_the_farm_(33434192893).jpg",
+          "caption": "A real farm scene that helps connect development with livelihoods, work and access to resources.",
+          "alt": "Worker working on a farm in India",
           "source": "Wikimedia Commons"
         },
         {
           "type": "paragraph",
-          "title": "What do we mean by development?",
-          "text": "Development refers to improvement in people’s lives and in the conditions that allow them to live with dignity, security and opportunity. It is not a single numerical target. People may value income, employment, education, health, equality, freedom, safety, respect and a clean environment in different combinations."
+          "title": "Opening idea: development is about life as people experience it",
+          "text": "Development begins with a simple question: what kind of life do people want to lead, and what changes would make that life more secure and fulfilling? Economic progress matters because it can raise command over goods and services, yet people also care about schooling, health, equal treatment, personal safety, freedom, clean surroundings, reliable public services and the ability to participate in decisions that affect them. For this reason, development cannot be reduced to a single figure or a single policy. It is a process of expanding the real opportunities available to people."
+        },
+        {
+          "type": "paragraph",
+          "title": "Why aspirations differ",
+          "text": "A student from a low-income household may value a scholarship and a dependable school more than a luxury product. A cultivator may put irrigation, fair prices and electricity at the top of the list. A worker may prefer a secure job with predictable hours to a slightly higher wage without protection. A woman may identify safety, equal opportunities and freedom of movement as essential. These examples show that development goals are shaped by circumstances, responsibilities and expectations."
         },
         {
           "type": "concept",
-          "title": "Different people, different goals",
-          "text": "A landless rural worker may want regular employment and better wages; a farmer may want irrigation, remunerative prices and reliable electricity; a student may value quality education; a woman may place greater importance on safety, equal treatment and freedom of movement. These goals can overlap, but they can also conflict."
+          "title": "Development goals can be complementary or conflicting",
+          "text": "Two goals can reinforce one another, such as better education and better employment prospects. They can also pull in different directions: a factory may create jobs while imposing pollution on nearby residents. A road can improve market access but also displace households. Economic decisions therefore have to be examined for both their gains and their distribution."
         },
         {
           "type": "exam",
-          "title": "Board Question — development is multidimensional",
-          "question": "Why can different people have different developmental goals?",
-          "answer": "People live in different economic and social conditions and therefore have different needs and priorities. A goal that improves one person’s situation may not improve another person’s situation and can sometimes harm another group."
-        },
-        {
-          "type": "paragraph",
-          "title": "Income and other goals",
-          "text": "Higher income is important because it expands the range of goods and services a person can afford. However, money alone cannot guarantee dignity, equal treatment, freedom, security, good health, education or a pollution-free environment. A complete assessment of development therefore combines material and non-material goals."
+          "title": "Why is development not identical for everyone?",
+          "question": "Explain why two people living in the same country may have different notions of development.",
+          "answer": "Their starting conditions, occupations, incomes, social positions and immediate needs differ. Consequently, they may assign different importance to employment, income, education, health, equality, security, freedom or environmental quality. A change that benefits one person can leave another unaffected or can even create a cost for another group."
         },
         {
           "type": "figure",
-          "title": "Agricultural field in India",
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Agricultural_field_%28India%2C_2014%29.jpg",
-          "caption": "An Indian agricultural field, useful for discussing income, work and sustainable resource use.",
-          "alt": "Agricultural field in India",
+          "title": "Farm labour and the question of work",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Labourers_working_in_a_farm.jpg",
+          "caption": "Farm labour provides a concrete setting for discussing employment, wages, working conditions and access to productive resources.",
+          "alt": "Labourers working on an Indian farm",
           "source": "Wikimedia Commons"
         },
         {
-          "type": "keypoint",
-          "title": "Key idea",
-          "text": "Development should be judged by the quality of life it creates, not only by the amount of money earned."
+          "type": "paragraph",
+          "title": "Income is important, but it is not the whole story",
+          "text": "Income gives a person purchasing power. A household with more income can generally buy more food, clothing, transport, communication services and other necessities, subject to prices and availability. Yet the same income can lead to very different living conditions when schools, hospitals, sanitation, electricity or public transport differ. A person may have money but still face unsafe drinking water, poor air quality or discrimination. Hence income is an important component of development, not a complete measure of it."
+        },
+        {
+          "type": "paragraph",
+          "title": "Security and dignity as economic concerns",
+          "text": "A development process should improve the conditions under which people work and live. Regular employment reduces uncertainty about future consumption. Protection from arbitrary dismissal, access to essential services and freedom from discrimination affect whether economic opportunities can actually be used. Dignity is not a decorative addition to development; it changes the quality of everyday life and the choices people can realistically make."
+        },
+        {
+          "type": "concept",
+          "title": "Material and non-material dimensions",
+          "text": "Material dimensions include income, employment, housing and access to goods. Non-material dimensions include equality, freedom, security, respect, health, education and a clean environment. A balanced comparison keeps both groups visible instead of allowing a rise in income to hide a deterioration elsewhere."
         },
         {
           "type": "comic",
-          "title": "Comic — Surya compares two meanings of progress",
+          "title": "Comic: Surya asks what progress should mean",
           "dialogues": [
             {
               "character": "Surya",
-              "dialogue": "If my income rises but my village has unsafe drinking water, can I call that complete development?"
+              "dialogue": "If our family earns more but our water source becomes unsafe, has every part of life improved?"
             },
             {
               "character": "Verma Sir",
-              "dialogue": "Higher income helps, but development also includes health, education, security, equality and dignity."
+              "dialogue": "No. Income may rise while an essential public condition worsens."
             },
             {
-              "character": "Ansh",
-              "dialogue": "So a single income figure cannot describe every part of a person’s life."
+              "character": "Arushi",
+              "dialogue": "So development has to be judged across several dimensions, not only through earnings."
             },
             {
               "character": "Verma Sir",
-              "dialogue": "Correct. Development is broader than income."
+              "dialogue": "Exactly. The important question is whether people gain meaningful opportunities and better living conditions."
             }
-          ],
-          "result": "The conversation connects income with the wider set of human goals that people use to judge progress."
-        },
-        {
-          "type": "paragraph",
-          "title": "National development",
-          "text": "When we discuss national development, we ask what kind of country would improve the lives of its people. Different groups may disagree because national projects distribute benefits and costs differently. A dam, road, factory or mining project may create jobs and electricity while also affecting land, forests or displaced communities. National development therefore involves choices about whose needs receive priority and how benefits and costs are shared."
-        },
-        {
-          "type": "exam",
-          "title": "Board Question — conflicting goals",
-          "question": "Give an example of conflicting developmental goals.",
-          "answer": "A large dam may provide irrigation, electricity and employment, while people living in the area may lose homes or agricultural land. The project therefore creates gains for some groups and costs for others."
-        },
-        {
-          "type": "paragraph",
-          "title": "Per capita income",
-          "text": "To compare average income across countries or states, total income is divided by total population. The result is per capita income, or average income per person. It is useful because populations differ in size, but it is only an average and does not show how income is distributed among people."
-        },
-        {
-          "type": "chart",
-          "title": "Illustrative per-capita comparison",
-          "rows": [
-            [
-              "Region",
-              "Average index"
-            ],
-            [
-              "A",
-              60
-            ],
-            [
-              "B",
-              45
-            ],
-            [
-              "C",
-              30
-            ]
-          ],
-          "text": "Higher average income does not automatically mean every person has a higher income."
-        },
-        {
-          "type": "paragraph",
-          "title": "Why averages have limits",
-          "text": "Suppose two regions have the same average income. One may have a relatively equal distribution while the other may have a small wealthy group and many low-income households. The same average can therefore hide substantial inequality. Development comparisons should use several indicators instead of relying on one average."
-        },
-        {
-          "type": "comparison-table",
-          "title": "Income versus wider development",
-          "headers": [
-            "Indicator",
-            "What it tells us",
-            "Limitation"
-          ],
-          "rows": [
-            [
-              "Per capita income",
-              "Average income",
-              "Hides distribution"
-            ],
-            [
-              "Literacy/education",
-              "Access to learning",
-              "Does not alone show income"
-            ],
-            [
-              "Life expectancy",
-              "Health and longevity",
-              "Does not show freedom or equality"
-            ],
-            [
-              "Infant mortality",
-              "Health conditions",
-              "One indicator cannot capture the whole quality of life"
-            ]
           ]
         },
         {
           "type": "paragraph",
-          "title": "Public facilities",
-          "text": "Many essential services cannot be obtained adequately by individual income alone. Schools, hospitals, sanitation, clean drinking water, public transport and law-and-order systems are examples of public facilities. When these are widely available and of good quality, they can improve living conditions even for people with modest incomes."
+          "title": "Using averages to compare countries or states",
+          "text": "Average income is obtained by dividing the total income of a population by its total population. It allows very different-sized populations to be compared on a common scale. However, an average does not reveal how income is distributed among households. Two places can have the same average while one has a relatively balanced distribution and the other has a small high-income group alongside many low-income households."
         },
         {
-          "type": "exam",
-          "title": "Board Question — public facilities",
-          "question": "Why are public facilities important for development?",
-          "answer": "They provide essential services such as health, education, sanitation and clean water to large sections of society. Their availability can improve quality of life and reduce inequalities that private income alone may not overcome."
-        },
-        {
-          "type": "paragraph",
-          "title": "Human development approach",
-          "text": "A broader human-development approach looks at whether people can lead long, healthy and educated lives and enjoy a reasonable standard of living. Such an approach shifts attention from production alone to human capabilities and opportunities."
-        },
-        {
-          "type": "comic",
-          "title": "Comic — Arushi asks about averages",
-          "dialogues": [
-            {
-              "character": "Arushi",
-              "dialogue": "If a country has a high average income, does that prove everyone is well off?"
-            },
-            {
-              "character": "Sharma Sir",
-              "dialogue": "No. Average income can hide large differences between households."
-            },
-            {
-              "character": "Surya",
-              "dialogue": "Then we should also look at health, education and distribution."
-            },
-            {
-              "character": "Sharma Sir",
-              "dialogue": "Exactly. Multiple indicators give a more meaningful picture."
-            }
+          "type": "example",
+          "title": "Per capita income: a simple calculation",
+          "question": "A district records a total annual income of ₹48 crore and has 60,000 residents. What is the average annual income per person?",
+          "steps": [
+            "Convert the total into rupees: ₹48 crore = ₹48,00,00,000.",
+            "Divide by the population: ₹48,00,00,000 ÷ 60,000 = ₹8,000.",
+            "The calculated per capita income is ₹8,000 per person per year."
           ],
-          "result": "The characters show why averages must be interpreted alongside other indicators."
+          "answer": "₹8,000 per person per year."
+        },
+        {
+          "type": "keypoint",
+          "title": "What an average can and cannot tell you",
+          "text": "Per capita income is useful for comparing the average level of income, but it cannot by itself reveal inequality, health outcomes, educational access, job security or environmental conditions."
+        },
+        {
+          "type": "data",
+          "title": "Illustration: identical averages can hide different distributions",
+          "svg": "<svg viewBox=\"0 0 680 300\" role=\"img\" aria-label=\"Same average income, different household distribution\"><text x=\"340.0\" y=\"24\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"700\">Same average income, different household distribution</text><line x1=\"80\" y1=\"235\" x2=\"620\" y2=\"235\" stroke=\"currentColor\"/><line x1=\"80\" y1=\"45\" x2=\"80\" y2=\"235\" stroke=\"currentColor\"/><rect x=\"136.7\" y=\"140.0\" width=\"156.6\" height=\"95.0\" fill=\"currentColor\" opacity=\"0.72\"/><text x=\"215.0\" y=\"259\" text-anchor=\"middle\" font-size=\"12\">Balanced</text><text x=\"215.0\" y=\"134.0\" text-anchor=\"middle\" font-size=\"12\">50 units</text><rect x=\"406.7\" y=\"140.0\" width=\"156.6\" height=\"95.0\" fill=\"currentColor\" opacity=\"0.72\"/><text x=\"485.0\" y=\"259\" text-anchor=\"middle\" font-size=\"12\">Unequal</text><text x=\"485.0\" y=\"134.0\" text-anchor=\"middle\" font-size=\"12\">50 units</text></svg>",
+          "text": "The bars are an illustrative comparison, not official statistics. The point is that a single average can conceal how income is spread across households."
         },
         {
           "type": "paragraph",
-          "title": "Sustainability of development",
-          "text": "Development must consider whether present production and consumption can continue without destroying the natural resource base needed by future generations. Excessive extraction of groundwater, deforestation, pollution and dependence on exhaustible resources can create future costs. Sustainable development attempts to balance present needs with long-term environmental and economic security."
+          "title": "Public facilities change the meaning of private income",
+          "text": "Some services are most effective when provided collectively. Clean drinking water networks, sanitation systems, public hospitals, schools, roads, drainage, vaccination programmes and public transport can raise well-being for large groups at once. A household does not need to purchase each service separately for the benefit to exist. This is why development comparisons examine public facilities alongside household income."
         },
         {
-          "type": "exam",
-          "title": "Board Question — sustainable development",
-          "question": "What is meant by sustainable development?",
-          "answer": "It means following a pattern of development that meets present needs while protecting resources and environmental conditions so that future generations can also meet their needs."
+          "type": "paragraph",
+          "title": "Health as an indicator of development",
+          "text": "Health outcomes reveal whether economic resources are translated into longer and safer lives. Infant mortality is especially informative because it is connected with maternal health, nutrition, medical care, sanitation and the availability of timely treatment. A region with higher average income but poor basic health facilities cannot automatically be described as more developed on every dimension."
         },
         {
-          "type": "chart",
-          "title": "A simple sustainability cycle",
+          "type": "paragraph",
+          "title": "Education widens future choices",
+          "text": "Literacy and school attendance influence a person’s ability to obtain information, understand institutions, pursue employment and participate in social life. Education also affects future generations because educated parents are more likely to understand the value of schooling and health practices. Development therefore includes the capabilities created through education, not merely the immediate income associated with a job."
+        },
+        {
+          "type": "figure",
+          "title": "Farm worker sorting produce",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FarmWorker.JPG",
+          "caption": "A real agricultural worker sorting produce, illustrating how livelihood conditions involve both income and the quality of work.",
+          "alt": "Agricultural worker sorting produce in Gujarat",
+          "source": "Wikimedia Commons"
+        },
+        {
+          "type": "paragraph",
+          "title": "Human development uses several dimensions together",
+          "text": "A broader human-development approach combines indicators of income with measures related to health and education. The purpose is not to discard income but to prevent it from dominating the entire comparison. A country or state can perform strongly in one dimension and weakly in another, so a multi-indicator view gives a more informative picture of people’s well-being."
+        },
+        {
+          "type": "paragraph",
+          "title": "Sustainability connects present choices with future lives",
+          "text": "Development must also ask whether today’s production and consumption can continue without destroying the resource base needed tomorrow. Groundwater depletion, soil degradation, excessive pollution and loss of biodiversity can make present income gains costly for future generations. Sustainable development therefore means meeting current needs while protecting the ecological and productive conditions required for future well-being."
+        },
+        {
+          "type": "paragraph",
+          "title": "Renewable and non-renewable resources",
+          "text": "Renewable resources can regenerate when their rate of use remains within ecological limits; examples include solar energy and, under appropriate management, forests and groundwater. Non-renewable resources such as coal and petroleum exist in finite stocks. The distinction matters because a development strategy that depends heavily on exhaustible resources must consider substitution, conservation and technological change."
+        },
+        {
+          "type": "paragraph",
+          "title": "A development comparison should be evidence-based",
+          "text": "When comparing two places, identify the indicator first, examine the time period, check whether the figures are averages or distributions, and ask who receives the benefits. Then add health, education, public facilities and environmental information. This method avoids declaring one place superior merely because one statistic is larger."
+        },
+        {
+          "type": "table",
+          "title": "Development indicators: what each one captures",
+          "headers": [
+            "Indicator",
+            "What it helps measure",
+            "What it does not capture alone"
+          ],
           "rows": [
             [
-              "Present needs",
-              "Resource use",
-              "Environmental impact",
-              "Future availability"
+              "Per capita income",
+              "Average income per person",
+              "Income distribution and non-income conditions"
             ],
             [
-              "Meet needs",
-              "Use resources carefully",
-              "Limit pollution and depletion",
-              "Protect future choices"
+              "Infant mortality",
+              "Survival and basic health conditions",
+              "Overall educational or income situation"
+            ],
+            [
+              "Literacy / schooling",
+              "Educational access and capability",
+              "Job quality or environmental safety"
+            ],
+            [
+              "Public facilities",
+              "Collective access to essential services",
+              "Household purchasing power"
+            ],
+            [
+              "Environmental quality",
+              "Pressure on natural systems and living conditions",
+              "Exact household income"
             ]
           ],
           "text": ""
         },
         {
+          "type": "practice",
+          "title": "Checkpoint: concepts and application",
+          "questions": [
+            {
+              "question": "Why can a rise in average income fail to improve every household?",
+              "answer": "Because the average can rise even when income gains are concentrated among a smaller group, leaving many households with little or no improvement."
+            },
+            {
+              "question": "Why are public facilities included in a development comparison?",
+              "answer": "They provide essential services collectively and can improve health, education, safety and living conditions even when private incomes are limited."
+            },
+            {
+              "question": "How does sustainability affect the meaning of development?",
+              "answer": "A development path is not sustainable if it improves present consumption by exhausting resources or damaging environmental conditions needed by future generations."
+            },
+            {
+              "question": "Why should more than one indicator be used to compare development?",
+              "answer": "Different indicators capture different dimensions such as income, health and education; no single indicator gives a complete picture of human well-being."
+            }
+          ]
+        },
+        {
+          "type": "comic",
+          "title": "Comic: Verma Sir turns a statistic into a question",
+          "dialogues": [
+            {
+              "character": "Sharma Sir",
+              "dialogue": "The average income is higher here. Should we stop the comparison?"
+            },
+            {
+              "character": "Surya",
+              "dialogue": "Not yet. We should ask about distribution, health, education and public facilities."
+            },
+            {
+              "character": "Shashank",
+              "dialogue": "And we should check whether the resource use can continue in the future."
+            },
+            {
+              "character": "Sharma Sir",
+              "dialogue": "Good. A number is a starting point for analysis, not the entire conclusion."
+            }
+          ]
+        },
+        {
+          "type": "exam",
+          "title": "Five-mark answer: explain the limits of income as a development measure",
+          "question": "Explain why income alone is not an adequate measure of development.",
+          "answer": "Income is important because it gives people purchasing power and access to goods and services. However, it does not show how income is distributed. It also does not measure health, education, security, freedom, equal treatment, public facilities or environmental quality. Two regions with similar average income can have very different living conditions if one has better schools, hospitals and sanitation. Therefore, development should be assessed through a combination of income and broader human and environmental indicators."
+        },
+        {
+          "type": "keypoint",
+          "title": "End-of-chapter lens: Development",
+          "text": "How people define development, compare indicators, understand public facilities and examine sustainability. Use definitions, examples, evidence and the relevant classification or indicator when answering application questions."
+        },
+        {
+          "type": "exam",
+          "title": "Case-based synthesis: a district comparison",
+          "question": "District A has higher average income but poorer sanitation and higher infant mortality than District B. Which evidence should be examined before declaring one district more developed?",
+          "answer": "Compare the distribution of income, health indicators, educational access, public facilities and environmental conditions. The average income difference alone is insufficient because development is multidimensional."
+        },
+        {
           "type": "paragraph",
-          "title": "Chapter synthesis",
-          "text": "The central lesson is that development has several dimensions. Income matters, but people also value health, education, security, equality, freedom, dignity, public facilities and a safe environment. Per capita income helps compare averages; broader indicators and distribution help explain what those averages leave out. Sustainable development adds a time dimension: present progress should not destroy future opportunities."
+          "title": "Deep study: Why people compare development",
+          "text": "A comparison is meaningful only when the question being asked is clear. If the question concerns purchasing power, income indicators are useful; if it concerns survival, health indicators matter; if it concerns future opportunities, schooling and skills become central. A careful comparison therefore begins by choosing indicators that match the dimension of life under examination. This prevents a common mistake: treating a higher number in one column as proof of superiority in every aspect of life. For board answers, state the indicator, explain what it captures, and then mention what it leaves out."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Different aspirations within one household",
+          "text": "Even members of the same family can attach different meanings to progress. A young person may prioritise education, a parent may seek stable employment, and an older member may value accessible healthcare. Household decisions are therefore shaped by several goals operating at the same time. The presence of multiple goals also explains why development is not simply a contest for the highest income. When writing an answer, use at least two contrasting goals to demonstrate the multidimensional nature of development."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Income and purchasing power",
+          "text": "Income matters because it determines the command a household has over goods and services at prevailing prices. However, the real benefit of an income depends on what that income can purchase and on which services are already available publicly. A rise in wages may therefore produce a smaller improvement in living conditions when essential prices rise sharply or public services are weak. This distinction links money to actual living conditions rather than treating the rupee amount as an end in itself. A strong response separates the importance of income from the claim that income is sufficient."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Why distribution matters",
+          "text": "Suppose two regions have the same per capita income but very different income distributions. The first may have many households clustered around the average, while the second may combine a small affluent group with a large population receiving much less. The arithmetic average would hide this difference. Distributional information is therefore necessary whenever the question asks who benefits from economic growth. Mentioning inequality is especially important in questions that ask for the limitations of average income."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Infant mortality as a social indicator",
+          "text": "Infant mortality reflects the survival conditions faced by newborn children and is influenced by maternal care, nutrition, sanitation, immunisation, medical facilities and timely treatment. A lower rate generally signals better basic health conditions, though the indicator by itself does not measure every dimension of development. Its importance lies in connecting economic resources with a concrete outcome in human life. Use it as evidence that development includes outcomes, not merely inputs such as income."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Literacy and school attendance",
+          "text": "Literacy expands a person’s ability to read information, understand instructions, communicate with institutions and pursue learning. School attendance adds another dimension because being able to read is not the same as receiving sustained education. Together, these measures reveal whether people have opportunities to build capabilities that can influence their future. Education also creates benefits that extend beyond the individual student to families and communities. In a comparison, education indicators can complement income figures and reveal differences hidden by averages."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Public health and private income",
+          "text": "A household may have a reasonable income yet remain vulnerable if nearby health centres are inaccessible, medicines are unavailable or sanitation is poor. Collective facilities can reduce risks that individual households cannot efficiently handle on their own. This is why public expenditure on health, sanitation and water can affect development even when it does not appear as household income. When explaining public facilities, connect them to actual changes in people’s living conditions."
+        },
+        {
+          "type": "data",
+          "title": "Public facilities and development: illustrative comparison",
+          "svg": "<svg viewBox=\"0 0 680 300\" role=\"img\" aria-label=\"Public facilities and development: illustrative comparison\"><text x=\"340.0\" y=\"24\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"700\">Public facilities and development: illustrative comparison</text><line x1=\"70\" y1=\"235\" x2=\"620\" y2=\"235\" stroke=\"currentColor\"/><line x1=\"70\" y1=\"45\" x2=\"70\" y2=\"235\" stroke=\"currentColor\"/><rect x=\"98.9\" y=\"115.0\" width=\"79.8\" height=\"120.0\" fill=\"currentColor\" opacity=\"0.72\"/><text x=\"138.8\" y=\"258\" text-anchor=\"middle\" font-size=\"11\">Health</text><text x=\"138.8\" y=\"108.0\" text-anchor=\"middle\" font-size=\"11\">60</text><rect x=\"236.4\" y=\"95.0\" width=\"79.8\" height=\"140.0\" fill=\"currentColor\" opacity=\"0.72\"/><text x=\"276.2\" y=\"258\" text-anchor=\"middle\" font-size=\"11\">Education</text><text x=\"276.2\" y=\"88.0\" text-anchor=\"middle\" font-size=\"11\">70</text><rect x=\"373.9\" y=\"75.0\" width=\"79.8\" height=\"160.0\" fill=\"currentColor\" opacity=\"0.72\"/><text x=\"413.8\" y=\"258\" text-anchor=\"middle\" font-size=\"11\">Water</text><text x=\"413.8\" y=\"68.0\" text-anchor=\"middle\" font-size=\"11\">80</text><rect x=\"511.4\" y=\"55.0\" width=\"79.8\" height=\"180.0\" fill=\"currentColor\" opacity=\"0.72\"/><text x=\"551.2\" y=\"258\" text-anchor=\"middle\" font-size=\"11\">Income</text><text x=\"551.2\" y=\"48.0\" text-anchor=\"middle\" font-size=\"11\">90</text></svg>",
+          "text": "This visual is attached directly to public facilities and development: illustrative comparison so the learner can interpret the relationship before moving to the next concept; its values are deliberately illustrative rather than official statistics."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Safe drinking water",
+          "text": "Water quality is both an environmental issue and a development issue. Contaminated water can increase disease, raise household medical costs and reduce the time available for school or paid work. Reliable supply also reduces the burden of collecting water, which can fall disproportionately on women and children in some communities. Thus a water system can influence health, time use and economic participation simultaneously. A case-based answer can use drinking water to show why public facilities matter."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Security of employment",
+          "text": "A worker with a predictable job can plan consumption, education and savings more easily than someone whose earnings fluctuate without warning. Employment security therefore affects economic decisions even when two workers receive similar annual income. The quality of work is part of development because insecurity can impose costs that are not visible in a simple wage comparison. Use the phrase employment security when distinguishing a job opportunity from a stable livelihood."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Equality and dignity",
+          "text": "Equal treatment changes whether people can actually use opportunities created by economic growth. Discrimination based on social identity can restrict access to employment, education, housing or public spaces even when income has increased. Development therefore includes the removal of barriers that prevent people from converting resources into real opportunities. For a long answer, pair economic indicators with equality and dignity to show the wider meaning of progress."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Environmental quality",
+          "text": "Air pollution, contaminated water and degraded soil can impose health and productivity costs. If an economy expands output by shifting these costs to communities or future generations, the headline growth figure does not tell the whole story. Environmental quality is consequently part of the conditions under which development takes place. Mention environmental costs when discussing why present economic gains must be evaluated over time."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Why sustainability is an economic concern",
+          "text": "Natural resources support production, but their availability is not unlimited. Overuse of groundwater can reduce future irrigation, soil degradation can lower farm productivity, and excessive fossil-fuel dependence can create pollution and resource risks. Sustainability asks whether the resource base supporting current well-being will remain adequate for people who live later. A precise answer distinguishes present consumption from the capacity to maintain that consumption."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Renewable resources need management",
+          "text": "A resource can be renewable in principle and still become scarce when extraction exceeds regeneration. Groundwater is a useful example: rainfall can recharge aquifers, but pumping can outpace that recharge. The label renewable therefore does not mean unlimited; the rate of use matters. This distinction helps avoid the error of treating every renewable resource as automatically sustainable."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Non-renewable resources and substitution",
+          "text": "Coal and petroleum are finite stocks formed over very long periods. Using them today reduces the amount available for future use, so development strategies must consider conservation, efficiency and alternatives. Technological change can reduce dependence on a particular resource, but substitution itself requires investment and infrastructure. A sustainability answer becomes stronger when it explains both resource limits and possible responses."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Averages versus direct indicators",
+          "text": "Per capita income is calculated from total income and population, whereas indicators such as literacy or infant mortality measure specific social outcomes. These measures answer different questions and should not be treated as interchangeable. Using several indicators gives a more rounded picture because weaknesses in one dimension can be identified rather than hidden inside an average. Board questions often reward explicit comparison of what each indicator measures."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Why national development involves choices",
+          "text": "A development strategy affects different groups in different ways. A large industrial project may create employment and infrastructure while requiring land acquisition; a dam may provide electricity and irrigation while changing the lives of displaced households. National development therefore involves deciding how gains, costs and resources should be distributed. The key analytical step is to identify stakeholders rather than describing development as a benefit with no trade-offs."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Development and freedom of choice",
+          "text": "Higher income can expand choices, but choices also depend on institutions and social conditions. A person cannot fully use an educational opportunity if discrimination prevents entry, or use a health service that is physically inaccessible. Development is stronger when people possess both resources and the freedom and ability to use them. This explains why capability-oriented measures are broader than income alone."
+        },
+        {
+          "type": "data",
+          "title": "Illustrative sustainability balance",
+          "svg": "<svg viewBox=\"0 0 680 300\" role=\"img\" aria-label=\"Illustrative sustainability balance\"><text x=\"340.0\" y=\"24\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"700\">Illustrative sustainability balance</text><line x1=\"70\" y1=\"235\" x2=\"620\" y2=\"235\" stroke=\"currentColor\"/><line x1=\"70\" y1=\"45\" x2=\"70\" y2=\"235\" stroke=\"currentColor\"/><rect x=\"127.8\" y=\"55.0\" width=\"159.5\" height=\"180.0\" fill=\"currentColor\" opacity=\"0.72\"/><text x=\"207.5\" y=\"258\" text-anchor=\"middle\" font-size=\"11\">Current</text><text x=\"207.5\" y=\"48.0\" text-anchor=\"middle\" font-size=\"11\">85</text><rect x=\"402.8\" y=\"139.7\" width=\"159.5\" height=\"95.3\" fill=\"currentColor\" opacity=\"0.72\"/><text x=\"482.5\" y=\"258\" text-anchor=\"middle\" font-size=\"11\">Future</text><text x=\"482.5\" y=\"132.7\" text-anchor=\"middle\" font-size=\"11\">45</text></svg>",
+          "text": "This visual is attached directly to illustrative sustainability balance so the learner can interpret the relationship before moving to the next concept; its values are deliberately illustrative rather than official statistics."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Why goals can conflict",
+          "text": "One group may want a new road for transport while another fears the loss of farmland. Residents may want industrial jobs while also demanding clean air. Such conflicts do not mean development is impossible; they show that decisions require consultation, regulation and attention to distribution. The concept of development therefore includes the process of balancing legitimate interests. Use a concrete conflict to make an answer analytical rather than merely definitional."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Role of public policy",
+          "text": "Public policy can influence development through expenditure on schools, hospitals, sanitation, infrastructure and social protection. It can also regulate activities that impose costs on others, such as pollution. Private income and public action are complementary: households make many decisions themselves, while governments can provide or regulate services whose benefits extend beyond individual buyers. When answering, identify the specific public action rather than simply writing that government should improve development."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Reading a development table",
+          "text": "When a question provides several indicators, first identify the direction in which improvement occurs. Higher literacy is generally desirable, while a lower infant mortality rate indicates better survival. Then compare the indicators separately before forming a combined interpretation. This prevents accidental reversal of indicators and makes the conclusion evidence-based. Always state which indicator supports which part of your conclusion."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Interpreting a graph responsibly",
+          "text": "A graph can show trends or comparisons, but the reader must check the axis, unit, time period and population before interpreting it. A rising line may represent an improvement, a worsening condition or simply a larger measured quantity depending on the indicator. Graph reading is therefore an economic reasoning skill rather than a visual guess. In an exam, quote the relevant years or categories and explain the direction of change."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Development across generations",
+          "text": "A decision that improves present consumption but leaves polluted water, depleted soil or exhausted resources can reduce the choices available to future citizens. Sustainable development treats future people as stakeholders in current economic decisions. This intergenerational perspective changes the time horizon of development from one budget year to a much longer period. Use the idea of future generations when a question asks why sustainability is necessary."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Quality of life is multidimensional",
+          "text": "A person’s well-being emerges from several interacting conditions: income affects consumption, health affects the ability to work and learn, education affects future opportunities, and public facilities can reduce private costs. Because these dimensions interact, development cannot be captured by a single statistic without losing important information. A complete answer should connect at least three dimensions rather than listing them without explanation."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: How to build a balanced comparison",
+          "text": "Begin with income, then examine distribution, health, education and public facilities. Add environmental sustainability if the question concerns long-term development. Finally identify whether the evidence applies to the whole population or only an average. This sequence turns a collection of numbers into a reasoned comparison. The method is useful for case studies as well as direct theory questions."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study: Exam-ready conclusion for development",
+          "text": "The central lesson is that development means expanding people’s opportunities and improving the conditions under which they live, work and plan for the future. Income is a major means, but health, education, equality, security, public facilities and environmental sustainability determine how meaningful that income becomes. A multidimensional approach also explains why different groups may evaluate the same economic change differently. Use this logic to connect separate indicators into one coherent answer."
         },
         {
           "type": "practice",
-          "title": "Practice — exact answer",
-          "question": "Why is per capita income used for comparing countries?",
-          "answer": "Because countries have different population sizes. Dividing total income by population gives an average income per person, making comparison more meaningful than comparing total income alone."
-        },
-        {
-          "type": "practice",
-          "title": "Practice — exact answer",
-          "question": "Why is per capita income not a sufficient measure of development?",
-          "answer": "It is an average and does not reveal income distribution. It also does not directly measure health, education, security, equality, freedom, public facilities or environmental quality."
-        },
-        {
-          "type": "practice",
-          "title": "Practice — exact answer",
-          "question": "Mention two non-income goals of development.",
-          "answer": "Two non-income goals are security and equal treatment. Other valid examples include freedom, respect, health, education and a clean environment."
-        },
-        {
-          "type": "practice",
-          "title": "Practice — exact answer",
-          "question": "Why can a development project be controversial?",
-          "answer": "Because its benefits and costs may be distributed unevenly: one group may gain jobs, electricity or irrigation while another may lose land, homes or access to natural resources."
-        },
-        {
-          "type": "practice",
-          "title": "Practice — exact answer",
-          "question": "State one reason why sustainability matters.",
-          "answer": "Sustainability matters because excessive resource depletion and environmental damage can reduce the ability of future generations to meet their needs."
+          "title": "Additional application set",
+          "questions": [
+            {
+              "question": "Why can a higher average income coexist with poor public health?",
+              "answer": "Average income measures purchasing power but does not guarantee access to hospitals, sanitation, safe water or other public health facilities."
+            },
+            {
+              "question": "Why is income distribution relevant to development?",
+              "answer": "It shows whether the average income represents conditions shared by many households or is raised by a relatively small high-income group."
+            },
+            {
+              "question": "Why can a renewable resource still become scarce?",
+              "answer": "Its rate of regeneration may be slower than the rate at which people extract or consume it."
+            },
+            {
+              "question": "Why should future generations be included in development decisions?",
+              "answer": "Current resource use can reduce the environmental and productive opportunities available to people in the future."
+            },
+            {
+              "question": "What is one advantage of using multiple development indicators?",
+              "answer": "Different indicators reveal different dimensions of well-being, so weaknesses hidden by a single average can be identified."
+            }
+          ]
         },
         {
           "type": "concept",
-          "title": "Deep-dive 1: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 2: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 3: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 4: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 5: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 6: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 7: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 8: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 9: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 10: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 11: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
-        },
-        {
-          "type": "concept",
-          "title": "Deep-dive 12: exam connection",
-          "text": "This extension connects the chapter idea to a real economic decision. Students should identify the actor involved, the resource or institution being used, the benefit created, the possible risk, and the policy or personal choice that could improve the outcome. Apply this five-part lens to new examples rather than memorising only one textbook case."
+          "title": "Revision map: from income to sustainable well-being",
+          "text": "Start with individual goals → compare income and its distribution → add health and education → examine public facilities → test environmental sustainability → make a balanced evidence-based conclusion."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 1",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: Development and access",
+          "text": "Access means more than physical presence of a facility. A school may exist but still be difficult to use if distance, cost, safety or social barriers prevent attendance. A health centre may exist but provide limited benefit when medicines, trained staff or transport are unavailable. Development analysis therefore asks whether people can actually use the resources that appear in official statistics. This distinction is valuable in case-based questions because it connects a numerical indicator with the conditions behind it."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 2",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: The role of time in development",
+          "text": "Economic indicators describe a particular period, while development decisions often have effects over many years. A school built today may influence earnings and social outcomes for a generation; groundwater overuse can reduce agricultural possibilities for decades. Reading a development issue across time prevents the analysis from focusing only on immediate gains. It also clarifies why sustainability and human investment belong inside economic reasoning rather than outside it."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 3",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: Why equal income does not imply equal welfare",
+          "text": "Two families receiving the same income may face different costs because their locations, health needs, household sizes and access to public services differ. A family with a nearby public hospital may spend less on treatment than one that must travel long distances. A household with secure housing may also face less financial uncertainty than one paying unstable rent. Equal income therefore does not automatically produce equal living conditions."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 4",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: Education as an investment",
+          "text": "Spending on education can be viewed as an investment in human capabilities. Schooling can improve literacy, numeracy, communication and the ability to learn new skills. These capabilities can influence future employment, productivity and participation in social institutions. The benefits may extend to families and communities because education changes knowledge, expectations and decision-making beyond the individual student."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 5",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: Health and productivity are connected",
+          "text": "Poor health can reduce a person’s ability to attend school, work regularly or perform physically demanding tasks. Preventive care, nutrition, sanitation and timely treatment can therefore protect both well-being and productive capacity. The economic value of health is not the only reason it matters, but it explains why health indicators often reveal aspects of development that income alone cannot show."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 6",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: Why environmental costs can be hidden",
+          "text": "The market price of a product may not include every cost imposed on other people. Pollution from production can affect residents who are not parties to the sale, while resource depletion can reduce future production. Such costs are difficult to see in a private income figure. Development planning therefore requires attention to external environmental effects and to rules that protect shared resources."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 7",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: Interpreting a rise in income carefully",
+          "text": "A rise in per capita income can result from higher total production, population changes, price changes or a combination of factors depending on how the figure is constructed. Even when real purchasing power has improved, distribution may remain unequal. Students should therefore avoid treating every increase in an average as proof that all households are better off. The surrounding indicators provide the necessary context."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 8",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: A practical framework for comparing two states",
+          "text": "First compare the average income measure. Next inspect distribution if data are available. Then compare health outcomes, literacy or schooling and access to public facilities. Finally consider environmental conditions and sustainability. The conclusion should identify areas of relative strength and weakness rather than forcing every dimension into one ranking. This approach is particularly useful when a case gives mixed evidence."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 9",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: Development and participation",
+          "text": "People are affected by development projects in different ways, so participation can improve the quality of decisions by bringing local knowledge into planning. Consultation cannot remove every conflict, but it can reveal concerns about land, water, employment or access that a purely numerical assessment may miss. Development is therefore connected with institutions and collective decision-making as well as economic indicators."
         },
         {
           "type": "paragraph",
-          "title": "Extended explanation 10",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "title": "Advanced study: From indicators to human outcomes",
+          "text": "The purpose of indicators is not to collect numbers for their own sake. Income tells us about command over resources, health indicators tell us about survival and medical conditions, education indicators show learning opportunities, and public-facility measures reveal collective access. The final interpretation should connect these measurements to actual capabilities and living conditions. That connection is what turns a table into an economic explanation."
         },
         {
-          "type": "paragraph",
-          "title": "Extended explanation 11",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 12",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 13",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 14",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 15",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 16",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 17",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 18",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 19",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 20",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 21",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 22",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 23",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 24",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 25",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 26",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 27",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 28",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 29",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
-        },
-        {
-          "type": "paragraph",
-          "title": "Extended explanation 30",
-          "text": "This detailed study paragraph develops the chapter further by linking the core concept to a practical economic situation. A strong answer should first define the concept accurately, then explain its mechanism, identify the people or institutions affected, discuss one benefit and one limitation, and finish with a clear conclusion. Students should use precise economic vocabulary, distinguish averages from distributions, distinguish ownership from activity type, and distinguish access to a resource from the conditions under which that resource is obtained. This approach helps convert classroom concepts into analytical answers for three-, five- and case-based questions without relying on vague statements."
+          "type": "keypoint",
+          "title": "Master revision checkpoint: Development",
+          "text": "For Development, revise every definition, mechanism, example, limitation and application separately. In a five-mark response, connect each claim to a specific economic reason, condition or example and avoid filler sentences."
         }
       ]
     }
