@@ -1,6 +1,6 @@
 // Class 10 Information Technology — ultra-detailed continuous chapter
 const ChapterData = {
-  "id": "10-it-digital-documentation-advanced",
+  "id": "10-informationtechnology-digital-documentation-advanced",
   "class": 10,
   "subject": "Information Technology",
   "chapterNumber": 1,
