@@ -1,4 +1,53 @@
 window.ChapterRegistry = [
+
+  {
+    id: "10-it-digital-documentation-advanced",
+    aliases: ["class10-it-digital-documentation-advanced"],
+    class: 10,
+    subject: "Information Technology",
+    chapterNumber: 1,
+    title: "Digital Documentation (Advanced)",
+    file: "js/notes/class10/information-technology/digital-documentation-advanced.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-it-electronic-spreadsheet-advanced",
+    aliases: ["class10-it-electronic-spreadsheet-advanced"],
+    class: 10,
+    subject: "Information Technology",
+    chapterNumber: 2,
+    title: "Electronic Spreadsheet (Advanced)",
+    file: "js/notes/class10/information-technology/electronic-spreadsheet-advanced.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-it-database-management-system-dbms",
+    aliases: ["class10-it-database-management-system-dbms"],
+    class: 10,
+    subject: "Information Technology",
+    chapterNumber: 3,
+    title: "Database Management System (DBMS)",
+    file: "js/notes/class10/information-technology/database-management-system-dbms.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-it-web-applications-and-security",
+    aliases: ["class10-it-web-applications-and-security"],
+    class: 10,
+    subject: "Information Technology",
+    chapterNumber: 4,
+    title: "Web Applications and Security",
+    file: "js/notes/class10/information-technology/web-applications-and-security.js",
+    enabled: true,
+    gradeLock: 10
+  },
+  
   {
     id: "10-economics-development",
     aliases: ["class10-economics-development"],
