@@ -1,11 +1,11 @@
-// Class 10 Economics — detailed, continuous-flow, renderable chapter
+// Class 10 Economics — expanded textbook-style study chapter
 const ChapterData = {
   "id": "10-economics-money-and-credit",
   "class": 10,
   "subject": "Economics",
   "chapterNumber": 3,
   "title": "Money and Credit",
-  "description": "How money solves barter difficulties, how banking works, how credit is structured and why access to fair credit matters. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments.",
+  "description": "How money solves barter difficulties, how banking works, how credit is structured and why access to fair credit matters. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments. The chapter now includes an extended, topic-by-topic study layer with explanations, worked reasoning, comparisons, applications and exact-answer questions.",
   "summary": "A study of exchange, modern money, banking, credit terms, informal finance, debt risk and collective finance.",
   "sections": [
     {
@@ -435,6 +435,147 @@ const ChapterData = {
           "type": "paragraph",
           "title": "Final deep dive: A complete answer about credit",
           "text": "A strong explanation links the borrower’s purpose, the lender’s source of funds, the terms of the agreement and the likely repayment capacity. It should also identify collateral or the absence of it and explain whether the arrangement creates an opportunity or a risk. This produces a mechanism-based answer instead of a simple list of credit sources."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 1 — Barter and the problem of double coincidence",
+          "text": "In a barter system, goods are exchanged directly for other goods. For a transaction to occur smoothly, each participant must want what the other participant has and must be willing to offer exactly what the other wants. This is called double coincidence of wants. A shoe producer who wants wheat would have to find a wheat producer who simultaneously wants shoes. The search becomes difficult as the number and variety of goods increase. Money solves this problem by acting as an intermediary: the shoe producer can sell shoes for money and then use money to buy wheat."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 2 — Money as a medium of exchange",
+          "text": "Money is accepted as a means of payment in transactions. Its usefulness comes from its general acceptability: people accept money because they expect others to accept it later. This separates the act of selling from the act of buying. The seller does not need to find a buyer who has the exact commodity desired in exchange. Modern economies therefore depend on money to make millions of transactions possible every day."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 3 — Currency and legal authority",
+          "text": "Modern currency consists mainly of notes and coins issued under the monetary system of the country. Currency is accepted because it has institutional backing and is used as a legally recognised medium of payment. The authority responsible for managing the monetary system has an important role in maintaining confidence in currency and regulating the banking system. The physical note itself is not valuable because of its paper; its economic value comes from the system that recognises it as money."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 4 — Demand deposits and why bank balances can function as money",
+          "text": "People do not keep all their money as cash. They deposit funds in bank accounts and can withdraw or transfer those funds when needed. Demand deposits are deposits that can be withdrawn on demand. Cheques and electronic transfers allow account holders to make payments without physically handing over notes. Thus, bank deposits form an important part of the money used for transactions. Digital payments change the method of transferring money but do not mean every digital instrument is itself money."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 5 — How banks connect savers and borrowers",
+          "text": "Banks accept deposits from people who have surplus funds and pay interest on certain deposits. They then lend a portion of their funds to borrowers for productive or other permitted purposes. Interest charged on loans is generally higher than interest paid on deposits, and this difference contributes to the bank’s earnings along with other income. The banking system therefore connects different groups: depositors provide funds while borrowers obtain credit. This intermediation can support investment, consumption and production."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 6 — Credit: a promise involving future payment",
+          "text": "Credit is an arrangement in which one party provides money, goods or services now in exchange for a promise of payment in the future, usually with interest or another agreed charge. Credit can help a borrower purchase inputs, invest in a business, meet an emergency or smooth consumption. But credit is not automatically beneficial. If the borrower’s income is too uncertain or the interest burden is too high, repayment can become difficult and lead to a debt trap."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 7 — Terms of credit one by one",
+          "text": "The main terms of a credit arrangement include interest rate, collateral, documentation, duration of the loan and the mode and schedule of repayment. Interest is the additional amount paid for using borrowed funds. Collateral is an asset that the borrower offers as security for the loan; if repayment fails, the lender may have rights over the collateral according to the agreement and law. Documentation records the conditions of the loan. The repayment schedule determines when instalments or the total amount must be paid."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 8 — Why the same loan can have different outcomes",
+          "text": "Suppose a farmer borrows to buy seeds and irrigation equipment and the investment increases the crop yield enough to cover the loan and interest. Credit has supported production. If the crop fails because of drought and the borrower has no insurance or alternative income, the same obligation can become a serious burden. Therefore, the effect of credit depends on the purpose of borrowing, expected returns, risk, interest rate, repayment period and the borrower’s ability to absorb shocks."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 9 — Formal and informal sources",
+          "text": "Formal credit sources include banks and cooperative institutions that operate within a regulated framework. Informal sources include moneylenders, traders, employers, relatives and friends, depending on the arrangement. Informal lenders may be easier to approach because they can require less documentation or collateral, but the interest rate and conditions can be less favourable. Formal credit is generally associated with documented terms and regulatory oversight. Expanding affordable formal credit is important because dependence on costly informal loans can worsen financial vulnerability."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 10 — Why poor households may rely on informal credit",
+          "text": "A borrower may lack collateral, a regular income, documents or a nearby bank branch. Even when a formal lender exists, the application process may take time and involve conditions that a poor household finds difficult to meet. An informal lender may already know the borrower and provide money quickly. This convenience can come at a high cost when interest rates are excessive or when the lender imposes restrictive conditions. Financial inclusion therefore requires both access and affordability."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 11 — Self-help groups and collective credit",
+          "text": "Self-help groups bring together small borrowers, often women, who save regularly and create a common fund. Members can take small loans from the group according to agreed rules. Over time, the group can build a credit history and may obtain bank loans as a collective. The model can reduce dependence on moneylenders, strengthen saving habits and create a platform for collective decision-making. Its success depends on regular participation, transparent records, repayment discipline and access to wider financial institutions."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 12 — Why reasonable-rate credit matters for development",
+          "text": "Credit is linked with development because people need finance to invest in farms, shops, tools, education, housing and other activities. If credit is available only to those who already possess assets, poorer households can remain excluded from opportunities. If loans are expensive, the additional income generated by borrowing may be absorbed by interest. A healthy credit system therefore requires availability, reasonable terms, transparency, borrower protection and institutions that reduce information and collateral barriers."
+        },
+        {
+          "type": "data",
+          "title": "Deep comparison — Credit arrangements",
+          "headers": [
+            "Feature",
+            "Formal source",
+            "Informal source"
+          ],
+          "rows": [
+            [
+              "Typical examples",
+              "Banks, cooperatives",
+              "Moneylenders, traders, relatives"
+            ],
+            [
+              "Regulation",
+              "Institutional and regulated",
+              "Often outside formal banking regulation"
+            ],
+            [
+              "Documentation",
+              "Usually documented",
+              "May be simple or personal"
+            ],
+            [
+              "Collateral",
+              "Often required depending on loan",
+              "May be absent in some arrangements"
+            ],
+            [
+              "Interest/conditions",
+              "More standardised",
+              "Can vary widely and may be costly"
+            ]
+          ],
+          "text": "The exact terms vary by institution and loan; the table shows the broad distinction used for classroom comparison."
+        },
+        {
+          "type": "comic",
+          "title": "Credit decision — useful or risky?",
+          "dialogues": [
+            {
+              "character": "Surya",
+              "dialogue": "If I borrow money, is credit always good?"
+            },
+            {
+              "character": "Verma Sir",
+              "dialogue": "Ask what you will use it for, what return you expect, the interest rate and whether you can repay if things go wrong."
+            },
+            {
+              "character": "Surya",
+              "dialogue": "So the same loan can help one borrower and trap another."
+            }
+          ],
+          "result": "Credit must be evaluated through its purpose, cost, risk and repayment capacity."
+        },
+        {
+          "type": "exam",
+          "question": "What is double coincidence of wants?",
+          "answer": "It is the situation in barter where each person must want the commodity offered by the other person at the same time."
+        },
+        {
+          "type": "exam",
+          "question": "Why are demand deposits considered part of money?",
+          "answer": "Because they can be withdrawn on demand and used for payments through cheques or transfers, making them usable for transactions."
+        },
+        {
+          "type": "exam",
+          "question": "What is collateral?",
+          "answer": "Collateral is an asset offered as security against a loan. It gives the lender a form of security if the borrower fails to repay according to the agreed terms."
+        },
+        {
+          "type": "practice",
+          "question": "Why should formal credit be expanded in rural areas?",
+          "answer": "Because affordable formal loans can reduce dependence on costly informal lenders and provide borrowers with documented and regulated credit arrangements."
+        },
+        {
+          "type": "exam",
+          "question": "How can self-help groups help poor borrowers?",
+          "answer": "They encourage regular savings, create a common fund, provide small loans to members and can help groups obtain bank credit, reducing dependence on informal lenders."
         }
       ]
     }

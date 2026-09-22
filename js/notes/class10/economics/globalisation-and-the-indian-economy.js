@@ -1,11 +1,11 @@
-// Class 10 Economics — detailed, continuous-flow, renderable chapter
+// Class 10 Economics — expanded textbook-style study chapter
 const ChapterData = {
   "id": "10-economics-globalisation-and-the-indian-economy",
   "class": 10,
   "subject": "Economics",
   "chapterNumber": 4,
   "title": "Globalisation and the Indian Economy",
-  "description": "How production and markets become interconnected through trade, investment, technology and multinational production networks. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments.",
+  "description": "How production and markets become interconnected through trade, investment, technology and multinational production networks. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments. The chapter now includes an extended, topic-by-topic study layer with explanations, worked reasoning, comparisons, applications and exact-answer questions.",
   "summary": "An examination of international production, MNCs, trade, investment, technology, liberalisation and distributional effects.",
   "sections": [
     {
@@ -416,6 +416,147 @@ const ChapterData = {
           "type": "keypoint",
           "title": "Master revision checkpoint: Globalisation And The Indian Economy",
           "text": "For Globalisation and the Indian Economy, revise every definition, mechanism, example, limitation and application separately. In a five-mark response, connect each claim to a specific economic reason, condition or example and avoid filler sentences."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 1 — Meaning of globalisation in this chapter",
+          "text": "Globalisation refers here to the increasing integration of economies through foreign trade and foreign investment, especially the cross-border organisation of production by multinational corporations. It is not limited to the arrival of imported goods. Production itself can be divided across countries: design may happen in one place, components may be made in another, assembly may occur elsewhere and customer support may be provided from yet another country. Markets also become connected as goods and services move across borders."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 2 — Multinational corporations explained",
+          "text": "A multinational corporation is a company that owns or controls production in more than one country. Such a firm may establish factories, offices, research facilities or service operations in different locations. It chooses locations based on factors such as availability of skilled or low-cost labour, resources, infrastructure, market access and government policies. The objective is generally to organise production efficiently and remain competitive in international markets. The result is that decisions taken by a company can connect workers, suppliers and consumers across several countries."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 3 — How production is organised across countries",
+          "text": "International production networks allow a company to divide a product into stages. Research and design may require highly skilled workers, while manufacturing components may be located where specialised suppliers are available. Assembly may be placed near major markets or where costs are lower. Customer service can be delivered remotely through communication networks. This arrangement is possible because modern transport and communication make coordination across long distances faster and cheaper than before."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 4 — Three broad ways MNCs expand",
+          "text": "An MNC can establish a new factory or office, buy an existing local company, or form a partnership with a local enterprise. It can also place orders with local producers and use them as suppliers. These arrangements connect local firms with international production systems. Local companies may gain access to technology, capital, design and larger markets, while the MNC gains local knowledge and production capacity. The effects depend on the terms of the relationship and the capabilities of the domestic firms."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 5 — Foreign investment and production",
+          "text": "Investment by an MNC can bring capital into production. A new factory may create direct employment and also create demand for transport, packaging, maintenance, logistics and local suppliers. At the same time, competition from large firms can pressure smaller producers to reduce costs, improve quality or change their products. Therefore, the effect of foreign investment is not uniform: it can create opportunities while also creating adjustment pressures for enterprises that cannot compete easily."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 6 — Technology as an enabling factor",
+          "text": "Rapid improvements in information and communication technology have reduced the time and cost of transmitting information. Digital networks allow firms to coordinate orders, designs, payments and customer support across countries. Improvements in transport have also made it easier to move components and finished goods over long distances. Together, these changes make geographically separated production stages more practical. Technology therefore acts as an important facilitator of economic integration."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 7 — Liberalisation and the removal of trade barriers",
+          "text": "Trade barriers such as tariffs and quantitative restrictions can make imported goods more expensive or limit their quantity. Liberalisation reduces or removes selected restrictions so that goods and investment can move more freely. India adopted major liberalisation measures from the early 1990s. Greater openness increased competition and expanded consumer choice, while also requiring domestic producers to adapt to international competition. Liberalisation is therefore best understood as a policy change that alters the conditions under which domestic and foreign firms operate."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 8 — Role of the WTO",
+          "text": "The World Trade Organisation provides a framework of rules for international trade and aims to facilitate freer trade among member countries. Trade negotiations involve disagreements because countries have different economic interests and levels of development. The chapter highlights concerns that some developed economies continue to support their agricultural producers while developing countries face pressure to reduce trade barriers. This illustrates why the rules and practical operation of international trade can be subjects of debate."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 9 — Effects on consumers",
+          "text": "Globalisation can increase the range of goods available in domestic markets and can expose consumers to new technologies, brands and product designs. Greater competition can encourage firms to improve quality and reduce costs. However, consumers also need information and protection because a wider market does not automatically guarantee fair prices, safe products or accurate claims. Consumer awareness and effective regulation remain important when markets become more complex."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 10 — Effects on small producers",
+          "text": "Small producers may benefit when they become suppliers to larger firms or enter new markets, but they may also face intense competition from imported goods and large domestic or foreign companies. To remain viable, small enterprises may need better technology, reliable infrastructure, access to credit, improved skills, quality control and marketing support. The ability to adapt is shaped by access to these resources, so the impact of globalisation can differ greatly across producers."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 11 — Employment and working conditions",
+          "text": "Global integration can create jobs in manufacturing, services, logistics, information technology and export-related activities. It can also increase demand for skilled workers in design, management and technical services. At the same time, firms facing intense competition may seek lower production costs. This can place pressure on wages, job security or working conditions in some situations. The distribution of gains therefore depends partly on labour skills, bargaining power, regulation and the kind of production being expanded."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 12 — Fairer globalisation",
+          "text": "A fairer form of globalisation requires that the benefits of integration are not concentrated in a narrow group while costs are shifted to vulnerable workers or producers. Public policy can support skill development, infrastructure, small producers, labour protections and social security. International trade rules also matter because developing countries seek conditions that allow their producers to compete on more equitable terms. The central analytical question is not whether countries are connected, but how the gains and risks of that connection are distributed."
+        },
+        {
+          "type": "data",
+          "title": "Deep comparison — Possible effects of globalisation",
+          "headers": [
+            "Area",
+            "Possible opportunity",
+            "Possible challenge"
+          ],
+          "rows": [
+            [
+              "Consumers",
+              "More choice and competition",
+              "Need for information and safety protections"
+            ],
+            [
+              "Large firms",
+              "Access to markets, suppliers and investment opportunities",
+              "Strong competition and adjustment costs"
+            ],
+            [
+              "Small producers",
+              "New supply chains and export opportunities",
+              "Pressure from imports and large competitors"
+            ],
+            [
+              "Workers",
+              "New jobs and skill opportunities",
+              "Unequal security or wage pressure in some activities"
+            ],
+            [
+              "Government",
+              "Access to investment and technology",
+              "Need to regulate markets and support adjustment"
+            ]
+          ],
+          "text": "The effects vary by sector, firm, worker and policy environment."
+        },
+        {
+          "type": "comic",
+          "title": "Global production chain",
+          "dialogues": [
+            {
+              "character": "Surya",
+              "dialogue": "This phone says it is sold in India, but where is it actually made?"
+            },
+            {
+              "character": "Sharma Sir",
+              "dialogue": "Different stages may be spread across several countries—design, components, assembly and customer support."
+            },
+            {
+              "character": "Surya",
+              "dialogue": "So the product is part of a global production network."
+            }
+          ],
+          "result": "The example demonstrates production integration rather than treating globalisation as only foreign trade in finished goods."
+        },
+        {
+          "type": "exam",
+          "question": "What is an MNC?",
+          "answer": "A multinational corporation is a company that owns or controls production in more than one country."
+        },
+        {
+          "type": "exam",
+          "question": "How does technology facilitate globalisation?",
+          "answer": "Improved communication and transport reduce the time and cost of coordinating and moving production, information, components and services across countries."
+        },
+        {
+          "type": "practice",
+          "question": "What was the main change associated with liberalisation in India from the early 1990s?",
+          "answer": "India reduced or removed several restrictions on foreign trade and investment, increasing the exposure of domestic producers to international competition."
+        },
+        {
+          "type": "exam",
+          "question": "State two possible benefits of globalisation for consumers.",
+          "answer": "It can increase the variety of goods available and encourage competition that can improve quality, innovation and price options."
+        },
+        {
+          "type": "exam",
+          "question": "Why may small producers need government support in a globalised market?",
+          "answer": "They may face competition from larger or foreign firms and may need better credit, technology, infrastructure, skills and marketing support to compete."
         }
       ]
     }

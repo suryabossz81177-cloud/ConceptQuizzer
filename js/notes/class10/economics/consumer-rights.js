@@ -1,11 +1,11 @@
-// Class 10 Economics — detailed, continuous-flow, renderable chapter
+// Class 10 Economics — expanded textbook-style study chapter
 const ChapterData = {
   "id": "10-economics-consumer-rights",
   "class": 10,
   "subject": "Economics",
   "chapterNumber": 5,
   "title": "Consumer Rights",
-  "description": "Why consumers need protection, what major rights mean in practice, and how awareness and redressal mechanisms work. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments.",
+  "description": "Why consumers need protection, what major rights mean in practice, and how awareness and redressal mechanisms work. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments. The chapter now includes an extended, topic-by-topic study layer with explanations, worked reasoning, comparisons, applications and exact-answer questions.",
   "summary": "A practical study of consumer protection, six rights, standards, evidence, institutions, remedies and responsibilities.",
   "sections": [
     {
@@ -434,6 +434,150 @@ const ChapterData = {
           "type": "paragraph",
           "title": "Final deep dive: From awareness to action",
           "text": "Knowing a right is the first step; using it requires identifying the problem, collecting evidence, contacting the appropriate seller or service provider and choosing the correct redressal route. Consumer protection becomes meaningful when awareness leads to an informed and documented response to exploitation."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 1 — Why consumers can be vulnerable",
+          "text": "A market transaction is not automatically fair merely because a buyer and seller agree to exchange money for a product. Consumers may have less information, less bargaining power and fewer resources than producers or large sellers. Exploitation can occur through under-weighing, adulteration, defective goods, hidden charges, misleading claims, poor-quality services or refusal to honour valid obligations. Rules and consumer awareness are intended to correct this imbalance and make market exchange safer and more transparent."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 2 — Information asymmetry in everyday buying",
+          "text": "The producer usually knows more about how a product was made, what ingredients it contains and what limitations it has. The consumer often sees only the final package or advertisement. Labels, prices, dates, batch numbers, manufacturer details, usage instructions and warnings reduce this information gap. The right to information is therefore not a luxury; it enables consumers to compare alternatives and make informed choices."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 3 — Common forms of exploitation",
+          "text": "A consumer can be exploited through inaccurate quantity, adulterated goods, defective products, excessive or hidden charges, expired medicines, false advertising, denial of warranty obligations or poor-quality services. Exploitation is especially likely when buyers are scattered and sellers are few or powerful. The existence of a market does not guarantee fairness. Effective competition, information, standards, legal remedies and consumer awareness all contribute to better market functioning."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 4 — Consumer movement in India",
+          "text": "Consumer movements developed because people repeatedly faced unfair practices and lacked effective ways to obtain redressal. Consumer groups began by spreading awareness, publishing information, organising campaigns and raising complaints about practices in markets and public services. Over time, legal measures created formal mechanisms through which consumers could seek remedies. The movement demonstrates that rights become meaningful when consumers are aware of them and institutions are available to enforce them."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 5 — Right to safety",
+          "text": "The right to safety protects consumers against goods and services that are hazardous to life or property. Safety is relevant to medicines, electrical appliances, vehicles, food, pressure cookers, buildings, medical services and many other products. Producers have responsibilities to follow applicable safety standards, while authorities and testing systems help enforce those standards. A consumer should also read instructions and warnings and use products as intended."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 6 — Right to information",
+          "text": "Consumers have the right to know important details about the goods and services they purchase. Packaging may contain ingredients, quantity, price, manufacture and expiry information, batch number and manufacturer details. Medicines may carry directions and warnings. Such information allows consumers to compare products and identify risks. It also provides evidence that can support a complaint when a product is defective or a service fails to meet promised conditions."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 7 — Right to choice and representation",
+          "text": "The right to choice means consumers should have access to alternatives and should not be forced into an unwanted purchase as a condition for obtaining another product or service. The right to representation means consumer interests should have a voice in institutions and processes dealing with consumer issues. Together, these rights strengthen the consumer’s position in the marketplace by reducing coercion and creating channels through which collective concerns can be expressed."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 8 — Right to redressal",
+          "text": "When a consumer suffers loss because of defective goods, deficient services or unfair trade practices, the consumer can seek a remedy. Redressal may include repair, replacement, refund, compensation or another appropriate remedy depending on the case and applicable law. A practical consumer should preserve the bill, warranty, product details, photographs, communication records and other evidence. A complaint becomes stronger when the transaction and the harm can be clearly documented."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 9 — Consumer education and responsible buying",
+          "text": "Consumer education means developing the knowledge and skills required to make safe and informed decisions. It includes checking labels, comparing prices and quantities, looking for appropriate quality marks, understanding warranty terms, asking for a bill and recognising misleading claims. Responsible consumption does not mean blaming the consumer for every problem; it means using available information and legal rights while also expecting producers and regulators to fulfil their responsibilities."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 10 — Quality marks and standardisation",
+          "text": "Certification marks help consumers identify products that meet specified standards where the certification system applies. The chapter discusses marks such as ISI, Agmark, Hallmark and the food-fortification symbol. These marks are useful only when consumers understand what they signify and certification is properly monitored. Standardisation reduces uncertainty about quality, but the absence of a mark does not by itself answer every question about a product; consumers should also consider labelling, expiry, manufacturer details and applicable legal requirements."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 11 — Consumer redressal system",
+          "text": "Consumer disputes can be taken to the appropriate Consumer Disputes Redressal Commission according to the applicable jurisdiction and claim value. The system provides a structured process for filing complaints, hearing both sides and issuing remedies. Consumers can represent themselves or use professional assistance. The chapter also notes that consumer organisations can guide individuals and sometimes represent them. Digital filing and mediation mechanisms have developed further, but access, evidence, time and cost remain practical concerns."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 12 — A step-by-step complaint strategy",
+          "text": "First, identify the exact defect, deficiency or unfair practice. Second, collect proof such as the invoice, warranty, photographs, packaging, test reports or written communication. Third, approach the seller or service provider and make a clear written request for repair, replacement, refund or other remedy. Fourth, if the matter is not resolved, seek guidance from a consumer organisation or the appropriate commission and submit the evidence. Fifth, follow the proceeding and preserve all records. This sequence converts a vague complaint into a documented consumer dispute."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 13 — Digital marketplace and consumer awareness",
+          "text": "Online purchases create many of the same consumer issues as physical markets but add new concerns such as seller identity, return policies, delivery records, digital payments, platform terms, reviews and electronic invoices. Consumers should verify product information, save order confirmations, inspect return and warranty conditions and avoid relying only on promotional claims. The legal framework has also evolved to address transactions through electronic means. Awareness therefore needs to cover both traditional shops and digital marketplaces."
+        },
+        {
+          "type": "data",
+          "title": "Deep rights map — Six core consumer rights",
+          "headers": [
+            "Right",
+            "Meaning in practice"
+          ],
+          "rows": [
+            [
+              "Safety",
+              "Protection against hazardous goods and services"
+            ],
+            [
+              "Information",
+              "Access to essential product and service details"
+            ],
+            [
+              "Choice",
+              "Ability to select among alternatives without unfair coercion"
+            ],
+            [
+              "Representation",
+              "Consumer interests can be expressed and considered"
+            ],
+            [
+              "Redressal",
+              "Ability to seek remedy for exploitation or damage"
+            ],
+            [
+              "Consumer education",
+              "Knowledge and skills to make informed decisions"
+            ]
+          ],
+          "text": "Rights work together: information supports choice, safety and redressal, while education helps consumers use all of them."
+        },
+        {
+          "type": "comic",
+          "title": "The missing bill",
+          "dialogues": [
+            {
+              "character": "Surya",
+              "dialogue": "The shopkeeper says the product was never bought here, but I know it was."
+            },
+            {
+              "character": "Arushi",
+              "dialogue": "Did you keep the bill or payment record?"
+            },
+            {
+              "character": "Surya",
+              "dialogue": "I did. Now I have evidence of the transaction and can make a clear complaint."
+            }
+          ],
+          "result": "The example shows why documentation is an important practical part of consumer awareness."
+        },
+        {
+          "type": "exam",
+          "question": "Why are rules and regulations needed in the marketplace?",
+          "answer": "They help prevent unfair practices, protect consumers from unsafe or defective goods and services, reduce information gaps and provide remedies when consumers are harmed."
+        },
+        {
+          "type": "exam",
+          "question": "What is the right to information?",
+          "answer": "It is the consumer’s right to receive relevant information about goods and services, such as ingredients, price, quantity, manufacture and expiry details, so that an informed choice can be made."
+        },
+        {
+          "type": "practice",
+          "question": "Why should a consumer insist on a bill?",
+          "answer": "A bill is evidence of the purchase and can help establish the transaction, price and seller when seeking repair, replacement, refund or legal redressal."
+        },
+        {
+          "type": "exam",
+          "question": "Name the six consumer rights discussed in the chapter.",
+          "answer": "Right to safety, right to information, right to choice, right to representation, right to redressal and right to consumer education."
+        },
+        {
+          "type": "exam",
+          "question": "Why are quality marks useful?",
+          "answer": "They indicate that a product has met specified standards under the relevant certification system, helping consumers make more informed quality-related decisions."
         }
       ]
     }

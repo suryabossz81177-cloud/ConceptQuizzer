@@ -1,11 +1,11 @@
-// Class 10 Economics — detailed, continuous-flow, renderable chapter
+// Class 10 Economics — expanded textbook-style study chapter
 const ChapterData = {
   "id": "10-economics-development",
   "class": 10,
   "subject": "Economics",
   "chapterNumber": 1,
   "title": "Development",
-  "description": "How people define development, compare indicators, understand public facilities and examine sustainability. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments.",
+  "description": "How people define development, compare indicators, understand public facilities and examine sustainability. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments. The chapter now includes an extended, topic-by-topic study layer with explanations, worked reasoning, comparisons, applications and exact-answer questions.",
   "summary": "A multidimensional study of goals, income, public facilities, human well-being and sustainability.",
   "sections": [
     {
@@ -475,6 +475,142 @@ const ChapterData = {
           "type": "keypoint",
           "title": "Master revision checkpoint: Development",
           "text": "For Development, revise every definition, mechanism, example, limitation and application separately. In a five-mark response, connect each claim to a specific economic reason, condition or example and avoid filler sentences."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 1 — Development as a broad idea",
+          "text": "Development is not simply the condition of having more money. In economic life, people seek a combination of material and non-material improvements. A person may want a regular job, higher wages, better housing and reliable transport, but may also value equal treatment, freedom, security, dignity and a clean environment. These goals are connected: a higher income can make some choices easier, yet income cannot by itself create a safe neighbourhood, a functioning public hospital or a pollution-free environment. The first step in studying development is therefore to identify whose development is being discussed and which goals matter to that person or group. This prevents the mistake of treating one numerical indicator as a complete description of human well-being."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 2 — Why different people choose different goals",
+          "text": "Different social groups face different opportunities and constraints, so their priorities can differ sharply. A landless rural worker may place regular employment and fair wages first because insecurity of work affects the entire household. A farmer may want irrigation, reliable electricity and remunerative crop prices. An urban student may value quality education, skill opportunities and safe public transport. A woman may consider equal freedom, access to education and a greater voice in household decisions essential. These are all development goals, even though they cannot be reduced to the same item. Development becomes a meaningful concept only when we examine the actual conditions under which people make choices."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 3 — When development goals conflict",
+          "text": "Development goals do not always point in the same direction. A project that creates electricity or industrial employment may require land acquisition and can displace families. A policy that raises the price received by one group may increase costs for another group. A factory may create jobs while also creating pollution if environmental safeguards are weak. Such conflicts do not mean that development is impossible; they show why development requires discussion, institutions, evidence and attention to distribution. A development decision should therefore ask not only “How much output will increase?” but also “Who gains, who bears the cost, what alternatives exist, and can the harmful effects be reduced?”"
+        },
+        {
+          "type": "concept",
+          "title": "Deep concept — Income as a measurable indicator",
+          "text": "Income is widely used because it provides a common numerical measure of command over goods and services. However, people and countries differ greatly in population size, so total income cannot be used directly to compare the average material position of individuals. For this reason, average income or per capita income is calculated by dividing the total income of a country or state by its population. The resulting number is useful for comparison, but it is an average: it does not reveal how income is distributed among households. Two regions can have the same average income while having very different patterns of inequality."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 4 — Per capita income step by step",
+          "text": "Suppose a region has a total annual income of ₹24 crore and a population of 60,000. Convert ₹24 crore into rupees: ₹24,00,00,000. Divide by 60,000. The average income is ₹40,000 per person per year. This calculation does not mean every person actually receives ₹40,000. It is a statistical average obtained by dividing total income by population. In comparisons, average income is useful because it puts regions with different population sizes on a comparable scale. The indicator becomes more informative when read together with health, education, distribution and access to public services."
+        },
+        {
+          "type": "exam",
+          "question": "A district has total annual income of ₹15 crore and a population of 30,000. What is its average income?",
+          "answer": "₹15 crore = ₹15,00,00,000. Average income = ₹15,00,00,000 ÷ 30,000 = ₹50,000 per person per year."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 5 — Why averages cannot tell the whole story",
+          "text": "An average can hide inequality. Imagine two families in a small economy: one has a very high income while several others have very low incomes. The average may look respectable even though many households cannot afford adequate food, schooling or healthcare. Therefore, an indicator must always be interpreted with its distributional context. In development analysis, this is why income is combined with social indicators and information about access to facilities. A useful comparison is not merely “which place has a higher average?” but also “what is the quality of life experienced by different groups?”"
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 6 — Health and education indicators",
+          "text": "Health and education indicators capture dimensions that income alone misses. Infant Mortality Rate measures the number of children who die before completing one year of age per 1,000 live births in a given period. Literacy rate indicates the proportion of people who can read and write with understanding according to the relevant statistical definition. School attendance and enrolment indicators help show whether children actually participate in education. Life expectancy gives information about the average length of life under prevailing mortality conditions. These indicators are valuable because they describe outcomes directly related to human well-being rather than only the resources available to households."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 7 — Public facilities and collective well-being",
+          "text": "Some facilities are most effectively provided collectively. A government school, public hospital, sanitation network, vaccination programme, safe drinking-water system, drainage network or local road can benefit large numbers of people at the same time. Private income can help a household purchase some services, but it cannot by itself guarantee that the surrounding community has clean air, disease control or functioning infrastructure. Public facilities therefore connect individual well-being with collective action. Their quality also matters: merely counting the number of facilities is insufficient if they are inaccessible, understaffed or unreliable."
+        },
+        {
+          "type": "data",
+          "title": "Deep comparison — Income versus broader development",
+          "headers": [
+            "Indicator",
+            "What it tells us",
+            "What it may miss"
+          ],
+          "rows": [
+            [
+              "Average income",
+              "Average command over income/resources",
+              "Distribution and non-income aspects"
+            ],
+            [
+              "Infant mortality",
+              "Survival conditions of infants",
+              "Other dimensions of health"
+            ],
+            [
+              "Literacy/attendance",
+              "Access to education and learning opportunities",
+              "Quality of learning in every setting"
+            ],
+            [
+              "Life expectancy",
+              "Average longevity",
+              "Differences between social groups"
+            ],
+            [
+              "Public facilities",
+              "Collective access to essential services",
+              "Quality and actual use of services"
+            ]
+          ],
+          "text": "No single indicator should be treated as a complete measure of development."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 8 — Sustainability of development",
+          "text": "Development must consider whether present patterns of production and consumption can continue without exhausting the resource base or damaging future well-being. Groundwater provides a clear example. If water is extracted faster than natural recharge, the stock available to future users declines. Similar concerns arise with fossil fuels, forests, soil quality and biodiversity. Sustainable development therefore requires efficient resource use, conservation, appropriate technology and institutions that prevent short-term gains from imposing large long-term costs. The key idea is intergenerational responsibility: present development should not systematically reduce the ability of future generations to meet their needs."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 9 — Renewable does not mean unlimited",
+          "text": "A resource may be renewable in a natural cycle and still become scarce when the rate of use exceeds the rate of renewal. Groundwater can recharge, forests can regenerate and fisheries can reproduce, but excessive extraction can damage these processes. Sustainability therefore depends on the balance between use and regeneration. A resource policy must consider quantity, quality, location, technology, community needs and the time required for recovery. This makes environmental sustainability an economic issue as well as an ecological one."
+        },
+        {
+          "type": "comic",
+          "title": "Classroom case — What does progress mean?",
+          "dialogues": [
+            {
+              "character": "Surya",
+              "dialogue": "My first thought was that development means earning more money."
+            },
+            {
+              "character": "Verma Sir",
+              "dialogue": "That is one part. Now add health, education, security, equality and access to public facilities."
+            },
+            {
+              "character": "Surya",
+              "dialogue": "So the indicator must describe people’s actual living conditions, not only their income."
+            }
+          ],
+          "result": "The discussion separates income from the wider set of conditions that shape human well-being."
+        },
+        {
+          "type": "practice",
+          "question": "Why can two people have different ideas about development?",
+          "answer": "Because people live in different social and economic conditions and therefore have different needs and aspirations. A landless worker may prioritise regular employment and wages, while another person may prioritise education, equality, security or environmental quality."
+        },
+        {
+          "type": "exam",
+          "question": "Why is average income used when comparing regions?",
+          "answer": "Because regions can have different populations. Dividing total income by population gives a common average that allows comparison of the average income per person."
+        },
+        {
+          "type": "exam",
+          "question": "Why is average income not sufficient to judge development?",
+          "answer": "It is only an average and can hide unequal distribution. It also does not directly measure health, education, security, freedom, public facilities or environmental conditions."
+        },
+        {
+          "type": "exam",
+          "question": "Give two examples showing that development for one group can create problems for another.",
+          "answer": "A large dam may provide electricity and irrigation but can displace families. Industrial expansion may create jobs and output but can impose pollution costs on nearby communities if safeguards are inadequate."
+        },
+        {
+          "type": "exam",
+          "question": "What is the main idea of sustainable development?",
+          "answer": "Development should meet present needs while protecting the resource base and environmental conditions required by future generations."
         }
       ]
     }

@@ -1,11 +1,11 @@
-// Class 10 Economics — detailed, continuous-flow, renderable chapter
+// Class 10 Economics — expanded textbook-style study chapter
 const ChapterData = {
   "id": "10-economics-sectors-of-the-indian-economy",
   "class": 10,
   "subject": "Economics",
   "chapterNumber": 2,
   "title": "Sectors of the Indian Economy",
-  "description": "How economic activities are classified by nature, employment conditions and ownership, and how production and employment interact. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments.",
+  "description": "How economic activities are classified by nature, employment conditions and ownership, and how production and employment interact. The chapter is arranged as a continuous study sequence with topic-linked examples and assessments. The chapter now includes an extended, topic-by-topic study layer with explanations, worked reasoning, comparisons, applications and exact-answer questions.",
   "summary": "A detailed classification of production, employment conditions, ownership, GDP and employment generation.",
   "sections": [
     {
@@ -436,6 +436,137 @@ const ChapterData = {
           "type": "keypoint",
           "title": "Master revision checkpoint: Sectors Of The Indian Economy",
           "text": "For Sectors of the Indian Economy, revise every definition, mechanism, example, limitation and application separately. In a five-mark response, connect each claim to a specific economic reason, condition or example and avoid filler sentences."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 1 — Why economic activities are classified",
+          "text": "An economy contains thousands of different occupations and enterprises. Classification helps us identify patterns rather than treating every activity as unrelated. The first classification groups activities according to what is produced and how production is connected with nature, manufacturing and services. The primary sector directly uses natural resources; the secondary sector processes or transforms materials; the tertiary sector provides services that support production and daily life. A single product can pass through all three sectors before reaching the consumer, showing why sectoral boundaries are analytical categories rather than isolated worlds."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 2 — Primary sector in detail",
+          "text": "Agriculture, dairy, fishing, forestry and extraction of minerals are examples of primary activities because they depend directly on natural resources or biological processes. The timing and conditions of nature can strongly affect output. Rainfall, soil, climate, water availability and biological cycles influence agricultural production. Primary activities provide raw materials and food that support later stages of production. Their importance is therefore larger than the market value of the final products might suggest: they form a base for manufacturing, trade and many services."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 3 — Secondary sector in detail",
+          "text": "The secondary sector changes natural products or other raw materials into manufactured goods. Cotton fibre can be spun into yarn and woven into cloth; sugarcane can be processed into sugar; minerals can be transformed into metals and industrial products; construction converts materials into buildings and infrastructure. Manufacturing may take place in large factories, small workshops or other production settings. The sector adds value by changing the form, quality, location or usability of inputs. It also creates demand for transport, finance, communication and other services."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 4 — Tertiary sector in detail",
+          "text": "The tertiary sector produces services rather than physical goods. Transport moves goods and people, storage preserves products, banking supplies financial services, communication connects producers and consumers, and trade links sellers with buyers. Education, healthcare, legal services, administration and many personal services are also part of this sector. Information and communication technology has created newer service activities such as software, digital support and call-centre operations. The sector therefore includes both highly skilled modern services and large numbers of low-income service occupations."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 5 — Interdependence of the three sectors",
+          "text": "No sector functions completely independently. Farmers need fertilisers, pumps, electricity, machinery, credit and transport. Factories need agricultural or mineral raw materials, energy, workers, finance and markets. Service providers need goods, infrastructure and customers from both production sectors. If transport stops, farm products may not reach urban markets; if industrial inputs become expensive, cultivation costs can rise; if agricultural production falls sharply, food prices and industrial demand can be affected. Interdependence explains why a disturbance in one sector can spread through the economy."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 6 — Final goods and intermediate goods",
+          "text": "To measure total production without double counting, economists focus on the value of final goods and services. A wheat farmer may sell wheat to a mill, the mill may produce flour, and a biscuit manufacturer may use the flour to produce biscuits. Wheat and flour are intermediate inputs in this chain when they are used to produce the final biscuits. The final value already incorporates the value of those inputs. Adding the value of every stage separately would count the same economic value multiple times. This principle is essential for understanding GDP."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 7 — GDP and why it is calculated",
+          "text": "Gross Domestic Product is the value of all final goods and services produced within a country during a particular year. It provides a broad measure of the size of economic production. The calculation requires information on quantities, prices and the value of output across sectors. GDP is useful for understanding production trends, but it is not a complete measure of welfare because it does not by itself show distribution of income, unpaid work, environmental damage or access to public facilities."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 8 — Historical shift in sectoral importance",
+          "text": "In many economies, development has been accompanied by a shift in the relative importance of sectors. At early stages, agriculture and other primary activities dominate because food and raw materials are central. As productivity rises, manufacturing expands and absorbs labour and investment. At later stages, services can become the largest contributor to production. India has experienced a strong rise in service-sector production, but employment has not shifted away from agriculture to the same extent. This mismatch is central to the employment problem discussed in the chapter."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 9 — Underemployment and disguised unemployment",
+          "text": "A person is underemployed when the amount or productivity of work available is below what the person could contribute. In agriculture, several family members may work on a small plot even though fewer workers could produce almost the same output. If some workers leave and total production remains nearly unchanged, their labour was not fully necessary. This is called disguised unemployment because the workers appear employed but the surplus labour is hidden. The problem is not laziness; it is the lack of better employment opportunities."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 10 — Creating more employment",
+          "text": "Employment can rise when productive capacity expands. Irrigation can allow farmers to grow an additional crop. Roads, storage and marketing facilities can connect producers to larger markets. Small-scale industries can absorb labour. Education, health, tourism, transport and digital services can create jobs. Public investment can be especially important when private investment is insufficient. Employment policy should therefore combine immediate work opportunities with longer-term creation of productive enterprises and infrastructure."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 11 — Organised and unorganised sectors",
+          "text": "The organised sector operates under formal rules and registration requirements, with more regular terms of employment. Workers may receive fixed working hours, overtime payments and social-security-related benefits according to applicable rules. The unorganised sector includes many small enterprises and workers whose employment conditions are less secure and whose work may not be protected by formal arrangements. Casual workers, street vendors, small workshops and many domestic workers are common examples. The central policy concern is not merely classification but protection of workers from insecurity, unsafe conditions and unfair treatment."
+        },
+        {
+          "type": "paragraph",
+          "title": "Deep study 12 — Public and private sectors",
+          "text": "The public sector is owned or controlled by government institutions, while private-sector enterprises are owned by individuals, groups or private companies. The distinction concerns ownership and control, not whether the activity produces goods or services. Public-sector institutions often undertake activities where broad social access, infrastructure or essential services are important. Private enterprises generally operate with profit as a major objective, though their activities can also generate employment and useful services. The two sectors can coexist and interact within the same economy."
+        },
+        {
+          "type": "data",
+          "title": "Deep classification table — One occupation can be viewed through different criteria",
+          "headers": [
+            "Criterion",
+            "Question asked",
+            "Example"
+          ],
+          "rows": [
+            [
+              "Primary/Secondary/Tertiary",
+              "What kind of economic activity is it?",
+              "Farming / textile manufacturing / transport"
+            ],
+            [
+              "Organised/Unorganised",
+              "What are the employment rules and formal protections?",
+              "Registered factory / casual street work"
+            ],
+            [
+              "Public/Private",
+              "Who owns or controls the enterprise?",
+              "Government hospital / private clinic"
+            ]
+          ],
+          "text": "The classifications answer different questions, so they should not be mixed up."
+        },
+        {
+          "type": "comic",
+          "title": "Sector chain — from farm to market",
+          "dialogues": [
+            {
+              "character": "Surya",
+              "dialogue": "The farmer produced the cotton. Is that the whole economic process?"
+            },
+            {
+              "character": "Sharma Sir",
+              "dialogue": "No. A factory may turn cotton into cloth, while transport, banking and shops connect the cloth to consumers."
+            },
+            {
+              "character": "Surya",
+              "dialogue": "So one product can connect all three sectors."
+            }
+          ],
+          "result": "The chain shows why primary, secondary and tertiary activities are interdependent."
+        },
+        {
+          "type": "exam",
+          "question": "Why are final goods counted while calculating GDP?",
+          "answer": "Because the value of final goods already includes the value of intermediate inputs. Counting both would count the same value more than once."
+        },
+        {
+          "type": "exam",
+          "question": "What is disguised unemployment?",
+          "answer": "It is a situation in which more people are working in an activity than are actually required, so some workers can leave without causing a significant fall in output."
+        },
+        {
+          "type": "exam",
+          "question": "Why does the tertiary sector grow as agriculture and industry develop?",
+          "answer": "Growth in agriculture and industry increases the need for transport, storage, trade, banking, communication and other supporting services. Rising incomes also create demand for education, healthcare, tourism and other services."
+        },
+        {
+          "type": "practice",
+          "question": "Suggest two measures to create employment in rural areas.",
+          "answer": "Expand irrigation so that additional crops can be grown, and develop rural roads, storage, processing, marketing facilities and small industries that create non-farm work."
+        },
+        {
+          "type": "exam",
+          "question": "Distinguish public and private sectors.",
+          "answer": "The public sector is owned or controlled by government institutions, while the private sector is owned or controlled by private individuals, groups or companies."
         }
       ]
     }
