@@ -1,8 +1,8 @@
 window.ChapterRegistry = [
 
   {
-    id: "10-it-digital-documentation-advanced",
-    aliases: ["class10-it-digital-documentation-advanced"],
+    id: "10-informationtechnology-digital-documentation-advanced",
+    aliases: ["class10-informationtechnology-digital-documentation-advanced"],
     class: 10,
     subject: "Information Technology",
     chapterNumber: 1,
@@ -13,8 +13,8 @@ window.ChapterRegistry = [
   },
 
   {
-    id: "10-it-electronic-spreadsheet-advanced",
-    aliases: ["class10-it-electronic-spreadsheet-advanced"],
+    id: "10-informationtechnology-electronic-spreadsheet-advanced",
+    aliases: ["class10-informationtechnology-electronic-spreadsheet-advanced"],
     class: 10,
     subject: "Information Technology",
     chapterNumber: 2,
@@ -25,8 +25,8 @@ window.ChapterRegistry = [
   },
 
   {
-    id: "10-it-database-management-system-dbms",
-    aliases: ["class10-it-database-management-system-dbms"],
+    id: "10-informationtechnology-database-management-system-dbms",
+    aliases: ["class10-informationtechnology-database-management-system-dbms"],
     class: 10,
     subject: "Information Technology",
     chapterNumber: 3,
@@ -37,8 +37,8 @@ window.ChapterRegistry = [
   },
 
   {
-    id: "10-it-web-applications-and-security",
-    aliases: ["class10-it-web-applications-and-security"],
+    id: "10-informationtechnology-web-applications-and-security",
+    aliases: ["class10-informationtechnology-web-applications-and-security"],
     class: 10,
     subject: "Information Technology",
     chapterNumber: 4,
