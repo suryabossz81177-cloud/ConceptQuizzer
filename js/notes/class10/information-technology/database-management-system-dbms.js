@@ -1,6 +1,6 @@
 // Class 10 Information Technology — ultra-detailed continuous chapter
 const ChapterData = {
-  "id": "10-it-database-management-system-dbms",
+  "id": "10-informationtechnology-database-management-system-dbms",
   "class": 10,
   "subject": "Information Technology",
   "chapterNumber": 3,
