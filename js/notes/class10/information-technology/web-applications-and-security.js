@@ -517,6 +517,106 @@ const ChapterData = {
           "answer": "A LAN is appropriate because it connects devices within a limited geographical area such as a school building or computer laboratory."
         }
       ]
+    },
+    {
+      "title": "Complete Textbook Flow: Accessibility, Networks, Web Use and Safety",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "4.63 Accessibility begins with inclusive design",
+          "text": "Computer accessibility means making a computer system usable by people with different abilities and impairments. Accessibility is not limited to one special device; it includes software settings, input methods and display or sound options that can reduce barriers. Assistive technology can combine hardware and software to help a person use a computer effectively."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.64 Types of impairment and suitable support",
+          "text": "Computer use may be affected by visual, hearing, motor or dexterity, and cognitive or learning impairments. Different users may therefore require different settings. A person with difficulty using repeated key combinations may benefit from Sticky Keys, while someone with visual difficulty may benefit from display changes such as high contrast or magnification. The correct setting depends on the user's need."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.65 Keyboard, sound and display accessibility",
+          "text": "Sticky Keys helps with key combinations by allowing modifier keys to be handled separately. Filter Keys can reduce the effect of brief or repeated keystrokes. Toggle Keys can provide sound cues when locking keys change state. SoundSentry and Show Sounds provide alternative visual information for sound-based events. High Contrast can make screen content easier to distinguish."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.66 Mouse and cursor options",
+          "text": "Mouse and cursor settings can support users who have difficulty controlling a standard pointer. Accessibility settings may change pointer appearance, movement or input behaviour. The purpose is not to create one universal setting but to provide alternatives so that the user can choose a comfortable and workable method."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.67 Networking connects resources",
+          "text": "A computer network is a group of connected devices that can communicate and share resources. Networking can support file sharing, communication, shared hardware and access to common services. The type of network and architecture depends on the size of the area, the purpose of the connection and the way resources are managed."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.68 LAN, MAN and WAN",
+          "text": "A LAN generally covers a small area such as a room, building or school campus. A MAN can connect networks across a larger metropolitan area. A WAN connects networks across very large geographical areas. The important distinction is the geographical scope and the infrastructure used to connect the participating networks."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.69 Client-server and peer-to-peer architecture",
+          "text": "In a client-server arrangement, clients request services or resources from a server that provides or manages them. In a peer-to-peer arrangement, participating computers can share resources directly without relying on one central server for every service. The architecture affects management, control, resource sharing and the way users access services."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.70 Internet and World Wide Web",
+          "text": "The Internet is a global system of interconnected networks. The World Wide Web is a service that operates over the Internet and provides linked web resources that can be accessed through web software. The two terms are therefore related but not interchangeable: the Web is one major service that uses Internet connectivity."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.71 Instant messaging and responsible communication",
+          "text": "Instant messaging allows near-real-time exchange of messages and may also support files, audio or video depending on the service. Responsible communication requires clear language, respect for others, awareness of privacy and avoidance of unnecessary messages. Online etiquette matters because digital communication can be quickly forwarded, stored or misunderstood without tone and facial expression."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.72 Blogs and publishing",
+          "text": "A blog is a web-based publishing format in which posts can be created and presented over time. A blog may be used for personal writing, educational updates, announcements or discussion. Publishing responsibly means checking accuracy, respecting copyright and privacy, and understanding that published content can become part of a lasting digital footprint."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.73 Offline blog editors",
+          "text": "An offline blog editor allows content to be prepared without an active Internet connection and published later when connectivity becomes available. The advantage is that writing can continue without continuous network access. Before publishing, the author should review formatting, links, images and the final content because offline work does not automatically guarantee that the online version will appear exactly as expected."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.74 Online transactions and e-commerce",
+          "text": "An online transaction is an exchange performed through an electronic network. Examples include buying goods, booking tickets, paying fees or transferring money through supported services. A typical online purchase involves identifying the service, selecting the item or service, entering required information, choosing a payment method, verifying the transaction and receiving confirmation."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.75 Secure passwords and account protection",
+          "text": "A strong password or passphrase should be difficult for others to guess and should not be reused across important accounts. Passwords should not be shared casually. Multi-factor authentication provides an additional verification step where available. Account security also depends on protecting recovery information and recognising suspicious requests for credentials."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.76 Phishing and spoofing",
+          "text": "Phishing attempts to trick a person into revealing sensitive information by presenting a fraudulent message or page as trustworthy. Email spoofing involves forging sender information so that a message appears to come from another source. Chat or website impersonation can use the same basic deception. The safest response is to verify the source independently instead of using links or contact details supplied by the suspicious message."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.77 Antivirus and firewall roles",
+          "text": "Antivirus software helps detect, block or remove malicious software according to its capabilities. A firewall controls or filters network traffic according to defined rules. They serve different roles and should not be treated as interchangeable. Security also requires updates, cautious downloads, safe browsing and careful handling of attachments."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.78 Browser privacy and digital traces",
+          "text": "Browsers can store information such as history, cookies and cached content. Clearing selected browser data can reduce local traces on a device, but it does not erase every record that may exist elsewhere. Privacy also depends on account settings, website practices, network monitoring and the information a user voluntarily publishes."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.79 Workplace safety at a computer",
+          "text": "Safe computer use includes correct posture, appropriate screen position, adequate lighting, sensible breaks and a workspace free from avoidable hazards. Electrical equipment should be used correctly, cables should not create trip hazards, and damaged equipment should not be handled casually. Health and safety are part of responsible technology use, not separate from it."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.80 Preventing accidents and responding to emergencies",
+          "text": "Accidents can often be prevented by identifying hazards before work begins. Spilled liquids, loose cables, overloaded electrical connections, blocked exits and unsafe equipment can create risks. In an emergency, the user should follow the workplace or school procedure, alert the responsible person and avoid actions that increase danger. First aid and emergency responses should follow appropriate trained guidance."
+        },
+        {
+          "type": "paragraph",
+          "title": "4.81 A complete safe-digital workflow",
+          "text": "A responsible technology user begins by making the device accessible to the people who need it, connects through an appropriate network, communicates respectfully, publishes carefully, verifies online transactions, protects credentials, recognises suspicious messages, keeps security software and systems updated, and maintains a safe physical workspace. Digital security and physical safety therefore form one continuous responsibility."
+        }
+      ]
     }
   ],
   "keyTerms": [

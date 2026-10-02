@@ -470,6 +470,156 @@ const ChapterData = {
           "answer": "A student can have an unpredictable number of payments. A separate FeePayment table allows one student record to relate to many payment records without creating a new column for every possible payment."
         }
       ]
+    },
+    {
+      "title": "Complete Textbook Flow: Database Design, Tables, Queries, Forms and Reports",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "3.50 Database work begins with requirements",
+          "text": "Before opening a database application, identify what information must be stored and what questions the database must answer. For a school database, requirements might include student details, class information, subjects, marks and attendance. Writing these requirements first helps prevent unnecessary fields and poorly designed tables."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.51 Entities and attributes",
+          "text": "An entity is a distinguishable object or concept about which information is stored. An attribute describes a property of that entity. In a student database, Student can be an entity while admission number, name and date of birth can be attributes. Separating entities and attributes helps determine which fields belong together."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.52 Tables should represent related information",
+          "text": "A table should hold records of one logical kind. Repeating unrelated information in the same table can create duplication and make updates difficult. Dividing information into related tables can reduce unnecessary repetition and make relationships clearer. The design should still provide a reliable way to connect related records."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.53 Primary keys identify records",
+          "text": "A primary key is a field or combination of fields that uniquely identifies each record in a table. It should not contain duplicate values for different records. A suitable primary key makes it possible to distinguish one record from another and provides a stable reference for relationships with other tables."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.54 Foreign keys connect tables",
+          "text": "A foreign key is a field in one table that refers to a key in another table. It allows information stored in separate tables to be related. For example, a class identifier in a student table can refer to a corresponding class record in a class table. The exact field types and values must be compatible for a meaningful relationship."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.55 Relationships reveal how records connect",
+          "text": "A one-to-one relationship connects one record in one table to one record in another. A one-to-many relationship allows one record on one side to relate to many records on the other side, such as one class having many students. A many-to-many relationship requires an intermediate table so that each side can have multiple related records."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.56 Referential integrity protects relationships",
+          "text": "Referential integrity helps keep related tables consistent. A foreign-key value should refer to an existing related record when the relationship requires it. Rules governing insertion, update and deletion prevent the database from being filled with references to records that do not exist."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.57 Starting a database in Base",
+          "text": "LibreOffice Base provides the environment for creating and managing a database. A typical workflow begins by creating or opening a database file, defining tables and fields, choosing suitable data types, setting keys, entering records and then creating relationships, queries, forms and reports as required."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.58 Field properties influence data quality",
+          "text": "A field should be given a meaningful name and an appropriate data type. Text, numbers, dates and other kinds of values should not be mixed without reason. Field properties such as required values or default values can help maintain consistency. Good field design prevents many errors before data entry begins."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.59 Data entry and editing",
+          "text": "Records are entered as complete sets of field values. When editing, users should change only the intended fields and verify that the record still satisfies the table rules. Sorting can help arrange records for inspection, while filtering can temporarily display only records that match a condition without deleting the others."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.60 Queries answer questions from stored data",
+          "text": "A query is a request for selected information from one or more tables. Instead of displaying every record, a query can select particular fields and apply criteria. For example, a query can return students belonging to one class or marks above a chosen value. The query therefore turns a stored database into a tool for retrieving useful information."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.61 Criteria and logical conditions",
+          "text": "Query criteria specify which records should be included. Comparison operators can test equality, inequality and ranges. Logical operators can combine conditions. A clear criterion should match the meaning of the question being asked; otherwise the query may return technically correct but educationally irrelevant records."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.62 SQL as a language for database queries",
+          "text": "SQL provides a standard way to express many database operations. A SELECT statement can retrieve specified columns from a table and can include filtering, sorting and relationships. INSERT adds records, UPDATE changes existing values, and DELETE removes records when the user has permission and intends the operation. Care is essential with UPDATE and DELETE because they can affect multiple records."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.63 Forms provide a user-facing entry method",
+          "text": "A form is designed to make data entry and viewing easier than working directly with a table. A form can contain labels, input controls and navigation facilities. It can be based on a table or on an appropriate query depending on the task. A well-designed form reduces confusion by presenting only the fields the user needs."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.64 Reports turn data into readable output",
+          "text": "A report presents database information in a structured format suitable for reading, printing or sharing. Reports can be based on tables or queries and can organise information with headings, grouping and other layout features. A report is therefore different from a form: a form is primarily for interaction with data, while a report is primarily for presenting data."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.65 Table, query, form and report work together",
+          "text": "These database components have different roles but form one workflow. Tables store structured data. Queries retrieve or transform the required subset. Forms provide a convenient interface for entering or viewing data. Reports present selected information in a readable output format. Understanding the roles prevents the common mistake of trying to make one object perform every database task."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.66 A complete school database example",
+          "text": "Imagine a school database with Class, Student and Subject tables. Class stores class identifiers and class names. Student stores student identifiers and names together with a class reference. Subject stores subject identifiers and names. A marks table can connect students and subjects and store the marks. Queries can identify high scores, forms can collect entries, and reports can summarise results by class or subject."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.67 Database design before data entry",
+          "text": "If relationships and keys are decided before entering hundreds of records, errors become easier to prevent. If the structure is designed after data entry, duplicated values and inconsistent spellings may make relationships difficult to establish. Database design is therefore part of data management, not an optional step after the database has been filled."
+        }
+      ]
+    },
+    {
+      "title": "Further Textbook-Aligned Consolidation and Practical Mastery",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "3.68 Data integrity and meaningful values",
+          "text": "A database is useful only when the stored values represent the real situation accurately. Data types, field properties, keys and relationships all contribute to data integrity. A date should be treated as a date, a numeric mark as a number and a unique identifier as a key. Good database design prevents many errors before a query is ever executed."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.69 Avoiding unnecessary duplication",
+          "text": "If the same fact is entered in many records, correcting it later may require many updates. Separating stable information into its own table and referring to it through a key can reduce this repetition. The aim is not simply to create many tables; the aim is to organise information so that each important fact has a clear and maintainable place."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.70 Query design follows the question",
+          "text": "Start a query by stating the information question in ordinary language. Then identify the tables containing the required fields, select the output fields, define the criteria and decide whether sorting is needed. This prevents the common mistake of selecting fields first without knowing what the query is supposed to answer."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.71 Multiple conditions need careful logic",
+          "text": "A query using more than one condition must distinguish between requirements that must all be true and alternatives where either condition can be true. Logical operators express these relationships. Writing the intended condition in plain language before entering it into the query design makes the final result easier to verify."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.72 SQL SELECT as a reasoning pattern",
+          "text": "A SELECT query can be understood as a sequence: choose the fields to display, identify the source table or tables, filter records when necessary, and sort the resulting rows if required. Understanding this pattern makes SQL easier to read because each clause has a clear purpose rather than appearing as a collection of unfamiliar keywords."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.73 Safe use of UPDATE and DELETE",
+          "text": "UPDATE and DELETE can affect many records when their conditions are broad or missing. Before running either command, identify the exact records that should change and test the condition through a SELECT query when possible. This habit reduces accidental modification or removal of unrelated records."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.74 Form design for real users",
+          "text": "A form should present fields in a sensible order and use labels that a user can understand. Unnecessary controls can make entry confusing. If a form is intended for repeated data entry, consistent layout and navigation can reduce mistakes. The form should make the underlying database easier to use without hiding important rules from the user."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.75 Report design for readers",
+          "text": "A report should answer a reporting need rather than reproduce an entire table without structure. Useful headings, grouping and readable field arrangement help the reader understand the result. If a report is based on a query, the query should already select the relevant information so that the report does not become overloaded with unnecessary fields."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.76 Exact answer: query",
+          "text": "What is a query? A query is a request used to retrieve selected information from one or more database tables according to specified fields and conditions."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.77 Final database workflow",
+          "text": "A complete workflow is: identify requirements; identify entities and attributes; create tables; choose suitable data types; establish primary keys; create relationships and foreign keys; enter and validate records; build queries; design forms for convenient interaction; and prepare reports for presentation. Each stage depends on the quality of the earlier design decisions."
+        }
+      ]
     }
   ],
   "keyTerms": [

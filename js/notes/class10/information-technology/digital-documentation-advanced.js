@@ -385,6 +385,141 @@ const ChapterData = {
           "answer": "Check the image anchor and text-wrapping/position settings. The anchor controls the relationship with document content, while wrapping and positioning control how the surrounding text and object interact."
         }
       ]
+    },
+    {
+      "title": "Complete Textbook Flow: From Styles to Reviewed Documents",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "1.41 Document structure comes before decoration",
+          "text": "A long Writer document should be designed as a hierarchy of information. Decide the main title, major headings, subsections, lists, tables and supporting illustrations before spending time on visual decoration. This approach makes the document easier to navigate and makes automatic features depend on a logical structure rather than on manually enlarged text."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.42 Style hierarchy and meaning",
+          "text": "A heading style carries structural meaning as well as appearance. A major heading, a section heading and a subsection heading should represent different levels of the same information tree. When those levels are used consistently, Writer can recognise the hierarchy for navigation and the Table of Contents. Changing only font size or boldness does not provide the same structural information."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.43 Choosing the correct style category",
+          "text": "Page Styles are concerned with page-level layout such as page size, margins, headers and footers. Paragraph Styles control complete paragraphs and are especially important for headings and body text. Character Styles are applied to selected characters or words. Frame, List and Table Styles address their respective object types. Choosing the correct category keeps the formatting rule attached to the correct element."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.44 Direct formatting and controlled formatting",
+          "text": "Direct formatting changes an item immediately and can be useful for a one-time exception. However, a document with many repeated direct-formatting decisions becomes difficult to maintain. Styles are more suitable when the same design appears repeatedly or when the document is expected to undergo several revisions. A practical document therefore uses styles for its main visual and structural rules."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.45 A complete image workflow",
+          "text": "Before inserting an image, identify the information it is meant to support. Insert it from an appropriate source, decide whether it should be embedded or linked, resize it proportionally, crop irrelevant areas, select a suitable anchor, set alignment and wrapping, and then inspect the surrounding page. This sequence keeps images connected to the explanation instead of allowing them to disrupt the reading flow."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.46 Embedded and linked images in practice",
+          "text": "An embedded image travels inside the document and is therefore convenient when the final file must remain self-contained. A linked image depends on an external source file. Linking can be useful when the source image is maintained separately, but moving or renaming that source can break the connection. The choice should therefore depend on how the document will be shared and maintained."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.47 Proportional resizing and cropping",
+          "text": "Resizing changes the displayed dimensions of an image, while cropping removes unwanted portions from the visible area. If a photograph or diagram is stretched unevenly, its proportions can become distorted. Proportional resizing preserves the original shape, while cropping is appropriate when the subject needs to occupy a cleaner part of the page."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.48 Drawing objects and grouping",
+          "text": "Shapes, arrows, lines and other drawing objects can be combined to explain processes or relationships. Their borders, fills, size and position can be changed. When several objects form one diagram, grouping lets them move together. Ungrouping can later be used when one component must be edited independently."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.49 Anchor, alignment, arrangement and wrapping work together",
+          "text": "The anchor establishes the relationship between an image or object and the document content. Alignment determines its position relative to the relevant area. Arrangement determines its stacking order when objects overlap. Wrapping determines how nearby text flows. A polished page requires these settings to be considered together rather than changed randomly until the picture appears in the desired location."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.50 Building a Table of Contents correctly",
+          "text": "A Table of Contents is generated from the document's heading structure. Therefore, the correct sequence is to apply heading styles, establish the hierarchy, insert the Table of Contents, and update it after major edits. If a new heading is typed but is left as ordinary body text, it may not appear as expected. The structure must be maintained throughout the document."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.51 Customising and maintaining the Table of Contents",
+          "text": "The presentation of a Table of Contents can be customised, including the heading levels that are displayed. Customisation should preserve the document's logical structure. Whenever headings are added, removed or moved, the Table of Contents should be updated so that its entries and page numbers represent the current document rather than an earlier version."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.52 Templates and repeated documents",
+          "text": "A template provides a reusable starting design for documents of the same kind. It can contain page settings, styles, headings and other fixed elements. For example, a school may use one project-report design repeatedly while changing only the student name, topic, content and images. Templates reduce repeated setup work and help different documents follow a common format."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.53 Track Changes as a review mechanism",
+          "text": "Track Changes records modifications made during editing so that a reviewer can inspect them. The reviewer can view changes and decide which ones should remain. This is useful when a teacher, editor or group member checks a document without wanting every change to become permanent immediately."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.54 Comments and document comparison",
+          "text": "Comments are review notes attached to parts of a document. They can contain questions, suggestions or reminders without replacing the main text. Comparing documents is useful when two separately edited versions exist and the differences need to be identified. These tools support controlled revision rather than uncontrolled rewriting."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.55 Complete project-production sequence",
+          "text": "A structured project can be produced by planning the outline, defining styles, entering content, inserting tables and images, creating the Table of Contents, checking page layout, reviewing changes, resolving comments and finally updating the Table of Contents again. The last stage should include proofreading, checking links and images, and saving the final document in the required format."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.56 Troubleshooting through causes",
+          "text": "If a heading is missing from the Table of Contents, check its style before rebuilding the ToC. If an image jumps when text changes, inspect its anchor and wrapping. If one occurrence of a heading looks different from the others, check whether direct formatting or another style has been applied. If a linked image disappears, check the location of its source file. Diagnosing the underlying setting is more reliable than repeatedly applying visible formatting."
+        }
+      ]
+    },
+    {
+      "title": "Further Textbook-Aligned Consolidation and Practical Mastery",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "1.57 Styles and future editing",
+          "text": "A useful test of a style system is what happens after a major design change. If every chapter heading uses one paragraph style, changing its font, spacing or alignment can be handled centrally. If each heading was manually formatted, the same revision becomes a search-and-correct exercise. Styles therefore become more valuable as the length and lifespan of the document increase."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.58 Image placement near related text",
+          "text": "An image should normally appear close to the paragraph that explains it. If the picture is separated from its explanation by a page break, the reader may not know why it was inserted. Anchoring and wrapping should therefore support the relationship between the visual and the relevant text. Captions can also clarify the purpose of a figure in a long report."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.59 Visual consistency in a report",
+          "text": "A professional report should use a limited and consistent visual system. Similar figures should have similar sizes and alignment, headings should follow one hierarchy, and lists should use consistent styles. Consistency reduces visual noise and allows the reader to focus on the information rather than repeatedly interpreting new formatting choices."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.60 Updating a document after content changes",
+          "text": "Adding a paragraph can push later content onto new pages. Moving a heading can therefore change page numbers in the Table of Contents, and changing an image size can alter the position of nearby paragraphs. After substantial editing, update generated elements and inspect page breaks instead of assuming that the earlier layout remains correct."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.61 Templates and controlled variation",
+          "text": "A template should contain the parts that are expected to remain stable and leave room for the information that changes. A school project template may keep page size, heading styles and footer design fixed while leaving the project title, student details and main content variable. This separation makes the template reusable without making every document look identical in content."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.62 Review order for a final document",
+          "text": "A useful final review can proceed from structure to content to appearance. First verify headings and the Table of Contents. Next check text, tables and references. Then inspect images, wrapping, page breaks and spacing. Finally review tracked changes and comments and confirm that only the intended revisions remain. This order catches structural errors before cosmetic details consume time."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.63 Exact answer: template",
+          "text": "What is a template? A template is a reusable document model containing predefined design and formatting elements that can be used as the starting point for new documents of the same type."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.64 Exact answer: linked image",
+          "text": "What is a linked image? A linked image is an image referenced from an external file rather than stored entirely inside the document. The external file must remain available for the link to work correctly."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.65 Practical checklist",
+          "text": "Before submission, confirm that styles are applied consistently, images are positioned correctly, drawing objects are grouped where useful, the Table of Contents is updated, the template elements are appropriate, comments are resolved where necessary, tracked changes are reviewed and the final file opens correctly. These checks convert a formatted document into a dependable finished document."
+        }
+      ]
     }
   ],
   "keyTerms": [

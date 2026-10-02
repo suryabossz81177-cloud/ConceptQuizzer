@@ -373,6 +373,172 @@ const ChapterData = {
           "answer": "A Solver-type optimisation tool is more appropriate because several changing values and constraints have to be considered together."
         }
       ]
+    },
+    {
+      "title": "Complete Textbook Flow: Data Analysis, Linking, Automation and Review",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "2.44 A spreadsheet model begins with organised data",
+          "text": "An advanced spreadsheet works best when input values, calculations and results have clear roles. Before using an analysis tool, identify the cells that can change, the formulas that calculate results and the output cell that represents the decision. Good organisation reduces accidental changes and makes the later analysis easier to understand."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.45 Consolidating data from several ranges",
+          "text": "Data consolidation combines information from multiple ranges or worksheets into a summary location. It is useful when separate sheets contain related figures such as monthly, branch-wise or department-wise totals. Before consolidating, check that the source ranges represent compatible information and decide whether the consolidation should match data by position or by category."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.46 Subtotals require meaningful grouping",
+          "text": "The Subtotal feature can calculate summaries such as sums or averages for groups of records. Sorting the data by the field used for grouping makes the result easier to read and prevents unrelated records from being mixed together. A subtotal therefore depends not only on the calculation function but also on sensible organisation of the source data."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.47 What-if analysis changes assumptions",
+          "text": "What-if analysis asks how a result changes when one or more input assumptions are changed. A scenario can preserve a set of alternative values so that different possibilities can be compared without permanently replacing the original assumptions. For example, a project budget may be examined under low-cost, expected-cost and high-cost assumptions."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.48 Goal Seek works backwards from a target",
+          "text": "Goal Seek is useful when the desired output is known but the required input is not. It changes a selected input cell until a formula in a target cell reaches the specified value. The target cell must therefore contain a formula that depends on the changing input. Goal Seek is especially useful for questions such as the sales level required to reach a particular profit."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.49 Solver and constrained optimisation",
+          "text": "Solver extends the idea of finding a target by allowing an objective to be optimised while several constraints are respected. A model may seek a maximum, minimum or target result while restricting available resources, quantities or other conditions. The quality of the result depends on whether the spreadsheet model and its constraints accurately represent the problem."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.50 Macros automate repeated operations",
+          "text": "A macro is a recorded or programmed sequence of actions that can be run again. Repetitive formatting, calculations or sorting tasks can therefore be automated. Automation saves time, but macros should be used carefully because a macro can change data or run operations that the user did not intend. Only trusted macros should be enabled."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.51 Macro recorder and reusable procedures",
+          "text": "The macro recorder can capture a sequence of spreadsheet actions and save it as a macro. A simple macro can then be run whenever the same sequence is needed. More advanced macros can behave like functions, accept arguments and work with cell values. This turns repeated manual work into a reusable procedure."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.52 Passing arguments and using cell values",
+          "text": "When a macro is designed to accept an argument, the same procedure can work with different input values. A macro may also access cells directly, read their values and place results into specified cells. This makes automation more flexible than a fixed sequence that always operates on exactly the same cells."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.53 Linking several sheets",
+          "text": "A workbook can contain several sheets that represent related parts of one model. A formula can refer to a cell on another sheet, allowing a summary sheet to use detailed calculations stored elsewhere. This separation improves organisation when the workbook becomes large, provided sheet names and references are kept clear."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.54 References to another document",
+          "text": "Spreadsheet formulas can also refer to data stored in another document. External references can be useful when one workbook depends on information maintained elsewhere, but they create a dependency between files. The source file must remain available and its location should be managed carefully to prevent broken links."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.55 Hyperlinks for navigation",
+          "text": "A hyperlink can connect a spreadsheet cell to another sheet, document or web resource. Relative and absolute links behave differently when files are moved. A relative link depends on a relative location, while an absolute link identifies a complete location. Choosing the correct form matters when a workbook will be transferred between computers or folders."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.56 Linking external and registered data",
+          "text": "External data linking can bring information maintained outside the current sheet into a spreadsheet workflow. Registered data sources can also provide structured access to data. Such links should be documented because a result may depend on a source that changes independently of the workbook."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.57 Sharing and recording changes",
+          "text": "When a spreadsheet is prepared for shared work, users need a controlled method for identifying edits. Recording changes makes modifications visible during review. The workbook should be saved carefully so that the shared editing process does not overwrite useful work or make it impossible to identify who changed a value."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.58 Comments and review decisions",
+          "text": "Comments allow reviewers to attach explanations or questions to cells without changing the underlying value. During review, changes can be examined and accepted or rejected according to the intended final result. This separates discussion from the actual data and is useful in collaborative projects."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.59 Merging and comparing spreadsheet versions",
+          "text": "When two versions of a spreadsheet have been edited separately, comparison helps identify differences. Merging can bring compatible changes together according to the available review workflow. Before merging, the user should understand which version is authoritative and should check formulas as well as visible values."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.60 A complete data-analysis workflow",
+          "text": "A strong spreadsheet workflow is: organise the source data; calculate the basic results; create subtotals where groups need summaries; test alternative assumptions with scenarios; use Goal Seek when the required input for a target output is unknown; use Solver when optimisation with constraints is required; automate repetitive work with trusted macros; link related sheets or sources carefully; and review changes before finalising the workbook."
+        }
+      ]
+    },
+    {
+      "title": "Further Textbook-Aligned Consolidation and Practical Mastery",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "2.61 Consolidation and summary thinking",
+          "text": "When information is distributed across sheets, the first question should be what common meaning the source ranges share. A summary is useful only when comparable values are combined correctly. Before consolidation, check labels, categories, units and time periods. A technically successful operation can still produce a misleading result if the source data are not comparable."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.62 Scenarios versus ordinary editing",
+          "text": "Changing an input directly answers one what-if question but may destroy the previous assumption. Scenarios preserve named alternatives so that several possibilities can be revisited. This is valuable for planning because the user can compare assumptions without repeatedly typing and restoring values."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.63 Goal Seek versus Solver",
+          "text": "Goal Seek changes one input to reach one target formula result. Solver is designed for more complex optimisation in which an objective is maximised, minimised or matched while constraints are respected. Therefore, the correct tool depends on the structure of the problem, not simply on the fact that a desired answer is involved."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.64 Macro design should begin with a repeatable task",
+          "text": "A good candidate for a macro is a task that is performed repeatedly with the same logical sequence. Before recording it, remove unnecessary clicks and decide which cells or ranges are intended. A clean recorded macro is easier to understand and less likely to depend accidentally on a temporary selection."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.65 Macro arguments increase reuse",
+          "text": "A macro that accepts values can be reused for different records or calculations. Instead of creating separate macros for each input, one procedure can receive the required values as arguments. This is the same basic idea behind reusable functions: one defined operation can serve many cases."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.66 Linked workbooks need dependency awareness",
+          "text": "A formula that uses another sheet or document creates a dependency. If a source sheet is renamed, moved or changed, the dependent formula may require attention. A good workbook therefore uses clear names and keeps external sources organised. Linking should solve a real information-management problem rather than simply adding complexity."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.67 Shared spreadsheets need review discipline",
+          "text": "When several people work on a spreadsheet, changes should be understandable to the next reviewer. Comments can explain unusual entries, while recorded changes can reveal what was modified. A shared workbook should also have a clear final-review process so that temporary experimentation is not mistaken for the approved result."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.68 Exact answer: Goal Seek",
+          "text": "What does Goal Seek do? Goal Seek finds an input value required to make a formula cell reach a specified target result."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.69 Exact answer: macro",
+          "text": "What is a macro? A macro is a recorded or programmed sequence of instructions that automates a repeated task in a spreadsheet."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.70 Final spreadsheet quality check",
+          "text": "Before sharing a workbook, verify formulas, input values, linked sources, hyperlinks, scenario assumptions, target cells, macros and review comments. Check that external links still point to the intended sources and that the final workbook produces sensible results. A spreadsheet is reliable only when both its calculations and its supporting structure are checked."
+        }
+      ]
+    },
+    {
+      "title": "Final Spreadsheet Reasoning Practice",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "2.71 Reading a spreadsheet before changing it",
+          "text": "Before editing an unfamiliar workbook, identify the input cells, formula cells, summary areas, linked sheets and external references. This first reading prevents a user from overwriting a calculation merely because the displayed number looks like ordinary data. Understanding the model is the first step of safe spreadsheet work."
+        },
+        {
+          "type": "paragraph",
+          "title": "2.72 Choosing an analysis tool",
+          "text": "Use consolidation when related source ranges need to be brought into a summary; use subtotals when records need grouped calculations; use scenarios when named alternative assumptions must be compared; use Goal Seek when one input must be found for a target formula result; and use Solver when an objective must be optimised under constraints. The tool should match the question."
+        },
+        {
+          "type": "practice",
+          "title": "Integrated case",
+          "question": "A school wants to compare three fee assumptions, find the fee needed to reach a target collection, and keep a record of repeated formatting actions. Which tools fit these tasks?",
+          "answer": "Scenarios can compare the alternative fee assumptions, Goal Seek can find the fee needed for the target collection when one input is unknown, and a macro can automate a repeated formatting sequence."
+        }
+      ]
     }
   ],
   "keyTerms": [
