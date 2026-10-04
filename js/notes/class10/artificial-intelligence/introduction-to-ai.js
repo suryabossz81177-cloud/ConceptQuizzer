@@ -1,10 +1,10 @@
-// Class 10 Artificial Intelligence — ultra-detailed continuous chapter
+// Class 10 Artificial Intelligence — expanded information-only chapter
 const ChapterData = {
   "id": "10-artificialintelligence-introduction-to-ai",
   "title": "Introduction to Artificial Intelligence",
   "file": "introduction-to-ai.js",
-  "description": "A continuous, detailed study of intelligence, AI, ML, DL, AI domains, applications, smart environments and responsible AI.",
-  "summary": "AI is a broad field concerned with intelligent capabilities in machines; the chapter develops the foundations, domains, applications and ethical responsibilities of AI.",
+  "description": "A continuous, detailed study of intelligence, AI, ML, DL, AI domains, applications, smart environments and responsible AI. Expanded substantially with additional topic-by-topic explanatory content only; question, practice and unrelated revision blocks are not included.",
+  "summary": "AI is a broad field concerned with intelligent capabilities in machines; the chapter develops the foundations, domains, applications and ethical responsibilities of AI. The expanded version develops the concepts, processes, representations, applications, limitations and responsible-use considerations in continuous detail.",
   "sections": [
     {
       "title": "Foundations of Artificial Intelligence",
@@ -23,35 +23,6 @@ const ChapterData = {
           "type": "paragraph",
           "title": "1.3 How People Make Decisions",
           "text": "Decision making begins with a goal or need. A person gathers relevant information, considers possible choices, predicts consequences, applies rules or experience and finally selects an action. The quality of a decision depends on the information available and the criteria used. In an AI system, these stages can be represented using data, rules, models and an output or recommendation."
-        },
-        {
-          "type": "comic",
-          "title": "Comic: A decision before the model",
-          "dialogues": [
-            {
-              "character": "Surya",
-              "dialogue": "I have two routes to school. One is shorter, but it is crowded in the morning."
-            },
-            {
-              "character": "Verma Sir",
-              "dialogue": "So the shortest route is not automatically the best route."
-            },
-            {
-              "character": "Surya",
-              "dialogue": "Right. I need to consider time, traffic and safety before choosing."
-            },
-            {
-              "character": "Verma Sir",
-              "dialogue": "That is the idea behind intelligent decision making: the goal and relevant evidence matter."
-            }
-          ],
-          "result": "A machine decision is useful only when the system has an appropriate goal, relevant information and a suitable method."
-        },
-        {
-          "type": "exam",
-          "title": "Check Your Understanding",
-          "question": "What is intelligence in the context of AI?",
-          "answer": "Intelligence is the ability to learn, reason, solve problems, recognise patterns, understand information and make decisions to achieve a goal. AI attempts to reproduce or support selected intelligent abilities using machines."
         },
         {
           "type": "paragraph",
@@ -96,18 +67,6 @@ const ChapterData = {
           "text": "The distinction is about how the system reaches its output, not about whether a device is electronic."
         },
         {
-          "type": "exam",
-          "title": "Exam Focus",
-          "question": "Differentiate between automation and AI.",
-          "answer": "Automation performs a task according to predefined instructions. AI systems are designed to perform tasks associated with intelligent behaviour and may use data, models, pattern recognition or learning to produce outputs for new cases."
-        },
-        {
-          "type": "practice",
-          "title": "Think and Apply",
-          "question": "A school bell rings automatically at fixed times. Is it necessarily an AI system? Explain.",
-          "answer": "No. A fixed schedule can be implemented using ordinary automation because the bell follows predefined times. It would require an AI component only if the system were designed to infer or predict appropriate bell times from changing data or conditions."
-        },
-        {
           "type": "paragraph",
           "title": "1.7 Machine Learning and Deep Learning",
           "text": "Machine Learning is a branch of AI in which systems use data and algorithms to identify patterns or relationships and improve performance on a task. Instead of writing every possible rule, developers provide examples or other information from which a model can learn useful patterns. Deep Learning is a specialised approach that uses multi-layer neural networks to learn increasingly complex representations from data. The three terms should not be treated as synonyms: AI is the broad field, machine learning is one major approach within AI, and deep learning is a specialised family of machine-learning methods."
@@ -145,43 +104,9 @@ const ChapterData = {
           "text": "The introductory course uses three important domains to help learners understand how AI interacts with information: Data, Computer Vision and Natural Language Processing. Data-based AI works with structured or unstructured information to discover patterns and make predictions. Computer Vision deals with images and visual information. Natural Language Processing deals with human language in text or speech. A real application may combine more than one domain."
         },
         {
-          "type": "exam",
-          "title": "Exam Focus",
-          "question": "Name the three introductory AI domains.",
-          "answer": "The three domains are Data, Computer Vision (CV), and Natural Language Processing (NLP)."
-        },
-        {
-          "type": "comic",
-          "title": "Comic: Three domains, one problem",
-          "dialogues": [
-            {
-              "character": "Surya",
-              "dialogue": "A smart school system could use attendance records as data."
-            },
-            {
-              "character": "Sharma Sir",
-              "dialogue": "A camera could provide visual information for a different task."
-            },
-            {
-              "character": "Ansh",
-              "dialogue": "And a chatbot could understand students asking questions in natural language."
-            },
-            {
-              "character": "Sharma Sir",
-              "dialogue": "Exactly. Different AI domains process different kinds of information."
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "title": "1.10 AI in Everyday Life",
           "text": "AI-related systems can be encountered in recommendation systems, voice assistants, spam filtering, translation, image search, navigation, fraud detection, accessibility tools and personalised learning. The presence of AI should be judged by the task and method rather than by marketing language. A useful learner asks: What input is being processed? What output is produced? Is the system using rules, learned patterns or both? What data influences the result?"
-        },
-        {
-          "type": "exam",
-          "title": "Application Question",
-          "question": "Give four everyday applications of AI and state the kind of task each performs.",
-          "answer": "Examples include voice assistants for language interaction, recommendation systems for predicting suitable content or products, image recognition for identifying visual patterns, and spam filters for classifying messages."
         },
         {
           "type": "paragraph",
@@ -230,114 +155,9 @@ const ChapterData = {
           "text": ""
         },
         {
-          "type": "exam",
-          "title": "Long Answer",
-          "question": "Explain why ethics is important in Artificial Intelligence.",
-          "answer": "Ethics is important because AI systems can influence decisions and opportunities affecting people. Ethical analysis considers fairness, privacy, safety, transparency, accountability, bias and access. A technically accurate system can still create harm if its data or use is unfair or inappropriate."
-        },
-        {
-          "type": "comic",
-          "title": "Comic: The fairness question",
-          "dialogues": [
-            {
-              "character": "Arushi",
-              "dialogue": "The model gives different results for two groups."
-            },
-            {
-              "character": "Surya",
-              "dialogue": "Before calling one group less suitable, we should check the training data and the way the model was designed."
-            },
-            {
-              "character": "Verma Sir",
-              "dialogue": "Good. AI output must be examined for possible bias and unequal impact."
-            },
-            {
-              "character": "Arushi",
-              "dialogue": "So accuracy alone does not answer every ethical question."
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "title": "1.15 Advantages and Limitations of AI",
           "text": "AI can process large amounts of information quickly, identify patterns, automate repetitive tasks, support accessibility and assist decision making. However, AI can also make errors, inherit bias, require large or high-quality datasets, reduce transparency in some systems, create privacy concerns and change the nature of work. AI should therefore be viewed as a tool whose benefits depend on its design, data, context and human oversight."
-        },
-        {
-          "type": "exam",
-          "title": "Revision Question",
-          "question": "State three advantages and three limitations of AI.",
-          "answer": "Advantages include fast processing of large datasets, assistance with pattern recognition and automation of repetitive tasks. Limitations include possible bias, dependence on data quality and the possibility of incorrect or difficult-to-explain outputs."
-        }
-      ]
-    },
-    {
-      "title": "Extended Board-Style Revision and Application",
-      "blocks": [
-        {
-          "type": "exam",
-          "title": "Board Revision 1",
-          "question": "Define AI in one sentence.",
-          "answer": "AI is the field concerned with building systems capable of selected intelligent tasks."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 1",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 2",
-          "question": "Differentiate AI, machine learning and deep learning.",
-          "answer": "AI is the broad field; machine learning learns patterns from data; deep learning uses multi-layer neural networks."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 2",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 3",
-          "question": "Name the three introductory AI domains.",
-          "answer": "Data, Computer Vision and Natural Language Processing."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 3",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 4",
-          "question": "Explain one benefit and one limitation of AI.",
-          "answer": "Benefits include rapid data processing and automation; limitations include bias and dependence on data quality."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 4",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 5",
-          "question": "Why should AI systems be evaluated for bias?",
-          "answer": "Bias can cause unfair outcomes for particular groups or cases."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 5",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 6",
-          "question": "Give two examples of AI in everyday life.",
-          "answer": "Voice assistants and recommendation systems are two examples."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 6",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
         }
       ]
     },
@@ -556,6 +376,241 @@ const ChapterData = {
             "The word smart can describe many technologies, but a useful analysis begins by identifying the purpose.",
             "Connect this idea to the relevant stage, domain or evaluation question when applying it."
           ]
+        }
+      ]
+    },
+    {
+      "title": "Expanded Topic-by-Topic Chapter Content",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "1.9 Intelligence as a Set of Capabilities",
+          "text": "Intelligence is better understood as a collection of capabilities rather than a single measurable ability. Perception allows an agent to obtain information from its surroundings; learning allows it to improve from experience or examples; reasoning allows it to connect facts and rules; language allows it to communicate with people; planning helps it select a sequence of actions; and decision making connects available information with a goal. AI systems may implement one or several of these capabilities without reproducing the complete range of human intelligence."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.10 Intelligent Agents",
+          "text": "An intelligent agent is a system that receives information from an environment through inputs or sensors, processes that information and produces actions or outputs. For example, a navigation application receives location and map information, processes possible routes and produces route guidance. The quality of an agent depends on what it can observe, how accurately it represents the problem, what objective it is given and how effectively it chooses an action."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.11 Environment and Context",
+          "text": "The environment is the surrounding situation in which an AI system operates. An environment may be predictable or uncertain, static or changing, fully observable or only partly observable. A chess program has a structured environment with clearly defined rules, while a road-traffic system has changing conditions, incomplete information and many independent participants. Understanding the environment helps determine what kind of AI approach is appropriate."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.12 Perception and Representation",
+          "text": "Before a system can reason about information, the information must be represented in a form that a computer can process. Images may be represented as pixels and numerical colour values, text as characters or tokens, and structured records as fields and values. Representation is important because an algorithm can only operate on the information that has been encoded and supplied to it."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.13 Pattern Recognition",
+          "text": "Pattern recognition is the identification of regularities in data. A pattern may be visual, numerical, linguistic or behavioural. For example, an image classifier can learn that certain combinations of shapes and colours are common in examples belonging to a particular category. Pattern recognition does not mean that the system understands an object exactly as a human does; it means that the model has learned a useful relationship between input patterns and outputs."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.14 Learning from Examples",
+          "text": "In a learning-based AI system, examples provide evidence from which a model can discover relationships. The examples should represent the situations in which the model will later be used. If training examples are incomplete, biased or poorly labelled, the resulting model may perform poorly even when the algorithm itself is technically correct. Thus, data quality is part of intelligent system design."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.15 Rules and Learning",
+          "text": "AI systems can use explicit rules, learned patterns, or a combination of both. A rule-based system may contain statements such as a condition followed by an action. A learning-based system estimates patterns from data. Rules are often easier to inspect directly, while learned models can handle complex patterns that would be difficult to describe with thousands of manually written rules."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.16 Artificial Intelligence and Human Intelligence",
+          "text": "Human intelligence is flexible and general: people can transfer knowledge between many unrelated tasks, use common sense and understand social context. Most practical AI systems are specialised. A model trained to identify objects in images does not automatically know how to write a poem, diagnose a machine fault or plan a journey. This distinction explains why task-specific AI should not be confused with human-level general intelligence."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.17 Narrow or Task-Specific AI",
+          "text": "Narrow AI is designed for a defined task or a limited group of related tasks. Examples include recommendation systems, speech recognition, spam filtering, image classification and route optimisation. Such systems can be extremely capable within their designed domain while remaining unable to perform unrelated tasks without additional models, data and engineering."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.18 AI, Data and Computation",
+          "text": "Modern AI often depends on three connected resources: data, algorithms and computation. Data provides examples or evidence; algorithms define how information is processed or how a model is trained; computation supplies the resources needed to perform that processing. Improving one resource does not automatically solve every problem. Large amounts of poor-quality data, for example, cannot guarantee a useful result."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.19 Machine Learning: Core Idea",
+          "text": "Machine learning focuses on methods that allow a system to learn a relationship from data rather than requiring every relationship to be manually programmed. During training, an algorithm adjusts a model according to examples and an objective. During use, the trained model receives new input and produces an output. The model therefore becomes a computational representation of patterns discovered from the training process."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.20 Supervised Learning",
+          "text": "Supervised learning uses examples in which the desired output is known. A dataset may contain photographs with their correct categories, or measurements with known numerical outcomes. The model learns a mapping between inputs and target outputs. Classification predicts a category, while regression predicts a numerical value. The usefulness of the model depends on the quality and representativeness of the labelled examples."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.21 Unsupervised Learning",
+          "text": "Unsupervised learning works with data where a target label is not supplied in the same way as supervised learning. The system can search for structure, similarity or groups within the data. Clustering is a common example: records with similar characteristics can be grouped together. The groups are meaningful only when they correspond to a useful structure in the problem being studied."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.22 Reinforcement Learning",
+          "text": "Reinforcement learning involves an agent interacting with an environment and receiving feedback associated with its actions. The agent aims to learn a policy that produces useful long-term outcomes. The feedback is often described using rewards and penalties. Unlike supervised learning, the system is not simply given the correct action for every situation; it learns through interaction and consequences."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.23 Deep Learning and Neural Networks",
+          "text": "A neural network is a computational model made from connected processing units arranged in layers. During learning, numerical parameters called weights are adjusted so that the network produces useful outputs. Deep learning uses neural networks with multiple layers, allowing the system to learn hierarchical representations. Early layers may capture simpler patterns while later layers combine them into more complex representations."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.24 Data as the Foundation of AI",
+          "text": "Data can be numerical, categorical, textual, visual, audio, video or sensor-based. It may be collected directly, obtained from existing records, generated through sensors or created through human annotation. For AI, data must be relevant to the task. A model trained on data that does not reflect the real operating environment may learn relationships that fail when exposed to new cases."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.25 Training, Validation and Testing",
+          "text": "A model should be evaluated on data that provides evidence about how it behaves beyond the examples used for learning. Training data is used to learn model parameters. Validation data can support model selection or tuning. Test data provides a final independent check of performance. Keeping these roles separate helps reveal whether a model has learned general patterns or merely fitted the training examples."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.26 Overfitting and Generalisation",
+          "text": "Overfitting occurs when a model becomes too closely adapted to the training examples and loses performance on new data. Generalisation means performing effectively on unseen cases from the same intended problem setting. The goal is not to memorise every training example but to learn patterns that remain useful when the input changes within reasonable limits."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.27 AI Domains: Data",
+          "text": "The data domain focuses on collecting, organising, analysing and using data to discover patterns or support decisions. Data may be structured, such as tables of records, or unstructured, such as text, images and audio. AI systems can use data analysis to identify trends, classify records, forecast values and support recommendations."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.28 AI Domains: Computer Vision",
+          "text": "Computer Vision enables computers to process and interpret visual information. Its tasks can include image classification, object detection, image segmentation, face or feature analysis and visual inspection. A digital image is represented numerically, allowing algorithms to operate on pixels and learned visual patterns."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.29 AI Domains: Natural Language Processing",
+          "text": "Natural Language Processing focuses on interactions between computers and human language. NLP can be used for text classification, translation, speech-related systems, question answering, summarisation, sentiment analysis and conversational interfaces. Language is challenging because meaning depends on context, word relationships, grammar, ambiguity and the situation in which a statement is used."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.30 AI Applications in Everyday Systems",
+          "text": "AI can be found in recommendation systems, search ranking, fraud detection, predictive maintenance, medical image analysis, navigation, speech interfaces, translation, customer-support systems and content moderation. In each case, the AI component performs a defined computational task; the surrounding application also includes software rules, databases, interfaces and human decisions."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.31 Recommendation Systems",
+          "text": "A recommendation system estimates which items may be useful or interesting to a user. It can use information about previous interactions, item characteristics or patterns among many users. Recommendations are predictions rather than guarantees. A responsible system should consider relevance, privacy, transparency and the possibility that repeated recommendations can narrow the range of information a person encounters."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.32 AI in Healthcare",
+          "text": "AI can assist healthcare by analysing medical images, identifying patterns in clinical data, supporting workflow and helping with risk prediction. Such systems must be treated as decision-support tools when human expertise and clinical responsibility are required. Sensitive health information also requires strong privacy and security safeguards."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.33 AI in Agriculture",
+          "text": "Agricultural AI applications can analyse satellite or drone imagery, estimate crop conditions, identify signs of stress, support irrigation decisions and assist yield prediction. The quality of such systems depends on local conditions, crop type, weather, soil characteristics and the quality of the data used to build the model."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.34 AI in Education",
+          "text": "AI can support education through adaptive learning, automated feedback, language assistance, accessibility tools and analysis of learning patterns. Educational use should preserve the learner’s role in thinking and creating. Systems must also avoid unfairly labelling students on the basis of incomplete data or treating predictions as unquestionable judgements."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.35 Bias in AI Systems",
+          "text": "Bias can enter an AI system through the problem definition, data collection, labels, sampling, feature choices, model design or interpretation of results. If important groups are poorly represented in training data, performance may differ across groups. Reducing bias therefore requires attention throughout the AI development process rather than only after a model has been deployed."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.36 Privacy and Data Protection",
+          "text": "AI systems can process personal information at a large scale. Privacy concerns arise when data is collected without appropriate justification, used for purposes beyond what people expect, retained unnecessarily or exposed through weak security. Responsible AI development considers data minimisation, access control, secure storage and appropriate consent or lawful basis where applicable."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.37 Transparency and Explainability",
+          "text": "Transparency means providing understandable information about how an AI system is designed, what data it uses, what it is intended to do and what its limitations are. Explainability concerns the ability to give meaningful reasons for a model’s output. The appropriate level of explanation depends on the application and the people affected by the decision."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.38 Human Oversight",
+          "text": "Human oversight means that people remain able to inspect, question, correct or override AI-supported decisions when necessary. This is particularly important when errors can cause serious harm. An AI output should be treated as evidence generated by a system, not automatically as an unquestionable fact."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.39 Responsible Use of AI",
+          "text": "Responsible AI combines technical performance with fairness, safety, privacy, transparency, accountability and appropriate human control. A technically accurate model can still be inappropriate if it is used for the wrong purpose, trained on unsuitable data or deployed without safeguards. Responsible use therefore begins before the model is built and continues throughout its life cycle."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.40 Goal-Oriented Behaviour",
+          "text": "An AI system normally operates with an objective: classify an input, predict a value, recommend an item, recognise an object or select an action. The same input can lead to different appropriate outputs when the goal changes. Defining the objective precisely is therefore essential before choosing data or algorithms."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.41 Inputs, Processing and Outputs",
+          "text": "A useful way to understand an AI application is to separate inputs, processing and outputs. Inputs are observations or data, processing transforms those inputs through rules or a model, and outputs are predictions, classifications, recommendations or actions. Real applications may also include feedback, storage, human review and external tools around this core flow."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.42 Features as Information",
+          "text": "Features are measurable characteristics used to describe an input for a model. In a student-performance example, attendance, study time and previous marks might be features. A feature is useful when it contains information related to the target and is available in a suitable form at the time a prediction must be made."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.43 Data Representation Affects AI",
+          "text": "The same real-world object can be represented in many ways. A photograph can be represented by pixel arrays, text can be represented by tokens or vectors, and a customer record can be represented by numerical and categorical fields. The representation determines what information is visible to the algorithm and what relationships it can potentially learn."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.44 Algorithm and Model",
+          "text": "An algorithm is a procedure used to perform computation or learning, whereas a model is the learned or configured representation produced for a particular task. During training, an algorithm may use data to determine model parameters. During inference, the trained model is applied to new input to produce an output."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.45 Inference",
+          "text": "Inference is the process of using a trained AI model to generate an output for new input. Training and inference are different stages: training adjusts model parameters using examples, while inference uses the resulting parameters without performing the same learning process for every new input."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.46 Feedback Loops",
+          "text": "Some AI applications receive feedback from their own outputs or from users. A recommendation system may learn from clicks, while a predictive maintenance system may receive later evidence about whether a failure occurred. Feedback can improve a system, but poorly designed feedback can also reinforce existing bias or errors."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.47 Data Quality Dimensions",
+          "text": "Data quality can be considered through dimensions such as accuracy, completeness, consistency, timeliness, relevance and representativeness. A dataset may be accurate but too old, complete but irrelevant, or large but poorly representative. AI development therefore requires judgement about the suitability of data, not just its quantity."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.48 Model Limitations",
+          "text": "Every model has a domain in which its assumptions and training data make sense. Outside that domain, performance may decrease. A responsible AI system should communicate its intended use and limitations so that users do not assume that success on one task guarantees competence on another."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.49 AI as a Socio-Technical System",
+          "text": "An AI application is more than its model. People define the problem, collect data, label examples, choose thresholds, interpret outputs and decide what action follows. Software infrastructure stores and transports information, while organisational rules determine how the system is used. AI outcomes therefore depend on technical and human components together."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.50 Automation, Augmentation and Decision Support",
+          "text": "AI can automate a task, augment a person’s abilities or provide decision support. Automation performs an action with limited human intervention. Augmentation assists a person while leaving meaningful control with them. Decision support provides information or predictions that a human considers before acting. The appropriate arrangement depends on the risks and purpose of the application."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.51 Generative AI and Predictive AI",
+          "text": "Predictive AI generally estimates a class, value or probability from input data. Generative AI produces new content such as text, images, audio or other data-like outputs based on learned patterns. The two categories can overlap in applications, but their outputs and evaluation requirements are different."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.52 AI Systems and Uncertainty",
+          "text": "Many real-world inputs do not provide enough information for absolute certainty. AI systems may therefore produce probabilities, scores or ranked possibilities. Users must understand that a high score is not automatically a guarantee. Uncertainty should be interpreted in relation to the model, data and task."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.53 Lifecycle of an AI System",
+          "text": "An AI system has a lifecycle that can include problem definition, data collection, preparation, model development, evaluation, deployment, monitoring, updating and eventual retirement. Performance and risks can change at any stage. Treating deployment as the end of the project ignores changes that occur when the system meets real users and new data."
+        },
+        {
+          "type": "paragraph",
+          "title": "1.54 Foundations for Later AI Study",
+          "text": "The ideas of data, representation, models, learning, domains, evaluation and responsible use provide the foundation for later study of computer vision, natural language processing and the AI project cycle. Each specialised area applies the same broad reasoning process to different kinds of information."
         }
       ]
     }

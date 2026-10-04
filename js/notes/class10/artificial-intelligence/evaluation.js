@@ -1,10 +1,10 @@
-// Class 10 Artificial Intelligence — ultra-detailed continuous chapter
+// Class 10 Artificial Intelligence — expanded information-only chapter
 const ChapterData = {
   "id": "10-artificialintelligence-evaluation",
   "title": "Evaluation",
   "file": "evaluation.js",
-  "description": "A continuous, detailed chapter on confusion matrix, accuracy, precision, recall, F1 score, unseen data, error analysis and responsible evaluation.",
-  "summary": "Evaluation measures model performance, explains errors and guides iterative improvement of an AI solution.",
+  "description": "A continuous, detailed chapter on confusion matrix, accuracy, precision, recall, F1 score, unseen data, error analysis and responsible evaluation. Expanded substantially with additional topic-by-topic explanatory content only; question, practice and unrelated revision blocks are not included.",
+  "summary": "Evaluation measures model performance, explains errors and guides iterative improvement of an AI solution. The expanded version develops the concepts, processes, representations, applications, limitations and responsible-use considerations in continuous detail.",
   "sections": [
     {
       "title": "Evaluating AI Models",
@@ -18,12 +18,6 @@ const ChapterData = {
           "type": "paragraph",
           "title": "5.2 Model Evaluation and the AI Project Cycle",
           "text": "Evaluation is the final named stage of the AI Project Cycle, but evaluation also influences earlier decisions. If a model performs poorly, the team may revisit the problem scope, data quality, features, representation or modelling approach. Evaluation therefore provides evidence for improvement rather than serving only as a final score."
-        },
-        {
-          "type": "exam",
-          "title": "Exam Focus",
-          "question": "What is model evaluation?",
-          "answer": "Model evaluation is the process of measuring a model’s performance on appropriate data using suitable criteria so that its predictions and limitations can be understood."
         },
         {
           "type": "paragraph",
@@ -58,28 +52,6 @@ const ChapterData = {
           "text": "The four counts form the basis of accuracy, precision, recall and F1 score."
         },
         {
-          "type": "comic",
-          "title": "Comic: Four kinds of outcomes",
-          "dialogues": [
-            {
-              "character": "Surya",
-              "dialogue": "The model said “positive” and the actual class was positive. That is a True Positive."
-            },
-            {
-              "character": "Divya",
-              "dialogue": "If it says positive but the actual class is negative, that is a False Positive."
-            },
-            {
-              "character": "Verma Sir",
-              "dialogue": "And if the actual class is positive but the model misses it, we call that a False Negative."
-            },
-            {
-              "character": "Surya",
-              "dialogue": "The confusion matrix keeps all four cases visible."
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "title": "5.6 Accuracy",
           "text": "Accuracy measures the proportion of all predictions that are correct. It is calculated as the number of correct predictions divided by the total number of predictions. For binary classification, the formula is Accuracy = (TP + TN) / (TP + TN + FP + FN). Accuracy is easy to understand, but it may be misleading when classes are highly imbalanced."
@@ -88,12 +60,6 @@ const ChapterData = {
           "type": "paragraph",
           "title": "5.7 Accuracy Worked Example",
           "text": "Suppose a model makes 100 predictions. It produces 45 true positives, 35 true negatives, 10 false positives and 10 false negatives. The number of correct predictions is 45 + 35 = 80. Therefore accuracy is 80/100 = 0.80, or 80 percent. The example also shows why the confusion matrix is needed: accuracy alone does not tell us whether the errors were false positives or false negatives."
-        },
-        {
-          "type": "exam",
-          "title": "Calculation",
-          "question": "A classifier has TP=45, TN=35, FP=10 and FN=10. Calculate accuracy.",
-          "answer": "Accuracy = (TP + TN) / (TP + TN + FP + FN) = (45 + 35) / 100 = 0.80 = 80%."
         },
         {
           "type": "paragraph",
@@ -133,24 +99,6 @@ const ChapterData = {
           "text": ""
         },
         {
-          "type": "exam",
-          "title": "Long Answer",
-          "question": "Differentiate precision and recall.",
-          "answer": "Precision is the proportion of predicted positive cases that are actually positive: TP/(TP+FP). Recall is the proportion of actual positive cases correctly identified: TP/(TP+FN). Precision focuses on false positives, while recall focuses on false negatives."
-        },
-        {
-          "type": "practice",
-          "title": "Calculate",
-          "question": "If TP=30 and FP=10, calculate precision.",
-          "answer": "Precision = TP/(TP+FP) = 30/(30+10) = 30/40 = 0.75 = 75%."
-        },
-        {
-          "type": "practice",
-          "title": "Calculate Again",
-          "question": "If TP=30 and FN=5, calculate recall.",
-          "answer": "Recall = TP/(TP+FN) = 30/(30+5) = 30/35 ≈ 0.8571, or about 85.71%."
-        },
-        {
           "type": "paragraph",
           "title": "5.12 F1 Score",
           "text": "F1 score combines precision and recall using their harmonic mean. It is useful when both precision and recall matter and a single balanced measure is desired. The formula is F1 = 2 × Precision × Recall / (Precision + Recall). Because it is a harmonic mean, a very low precision or recall can pull the F1 score down substantially."
@@ -159,12 +107,6 @@ const ChapterData = {
           "type": "paragraph",
           "title": "5.13 F1 Worked Example",
           "text": "Suppose precision is 0.75 and recall is approximately 0.8571. F1 = 2 × 0.75 × 0.8571 / (0.75 + 0.8571), which is approximately 0.80. The value gives a combined view of the two measures rather than replacing the need to inspect them separately."
-        },
-        {
-          "type": "exam",
-          "title": "Calculation",
-          "question": "If precision is 0.8 and recall is 0.6, calculate the F1 score.",
-          "answer": "F1 = 2 × 0.8 × 0.6 / (0.8 + 0.6) = 0.96/1.4 ≈ 0.686, or about 68.6%."
         },
         {
           "type": "paragraph",
@@ -199,28 +141,6 @@ const ChapterData = {
           "text": ""
         },
         {
-          "type": "comic",
-          "title": "Comic: Choosing the metric",
-          "dialogues": [
-            {
-              "character": "Prince",
-              "dialogue": "Our model has 98% accuracy, so is it automatically excellent?"
-            },
-            {
-              "character": "Surya",
-              "dialogue": "Not necessarily. What happens to the rare positive cases?"
-            },
-            {
-              "character": "Sharma Sir",
-              "dialogue": "Exactly. Check the confusion matrix and measures such as precision and recall."
-            },
-            {
-              "character": "Prince",
-              "dialogue": "So the metric must match the problem."
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "title": "5.16 Train, Test and Unseen Data",
           "text": "A model should not be judged only on the examples used to build it. A proper evaluation process uses data that provides evidence about how the model performs on cases it did not simply memorise. Training data is used to develop the model, while test or evaluation data provides an independent basis for measuring performance. The exact data-splitting method depends on the project."
@@ -234,12 +154,6 @@ const ChapterData = {
           "type": "paragraph",
           "title": "5.18 Error Analysis",
           "text": "A score alone does not explain why a model fails. Error analysis examines incorrect predictions and looks for patterns. Errors may cluster around certain classes, input conditions, languages, image qualities or user groups. This information can guide improvements in data collection, preprocessing, feature selection, model design or problem scope."
-        },
-        {
-          "type": "exam",
-          "title": "Long Answer",
-          "question": "Why should an AI model be tested on data that was not used only for training?",
-          "answer": "Testing on suitable unseen data provides evidence of generalisation. If a model is evaluated only on training examples, it may appear successful because it has learned or memorised those examples without performing well on new cases."
         },
         {
           "type": "paragraph",
@@ -292,98 +206,9 @@ const ChapterData = {
           "text": "Suppose a sentiment model has low recall for short informal messages. Evaluation has identified a problem, not simply produced a disappointing number. The team may collect better examples, revise preprocessing, improve labels or choose a different modelling method. After the change, the revised system must be evaluated again. This closes the iterative loop of the AI Project Cycle."
         },
         {
-          "type": "exam",
-          "title": "Final Revision",
-          "question": "State the formulas for accuracy, precision, recall and F1 score.",
-          "answer": "Accuracy = (TP + TN)/(TP + TN + FP + FN). Precision = TP/(TP + FP). Recall = TP/(TP + FN). F1 = 2 × Precision × Recall/(Precision + Recall)."
-        },
-        {
-          "type": "practice",
-          "title": "Integrated Question",
-          "question": "A classifier has TP=40, TN=50, FP=5 and FN=5. Calculate accuracy, precision, recall and F1 score.",
-          "answer": "Accuracy = 90/100 = 90%. Precision = 40/45 ≈ 88.89%. Recall = 40/45 ≈ 88.89%. Since precision and recall are equal, F1 is also approximately 88.89%."
-        },
-        {
           "type": "paragraph",
           "title": "5.23 Chapter Conclusion",
           "text": "Model evaluation turns an AI prediction system into an evidence-based project. The confusion matrix organises classification outcomes, while accuracy, precision, recall and F1 score provide complementary measures. Strong evaluation uses suitable unseen data, examines errors and considers the real consequences of mistakes. When evaluation reveals a weakness, the project team should use that evidence to improve the earlier stages and test again."
-        },
-        {
-          "type": "exam",
-          "title": "Master Question",
-          "question": "Why is evaluation essential in the AI Project Cycle?",
-          "answer": "Evaluation determines how well the model performs, identifies the types and frequency of errors, tests whether the solution generalises to suitable new data and provides evidence for improving the project. It helps decide whether the AI solution is appropriate for its intended purpose."
-        }
-      ]
-    },
-    {
-      "title": "Extended Board-Style Revision and Application",
-      "blocks": [
-        {
-          "type": "exam",
-          "title": "Board Revision 1",
-          "question": "Define confusion matrix.",
-          "answer": "A confusion matrix records actual and predicted classes and their four outcome types."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 1",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 2",
-          "question": "What is a false positive?",
-          "answer": "A false positive is a negative case incorrectly predicted as positive."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 2",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 3",
-          "question": "Write the accuracy formula.",
-          "answer": "Accuracy = (TP+TN)/(TP+TN+FP+FN)."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 3",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 4",
-          "question": "Differentiate precision and recall.",
-          "answer": "Precision focuses on predicted positives; recall focuses on actual positives."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 4",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 5",
-          "question": "Why can accuracy mislead?",
-          "answer": "Accuracy can hide poor performance on a minority class."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 5",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 6",
-          "question": "What is F1 score?",
-          "answer": "F1 is the harmonic mean of precision and recall."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 6",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
         }
       ]
     },
@@ -506,6 +331,246 @@ const ChapterData = {
             "Evaluation completes one pass through the AI Project Cycle, but the evidence it produces can start the next pass.",
             "Connect this idea to the relevant stage, domain or evaluation question when applying it."
           ]
+        }
+      ]
+    },
+    {
+      "title": "Expanded Topic-by-Topic Chapter Content",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "5.1 Why Evaluation Is Necessary",
+          "text": "Evaluation determines how well an AI system performs its intended task on suitable data. A model can produce outputs even when it is poorly designed, so simply obtaining predictions is not evidence of quality. Evaluation connects technical performance with the question of whether the system is reliable enough for its intended purpose."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.2 Evaluation Data",
+          "text": "Evaluation should use data that represents the situations in which the model will be used. If the evaluation data is too similar to training examples, performance can look better than it really is. If it does not represent important real-world cases, the reported metric may fail to describe actual behaviour."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.3 Classification Outcomes",
+          "text": "For a binary classifier, each prediction can be compared with the actual class. A true positive is a positive case correctly identified as positive, while a true negative is a negative case correctly identified as negative. A false positive is a negative case incorrectly labelled positive, and a false negative is a positive case incorrectly labelled negative."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.4 Confusion Matrix",
+          "text": "A confusion matrix organises classification results into true positives, false positives, true negatives and false negatives. It provides more information than a single accuracy value because it shows the types of mistakes the model makes. The matrix is especially useful when the cost of different errors is not the same."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.5 Accuracy",
+          "text": "Accuracy is the proportion of all evaluated cases that were classified correctly. It is calculated as (TP + TN) / (TP + TN + FP + FN). Accuracy can be informative when classes are reasonably balanced and the consequences of different error types are similar."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.6 Precision",
+          "text": "Precision measures how many cases predicted as positive were actually positive. It is calculated as TP / (TP + FP). High precision means that positive predictions contain relatively few false positives. Precision is important when unnecessary positive alerts or classifications are costly."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.7 Recall",
+          "text": "Recall measures how many of the actual positive cases were correctly identified. It is calculated as TP / (TP + FN). High recall means that relatively few positive cases were missed. Recall is important when missing a true positive is especially costly."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.8 Specificity",
+          "text": "Specificity measures how many actual negative cases were correctly identified. It is calculated as TN / (TN + FP). It is useful when the ability to avoid false positives matters. Specificity and recall focus on different parts of the confusion matrix and can reveal behaviour that accuracy alone hides."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.9 F1 Score",
+          "text": "The F1 score combines precision and recall using their harmonic mean: F1 = 2 × (precision × recall) / (precision + recall), provided the denominator is non-zero. It is useful when a balance between precision and recall is desired. A high F1 requires both measures to be reasonably strong."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.10 Why Accuracy Can Mislead",
+          "text": "Suppose a dataset contains 990 negative cases and 10 positive cases. A classifier that predicts every case as negative would have 99% accuracy but would detect none of the positive cases. This shows why evaluation must consider class distribution and the practical cost of errors."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.11 Thresholds and Trade-offs",
+          "text": "Many classification systems produce a score or probability and then apply a threshold to decide the final class. Changing the threshold can alter the balance between false positives and false negatives. Therefore, a model does not have a single precision or recall value independent of how its outputs are converted into decisions."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.12 Regression Evaluation",
+          "text": "For numerical prediction, classification measures are not appropriate because there are no discrete positive and negative outcomes in the same sense. Regression can be evaluated using measures such as mean absolute error, mean squared error or related quantities that compare predicted values with actual values."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.13 Mean Absolute Error",
+          "text": "Mean Absolute Error, or MAE, is the average of the absolute differences between predicted and actual values. MAE = (1/n) × Σ|actual − predicted|. It is expressed in the same units as the target and therefore provides an intuitive description of average prediction error."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.14 Mean Squared Error",
+          "text": "Mean Squared Error, or MSE, is the average of squared differences between predicted and actual values. MSE = (1/n) × Σ(actual − predicted)². Squaring makes larger errors contribute disproportionately to the result, so MSE is sensitive to large mistakes."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.15 Root Mean Squared Error",
+          "text": "Root Mean Squared Error, or RMSE, is the square root of MSE. Taking the square root returns the measure to the same units as the target variable. Like MSE, RMSE gives greater influence to larger errors than MAE does."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.16 Error and Loss",
+          "text": "An error describes the difference between a prediction and the corresponding target for a particular case. A loss function defines how such differences are converted into a quantity used during model training or optimisation. An evaluation metric may be chosen for reporting performance even when it is different from the loss used during training."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.17 Training Performance vs Generalisation",
+          "text": "A model can achieve very low error on its training data while performing poorly on new data. Evaluation must therefore distinguish memorisation from generalisation. Comparing training and independent validation or test performance helps identify whether the model has learned patterns that transfer beyond the examples used to fit it."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.18 Overfitting",
+          "text": "Overfitting occurs when a model captures details specific to training data rather than patterns that generalise. It can arise when a model is too flexible relative to the amount or quality of data, when training is excessive, or when the data contains accidental patterns. It is diagnosed through performance on data not used to fit the model."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.19 Underfitting",
+          "text": "Underfitting occurs when a model is too limited to capture important relationships in the data. It can result from an overly simple model, insufficient training or inadequate features. Both training and evaluation performance can be poor in an underfitted system."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.20 Validation and Test Sets",
+          "text": "A validation set can be used while developing a model to compare approaches or tune choices. A test set should be kept separate for a final unbiased estimate after major model decisions have been made. Repeatedly using the test set to guide development can make it function like a validation set and weaken the independence of the final estimate."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.21 Cross-Validation",
+          "text": "Cross-validation repeatedly divides available data into training and validation portions so that performance can be estimated across multiple splits. It can be useful when datasets are not large enough to sacrifice a large fixed validation set. The exact procedure should respect the structure of the data, especially when observations are related in time or by group."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.22 Class Imbalance",
+          "text": "Class imbalance occurs when one category contains many more examples than another. It can make accuracy misleading and can cause a model to focus heavily on the majority class. Evaluation should therefore include class-sensitive measures and, when appropriate, examine performance separately for important groups or classes."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.23 False Positives and False Negatives",
+          "text": "The importance of an error depends on the application. In spam filtering, a false positive can cause a legitimate message to be treated as spam. In a screening system, a false negative can mean that an important case is missed. Evaluation must therefore consider the consequences of each type of error."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.24 Model Comparison",
+          "text": "Two models should be compared using the same evaluation data, the same target definition and compatible metrics. A model with higher accuracy is not automatically better if it has unacceptable recall, precision or subgroup performance. Model selection should consider the actual objective and constraints of the application."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.25 Evaluation Across Groups",
+          "text": "Average performance can hide differences between groups. For example, a classifier may have high overall accuracy while making substantially more errors for a less represented category. Responsible evaluation therefore examines relevant subgroup performance when the application affects different populations."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.26 Robustness",
+          "text": "Robustness describes how well a model maintains useful performance when inputs vary within conditions that should reasonably be expected. Changes in lighting for images, wording for text or measurement noise for sensors can affect performance. Robustness testing helps identify weaknesses that a clean benchmark may not reveal."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.27 Reliability and Uncertainty",
+          "text": "A model may be uncertain even when it must produce a final output. Confidence-like scores can help communicate uncertainty, but a numerical score is not automatically a calibrated probability of correctness. Important applications should establish how uncertainty is interpreted and what action should follow when the model is unsure."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.28 Evaluation After Deployment",
+          "text": "Evaluation should not necessarily stop after deployment. Real-world data can change, users can behave differently and new failure cases can appear. Monitoring can track performance indicators, data changes and unusual outputs so that the system can be reviewed or updated when necessary."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.29 Human Evaluation",
+          "text": "Some AI outputs cannot be fully assessed by a simple numerical metric. Language generation, explanations, educational content and creative outputs may require human judgement using clearly defined criteria. Human evaluation should be systematic enough to make results meaningful rather than relying only on informal impressions."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.30 Choosing the Right Metric",
+          "text": "The correct evaluation metric depends on the task, data and consequences of mistakes. Classification may require accuracy, precision, recall, F1 or confusion-matrix analysis. Regression may require MAE, MSE or RMSE. A metric should be selected because it represents the real objective, not simply because it produces a convenient number."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.31 Evaluation as a Decision Tool",
+          "text": "Evaluation does not merely produce a score; it provides evidence for deciding whether a system should be improved, restricted, deployed or rejected. Technical metrics should be interpreted together with data quality, safety, fairness, privacy, cost and the consequences of errors."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.32 A Complete Evaluation Process",
+          "text": "A complete evaluation process defines the intended task, selects representative evaluation data, chooses appropriate metrics, calculates results correctly, analyses error types, checks important subgroups, examines robustness and interprets the findings against the real-world purpose. The final judgement should state both strengths and limitations rather than relying on a single number."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.33 Confusion Matrix Example",
+          "text": "Consider a binary classifier evaluated on 100 cases. If TP=40, TN=50, FP=5 and FN=5, then 90 cases are classified correctly. Accuracy is 90/100 = 0.90. Precision is 40/(40+5) = 0.8889, while recall is 40/(40+5) = 0.8889. The example shows how the confusion-matrix counts feed directly into different measures."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.34 Precision-Recall Relationship",
+          "text": "Precision and recall can move in different directions when the decision threshold changes. A stricter threshold may reduce false positives and increase precision but can also miss more positive cases and reduce recall. The preferred balance depends on the application and the relative cost of the two error types."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.35 F1 as a Balance Measure",
+          "text": "Because the F1 score uses the harmonic mean, a very low precision or recall strongly limits the final score. This makes F1 useful when both types of performance matter and when a single balanced measure is required. It should still be interpreted alongside the underlying precision and recall values."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.36 Macro and Weighted Averages",
+          "text": "When a classification task has multiple classes, performance can be averaged across classes. A macro average gives each class equal weight, while a weighted average gives greater influence to classes with more examples. The choice changes what the final summary emphasises."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.37 Multiclass Evaluation",
+          "text": "In multiclass classification, each class can be analysed using one-versus-rest reasoning to obtain class-specific true positives, false positives and false negatives. A confusion matrix can show which classes are commonly confused. This is often more informative than a single overall accuracy value."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.38 Calibration",
+          "text": "Calibration concerns whether predicted probabilities correspond reasonably to observed frequencies. If a group of predictions is assigned probability 0.8, a well-calibrated system would be correct roughly 80% of the time for cases with that predicted probability under the relevant conditions. Calibration is different from discrimination or ranking ability."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.39 ROC and Threshold Analysis",
+          "text": "For binary classifiers, threshold changes produce different true-positive and false-positive rates. ROC analysis represents this trade-off across thresholds. It can help compare ranking behaviour, but practical metric selection should still consider class prevalence and the real cost of errors."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.40 Precision-Recall Curves",
+          "text": "Precision-recall analysis is particularly informative when the positive class is rare. It shows how precision changes as recall changes across thresholds. A system that appears strong by accuracy can still have poor positive-class performance, which precision-recall analysis can make visible."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.41 Error Distribution",
+          "text": "The number of errors is only part of evaluation. It is also useful to inspect whether errors are concentrated in a particular class, range of values, environment or user group. An uneven error distribution may reveal a weakness that an overall metric hides."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.42 Regression Residuals",
+          "text": "A residual is the difference between an observed value and a predicted value. Examining residuals can reveal systematic errors, such as predictions consistently being too high for one range of values and too low for another. Such patterns suggest that the model is missing some relationship in the data."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.43 MAE and MSE Comparison",
+          "text": "MAE treats errors proportionally to their absolute size, while MSE gives much greater weight to large errors because the differences are squared. Therefore, a model with a few very large mistakes can receive a much worse MSE than MAE might suggest. The metric should match the importance of large errors in the application."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.44 Evaluation Leakage",
+          "text": "Evaluation leakage occurs when information from the evaluation set influences model development or preprocessing decisions. Even if the test examples are not directly used for training, repeatedly inspecting test performance and changing the model based on it can make the final estimate optimistic."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.45 Robust Test Design",
+          "text": "A strong evaluation design identifies realistic operating conditions before testing begins. It can include variations in input quality, different sources, difficult examples and important edge cases. The aim is to measure performance where the system is actually expected to work, not only on convenient examples."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.46 Reproducibility of Evaluation",
+          "text": "Evaluation results should be reproducible enough for another person to understand how they were obtained. This requires recording the dataset version, preprocessing steps, model version, metric definitions and relevant settings. Without such information, two reported scores may not be directly comparable."
+        },
+        {
+          "type": "paragraph",
+          "title": "5.47 Metric Limitations",
+          "text": "Every metric compresses complex behaviour into a number. A high score can coexist with harmful failure cases, data bias or poor robustness. Metrics are therefore evidence rather than complete descriptions of an AI system. Interpretation requires context, error analysis and knowledge of the application."
         }
       ]
     }

@@ -1,10 +1,10 @@
-// Class 10 Artificial Intelligence — ultra-detailed continuous chapter
+// Class 10 Artificial Intelligence — expanded information-only chapter
 const ChapterData = {
   "id": "10-artificialintelligence-computer-vision-cv",
   "title": "Computer Vision (CV)",
   "file": "computer-vision-cv.js",
-  "description": "A continuous chapter on visual data, pixels, features, image processing, OpenCV, RGB images, convolution and CNN concepts.",
-  "summary": "Computer Vision processes visual information by representing images numerically and learning or extracting patterns for useful tasks.",
+  "description": "A continuous chapter on visual data, pixels, features, image processing, OpenCV, RGB images, convolution and CNN concepts. Expanded substantially with additional topic-by-topic explanatory content only; question, practice and unrelated revision blocks are not included.",
+  "summary": "Computer Vision processes visual information by representing images numerically and learning or extracting patterns for useful tasks. The expanded version develops the concepts, processes, representations, applications, limitations and responsible-use considerations in continuous detail.",
   "sections": [
     {
       "title": "Computer Vision",
@@ -18,12 +18,6 @@ const ChapterData = {
           "type": "paragraph",
           "title": "3.2 Why Computer Vision Matters",
           "text": "Images and video contain large amounts of information. A person can often recognise an object, read a sign or notice a change quickly. Computer Vision attempts to automate selected parts of such visual interpretation. Applications include image search, document scanning, quality inspection, accessibility tools, medical image analysis, traffic monitoring and security systems, subject to appropriate safeguards."
-        },
-        {
-          "type": "exam",
-          "title": "Exam Focus",
-          "question": "What is Computer Vision?",
-          "answer": "Computer Vision is an AI domain that enables computers to process and analyse visual information such as images and video to perform tasks such as recognition, classification or detection."
         },
         {
           "type": "paragraph",
@@ -62,28 +56,6 @@ const ChapterData = {
           "text": ""
         },
         {
-          "type": "comic",
-          "title": "Comic: How does a computer see?",
-          "dialogues": [
-            {
-              "character": "Surya",
-              "dialogue": "When I look at this photo, I immediately recognise the object."
-            },
-            {
-              "character": "Verma Sir",
-              "dialogue": "A computer begins with numerical pixel values arranged in a grid."
-            },
-            {
-              "character": "Surya",
-              "dialogue": "So the model has to learn patterns in those numbers."
-            },
-            {
-              "character": "Verma Sir",
-              "dialogue": "Exactly. Computer Vision turns visual input into data that algorithms can analyse."
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "title": "3.5 Image Features",
           "text": "A feature is a useful property or pattern that helps distinguish one visual input from another. Simple features can include edges, shapes, textures, brightness changes or colour information. More advanced systems can learn useful representations automatically. Features matter because a model needs information that separates relevant classes or identifies meaningful structures."
@@ -92,12 +64,6 @@ const ChapterData = {
           "type": "paragraph",
           "title": "3.6 Edges, Shapes and Patterns",
           "text": "An edge is a location where image intensity or colour changes noticeably. Edges can help reveal boundaries of objects. Shapes describe geometric structure, while textures describe repeated local patterns. A computer vision system can combine such information to build a representation useful for the task it has been designed to perform."
-        },
-        {
-          "type": "practice",
-          "title": "Visual Thinking",
-          "question": "Why can an edge be useful in image analysis?",
-          "answer": "An edge can indicate a boundary where the visual properties change, helping a system identify the shape or outline of an object."
         },
         {
           "type": "paragraph",
@@ -150,12 +116,6 @@ const ChapterData = {
           "text": ""
         },
         {
-          "type": "exam",
-          "title": "Exam Focus",
-          "question": "What is the role of OpenCV in Computer Vision?",
-          "answer": "OpenCV provides programming tools and functions for reading, processing and analysing images and video, making it useful for implementing basic computer vision tasks."
-        },
-        {
           "type": "paragraph",
           "title": "3.11 RGB Images",
           "text": "A common colour representation uses three channels: red, green and blue. Each pixel has a numerical value for each channel, and the combination represents a colour. By examining these channels, software can manipulate colour information and perform operations such as conversion, enhancement or segmentation. The exact numeric range depends on the representation used by the software."
@@ -192,12 +152,6 @@ const ChapterData = {
           "type": "paragraph",
           "title": "3.14 Pre-processing",
           "text": "Pre-processing prepares visual data before analysis. Common operations include resizing, cropping, changing colour representation, adjusting brightness or reducing irrelevant variation. The goal is not to alter an image arbitrarily but to make the input more suitable and consistent for the intended task."
-        },
-        {
-          "type": "exam",
-          "title": "Application Question",
-          "question": "Why is pre-processing useful in a Computer Vision project?",
-          "answer": "Pre-processing can make images more consistent, reduce irrelevant variation and convert the input into a form better suited to the chosen analysis or model."
         },
         {
           "type": "paragraph",
@@ -241,28 +195,6 @@ const ChapterData = {
           "text": ""
         },
         {
-          "type": "comic",
-          "title": "Comic: From pixels to meaning",
-          "dialogues": [
-            {
-              "character": "Shashank",
-              "dialogue": "The first layer does not need to understand the whole object."
-            },
-            {
-              "character": "Surya",
-              "dialogue": "It can learn small patterns such as edges."
-            },
-            {
-              "character": "Sharma Sir",
-              "dialogue": "Later layers can combine simpler patterns into more complex features."
-            },
-            {
-              "character": "Shashank",
-              "dialogue": "So the network builds a representation step by step."
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "title": "3.18 Computer Vision and Data Quality",
           "text": "A vision model depends strongly on the examples used to train or test it. If the images are blurry, incorrectly labelled, unbalanced or unrepresentative, the resulting model may perform poorly. Lighting, camera angle, background, object size and image quality can all influence performance. A reliable project therefore pays attention to data collection and evaluation rather than focusing only on the algorithm."
@@ -273,98 +205,9 @@ const ChapterData = {
           "text": "Computer Vision can affect privacy and safety when cameras or images are used to identify or monitor people. Projects should consider purpose limitation, appropriate access, secure handling of data, consent where required and the consequences of errors. The ability to build a system does not by itself justify every possible use."
         },
         {
-          "type": "exam",
-          "title": "Long Answer",
-          "question": "Explain the importance of pixels, features and models in Computer Vision.",
-          "answer": "Pixels provide the numerical representation of the visual input. Features are useful patterns or properties extracted from pixel information. A model uses these representations to perform a task such as classification or detection. Together they form a pipeline from raw visual data to a meaningful output."
-        },
-        {
-          "type": "practice",
-          "title": "Compare",
-          "question": "Differentiate image classification and object detection.",
-          "answer": "Image classification assigns an image to one or more categories. Object detection identifies objects and also determines where they occur within the image, commonly using bounding regions."
-        },
-        {
           "type": "paragraph",
           "title": "3.20 Summary of Computer Vision",
           "text": "Computer Vision begins with visual data, represents it numerically as pixels, prepares the data, identifies or learns useful patterns and produces an output for the intended task. Basic image processing and tools such as OpenCV provide practical foundations. More advanced methods such as convolution and CNNs show how models can learn hierarchical visual representations. Throughout the process, data quality and responsible use remain essential."
-        },
-        {
-          "type": "exam",
-          "title": "Final Revision",
-          "question": "List the major concepts covered in Computer Vision.",
-          "answer": "The major concepts include visual input, pixels, image representation, image features, classification, detection, image pre-processing, RGB colour representation, OpenCV, convolution and the basic idea of convolutional neural networks."
-        }
-      ]
-    },
-    {
-      "title": "Extended Board-Style Revision and Application",
-      "blocks": [
-        {
-          "type": "exam",
-          "title": "Board Revision 1",
-          "question": "What is a pixel?",
-          "answer": "A pixel is a small picture element represented by numerical visual information."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 1",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 2",
-          "question": "What is an image feature?",
-          "answer": "A feature is a useful visual pattern or property used for analysis."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 2",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 3",
-          "question": "What is RGB?",
-          "answer": "RGB represents colour using red, green and blue channel values."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 3",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 4",
-          "question": "Differentiate classification and detection.",
-          "answer": "Classification assigns categories; detection identifies objects and their locations."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 4",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 5",
-          "question": "What does OpenCV provide?",
-          "answer": "OpenCV provides tools for reading, processing and analysing images and video."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 5",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
-        },
-        {
-          "type": "exam",
-          "title": "Board Revision 6",
-          "question": "Why are CNNs useful for images?",
-          "answer": "CNNs can learn hierarchical visual features using convolutional operations."
-        },
-        {
-          "type": "paragraph",
-          "title": "Application Note 6",
-          "text": "In an examination or project, connect the definition to the purpose, describe the process in the correct order, and use a concrete example to show that the concept has been understood. The exact application should remain consistent with the problem being discussed."
         }
       ]
     },
@@ -487,6 +330,236 @@ const ChapterData = {
             "When a visual model is used in a consequential setting, a person may need to review uncertain or high-impact outputs.",
             "Connect this idea to the relevant stage, domain or evaluation question when applying it."
           ]
+        }
+      ]
+    },
+    {
+      "title": "Expanded Topic-by-Topic Chapter Content",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": "3.1 What Computer Vision Means",
+          "text": "Computer Vision is the field of AI concerned with enabling computers to obtain useful information from images and other visual data. The computer does not see an image in the human biological sense; it receives numerical representations and applies algorithms or learned models to identify patterns, objects, structures or events."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.2 Digital Images as Data",
+          "text": "A digital image is represented using a grid of picture elements called pixels. Each pixel stores numerical information describing the visual signal at that location. The number of pixels determines spatial resolution, while the number of bits used to represent a value affects how many intensity or colour levels can be stored."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.3 Grayscale Images",
+          "text": "A grayscale image represents intensity rather than separate colour channels. In a common 8-bit representation, each pixel can store a value from 0 to 255, where values near one end represent darker intensity and values near the other represent lighter intensity. Grayscale images can simplify tasks when colour is not necessary."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.4 RGB Colour Images",
+          "text": "An RGB image represents colour using three channels: red, green and blue. A pixel can therefore be represented by three numerical values, one for each channel. Combining different intensities of these channels allows a large range of colours to be represented. RGB is a representation format, not a statement about how human vision itself works."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.5 Resolution",
+          "text": "Image resolution describes the number of pixels used to represent an image, often expressed as width by height. Higher resolution can preserve more visual detail, but it also increases the amount of data that must be stored and processed. The appropriate resolution depends on the visual task and available computational resources."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.6 Channels and Image Shape",
+          "text": "A grayscale image can be represented as a two-dimensional array of intensity values. An RGB image can be represented as a two-dimensional spatial grid with three values associated with each pixel. Other image formats can contain additional channels, such as an alpha channel representing transparency."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.7 Image Classification",
+          "text": "Image classification assigns an input image to one or more predefined categories. A model may learn visual patterns associated with each category from labelled examples. The output is a prediction, so the system must be evaluated to determine how reliably it distinguishes the intended classes."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.8 Object Detection",
+          "text": "Object detection identifies instances of objects and usually estimates their locations within an image using bounding regions. Unlike simple classification, detection must answer both what objects are present and where they occur. Multiple objects of different categories can be detected in the same image."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.9 Image Segmentation",
+          "text": "Segmentation assigns labels at the pixel or region level. Semantic segmentation can classify each pixel according to a category, while instance segmentation can distinguish separate objects belonging to the same category. Segmentation is useful when precise object boundaries matter."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.10 Image Recognition and Features",
+          "text": "Visual recognition depends on patterns such as edges, shapes, textures, colours and spatial relationships. Traditional computer-vision pipelines often extracted engineered features explicitly. Modern deep-learning systems can learn useful representations automatically from training data, although the underlying visual information remains encoded numerically."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.11 Image Preprocessing",
+          "text": "Preprocessing prepares images for later analysis. It can include resizing, normalising numerical ranges, reducing unwanted noise, adjusting contrast or converting representations. Preprocessing should be chosen according to the task because unnecessary transformations can remove information that the model needs."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.12 Noise in Images",
+          "text": "Noise is unwanted variation or distortion in visual data. It can arise from sensors, lighting, compression, transmission or environmental conditions. A vision system may need to distinguish meaningful visual patterns from such disturbances. Cleaning methods should preserve important edges and structures rather than simply making an image look smoother."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.13 Convolution as a Visual Operation",
+          "text": "Convolution applies a small numerical filter across different locations of an image. The filter combines nearby pixel values to produce a new value, allowing local patterns such as edges or textures to be detected. Repeating this operation across the image creates a feature map that represents where the learned or chosen pattern appears strongly."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.14 Convolutional Neural Networks",
+          "text": "A Convolutional Neural Network, or CNN, is a neural-network architecture widely associated with image processing. Convolutional layers learn local patterns, while later layers can combine these patterns into more complex representations. Pooling or other downsampling operations may reduce spatial size and help create more compact representations."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.15 Hierarchical Visual Features",
+          "text": "Visual information can be represented hierarchically. Early processing may respond to simple structures such as edges or local contrasts. Deeper layers can combine these into shapes, object parts and increasingly complex patterns. This hierarchy helps a CNN learn useful representations directly from image data."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.16 Training Visual Models",
+          "text": "A supervised vision model is trained using images paired with target labels or annotations. The model produces predictions, compares them with the expected targets through a loss function and adjusts parameters through optimisation. The process is repeated across many examples so the model can learn useful visual relationships."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.17 Data Augmentation",
+          "text": "Data augmentation creates varied training examples from existing images through transformations such as cropping, rotation, flipping or controlled changes in scale and brightness. The transformations should preserve the meaning of the label. Augmentation can help a model become less dependent on accidental details in the training images."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.18 Transfer Learning",
+          "text": "Transfer learning uses representations learned from one visual task or dataset as a starting point for another related task. Instead of learning every visual feature from the beginning, a new model can adapt useful existing representations. This can be valuable when the new dataset is smaller than the datasets normally required for training a large vision model."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.19 Face Detection and Recognition",
+          "text": "Face detection identifies regions that appear to contain faces, while face recognition attempts to determine identity or match a face with a known representation. These are different tasks. Systems involving faces require careful attention to consent, privacy, bias, security and the consequences of incorrect identification."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.20 Optical Character Recognition",
+          "text": "Optical Character Recognition, or OCR, converts visual representations of written or printed characters into machine-readable text. OCR involves locating text, analysing character shapes and producing a sequence of symbols. Performance can be affected by font, image quality, lighting, layout and language."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.21 Medical Image Analysis",
+          "text": "Computer vision can assist with medical image analysis by identifying patterns in scans or other clinical images. Such systems require carefully curated datasets and rigorous validation because errors can have serious consequences. A model’s performance in a research dataset does not by itself establish clinical suitability."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.22 Autonomous Systems",
+          "text": "Vehicles, robots and other autonomous systems can use cameras and vision models to perceive their surroundings. Visual information may help detect lanes, signs, obstacles, pedestrians or objects. Real-world systems generally combine computer vision with other sensors and decision-making components because no single visual input provides complete information about the environment."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.23 Limitations of Computer Vision",
+          "text": "Vision systems can fail when lighting, viewpoint, scale, background, weather or object appearance differs substantially from training examples. They may also be sensitive to small changes that humans would ignore. These limitations make representative data, testing conditions and uncertainty assessment important parts of a responsible vision system."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.24 Bias in Visual Datasets",
+          "text": "A visual dataset can be biased if some people, environments, object types or conditions are underrepresented. A model may then perform well on common examples but poorly on less represented cases. Dataset diversity should be considered when collecting images, defining labels and evaluating the final system."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.25 Computer Vision Pipeline",
+          "text": "A typical vision pipeline can include image acquisition, storage, preprocessing, feature or representation learning, model inference and interpretation of the output. The exact steps depend on the application. For example, a classification system may end with a category prediction, while a detection system also returns locations."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.26 Colour Information and Task Choice",
+          "text": "Colour can provide useful information for some vision tasks but can be irrelevant or misleading for others. A system detecting a shape may benefit little from colour, while identifying ripe fruit may depend strongly on colour patterns. The representation should therefore be selected according to the information required by the task."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.27 Visual Data Storage and Computation",
+          "text": "Large images and video contain substantial numbers of numerical values. Increasing resolution, frame rate or colour information increases computational requirements. Efficient processing may involve resizing, compression, sampling or specialised hardware, but these choices can create a trade-off between computational cost and preserved visual detail."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.28 Video and Temporal Information",
+          "text": "A video is a sequence of images captured over time. Computer vision applied to video can use both the appearance of individual frames and changes between frames. This enables tasks such as action recognition, object tracking and movement analysis, where time is an additional dimension of information."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.29 Human Vision and Computer Vision",
+          "text": "Human vision is a biological system involving eyes, neural processing, attention, memory and context. Computer vision uses sensors, numerical representations, algorithms and learned models. A computer may outperform people on a narrowly defined recognition task while lacking the broad contextual understanding and adaptability of human perception."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.30 Responsible Computer Vision",
+          "text": "A responsible computer-vision system should have a clear purpose, appropriate data, suitable evaluation, protection for sensitive information and safeguards against harmful misuse. Accuracy alone is not sufficient when visual data concerns people or sensitive environments. Deployment decisions should consider both technical limitations and social consequences."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.31 Image Classification vs Detection",
+          "text": "Classification answers which category an image belongs to, while detection identifies objects and their locations. A photograph containing several vehicles may be classified broadly as a traffic scene, but an object detector can locate individual cars, buses and motorcycles. The choice depends on the information required by the application."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.32 Semantic and Instance Segmentation",
+          "text": "Semantic segmentation assigns a category to each pixel, so all pixels belonging to the same category share a label. Instance segmentation goes further by distinguishing separate objects even when they belong to the same category. This difference is important in scenes containing multiple objects of the same type."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.33 Bounding Boxes",
+          "text": "A bounding box is a rectangular region used to indicate the approximate location of an object in an image. Object-detection datasets commonly store a class label together with coordinates describing the box. The quality of these annotations affects the ability of a model to learn accurate locations."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.34 Annotation in Vision Datasets",
+          "text": "Vision datasets can contain image-level labels, bounding boxes, masks, keypoints or other annotations. The annotation type must match the task. Creating detailed annotations can require substantial human effort, and inconsistent annotation standards can introduce noise into the training data."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.35 Image Resolution and Detail",
+          "text": "Fine details require sufficient spatial resolution. If an object occupies only a few pixels, distinguishing its shape or texture may be difficult. Increasing resolution can preserve detail but increases storage and computation. The appropriate resolution is therefore a trade-off based on the smallest important visual features."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.36 Lighting and Appearance",
+          "text": "The same object can appear different under sunlight, artificial light, shadows, reflections or low-light conditions. A robust vision model should encounter representative variations during development. Otherwise it may learn accidental relationships between an object and a particular lighting condition."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.37 Occlusion",
+          "text": "Occlusion occurs when one object partly blocks another. This makes recognition more difficult because only part of the object is visible. Training data containing realistic occlusion can help a model learn which partial patterns are sufficient for recognition."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.38 Viewpoint and Scale",
+          "text": "An object can appear different when viewed from different angles or distances. A model trained mostly on front-facing objects may perform poorly on unusual viewpoints. Similarly, objects at very different scales may require representations that can handle changes in size."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.39 Image Classification Scores",
+          "text": "A classifier may produce scores for several possible categories. The selected class can be the category with the highest score according to the model’s decision rule. These scores should not automatically be interpreted as perfectly calibrated probabilities unless calibration has been established."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.40 Precision in Object Detection",
+          "text": "Object detection can be evaluated by comparing predicted object regions with ground-truth regions. Measures of overlap, commonly based on intersection over union, help determine whether a predicted location sufficiently matches the true object region. Detection evaluation therefore considers both category correctness and localisation quality."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.41 Intersection over Union",
+          "text": "Intersection over Union, or IoU, compares the area shared by a predicted region and a ground-truth region with the total area covered by their union. A larger IoU indicates stronger overlap. It is widely used when evaluating bounding-box or segmentation predictions."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.42 Video Object Tracking",
+          "text": "Object tracking follows an identified object across successive video frames. Unlike detecting objects independently in each frame, tracking uses temporal continuity to associate observations of the same object over time. This supports applications such as traffic analysis and movement monitoring."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.43 Visual Similarity",
+          "text": "Visual similarity measures attempt to determine how alike two images or visual representations are according to a chosen representation or distance. Similarity can support image search, duplicate detection or matching tasks. The meaning of “similar” depends on the application and the representation used."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.44 Edge Detection",
+          "text": "Edges often occur where image intensity changes sharply. Edge-detection operations can highlight these boundaries and make structural information easier to analyse. Edges can be useful for detecting shapes, contours and object boundaries, although they are only one type of visual information."
+        },
+        {
+          "type": "paragraph",
+          "title": "3.45 Computer Vision in Document Processing",
+          "text": "Vision systems can analyse scanned documents to detect pages, layouts, tables, forms and text. OCR can then convert recognised characters into searchable text. Document-processing pipelines often combine multiple vision and language techniques rather than relying on a single model."
         }
       ]
     }
