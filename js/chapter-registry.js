@@ -1,6 +1,66 @@
 window.ChapterRegistry = [
 
   {
+    id: "10-artificialintelligence-introduction-to-ai",
+    aliases: ["class10-artificialintelligence-introduction-to-ai"],
+    class: 10,
+    subject: "Artificial Intelligence",
+    chapterNumber: 1,
+    title: "Introduction to AI",
+    file: "js/notes/class10/artificial-intelligence/introduction-to-ai.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-artificialintelligence-ai-project-cycle",
+    aliases: ["class10-artificialintelligence-ai-project-cycle"],
+    class: 10,
+    subject: "Artificial Intelligence",
+    chapterNumber: 2,
+    title: "AI Project Cycle",
+    file: "js/notes/class10/artificial-intelligence/ai-project-cycle.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-artificialintelligence-computer-vision-cv",
+    aliases: ["class10-artificialintelligence-computer-vision-cv"],
+    class: 10,
+    subject: "Artificial Intelligence",
+    chapterNumber: 3,
+    title: "Computer Vision (CV)",
+    file: "js/notes/class10/artificial-intelligence/computer-vision-cv.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-artificialintelligence-natural-language-processing-nlp",
+    aliases: ["class10-artificialintelligence-natural-language-processing-nlp"],
+    class: 10,
+    subject: "Artificial Intelligence",
+    chapterNumber: 4,
+    title: "Natural Language Processing (NLP)",
+    file: "js/notes/class10/artificial-intelligence/natural-language-processing-nlp.js",
+    enabled: true,
+    gradeLock: 10
+  },
+
+  {
+    id: "10-artificialintelligence-evaluation",
+    aliases: ["class10-artificialintelligence-evaluation"],
+    class: 10,
+    subject: "Artificial Intelligence",
+    chapterNumber: 5,
+    title: "Evaluation",
+    file: "js/notes/class10/artificial-intelligence/evaluation.js",
+    enabled: true,
+    gradeLock: 10
+  },
+  
+  {
     id: "10-informationtechnology-digital-documentation-advanced",
     aliases: ["class10-informationtechnology-digital-documentation-advanced"],
     class: 10,
