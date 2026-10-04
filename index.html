@@ -38,33 +38,6 @@ rel="stylesheet">
 rel="stylesheet"
 href="css/style.css">
 
-
-
-<style id="cq-final-navigation-polish">
-/* FINAL FLOW: Class → Subject → Chapter → Notes / Quiz / VSL */
-.screen{width:100%;min-height:360px}
-.screen.hidden{display:none!important}
-.dashboardHeader{background:linear-gradient(135deg,#4d36d4,#248fe8);color:#fff;border-radius:30px;padding:28px;margin-bottom:22px;box-shadow:0 20px 50px rgba(72,70,210,.18)}
-.dashboardHeader h2{margin:0;font-size:clamp(30px,6vw,48px);line-height:1.1}
-.dashboardHeader p{margin:8px 0 0;color:#eef3ff;font-weight:700}
-.dashboardGridThree{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
-.dashboardGridThree .dashboardCard{min-height:230px;padding:25px!important;border-radius:28px!important;position:relative;overflow:hidden;cursor:pointer;transition:transform .2s,box-shadow .2s!important}
-.dashboardGridThree .dashboardCard:hover{transform:translateY(-6px)!important}
-.dashboardGridThree .dashboardCard:after{content:'';position:absolute;right:-28px;bottom:-35px;width:120px;height:120px;border-radius:50%;background:#fff2;pointer-events:none}
-.dashboardCardNotes{background:linear-gradient(145deg,#fff,#f1efff)!important;border-top:7px solid #5b45e8!important}
-.dashboardCardQuiz{background:linear-gradient(145deg,#fff,#eff9ff)!important;border-top:7px solid #159fdb!important}
-.dashboardCardLab{background:linear-gradient(145deg,#effff7,#eef8ff)!important;border-top:7px solid #16b96a!important}
-.dashboardGridThree .dashboardIcon{width:68px;height:68px;border-radius:20px;display:grid;place-items:center;background:linear-gradient(135deg,#5b45e8,#218de8);color:#fff;font-size:35px!important;margin-bottom:18px}
-.dashboardCardQuiz .dashboardIcon{background:linear-gradient(135deg,#159fdb,#4f46e5)}
-.dashboardCardLab .dashboardIcon{background:linear-gradient(135deg,#16b96a,#0e9f9a)}
-.dashboardGridThree h3{font-size:23px!important;margin:0 0 8px!important;color:#18223f}
-.dashboardGridThree p{color:#68728a;line-height:1.6;margin:0}
-.dashboardGo{display:inline-flex;margin-top:18px;padding:10px 13px;border-radius:13px;background:#fff;color:#4e42c9;font-weight:900;font-size:13px}
-.scienceClassGrid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
-.scienceClassCard{min-height:150px!important;background:linear-gradient(145deg,#fff,#f6f7ff)!important}
-.vslSelectorCard{box-shadow:0 24px 70px rgba(50,60,130,.13)!important}
-@media(max-width:760px){.dashboardGridThree{grid-template-columns:1fr!important}.dashboardGridThree .dashboardCard{min-height:190px}.scienceClassGrid{grid-template-columns:1fr!important}}
-</style>
 </head>
 
 <body>
@@ -172,42 +145,6 @@ emoji_events
 
 </header>
 
-<!-- =========================
-     VIRTUAL SCIENCE LABORATORY HUB
-========================= -->
-<section id="scienceLabHub" class="scienceLabHub vsl-app" aria-label="Virtual Science Laboratory">
-  <div id="vslHeroPanel" class="vslHero">
-    <div class="vslHeroTop">
-      <div class="vslBadge"><span class="material-icons-round">science</span> HANDS-ON SCIENCE</div>
-    </div>
-    <div class="vslTitleRow">
-      <h1>Virtual Science<br>Laboratory</h1>
-      <button id="vslArrowButton" class="vslArrowButton" type="button" aria-label="Open Virtual Science Laboratory"><span>→</span></button>
-    </div>
-    <p>Choose a class, explore a Science chapter, and perform interactive experiments instead of only reading about them.</p>
-    <div class="vslMiniStats"><span>🧪 Interactive experiments</span><span>🎛️ Change variables</span><span>📊 Observe results</span><span>🧠 Learn by doing</span></div>
-  </div>
-
-  <div id="vslSelectorCard" class="vslSelectorCard hidden">
-    <div id="vslClassScreen" class="vslStepScreen">
-      <div class="vslStepHead"><span class="vslStepIcon">01</span><div><div class="vslKicker">VIRTUAL SCIENCE LABORATORY</div><h2>Choose your class</h2><p>Start by selecting a Science class.</p></div></div>
-      <div id="scienceClassGrid" class="scienceClassGrid"></div>
-    </div>
-
-    <div id="vslChapterScreen" class="vslStepScreen hidden">
-      <button id="vslBackToClasses" class="vslBackButton" type="button">← Classes</button>
-      <div class="vslStepHead"><span class="vslStepIcon">02</span><div><div class="vslKicker">CLASS SELECTED</div><h2 id="vslClassTitle">Science Chapters</h2><p>Select a chapter to see its simulations.</p></div></div>
-      <div id="scienceChapterGrid" class="scienceChapterGrid"></div>
-    </div>
-
-    <div id="vslExperimentScreen" class="vslStepScreen hidden">
-      <button id="vslBackToChapters" class="vslBackButton" type="button">← Chapters</button>
-      <div class="vslStepHead"><span class="vslStepIcon">03</span><div><div class="vslKicker">CHAPTER SELECTED</div><h2 id="vslChapterTitle">Chapter Simulations</h2><p>Choose any simulation and play it as many times as you want.</p></div></div>
-      <div id="scienceExperimentGrid" class="scienceExperimentGrid"></div>
-    </div>
-  </div>
-</section>
-
   <!-- =========================
      CLASS SELECTION — START PAGE
 ========================= -->
@@ -220,7 +157,6 @@ class="container">
 
 <section
 id="classScreen"
-class="screen vslHomeClassSection">
 
 <div
 class="sectionHeader">
