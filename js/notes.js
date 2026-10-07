@@ -333,7 +333,72 @@ if (!entry) {
 
 }
 
+/* --------------------------------------------------
+   2B. Compact ID matching
 
+   Handles IDs such as:
+
+   9-artificialintelligence-...
+   ↔
+   9-artificial-intelligence-...
+
+   9-informationtechnology-...
+   ↔
+   9-information-technology-...
+
+   9-politicalscience-...
+   ↔
+   class9-political-science-...
+-------------------------------------------------- */
+
+if (!entry) {
+
+  function compactChapterKey(value) {
+
+    return String(value || "")
+      .trim()
+      .toLowerCase()
+      .replace(/_/g, "-")
+      .replace(/\s+/g, "-")
+      .replace(/[^a-z0-9]/g, "");
+
+  }
+
+
+  const requestedCompact =
+    compactChapterKey(normalizedKey);
+
+
+  entry = registry.find(function (chapter) {
+
+    if (!chapter || chapter.enabled === false) {
+      return false;
+    }
+
+
+    const values = [
+
+      chapter.id,
+
+      ...(Array.isArray(chapter.aliases)
+        ? chapter.aliases
+        : [])
+
+    ];
+
+
+    return values.some(function (value) {
+
+      return (
+        compactChapterKey(value) ===
+        requestedCompact
+      );
+
+    });
+
+  });
+
+}
 /* --------------------------------------------------
    3. Final title-based fallback
    Useful when localStorage contains a chapter title
