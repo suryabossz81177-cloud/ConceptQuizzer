@@ -215,6 +215,21 @@ function chapterKeyVariants(value) {
     original.replace(/^\d+-/, "")
   );
 
+  /* Remove class + subject prefix */
+
+variants.add(
+  original.replace(
+    /^\d+-(?:math|mathematics|science|social-science|english|hindi|computer|history|geography|civics|economics|political-science|artificial-intelligence|information-technology)-/,
+    ""
+  )
+);
+
+variants.add(
+  original.replace(
+    /^class-?\d+-(?:math|mathematics|science|social-science|english|hindi|computer|history|geography|civics|economics|political-science|artificial-intelligence|information-technology)-/,
+    ""
+  )
+);
   /*
     Remove class + subject prefix
 
