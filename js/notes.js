@@ -148,188 +148,232 @@ async function loadChapter(key){
 
     const registry = window.ChapterRegistry;
 
-const normalizedKey =
-  String(key || "")
-    .trim()
-    .toLowerCase();
+const normalizedKey = String(key || "")
+  .trim()
+  .toLowerCase()
+  .replace(/_/g, "-")
+  .replace(/\s+/g, "-")
+  .replace(/-+/g, "-");
+
 
 /* ==================================================
-   CENTRAL CHAPTER RESOLVER
-   Handles:
-   8-civics-public-facilities
-   class8-civics-public-facilities
-   aliases
-   and other ID variations.
+   UNIVERSAL CHAPTER RESOLVER
+   Works for Class 6 → Class 10
+   Supports:
+   - exact IDs
+   - aliases
+   - class prefixes
+   - subject prefixes
+   - different ID formats
 ================================================== */
 
-let entry = null;
+function normalizeChapterKey(value) {
 
-/* 1. Use the central resolver if available */
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/_/g, "-")
+    .replace(/\s+/g, "-")
+    .replace(/[^a-z0-9-]/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
 
-if (
-  window.ConceptQuizzer &&
-  typeof window.ConceptQuizzer.resolveChapter === "function"
-) {
-  entry =
-    window.ConceptQuizzer.resolveChapter(
-      normalizedKey
-    );
 }
 
-/* 2. Exact ID / alias fallback */
 
-if (!entry) {
+function chapterKeyVariants(value) {
 
-  entry = registry.find(function(chapter) {
+  const original = normalizeChapterKey(value);
 
-    if (
-      !chapter ||
-      chapter.enabled === false
-    ) {
-      return false;
-    }
+  const variants = new Set();
 
-    const id =
-      String(chapter.id || "")
-        .trim()
-        .toLowerCase();
-
-    const aliases =
-      Array.isArray(chapter.aliases)
-        ? chapter.aliases
-        : [];
-
-    return (
-      id === normalizedKey ||
-      aliases.some(function(alias) {
-
-        return (
-          String(alias)
-            .trim()
-            .toLowerCase() === normalizedKey
-        );
-
-      })
-    );
-
-  }) || null;
-}
-
-/* 3. Normalized ID fallback */
-
-if (!entry) {
-
-  function normalizeChapterId(value) {
-
-    return String(value || "")
-      .trim()
-      .toLowerCase()
-      .replace(/_/g, "-")
-      .replace(/^class-?(\d+)-/, "")
-      .replace(/^class(\d+)-/, "")
-      .replace(/^\d+-/, "")
-      .replace(/[^a-z0-9]+/g, "-")
-      .replace(/^-+|-+$/g, "");
-
+  if (!original) {
+    return [];
   }
 
-  const wantedNormalized =
-    normalizeChapterId(normalizedKey);
+  variants.add(original);
 
-  entry = registry.find(function(chapter) {
+  /*
+    Remove class prefix
 
-    if (
-      !chapter ||
-      chapter.enabled === false
-    ) {
-      return false;
-    }
+    class10-math-real-numbers
+    → math-real-numbers
+  */
 
-    const chapterId =
-      normalizeChapterId(chapter.id);
+  variants.add(
+    original.replace(/^class-?\d+-/, "")
+  );
 
-    if (
-      chapterId === wantedNormalized
-    ) {
-      return true;
-    }
+  /*
+    Remove numeric class prefix
 
-    if (
-      Array.isArray(chapter.aliases)
-    ) {
+    10-mathematics-real-numbers
+    → mathematics-real-numbers
+  */
 
-      return chapter.aliases.some(
-        function(alias) {
+  variants.add(
+    original.replace(/^\d+-/, "")
+  );
 
-          return (
-            normalizeChapterId(alias) ===
-            wantedNormalized
-          );
+  /*
+    Remove class + subject prefix
 
-        }
-      );
+    class10-math-real-numbers
+    → real-numbers
 
-    }
+    10-mathematics-real-numbers
+    → real-numbers
+  */
 
-    return false;
+  variants.add(
+    original
+      .replace(/^class-?\d+-(?:math|mathematics)-/, "")
+  );
 
-  }) || null;
+  variants.add(
+    original
+      .replace(/^\d+-(?:math|mathematics)-/, "")
+  );
+
+  return Array.from(variants)
+    .filter(Boolean);
+
 }
 
-/* 4. Class 10 Mathematics fallback */
+
+/* --------------------------------------------------
+   1. Exact ID / alias match
+-------------------------------------------------- */
+
+let entry = registry.find(function (chapter) {
+
+  if (!chapter || chapter.enabled === false) {
+    return false;
+  }
+
+  const id = normalizeChapterKey(chapter.id);
+
+  if (id === normalizedKey) {
+    return true;
+  }
+
+  const aliases = Array.isArray(chapter.aliases)
+    ? chapter.aliases
+    : [];
+
+  return aliases.some(function (alias) {
+
+    return normalizeChapterKey(alias) === normalizedKey;
+
+  });
+
+});
+
+
+/* --------------------------------------------------
+   2. Universal normalized match
+-------------------------------------------------- */
 
 if (!entry) {
 
-  const slug = normalizedKey
-    .replace(
-      /^class-?10-(?:math|mathematics)-/,
-      ""
-    )
-    .replace(
-      /^10-(?:math|mathematics)-/,
-      ""
-    );
+  const requestedVariants =
+    chapterKeyVariants(normalizedKey);
 
-  entry = registry.find(function(chapter) {
+  entry = registry.find(function (chapter) {
 
-    if (
-      !chapter ||
-      chapter.enabled === false
-    ) {
+    if (!chapter || chapter.enabled === false) {
       return false;
     }
 
-    if (
-      Number(chapter.class) !== 10
-    ) {
+    const chapterValues = [
+
+      chapter.id,
+
+      ...(Array.isArray(chapter.aliases)
+        ? chapter.aliases
+        : [])
+
+    ];
+
+    const chapterVariants = [];
+
+    chapterValues.forEach(function (value) {
+
+      chapterKeyVariants(value)
+        .forEach(function (variant) {
+
+          chapterVariants.push(variant);
+
+        });
+
+    });
+
+    return requestedVariants.some(function (variant) {
+
+      return chapterVariants.includes(variant);
+
+    });
+
+  });
+
+}
+
+
+/* --------------------------------------------------
+   3. Final title-based fallback
+   Useful when localStorage contains a chapter title
+   instead of the registry ID.
+-------------------------------------------------- */
+
+if (!entry) {
+
+  const requestedTitle =
+    String(key || "")
+      .trim()
+      .toLowerCase()
+      .replace(/\s+/g, " ");
+
+  entry = registry.find(function (chapter) {
+
+    if (!chapter || chapter.enabled === false) {
       return false;
     }
 
-    if (
-      String(chapter.subject || "")
+    const title =
+      String(chapter.title || "")
         .trim()
-        .toLowerCase() !== "mathematics"
-    ) {
-      return false;
-    }
+        .toLowerCase()
+        .replace(/\s+/g, " ");
 
-    if (
-      Number(chapter.gradeLock || 10) !== 10
-    ) {
-      return false;
-    }
+    return title === requestedTitle;
 
-    const id =
-      String(chapter.id || "")
-        .trim()
-        .toLowerCase();
+  });
 
-    return (
-      id === slug ||
-      id.endsWith("-" + slug)
-    );
+}
 
-  }) || null;
+
+/* --------------------------------------------------
+   Debug information
+-------------------------------------------------- */
+
+if (entry) {
+
+  console.log(
+    "✅ Chapter resolved:",
+    key,
+    "→",
+    entry.id,
+    "→",
+    entry.file
+  );
+
+} else {
+
+  console.error(
+    "❌ Chapter could not be resolved:",
+    key
+  );
+
 }
 
     if (!entry || entry.enabled === false) {
