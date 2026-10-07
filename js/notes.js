@@ -355,12 +355,17 @@ if (!entry) {
 
   function compactChapterKey(value) {
 
-    return String(value || "")
-      .trim()
-      .toLowerCase()
-      .replace(/_/g, "-")
-      .replace(/\s+/g, "-")
-      .replace(/[^a-z0-9]/g, "");
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/_/g, "-")
+    .replace(/\s+/g, "-")
+
+    /* class9-... → 9-... */
+    .replace(/^class-?(\d+)-/, "$1-")
+
+    /* remove all separators */
+    .replace(/[^a-z0-9]/g, "");
 
   }
 
