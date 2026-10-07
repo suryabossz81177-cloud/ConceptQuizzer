@@ -148,47 +148,189 @@ async function loadChapter(key){
 
     const registry = window.ChapterRegistry;
 
-    const normalizedKey =
-      String(key || "").trim().toLowerCase();
+const normalizedKey =
+  String(key || "")
+    .trim()
+    .toLowerCase();
 
-    let entry = registry.find(chapter => {
-      if (!chapter || chapter.enabled === false) return false;
+/* ==================================================
+   CENTRAL CHAPTER RESOLVER
+   Handles:
+   8-civics-public-facilities
+   class8-civics-public-facilities
+   aliases
+   and other ID variations.
+================================================== */
 
-      const id = String(chapter.id || "").toLowerCase();
-      const aliases = Array.isArray(chapter.aliases)
+let entry = null;
+
+/* 1. Use the central resolver if available */
+
+if (
+  window.ConceptQuizzer &&
+  typeof window.ConceptQuizzer.resolveChapter === "function"
+) {
+  entry =
+    window.ConceptQuizzer.resolveChapter(
+      normalizedKey
+    );
+}
+
+/* 2. Exact ID / alias fallback */
+
+if (!entry) {
+
+  entry = registry.find(function(chapter) {
+
+    if (
+      !chapter ||
+      chapter.enabled === false
+    ) {
+      return false;
+    }
+
+    const id =
+      String(chapter.id || "")
+        .trim()
+        .toLowerCase();
+
+    const aliases =
+      Array.isArray(chapter.aliases)
         ? chapter.aliases
         : [];
 
-      return (
-        id === normalizedKey ||
-        aliases.some(alias =>
-          String(alias).toLowerCase() === normalizedKey
-        )
-      );
-    });
-
-    if (!entry) {
-      const slug = normalizedKey
-        .replace(/^\d+-[^-]+-/, "")
-        .replace(/^class10-(?:math|mathematics)-/, "");
-
-      entry = registry.find(chapter => {
-        if (!chapter || chapter.enabled === false) return false;
-        if (Number(chapter.class) !== 10) return false;
-        if (
-          String(chapter.subject || "").trim().toLowerCase()
-          !== "mathematics"
-        ) return false;
-        if (Number(chapter.gradeLock || 10) !== 10) return false;
-
-        const id = String(chapter.id || "").toLowerCase();
+    return (
+      id === normalizedKey ||
+      aliases.some(function(alias) {
 
         return (
-          id === slug ||
-          id.endsWith("-" + slug)
+          String(alias)
+            .trim()
+            .toLowerCase() === normalizedKey
         );
-      });
+
+      })
+    );
+
+  }) || null;
+}
+
+/* 3. Normalized ID fallback */
+
+if (!entry) {
+
+  function normalizeChapterId(value) {
+
+    return String(value || "")
+      .trim()
+      .toLowerCase()
+      .replace(/_/g, "-")
+      .replace(/^class-?(\d+)-/, "")
+      .replace(/^class(\d+)-/, "")
+      .replace(/^\d+-/, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+
+  }
+
+  const wantedNormalized =
+    normalizeChapterId(normalizedKey);
+
+  entry = registry.find(function(chapter) {
+
+    if (
+      !chapter ||
+      chapter.enabled === false
+    ) {
+      return false;
     }
+
+    const chapterId =
+      normalizeChapterId(chapter.id);
+
+    if (
+      chapterId === wantedNormalized
+    ) {
+      return true;
+    }
+
+    if (
+      Array.isArray(chapter.aliases)
+    ) {
+
+      return chapter.aliases.some(
+        function(alias) {
+
+          return (
+            normalizeChapterId(alias) ===
+            wantedNormalized
+          );
+
+        }
+      );
+
+    }
+
+    return false;
+
+  }) || null;
+}
+
+/* 4. Class 10 Mathematics fallback */
+
+if (!entry) {
+
+  const slug = normalizedKey
+    .replace(
+      /^class-?10-(?:math|mathematics)-/,
+      ""
+    )
+    .replace(
+      /^10-(?:math|mathematics)-/,
+      ""
+    );
+
+  entry = registry.find(function(chapter) {
+
+    if (
+      !chapter ||
+      chapter.enabled === false
+    ) {
+      return false;
+    }
+
+    if (
+      Number(chapter.class) !== 10
+    ) {
+      return false;
+    }
+
+    if (
+      String(chapter.subject || "")
+        .trim()
+        .toLowerCase() !== "mathematics"
+    ) {
+      return false;
+    }
+
+    if (
+      Number(chapter.gradeLock || 10) !== 10
+    ) {
+      return false;
+    }
+
+    const id =
+      String(chapter.id || "")
+        .trim()
+        .toLowerCase();
+
+    return (
+      id === slug ||
+      id.endsWith("-" + slug)
+    );
+
+  }) || null;
+}
 
     if (!entry || entry.enabled === false) {
       throw new Error(
