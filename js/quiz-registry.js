@@ -137,10 +137,10 @@
                ----------------------------------------- */
 
             const quizURL =
-                new URL(
-                    result.file,
-                    window.location.origin + "/"
-                ).href;
+    new URL(
+        result.file,
+        document.baseURI
+    ).href;
 
             console.log(
                 "🎯 Loading quiz:",
