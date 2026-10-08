@@ -1,44 +1,16 @@
 /* =========================================================
    CONCEPT QUIZZER — QUIZ REGISTRY
-   ---------------------------------------------------------
-   One separate quiz file for every chapter.
-
-   Flow:
-
-   Chapter Registry
-          ↓
-   Quiz Registry
-          ↓
-   Separate Chapter Quiz File
-          ↓
-   Quiz Player
    ========================================================= */
 
 (function () {
 
     "use strict";
 
-
-    /* =====================================================
-       GLOBAL QUIZ DATA
-       ===================================================== */
-
-    window.QuizData =
-        window.QuizData || {};
-
-
-    /* =====================================================
-       QUIZ REGISTRY
-       ===================================================== */
+    window.QuizData = window.QuizData || {};
 
     window.QuizRegistry = {
 
         entries: {},
-
-
-        /* -------------------------------------------------
-           REGISTER A QUIZ FILE
-           ------------------------------------------------- */
 
         register: function (chapterId, quizFile) {
 
@@ -51,13 +23,7 @@
                     .trim()
                     .toLowerCase()
             ] = quizFile;
-
         },
-
-
-        /* -------------------------------------------------
-           NORMALIZE CHAPTER ID
-           ------------------------------------------------- */
 
         normalize: function (value) {
 
@@ -68,40 +34,22 @@
                 .replace(/\s+/g, "-")
                 .replace(/-+/g, "-")
                 .replace(/^-|-$/g, "");
-
         },
-
-
-        /* -------------------------------------------------
-           COMPACT ID
-
-           This handles differences such as:
-
-           9-artificialintelligence-...
-           9-artificial-intelligence-...
-
-           class9-political-science-...
-           9-politicalscience-...
-           ------------------------------------------------- */
 
         compact: function (value) {
 
-    return String(value || "")
-        .trim()
-        .toLowerCase()
-        .replace(/_/g, "-")
-        .replace(/\s+/g, "-")
-        .replace(/^class-?(\d+)-/, "$1-")
-        .replace(/^(6|7|8|9|10)-(mathematics|math|science|social-science|socialscience|english|hindi|sanskrit)-/, "")
-        .replace(/^(6|7|8|9|10)-/, "")
-        .replace(/[^a-z0-9]/g, "");
-
-},
-
-
-        /* -------------------------------------------------
-           FIND A REGISTERED QUIZ
-           ------------------------------------------------- */
+            return String(value || "")
+                .trim()
+                .toLowerCase()
+                .replace(/_/g, "-")
+                .replace(/\s+/g, "-")
+                .replace(/^class-?(\d+)-/, "$1-")
+                .replace(
+                    /^(6|7|8|9|10)-(mathematics|math|science|social-science|socialscience|english|hindi|sanskrit)-/,
+                    ""
+                )
+                .replace(/[^a-z0-9]/g, "");
+        },
 
         find: function (chapterKey) {
 
@@ -112,7 +60,6 @@
                 return null;
             }
 
-
             /* Exact match */
 
             if (this.entries[requested]) {
@@ -121,19 +68,15 @@
                     chapterId: requested,
                     file: this.entries[requested]
                 };
-
             }
-
 
             /* Compact match */
 
             const requestedCompact =
                 this.compact(requested);
 
-
             const ids =
                 Object.keys(this.entries);
-
 
             for (let i = 0; i < ids.length; i++) {
 
@@ -148,53 +91,34 @@
                         chapterId: id,
                         file: this.entries[id]
                     };
-
                 }
-
             }
 
-
             return null;
-
         },
-
-
-        /* -------------------------------------------------
-           CHECK IF QUIZ EXISTS
-           ------------------------------------------------- */
 
         has: function (chapterKey) {
 
             return !!this.find(chapterKey);
-
         },
-
-
-        /* -------------------------------------------------
-           LOAD QUIZ FILE
-           ------------------------------------------------- */
 
         load: function (chapterKey) {
 
             const result =
                 this.find(chapterKey);
 
-
             if (!result) {
 
                 return Promise.reject(
                     new Error(
-                        "No quiz file registered for chapter: " +
+                        "No quiz registered for: " +
                         chapterKey
                     )
                 );
-
             }
-
 
             const canonicalId =
                 result.chapterId;
-
 
             /* Already loaded */
 
@@ -206,33 +130,45 @@
                 return Promise.resolve(
                     window.QuizData[canonicalId]
                 );
-
             }
 
+            /* -----------------------------------------
+               CREATE ABSOLUTE QUIZ FILE URL
+               ----------------------------------------- */
 
-            /* Load separate chapter file */
+            const quizURL =
+                new URL(
+                    result.file,
+                    window.location.origin + "/"
+                ).href;
+
+            console.log(
+                "🎯 Loading quiz:",
+                canonicalId,
+                quizURL
+            );
 
             return new Promise(
                 function (resolve, reject) {
 
                     const script =
-                        document.createElement(
-                            "script"
-                        );
+                        document.createElement("script");
 
+                    script.src = quizURL;
 
-                    script.src =
-    result.file;
-
+                    script.async = true;
 
                     script.onload =
                         function () {
 
+                            console.log(
+                                "✅ Quiz script loaded:",
+                                quizURL
+                            );
+
                             if (
                                 window.QuizData &&
-                                window.QuizData[
-                                    canonicalId
-                                ]
+                                window.QuizData[canonicalId]
                             ) {
 
                                 resolve(
@@ -244,147 +180,67 @@
                                 return;
                             }
 
-
                             reject(
                                 new Error(
-                                    "Quiz file loaded but did not register data for: " +
+                                    "Quiz file loaded but data was not registered for: " +
                                     canonicalId
                                 )
                             );
-
                         };
-
 
                     script.onerror =
                         function () {
 
+                            console.error(
+                                "❌ Quiz file failed:",
+                                quizURL
+                            );
+
                             reject(
                                 new Error(
                                     "Could not load quiz file: " +
-                                    result.file
+                                    quizURL
                                 )
                             );
-
                         };
 
-
-                    document.head.appendChild(
-                        script
-                    );
-
+                    document.head.appendChild(script);
                 }
             );
-
         }
-
     };
 
 
     /* =====================================================
-       BUILD REGISTRY FROM CHAPTER REGISTRY
+       CLASS 6 — MATHEMATICS
        ===================================================== */
 
-    function buildQuizRegistry() {
-
-        if (
-            !Array.isArray(
-                window.ChapterRegistry
-            )
-        ) {
-
-            console.warn(
-                "⚠️ Quiz Registry: ChapterRegistry is not available."
-            );
-
-            return;
-
-        }
-
-
-        window.ChapterRegistry.forEach(
-            function (chapter) {
-
-                if (
-                    !chapter ||
-                    !chapter.id ||
-                    !chapter.file
-                ) {
-
-                    return;
-
-                }
-
-
-                /*
-                 * Convert:
-                 *
-                 * js/notes/class9/
-                 * political-science/
-                 * electoral-politics.js
-                 *
-                 * into:
-                 *
-                 * js/quizzes/class9/
-                 * political-science/
-                 * electoral-politics.js
-                 */
-
-                const quizFile =
-                    chapter.file.replace(
-                        /^js\/notes\//,
-                        "js/quizzes/"
-                    );
-
-
-                /* Register canonical ID */
-
-                window.QuizRegistry.register(
-                    chapter.id,
-                    quizFile
-                );
-
-
-                /* Register aliases */
-
-                if (
-                    Array.isArray(
-                        chapter.aliases
-                    )
-                ) {
-
-                    chapter.aliases.forEach(
-                        function (alias) {
-
-                            window.QuizRegistry.register(
-                                alias,
-                                quizFile
-                            );
-
-                        }
-                    );
-
-                }
-
-            }
-        );
-
-
-        console.log(
-            "✅ Quiz Registry built:",
-            Object.keys(
-                window.QuizRegistry.entries
-            ).length,
-            "quiz mappings"
-        );
-
-    }
+    window.QuizRegistry.register(
+        "patterns-in-mathematics",
+        "js/quizzes/class6/mathematics/patterns-in-mathematics.js"
+    );
 
 
     /* =====================================================
-       BUILD NOW
+       FUTURE QUIZZES GO HERE
+
+       Example:
+
+       window.QuizRegistry.register(
+           "class6-mathematics-lines-and-angles",
+           "js/quizzes/class6/mathematics/lines-and-angles.js"
+       );
+
        ===================================================== */
 
-    buildQuizRegistry();
 
+    console.log(
+        "✅ Quiz Registry ready:",
+        Object.keys(
+            window.QuizRegistry.entries
+        )
+    );
 
 })();
+
+
