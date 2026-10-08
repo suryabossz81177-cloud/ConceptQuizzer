@@ -1,590 +1,156 @@
-/* Class 6 Mathematics — Chapter 5: Prime Time
-   NCERT-aligned practice quiz. Easy 10, Medium 10, Hard 15, Too Hard 20, Extreme 25.
-   answer = zero-based correct option index.
+/* CONCEPT QUIZZER — CLASS 6 MATHEMATICS
+   Chapter 5: Prime Time
+   Original practice questions aligned to the chapter topics.
+   Counts: Easy 10 | Medium 10 | Hard 15 | Too Hard 20 | Extreme 25.
+   `answer` is the zero-based index of the correct option.
 */
 window.QuizData = window.QuizData || {};
 window.QuizData["prime-time"] = {
   "easy": [
     {
-      "question": "Which is the prime factorisation of 84?",
+      "question": "What is the least common multiple of 8 and 9?",
       "options": [
-        "84 × 1",
-        "2 × 2 × 3 × 7",
-        "2 × 42",
-        "84"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant)",
-      "options": [
-        "One",
-        "Infinitely many",
-        "Three",
-        "Two"
+        "73",
+        "None of these",
+        "9",
+        "72"
       ],
       "answer": 3
     },
     {
-      "question": "How many positive factors does 36 have?",
-      "options": [
-        "18",
-        "10",
-        "9",
-        "8"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "How many positive factors does 12 have?",
-      "options": [
-        "None of these",
-        "5",
-        "6",
-        "7"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Is 19 prime or composite?",
+      "question": "Is 23 prime or composite?",
       "options": [
         "prime",
-        "neither",
+        "even prime",
         "both",
-        "even prime"
+        "neither"
       ],
       "answer": 0
     },
     {
-      "question": "Find the greatest common factor of 12 and 8.",
+      "question": "Which is the prime factorisation of 76?",
       "options": [
-        "8",
-        "4",
-        "1",
-        "5"
+        "2 × 38",
+        "2 × 2 × 19",
+        "76 × 1",
+        "76"
       ],
       "answer": 1
-    },
-    {
-      "question": "Find the least common multiple of 9 and 6.",
-      "options": [
-        "9",
-        "18",
-        "19",
-        "54"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many positive factors does a prime number have?",
-      "options": [
-        "Two",
-        "Three",
-        "One",
-        "Infinitely many"
-      ],
-      "answer": 0
     },
     {
       "question": "Is 33 prime or composite?",
       "options": [
-        "neither",
-        "composite",
-        "even prime",
-        "both"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Find the greatest common factor of 11 and 9.",
-      "options": [
-        "1",
-        "None of these",
-        "9",
-        "2"
-      ],
-      "answer": 0
-    }
-  ],
-  "medium": [
-    {
-      "question": "How many positive factors does 12 have? (variant)",
-      "options": [
-        "7",
-        "None of these",
-        "5",
-        "6"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "How many positive factors does 36 have? (variant)",
-      "options": [
-        "9",
-        "10",
-        "8",
-        "18"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which is the prime factorisation of 84? (variant)",
-      "options": [
-        "2 × 42",
-        "84",
-        "2 × 2 × 3 × 7",
-        "84 × 1"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Is 19 prime or composite? (variant)",
-      "options": [
-        "prime",
-        "neither",
         "both",
-        "even prime"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the greatest common factor of 6 and 9.",
-      "options": [
-        "4",
-        "6",
-        "1",
-        "3"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Find the least common multiple of 7 and 8.",
-      "options": [
-        "8",
-        "57",
-        "None of these",
-        "56"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant)",
-      "options": [
-        "One",
-        "Two",
-        "Infinitely many",
-        "Three"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Find the least common multiple of 5 and 7.",
-      "options": [
-        "7",
-        "None of these",
-        "36",
-        "35"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant)",
-      "options": [
-        "Infinitely many",
-        "One",
-        "Two",
-        "Three"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is the prime factorisation of 120?",
-      "options": [
-        "120",
-        "2 × 60",
-        "120 × 1",
-        "2 × 2 × 2 × 3 × 5"
-      ],
-      "answer": 3
-    }
-  ],
-  "hard": [
-    {
-      "question": "Is 33 prime or composite? (variant)",
-      "options": [
-        "both",
-        "even prime",
         "neither",
+        "even prime",
         "composite"
       ],
       "answer": 3
     },
     {
-      "question": "Find the greatest common factor of 7 and 10.",
+      "question": "What is the greatest common factor of 13 and 25?",
+      "options": [
+        "1",
+        "None of these",
+        "13",
+        "2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the greatest common factor of 12 and 15?",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "12"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many positive factors does 42 have?",
+      "options": [
+        "8",
+        "21",
+        "9",
+        "7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the least common multiple of 12 and 7?",
       "options": [
         "None of these",
-        "2",
-        "1",
+        "84",
+        "85",
+        "12"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is the prime factorisation of 60?",
+      "options": [
+        "2 × 30",
+        "60",
+        "2 × 2 × 3 × 5",
+        "60 × 1"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many positive factors does 22 have?",
+      "options": [
+        "5",
+        "4",
+        "11",
+        "3"
+      ],
+      "answer": 1
+    }
+  ],
+  "medium": [
+    {
+      "question": "What is the least common multiple of 11 and 17?",
+      "options": [
+        "187",
+        "17",
+        "None of these",
+        "188"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many positive factors does 32 have?",
+      "options": [
+        "16",
+        "5",
+        "6",
         "7"
       ],
       "answer": 2
     },
     {
-      "question": "Find the greatest common factor of 6 and 11.",
+      "question": "What is the least common multiple of 15 and 15?",
       "options": [
-        "6",
-        "2",
-        "1",
-        "None of these"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is the prime factorisation of 120? (variant)",
-      "options": [
-        "120",
-        "120 × 1",
-        "2 × 2 × 2 × 3 × 5",
-        "2 × 60"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Three",
-        "Infinitely many",
-        "Two",
-        "One"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Find the least common multiple of 7 and 7.",
-      "options": [
-        "7",
-        "49",
-        "8",
-        "None of these"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "How many positive factors does 36 have? (variant) (variant)",
-      "options": [
-        "18",
-        "9",
-        "8",
-        "10"
+        "16",
+        "15",
+        "None of these",
+        "225"
       ],
       "answer": 1
     },
     {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant)",
+      "question": "What is the greatest common factor of 16 and 9?",
       "options": [
-        "One",
-        "Three",
-        "Infinitely many",
-        "Two"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "How many positive factors does 12 have? (variant) (variant)",
-      "options": [
-        "7",
-        "5",
         "None of these",
-        "6"
+        "1",
+        "9",
+        "2"
       ],
-      "answer": 3
-    },
-    {
-      "question": "Which is the prime factorisation of 84? (variant) (variant)",
-      "options": [
-        "2 × 42",
-        "84",
-        "84 × 1",
-        "2 × 2 × 3 × 7"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Find the least common multiple of 11 and 9.",
-      "options": [
-        "100",
-        "None of these",
-        "99",
-        "11"
-      ],
-      "answer": 2
+      "answer": 1
     },
     {
       "question": "Is 27 prime or composite?",
-      "options": [
-        "neither",
-        "composite",
-        "even prime",
-        "both"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Is 19 prime or composite? (variant) (variant)",
-      "options": [
-        "neither",
-        "prime",
-        "both",
-        "even prime"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Find the least common multiple of 9 and 8.",
-      "options": [
-        "None of these",
-        "72",
-        "73",
-        "9"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Find the greatest common factor of 8 and 9.",
-      "options": [
-        "2",
-        "8",
-        "None of these",
-        "1"
-      ],
-      "answer": 3
-    }
-  ],
-  "tooHard": [
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Two",
-        "One",
-        "Infinitely many",
-        "Three"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the greatest common factor of 9 and 10.",
-      "options": [
-        "2",
-        "9",
-        "1",
-        "None of these"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "How many positive factors does 36 have? (variant) (variant) (variant)",
-      "options": [
-        "9",
-        "18",
-        "10",
-        "8"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "One",
-        "Infinitely many",
-        "Two",
-        "Three"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Is 19 prime or composite? (variant) (variant) (variant)",
-      "options": [
-        "prime",
-        "both",
-        "neither",
-        "even prime"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the greatest common factor of 8 and 11.",
-      "options": [
-        "2",
-        "1",
-        "None of these",
-        "8"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Find the greatest common factor of 7 and 12.",
-      "options": [
-        "1",
-        "7",
-        "None of these",
-        "2"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "How many positive factors does 12 have? (variant) (variant) (variant)",
-      "options": [
-        "7",
-        "5",
-        "6",
-        "None of these"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Find the least common multiple of 11 and 8.",
-      "options": [
-        "88",
-        "11",
-        "89",
-        "None of these"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "How many positive factors does 24 have? (variant)",
-      "options": [
-        "12",
-        "8",
-        "7",
-        "9"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "One",
-        "Infinitely many",
-        "Three",
-        "Two"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Is 33 prime or composite? (variant) (variant)",
-      "options": [
-        "composite",
-        "even prime",
-        "neither",
-        "both"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which is the prime factorisation of 42?",
-      "options": [
-        "42 × 1",
-        "2 × 3 × 7",
-        "42",
-        "2 × 21"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is the prime factorisation of 84? (variant) (variant) (variant)",
-      "options": [
-        "2 × 2 × 3 × 7",
-        "84 × 1",
-        "2 × 42",
-        "84"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Is 27 prime or composite? (variant)",
-      "options": [
-        "neither",
-        "both",
-        "even prime",
-        "composite"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Find the least common multiple of 7 and 10.",
-      "options": [
-        "70",
-        "None of these",
-        "10",
-        "71"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "How many positive factors does 24 have?",
-      "options": [
-        "8",
-        "7",
-        "9",
-        "12"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the least common multiple of 5 and 9.",
-      "options": [
-        "None of these",
-        "46",
-        "9",
-        "45"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Two",
-        "One",
-        "Three",
-        "Infinitely many"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which is the prime factorisation of 120? (variant) (variant)",
-      "options": [
-        "2 × 60",
-        "2 × 2 × 2 × 3 × 5",
-        "120",
-        "120 × 1"
-      ],
-      "answer": 1
-    }
-  ],
-  "extreme": [
-    {
-      "question": "Find the least common multiple of 5 and 8.",
-      "options": [
-        "8",
-        "40",
-        "41",
-        "None of these"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many positive factors does 36 have? (variant) (variant) (variant) (variant)",
-      "options": [
-        "9",
-        "18",
-        "10",
-        "8"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Is 33 prime or composite? (variant) (variant) (variant)",
       "options": [
         "both",
         "composite",
@@ -594,222 +160,658 @@ window.QuizData["prime-time"] = {
       "answer": 1
     },
     {
-      "question": "Is 27 prime or composite? (variant) (variant)",
+      "question": "How many positive factors does 52 have?",
       "options": [
-        "neither",
-        "even prime",
-        "both",
-        "composite"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which is the prime factorisation of 42? (variant)",
-      "options": [
-        "2 × 3 × 7",
-        "42",
-        "42 × 1",
-        "2 × 21"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which is the prime factorisation of 120? (variant) (variant) (variant)",
-      "options": [
-        "120 × 1",
-        "2 × 2 × 2 × 3 × 5",
-        "2 × 60",
-        "120"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Two",
-        "Three",
-        "Infinitely many",
-        "One"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the greatest common factor of 7 and 9.",
-      "options": [
+        "6",
         "7",
-        "1",
-        "None of these",
-        "2"
+        "26",
+        "5"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "Find the least common multiple of 7 and 9.",
+      "question": "Is 17 prime or composite?",
       "options": [
-        "None of these",
-        "63",
-        "64",
-        "9"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Find the greatest common factor of 11 and 12.",
-      "options": [
-        "11",
-        "2",
-        "None of these",
-        "1"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Infinitely many",
-        "One",
-        "Two",
-        "Three"
+        "both",
+        "neither",
+        "prime",
+        "even prime"
       ],
       "answer": 2
     },
     {
-      "question": "How many positive factors does 12 have? (variant) (variant) (variant) (variant)",
+      "question": "Which is the prime factorisation of 62?",
       "options": [
+        "62 × 1",
         "None of these",
-        "5",
-        "7",
-        "6"
+        "2 × 31",
+        "62"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is the prime factorisation of 78?",
+      "options": [
+        "2 × 39",
+        "78",
+        "78 × 1",
+        "2 × 3 × 13"
       ],
       "answer": 3
     },
     {
-      "question": "Find the greatest common factor of 8 and 8.",
+      "question": "What is the greatest common factor of 17 and 19?",
       "options": [
-        "8",
-        "9",
+        "1",
+        "2",
         "None of these",
-        "1"
+        "17"
       ],
       "answer": 0
-    },
+    }
+  ],
+  "hard": [
     {
-      "question": "Is 27 prime or composite? (variant) (variant) (variant)",
+      "question": "Is 19 prime or composite?",
       "options": [
-        "composite",
         "neither",
         "even prime",
+        "prime",
         "both"
       ],
-      "answer": 0
-    },
-    {
-      "question": "Which is the prime factorisation of 84? (variant) (variant) (variant) (variant)",
-      "options": [
-        "2 × 2 × 3 × 7",
-        "84",
-        "2 × 42",
-        "84 × 1"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Three",
-        "Infinitely many",
-        "Two",
-        "One"
-      ],
       "answer": 2
     },
     {
-      "question": "Find the least common multiple of 11 and 7.",
+      "question": "Is 73 prime or composite?",
       "options": [
-        "None of these",
-        "11",
-        "77",
-        "78"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Find the least common multiple of 9 and 6. (variant)",
-      "options": [
-        "18",
-        "9",
-        "54",
-        "19"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "How many positive factors does a prime number have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Three",
-        "One",
-        "Two",
-        "Infinitely many"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Find the greatest common factor of 12 and 11.",
-      "options": [
-        "2",
-        "1",
-        "11",
-        "None of these"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many positive factors does 24 have? (variant) (variant)",
-      "options": [
-        "12",
-        "8",
-        "7",
-        "9"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many positive factors does 24 have? (variant) (variant) (variant)",
-      "options": [
-        "9",
-        "12",
-        "8",
-        "7"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Is 19 prime or composite? (variant) (variant) (variant) (variant)",
-      "options": [
-        "both",
-        "even prime",
         "neither",
+        "even prime",
+        "both",
         "prime"
       ],
       "answer": 3
     },
     {
-      "question": "Find the greatest common factor of 6 and 10.",
+      "question": "What is the least common multiple of 6 and 12?",
       "options": [
-        "2",
+        "13",
+        "72",
+        "None of these",
+        "12"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which is the prime factorisation of 64?",
+      "options": [
+        "64",
+        "64 × 1",
+        "2 × 2 × 2 × 2 × 2 × 2",
+        "2 × 32"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many positive factors does 12 have?",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the least common multiple of 10 and 10?",
+      "options": [
+        "100",
+        "None of these",
+        "11",
+        "10"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the greatest common factor of 6 and 14?",
+      "options": [
         "6",
         "1",
-        "3"
+        "3",
+        "2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the least common multiple of 14 and 8?",
+      "options": [
+        "56",
+        "14",
+        "57",
+        "112"
       ],
       "answer": 0
     },
     {
-      "question": "Which is the prime factorisation of 42? (variant) (variant)",
+      "question": "Is 83 prime or composite?",
       "options": [
-        "2 × 21",
-        "2 × 3 × 7",
+        "neither",
+        "prime",
+        "both",
+        "even prime"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is the prime factorisation of 58?",
+      "options": [
+        "58 × 1",
+        "None of these",
+        "58",
+        "2 × 29"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the greatest common factor of 20 and 22?",
+      "options": [
+        "1",
+        "20",
+        "3",
+        "2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which is the prime factorisation of 80?",
+      "options": [
+        "2 × 40",
+        "80 × 1",
+        "2 × 2 × 2 × 2 × 5",
+        "80"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is the prime factorisation of 42?",
+      "options": [
         "42",
-        "42 × 1"
+        "42 × 1",
+        "2 × 3 × 7",
+        "2 × 21"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the greatest common factor of 21 and 13?",
+      "options": [
+        "2",
+        "1",
+        "13",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the greatest common factor of 22 and 23?",
+      "options": [
+        "22",
+        "None of these",
+        "1",
+        "2"
+      ],
+      "answer": 2
+    }
+  ],
+  "tooHard": [
+    {
+      "question": "What is the greatest common factor of 10 and 8?",
+      "options": [
+        "1",
+        "8",
+        "3",
+        "2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the greatest common factor of 9 and 17?",
+      "options": [
+        "None of these",
+        "2",
+        "1",
+        "9"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is the prime factorisation of 44?",
+      "options": [
+        "2 × 2 × 11",
+        "44",
+        "2 × 22",
+        "44 × 1"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which is the prime factorisation of 66?",
+      "options": [
+        "66",
+        "2 × 3 × 11",
+        "66 × 1",
+        "2 × 33"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the greatest common factor of 8 and 26?",
+      "options": [
+        "1",
+        "8",
+        "2",
+        "3"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the least common multiple of 13 and 18?",
+      "options": [
+        "18",
+        "234",
+        "None of these",
+        "235"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is the prime factorisation of 38?",
+      "options": [
+        "2 × 19",
+        "38",
+        "38 × 1",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Is 87 prime or composite?",
+      "options": [
+        "both",
+        "composite",
+        "neither",
+        "even prime"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the least common multiple of 5 and 22?",
+      "options": [
+        "22",
+        "111",
+        "None of these",
+        "110"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the least common multiple of 4 and 16?",
+      "options": [
+        "16",
+        "None of these",
+        "17",
+        "64"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Is 77 prime or composite?",
+      "options": [
+        "both",
+        "neither",
+        "composite",
+        "even prime"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the greatest common factor of 12 and 9?",
+      "options": [
+        "9",
+        "3",
+        "1",
+        "4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the least common multiple of 9 and 20?",
+      "options": [
+        "None of these",
+        "20",
+        "180",
+        "181"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the greatest common factor of 11 and 18?",
+      "options": [
+        "11",
+        "2",
+        "1",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is the prime factorisation of 82?",
+      "options": [
+        "82",
+        "None of these",
+        "82 × 1",
+        "2 × 41"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Is 67 prime or composite?",
+      "options": [
+        "even prime",
+        "prime",
+        "neither",
+        "both"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Is 21 prime or composite?",
+      "options": [
+        "neither",
+        "even prime",
+        "composite",
+        "both"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the least common multiple of 14 and 7?",
+      "options": [
+        "98",
+        "None of these",
+        "14",
+        "15"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Is 57 prime or composite?",
+      "options": [
+        "composite",
+        "neither",
+        "both",
+        "even prime"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the greatest common factor of 7 and 16?",
+      "options": [
+        "7",
+        "2",
+        "None of these",
+        "1"
+      ],
+      "answer": 3
+    }
+  ],
+  "extreme": [
+    {
+      "question": "What is the least common multiple of 5 and 16?",
+      "options": [
+        "16",
+        "81",
+        "None of these",
+        "80"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the least common multiple of 9 and 14?",
+      "options": [
+        "126",
+        "127",
+        "14",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Is 29 prime or composite?",
+      "options": [
+        "prime",
+        "even prime",
+        "both",
+        "neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the greatest common factor of 12 and 25?",
+      "options": [
+        "None of these",
+        "2",
+        "1",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the greatest common factor of 14 and 26?",
+      "options": [
+        "3",
+        "1",
+        "14",
+        "2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the least common multiple of 10 and 20?",
+      "options": [
+        "21",
+        "20",
+        "200",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the greatest common factor of 8 and 23?",
+      "options": [
+        "8",
+        "2",
+        "1",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is the prime factorisation of 54?",
+      "options": [
+        "54",
+        "2 × 3 × 3 × 3",
+        "54 × 1",
+        "2 × 27"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the least common multiple of 13 and 12?",
+      "options": [
+        "13",
+        "None of these",
+        "156",
+        "157"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Is 47 prime or composite?",
+      "options": [
+        "prime",
+        "both",
+        "even prime",
+        "neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Is 39 prime or composite?",
+      "options": [
+        "even prime",
+        "composite",
+        "both",
+        "neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is the prime factorisation of 50?",
+      "options": [
+        "2 × 5 × 5",
+        "50",
+        "2 × 25",
+        "50 × 1"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which is the prime factorisation of 70?",
+      "options": [
+        "70 × 1",
+        "2 × 35",
+        "2 × 5 × 7",
+        "70"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the least common multiple of 6 and 22?",
+      "options": [
+        "132",
+        "22",
+        "67",
+        "66"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the least common multiple of 14 and 18?",
+      "options": [
+        "127",
+        "126",
+        "18",
+        "252"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the greatest common factor of 10 and 24?",
+      "options": [
+        "10",
+        "2",
+        "1",
+        "3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the least common multiple of 15 and 7?",
+      "options": [
+        "15",
+        "105",
+        "None of these",
+        "106"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the greatest common factor of 22 and 12?",
+      "options": [
+        "1",
+        "3",
+        "12",
+        "2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the greatest common factor of 7 and 13?",
+      "options": [
+        "2",
+        "1",
+        "None of these",
+        "7"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the greatest common factor of 6 and 22?",
+      "options": [
+        "1",
+        "3",
+        "6",
+        "2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the least common multiple of 11 and 9?",
+      "options": [
+        "99",
+        "None of these",
+        "100",
+        "11"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the greatest common factor of 9 and 14?",
+      "options": [
+        "2",
+        "9",
+        "1",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the greatest common factor of 11 and 15?",
+      "options": [
+        "2",
+        "None of these",
+        "1",
+        "11"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the greatest common factor of 13 and 16?",
+      "options": [
+        "None of these",
+        "1",
+        "13",
+        "2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the least common multiple of 7 and 11?",
+      "options": [
+        "11",
+        "77",
+        "None of these",
+        "78"
       ],
       "answer": 1
     }

@@ -1,817 +1,819 @@
-/* Class 6 Mathematics — Chapter 4: Data Handling and Presentation
-   NCERT-aligned practice quiz. Easy 10, Medium 10, Hard 15, Too Hard 20, Extreme 25.
-   answer = zero-based correct option index.
+/* CONCEPT QUIZZER — CLASS 6 MATHEMATICS
+   Chapter 4: Data Handling and Presentation
+   Original practice questions aligned to the chapter topics.
+   Counts: Easy 10 | Medium 10 | Hard 15 | Too Hard 20 | Extreme 25.
+   `answer` is the zero-based index of the correct option.
 */
 window.QuizData = window.QuizData || {};
 window.QuizData["data-handling-and-presentation"] = {
   "easy": [
     {
-      "question": "Why is a key needed in a pictograph?",
+      "question": "What is the range of the two data values 6 and 10?",
       "options": [
-        "It gives the answer automatically",
-        "It removes labels",
-        "It explains what each symbol represents",
-        "It changes the data"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A tally table records 5, 7 and 4 responses. How many responses altogether?",
-      "options": [
-        "17",
-        "11",
-        "12",
+        "6",
+        "5",
+        "4",
         "16"
       ],
-      "answer": 3
-    },
-    {
-      "question": "Why is a key needed in a pictograph? (variant)",
-      "options": [
-        "It removes labels",
-        "It gives the answer automatically",
-        "It explains what each symbol represents",
-        "It changes the data"
-      ],
       "answer": 2
     },
     {
-      "question": "Each symbol in a pictograph represents 5 items. What do 8 symbols represent?",
-      "options": [
-        "45",
-        "13",
-        "40",
-        "8"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A bar graph shows 3, 6 and 8. What is the greatest value?",
-      "options": [
-        "3",
-        "8",
-        "7",
-        "17"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the range of 5 and 10?",
-      "options": [
-        "15",
-        "6",
-        "None of these",
-        "5"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A bar graph shows 4, 6 and 7. What is the greatest value?",
-      "options": [
-        "7",
-        "6",
-        "4",
-        "17"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Each symbol in a pictograph represents 3 items. What do 7 symbols represent?",
+      "question": "A bar graph shows values 12, 14 and 22. What is the greatest value?",
       "options": [
         "21",
-        "10",
-        "7",
-        "24"
+        "48",
+        "12",
+        "22"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "A tally table records 6, 6 and 4 responses. How many responses altogether?",
+      "question": "What is the range of the two data values 17 and 30?",
       "options": [
-        "10",
-        "16",
-        "17",
-        "12"
+        "47",
+        "14",
+        "13",
+        "17"
       ],
-      "answer": 1
+      "answer": 2
     },
     {
-      "question": "Find the mean of 3, 6 and 9.",
+      "question": "A bar graph shows values 8, 15 and 19. What is the greatest value?",
       "options": [
-        "7",
-        "6",
-        "None of these",
+        "8",
+        "19",
+        "42",
         "18"
       ],
       "answer": 1
+    },
+    {
+      "question": "A tally table records 8, 14 and 12 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "35",
+        "34",
+        "26",
+        "22"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A tally table records 7, 5 and 15 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "27",
+        "28",
+        "12",
+        "20"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Find the mean of the data values 7, 7 and 7.",
+      "options": [
+        "7",
+        "21",
+        "8",
+        "0"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the range of the two data values 5 and 16?",
+      "options": [
+        "5",
+        "12",
+        "21",
+        "11"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In a pictograph, each symbol represents 5 items. What do 3 symbols represent?",
+      "options": [
+        "8",
+        "20",
+        "3",
+        "15"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In a pictograph, each symbol represents 6 items. What do 4 symbols represent?",
+      "options": [
+        "4",
+        "30",
+        "10",
+        "24"
+      ],
+      "answer": 3
     }
   ],
   "medium": [
     {
-      "question": "What is the range of 5 and 11?",
+      "question": "In a pictograph, each symbol represents 7 items. What do 5 symbols represent?",
       "options": [
-        "7",
         "5",
-        "16",
-        "6"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why is a key needed in a pictograph? (variant) (variant)",
-      "options": [
-        "It removes labels",
-        "It changes the data",
-        "It explains what each symbol represents",
-        "It gives the answer automatically"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Find the mean of 3, 6 and 9. (variant)",
-      "options": [
-        "None of these",
-        "7",
-        "18",
-        "6"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Each symbol in a pictograph represents 5 items. What do 9 symbols represent?",
-      "options": [
-        "45",
-        "50",
-        "14",
-        "9"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the range of 8 and 15?",
-      "options": [
-        "8",
-        "23",
-        "7",
-        "None of these"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A tally table records 21, 21 and 12 responses. How many responses altogether?",
-      "options": [
-        "57",
-        "33",
-        "54",
-        "42"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A tally table records 18, 9 and 12 responses. How many responses altogether?",
-      "options": [
-        "39",
         "42",
-        "21",
-        "27"
+        "35",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the range of the two data values 3 and 16?",
+      "options": [
+        "3",
+        "14",
+        "13",
+        "19"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A bar graph shows values 6, 33 and 51. What is the greatest value?",
+      "options": [
+        "51",
+        "6",
+        "50",
+        "90"
       ],
       "answer": 0
     },
     {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant)",
+      "question": "Find the mean of the data values 6, 5 and 13.",
       "options": [
-        "It explains what each symbol represents",
-        "It changes the data",
-        "It removes labels",
-        "It gives the answer automatically"
+        "9",
+        "24",
+        "None of these",
+        "8"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "Find the mean of 4, 8 and 9.",
+      "question": "A tally table records 33, 24 and 39 responses in three groups. How many responses are there altogether?",
       "options": [
-        "21",
-        "7",
-        "8",
+        "63",
+        "57",
+        "99",
+        "96"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the range of the two data values 15 and 19?",
+      "options": [
+        "4",
+        "34",
+        "15",
         "5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A bar graph shows values 45, 54 and 60. What is the greatest value?",
+      "options": [
+        "159",
+        "60",
+        "45",
+        "59"
       ],
       "answer": 1
     },
     {
-      "question": "A bar graph shows 6, 12 and 18. What is the greatest value?",
+      "question": "A bar graph shows values 9, 21 and 42. What is the greatest value?",
       "options": [
-        "36",
-        "18",
-        "17",
-        "6"
+        "9",
+        "42",
+        "41",
+        "72"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A tally table records 36, 12 and 30 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "48",
+        "42",
+        "81",
+        "78"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A tally table records 39, 39 and 21 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "60",
+        "99",
+        "102",
+        "78"
       ],
       "answer": 1
     }
   ],
   "hard": [
     {
-      "question": "Find the mean of 5, 5 and 11.",
+      "question": "A tally table records 75, 55 and 55 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "185",
+        "190",
+        "130",
+        "110"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the range of the two data values 2 and 10?",
       "options": [
         "8",
-        "21",
-        "6",
-        "7"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A bar graph shows 15, 25 and 30. What is the greatest value?",
-      "options": [
-        "30",
-        "29",
-        "70",
-        "15"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the mean of 6, 7 and 8.",
-      "options": [
-        "7",
-        "2",
-        "21",
-        "8"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant)",
-      "options": [
-        "It removes labels",
-        "It explains what each symbol represents",
-        "It gives the answer automatically",
-        "It changes the data"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Each symbol in a pictograph represents 3 items. What do 4 symbols represent?",
-      "options": [
         "12",
-        "7",
-        "4",
-        "15"
+        "2",
+        "9"
       ],
       "answer": 0
     },
     {
-      "question": "Each symbol in a pictograph represents 5 items. What do 3 symbols represent?",
+      "question": "A tally table records 85, 15 and 25 responses in three groups. How many responses are there altogether?",
       "options": [
-        "8",
-        "3",
-        "20",
-        "15"
+        "40",
+        "100",
+        "130",
+        "125"
       ],
       "answer": 3
     },
     {
-      "question": "What is the range of 5 and 12?",
+      "question": "What is the range of the two data values 1 and 5?",
       "options": [
-        "8",
+        "6",
         "5",
-        "7",
-        "17"
+        "1",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A bar graph shows values 35, 50 and 60. What is the greatest value?",
+      "options": [
+        "35",
+        "145",
+        "60",
+        "59"
       ],
       "answer": 2
     },
     {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant) (variant)",
+      "question": "A tally table records 90, 60 and 105 responses in three groups. How many responses are there altogether?",
       "options": [
-        "It explains what each symbol represents",
-        "It removes labels",
-        "It changes the data",
-        "It gives the answer automatically"
+        "165",
+        "150",
+        "255",
+        "260"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In a pictograph, each symbol represents 4 items. What do 11 symbols represent?",
+      "options": [
+        "11",
+        "15",
+        "44",
+        "48"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the range of the two data values 12 and 25?",
+      "options": [
+        "13",
+        "12",
+        "37",
+        "14"
       ],
       "answer": 0
     },
     {
-      "question": "A tally table records 40, 15 and 20 responses. How many responses altogether?",
+      "question": "A bar graph shows values 25, 25 and 90. What is the greatest value?",
+      "options": [
+        "89",
+        "25",
+        "90",
+        "140"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A tally table records 10, 40 and 90 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "130",
+        "50",
+        "140",
+        "145"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A bar graph shows values 30, 70 and 75. What is the greatest value?",
       "options": [
         "75",
-        "55",
-        "80",
-        "35"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A bar graph shows 10, 30 and 30. What is the greatest value?",
-      "options": [
-        "10",
-        "29",
-        "70",
-        "30"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the range of 8 and 16?",
-      "options": [
-        "8",
-        "24",
-        "9",
-        "None of these"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Each symbol in a pictograph represents 3 items. What do 9 symbols represent?",
-      "options": [
-        "12",
+        "74",
         "30",
-        "9",
-        "27"
+        "175"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "Find the mean of 4, 8 and 9. (variant)",
+      "question": "What is the range of the two data values 13 and 19?",
       "options": [
-        "8",
-        "5",
-        "21",
+        "6",
+        "13",
+        "32",
         "7"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "A tally table records 35, 20 and 20 responses. How many responses altogether?",
+      "question": "Find the mean of the data values 5, 10 and 9.",
       "options": [
-        "80",
-        "75",
-        "55",
-        "40"
+        "9",
+        "8",
+        "5",
+        "24"
       ],
       "answer": 1
     },
     {
-      "question": "A bar graph shows 20, 20 and 30. What is the greatest value?",
+      "question": "A bar graph shows values 30, 40 and 45. What is the greatest value?",
       "options": [
-        "70",
+        "44",
+        "115",
         "30",
-        "29",
-        "20"
+        "45"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A tally table records 80, 35 and 40 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "160",
+        "155",
+        "75",
+        "115"
       ],
       "answer": 1
     }
   ],
   "tooHard": [
     {
-      "question": "A tally table records 21, 21 and 28 responses. How many responses altogether?",
+      "question": "A bar graph shows values 70, 77 and 91. What is the greatest value?",
       "options": [
-        "42",
-        "77",
         "70",
-        "49"
+        "90",
+        "91",
+        "238"
       ],
       "answer": 2
     },
     {
-      "question": "A tally table records 14, 28 and 28 responses. How many responses altogether?",
+      "question": "A tally table records 14, 98 and 63 responses in three groups. How many responses are there altogether?",
       "options": [
-        "56",
-        "77",
-        "42",
+        "182",
+        "175",
+        "112",
+        "161"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A tally table records 28, 42 and 154 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "196",
+        "224",
+        "231",
         "70"
       ],
-      "answer": 3
-    },
-    {
-      "question": "Find the mean of 2, 4 and 6.",
-      "options": [
-        "None of these",
-        "4",
-        "5",
-        "12"
-      ],
       "answer": 1
     },
     {
-      "question": "A bar graph shows 28, 42 and 42. What is the greatest value?",
+      "question": "A bar graph shows values 49, 63 and 84. What is the greatest value?",
       "options": [
-        "28",
-        "112",
-        "42",
-        "41"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A bar graph shows 35, 35 and 42. What is the greatest value?",
-      "options": [
-        "112",
-        "35",
-        "42",
-        "41"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the range of 8 and 17?",
-      "options": [
-        "10",
-        "25",
-        "8",
-        "9"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Each symbol in a pictograph represents 3 items. What do 3 symbols represent?",
-      "options": [
-        "9",
-        "3",
-        "6",
-        "12"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the range of 5 and 13?",
-      "options": [
-        "5",
-        "18",
-        "8",
-        "9"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Find the mean of 6, 7 and 8. (variant)",
-      "options": [
-        "21",
-        "8",
-        "2",
-        "7"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the range of 2 and 9?",
-      "options": [
-        "7",
-        "2",
-        "8",
-        "11"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Each symbol in a pictograph represents 5 items. What do 4 symbols represent?",
-      "options": [
-        "25",
-        "20",
-        "9",
-        "4"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Each symbol in a pictograph represents 3 items. What do 5 symbols represent?",
-      "options": [
-        "18",
-        "8",
-        "5",
-        "15"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "It removes labels",
-        "It changes the data",
-        "It gives the answer automatically",
-        "It explains what each symbol represents"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "It removes labels",
-        "It explains what each symbol represents",
-        "It gives the answer automatically",
-        "It changes the data"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A tally table records 49, 42 and 28 responses. How many responses altogether?",
-      "options": [
-        "70",
-        "119",
-        "126",
-        "91"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A tally table records 56, 35 and 28 responses. How many responses altogether?",
-      "options": [
-        "91",
-        "119",
-        "126",
-        "63"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A bar graph shows 21, 42 and 49. What is the greatest value?",
-      "options": [
-        "21",
-        "48",
-        "112",
+        "83",
+        "84",
+        "196",
         "49"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant) (variant) (variant)",
+      "question": "What is the range of the two data values 22 and 28?",
       "options": [
-        "It changes the data",
-        "It gives the answer automatically",
-        "It explains what each symbol represents",
-        "It removes labels"
+        "22",
+        "50",
+        "6",
+        "7"
       ],
       "answer": 2
     },
     {
-      "question": "Find the mean of 5, 5 and 11. (variant)",
+      "question": "What is the range of the two data values 12 and 24?",
       "options": [
-        "6",
-        "7",
-        "21",
-        "8"
+        "None of these",
+        "12",
+        "36",
+        "13"
       ],
       "answer": 1
     },
     {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
+      "question": "In a pictograph, each symbol represents 2 items. What do 6 symbols represent?",
       "options": [
-        "It explains what each symbol represents",
-        "It changes the data",
-        "It gives the answer automatically",
-        "It removes labels"
+        "8",
+        "6",
+        "14",
+        "12"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Find the mean of the data values 4, 8 and 12.",
+      "options": [
+        "9",
+        "24",
+        "None of these",
+        "8"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A tally table records 21, 70 and 42 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "91",
+        "112",
+        "140",
+        "133"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A bar graph shows values 56, 63 and 112. What is the greatest value?",
+      "options": [
+        "112",
+        "56",
+        "111",
+        "231"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A tally table records 35, 105 and 133 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "280",
+        "140",
+        "238",
+        "273"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the range of the two data values 10 and 14?",
+      "options": [
+        "10",
+        "24",
+        "5",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the range of the two data values 23 and 33?",
+      "options": [
+        "10",
+        "23",
+        "11",
+        "56"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A bar graph shows values 98, 98 and 140. What is the greatest value?",
+      "options": [
+        "139",
+        "336",
+        "98",
+        "140"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A tally table records 49, 49 and 91 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "140",
+        "98",
+        "196",
+        "189"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A bar graph shows values 28, 70 and 91. What is the greatest value?",
+      "options": [
+        "189",
+        "90",
+        "91",
+        "28"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the range of the two data values 11 and 19?",
+      "options": [
+        "8",
+        "9",
+        "11",
+        "30"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A tally table records 42, 77 and 112 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "119",
+        "238",
+        "189",
+        "231"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A bar graph shows values 28, 35 and 91. What is the greatest value?",
+      "options": [
+        "154",
+        "90",
+        "91",
+        "28"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the range of the two data values 21 and 34?",
+      "options": [
+        "13",
+        "55",
+        "21",
+        "14"
       ],
       "answer": 0
     }
   ],
   "extreme": [
     {
-      "question": "A tally table records 70, 30 and 40 responses. How many responses altogether?",
+      "question": "A tally table records 20, 150 and 80 responses in three groups. How many responses are there altogether?",
       "options": [
-        "140",
-        "150",
-        "70",
-        "100"
+        "230",
+        "260",
+        "170",
+        "250"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A tally table records 30, 110 and 50 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "190",
+        "160",
+        "200",
+        "140"
       ],
       "answer": 0
     },
     {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
+      "question": "A bar graph shows values 40, 70 and 210. What is the greatest value?",
       "options": [
-        "It gives the answer automatically",
-        "It explains what each symbol represents",
-        "It removes labels",
-        "It changes the data"
+        "40",
+        "210",
+        "320",
+        "209"
       ],
       "answer": 1
     },
     {
-      "question": "A bar graph shows 30, 40 and 60. What is the greatest value?",
+      "question": "A tally table records 50, 30 and 180 responses in three groups. How many responses are there altogether?",
       "options": [
-        "30",
-        "60",
-        "130",
-        "59"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Each symbol in a pictograph represents 3 items. What do 7 symbols represent? (variant)",
-      "options": [
-        "10",
-        "7",
-        "21",
-        "24"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A tally table records 60, 40 and 40 responses. How many responses altogether?",
-      "options": [
-        "140",
-        "150",
-        "100",
+        "260",
+        "270",
+        "210",
         "80"
       ],
       "answer": 0
     },
     {
-      "question": "Find the mean of 3, 6 and 9. (variant) (variant)",
+      "question": "In a pictograph, each symbol represents 5 items. What do 6 symbols represent?",
       "options": [
+        "35",
+        "11",
         "6",
-        "18",
-        "7",
-        "None of these"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Each symbol in a pictograph represents 5 items. What do 8 symbols represent? (variant)",
-      "options": [
-        "45",
-        "13",
-        "8",
-        "40"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the range of 2 and 10?",
-      "options": [
-        "2",
-        "9",
-        "12",
-        "8"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A bar graph shows 60, 60 and 80. What is the greatest value?",
-      "options": [
-        "200",
-        "79",
-        "80",
-        "60"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A tally table records 50, 50 and 40 responses. How many responses altogether?",
-      "options": [
-        "150",
-        "140",
-        "100",
-        "90"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "It gives the answer automatically",
-        "It explains what each symbol represents",
-        "It removes labels",
-        "It changes the data"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the range of 2 and 7?",
-      "options": [
-        "6",
-        "5",
-        "2",
-        "9"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Find the mean of 4, 8 and 9. (variant) (variant)",
-      "options": [
-        "21",
-        "7",
-        "8",
-        "5"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A bar graph shows 20, 50 and 60. What is the greatest value?",
-      "options": [
-        "59",
-        "130",
-        "20",
-        "60"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the range of 5 and 11? (variant)",
-      "options": [
-        "16",
-        "6",
-        "5",
-        "7"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Each symbol in a pictograph represents 5 items. What do 3 symbols represent? (variant)",
-      "options": [
-        "20",
-        "15",
-        "3",
-        "8"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Each symbol in a pictograph represents 3 items. What do 9 symbols represent? (variant)",
-      "options": [
-        "12",
-        "30",
-        "27",
-        "9"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the range of 8 and 15? (variant)",
-      "options": [
-        "8",
-        "None of these",
-        "7",
-        "23"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Find the mean of 5, 5 and 11. (variant) (variant)",
-      "options": [
-        "8",
-        "7",
-        "6",
-        "21"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Find the mean of 6, 7 and 8. (variant) (variant)",
-      "options": [
-        "7",
-        "8",
-        "2",
-        "21"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A bar graph shows 30, 40 and 60. What is the greatest value? (variant)",
-      "options": [
-        "59",
-        "60",
-        "130",
         "30"
       ],
+      "answer": 3
+    },
+    {
+      "question": "What is the range of the two data values 7 and 14?",
+      "options": [
+        "7",
+        "8",
+        "None of these",
+        "21"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A tally table records 60, 120 and 150 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "340",
+        "180",
+        "270",
+        "330"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the range of the two data values 20 and 33?",
+      "options": [
+        "20",
+        "53",
+        "13",
+        "14"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the range of the two data values 18 and 23?",
+      "options": [
+        "18",
+        "41",
+        "6",
+        "5"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A tally table records 40, 70 and 210 responses in three groups. How many responses are there altogether?",
+      "options": [
+        "320",
+        "110",
+        "330",
+        "280"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the range of the two data values 6 and 20?",
+      "options": [
+        "14",
+        "6",
+        "15",
+        "26"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In a pictograph, each symbol represents 6 items. What do 7 symbols represent?",
+      "options": [
+        "48",
+        "13",
+        "42",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In a pictograph, each symbol represents 2 items. What do 3 symbols represent?",
+      "options": [
+        "3",
+        "6",
+        "5",
+        "8"
+      ],
       "answer": 1
     },
     {
-      "question": "A bar graph shows 60, 70 and 70. What is the greatest value?",
+      "question": "A tally table records 180, 60 and 110 responses in three groups. How many responses are there altogether?",
       "options": [
-        "70",
-        "200",
-        "69",
-        "60"
+        "240",
+        "350",
+        "170",
+        "360"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A bar graph shows values 50, 100 and 120. What is the greatest value?",
+      "options": [
+        "120",
+        "119",
+        "50",
+        "270"
       ],
       "answer": 0
     },
     {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
+      "question": "A tally table records 170, 100 and 140 responses in three groups. How many responses are there altogether?",
       "options": [
-        "It changes the data",
-        "It removes labels",
-        "It explains what each symbol represents",
-        "It gives the answer automatically"
+        "240",
+        "420",
+        "270",
+        "410"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In a pictograph, each symbol represents 4 items. What do 5 symbols represent?",
+      "options": [
+        "24",
+        "9",
+        "20",
+        "5"
       ],
       "answer": 2
     },
     {
-      "question": "Why is a key needed in a pictograph? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
+      "question": "A bar graph shows values 80, 130 and 180. What is the greatest value?",
       "options": [
-        "It gives the answer automatically",
-        "It removes labels",
-        "It explains what each symbol represents",
-        "It changes the data"
+        "180",
+        "80",
+        "179",
+        "390"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "A tally table records 80, 70 and 40 responses. How many responses altogether?",
+      "question": "What is the range of the two data values 8 and 19?",
       "options": [
-        "190",
-        "200",
-        "110",
+        "27",
+        "11",
+        "8",
+        "12"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the range of the two data values 19 and 28?",
+      "options": [
+        "9",
+        "19",
+        "10",
+        "47"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In a pictograph, each symbol represents 3 items. What do 4 symbols represent?",
+      "options": [
+        "7",
+        "4",
+        "15",
+        "12"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A bar graph shows values 60, 100 and 120. What is the greatest value?",
+      "options": [
+        "119",
+        "60",
+        "280",
+        "120"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In a pictograph, each symbol represents 7 items. What do 11 symbols represent?",
+      "options": [
+        "84",
+        "11",
+        "18",
+        "77"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A bar graph shows values 90, 90 and 150. What is the greatest value?",
+      "options": [
+        "330",
+        "149",
+        "90",
         "150"
       ],
-      "answer": 0
+      "answer": 3
+    },
+    {
+      "question": "A bar graph shows values 90, 110 and 140. What is the greatest value?",
+      "options": [
+        "340",
+        "140",
+        "90",
+        "139"
+      ],
+      "answer": 1
     }
   ]
 };

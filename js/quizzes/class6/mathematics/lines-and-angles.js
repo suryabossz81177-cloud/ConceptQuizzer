@@ -1,770 +1,156 @@
-/* Class 6 Mathematics — Chapter 2: Lines and Angles
-   NCERT-aligned practice quiz. Easy 10, Medium 10, Hard 15, Too Hard 20, Extreme 25.
-   answer = zero-based correct option index.
+/* CONCEPT QUIZZER — CLASS 6 MATHEMATICS
+   Chapter 2: Lines and Angles
+   Original practice questions aligned to the chapter topics.
+   Counts: Easy 10 | Medium 10 | Hard 15 | Too Hard 20 | Extreme 25.
+   `answer` is the zero-based index of the correct option.
 */
 window.QuizData = window.QuizData || {};
 window.QuizData["lines-and-angles"] = {
   "easy": [
     {
-      "question": "Adjacent angles on a straight line are 100° and x°. Find x.",
+      "question": "What is the complement of an angle measuring 52°?",
       "options": [
-        "100",
-        "-10",
-        "80",
-        "280"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "How many endpoints does a ray have?",
-      "options": [
-        "Two",
-        "One",
-        "Three",
-        "None"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two angles form a straight angle. One is 38°. Find the other.",
-      "options": [
-        "218",
+        "142",
         "52",
+        "128",
+        "38"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "An angle is split into 3 equal parts. Its total measure is 45°. What is each part?",
+      "options": [
+        "10",
+        "30",
+        "45",
+        "15"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 142°. Find the other angle.",
+      "options": [
         "38",
+        "52",
+        "322",
         "142"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "An angle measures 75°. Which description is correct?",
+      "question": "Two angles form a straight angle. One measures 47°. Find the other angle.",
       "options": [
-        "reflex",
-        "right",
-        "straight",
-        "acute"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called?",
-      "options": [
-        "Parallel lines",
-        "Coincident rays",
-        "Perpendicular lines",
-        "Curved lines"
+        "227",
+        "47",
+        "133",
+        "43"
       ],
       "answer": 2
     },
     {
-      "question": "Find the complement of 72°.",
+      "question": "Two adjacent angles on a straight line are 38° and x°. Find x.",
       "options": [
-        "108",
-        "18",
-        "72",
-        "162"
+        "218",
+        "142",
+        "38",
+        "90"
       ],
       "answer": 1
     },
     {
-      "question": "Adjacent angles on a straight line are 160° and x°. Find x.",
+      "question": "Two adjacent angles on a straight line are 73° and x°. Find x.",
       "options": [
-        "340",
-        "-70",
-        "20",
-        "160"
+        "253",
+        "107",
+        "90",
+        "73"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Two angles form a straight angle. One is 125°. Find the other.",
+      "question": "An angle measures 52°. Is it acute or obtuse?",
       "options": [
-        "35",
-        "125",
-        "55",
-        "305"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "An angle measures 60°. Which description is correct?",
-      "options": [
-        "straight",
         "right",
+        "straight",
         "acute",
         "reflex"
       ],
       "answer": 2
     },
     {
-      "question": "Find the complement of 18°.",
+      "question": "An angle is split into 2 equal parts. Its total measure is 30°. What is each part?",
       "options": [
-        "18",
-        "108",
-        "72",
-        "162"
+        "45",
+        "30",
+        "10",
+        "15"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "An angle measures 82°. Is it acute or obtuse?",
+      "options": [
+        "straight",
+        "reflex",
+        "acute",
+        "right"
       ],
       "answer": 2
+    },
+    {
+      "question": "An angle measures 147°. Is it acute or obtuse?",
+      "options": [
+        "right",
+        "reflex",
+        "straight",
+        "obtuse"
+      ],
+      "answer": 3
     }
   ],
   "medium": [
     {
-      "question": "Adjacent angles on a straight line are 160° and x°. Find x. (variant)",
+      "question": "An angle is split into 4 equal parts. Its total measure is 60°. What is each part?",
       "options": [
-        "20",
-        "-70",
-        "340",
-        "160"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant)",
-      "options": [
-        "One",
-        "None",
-        "Two",
-        "Three"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the complement of 74°.",
-      "options": [
-        "74",
-        "164",
-        "106",
-        "16"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two angles form a straight angle. One is 40°. Find the other.",
-      "options": [
-        "50",
-        "40",
-        "220",
-        "140"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant)",
-      "options": [
-        "Curved lines",
-        "Parallel lines",
-        "Perpendicular lines",
-        "Coincident rays"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Adjacent angles on a straight line are 100° and x°. Find x. (variant)",
-      "options": [
-        "100",
-        "80",
-        "280",
-        "-10"
+        "10",
+        "15",
+        "30",
+        "45"
       ],
       "answer": 1
     },
     {
-      "question": "An angle measures 60°. Which description is correct? (variant)",
-      "options": [
-        "reflex",
-        "acute",
-        "straight",
-        "right"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant)",
-      "options": [
-        "One",
-        "None",
-        "Three",
-        "Two"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the complement of 20°.",
-      "options": [
-        "70",
-        "160",
-        "110",
-        "20"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant)",
-      "options": [
-        "Perpendicular lines",
-        "Parallel lines",
-        "Coincident rays",
-        "Curved lines"
-      ],
-      "answer": 0
-    }
-  ],
-  "hard": [
-    {
-      "question": "Adjacent angles on a straight line are 160° and x°. Find x. (variant) (variant)",
-      "options": [
-        "20",
-        "160",
-        "340",
-        "-70"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the complement of 22°.",
-      "options": [
-        "68",
-        "112",
-        "22",
-        "158"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two angles form a straight angle. One is 129°. Find the other.",
-      "options": [
-        "51",
-        "309",
-        "129",
-        "39"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Adjacent angles on a straight line are 100° and x°. Find x. (variant) (variant)",
-      "options": [
-        "100",
-        "-10",
-        "280",
-        "80"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "An angle measures 110°. Which description is correct?",
-      "options": [
-        "right",
-        "straight",
-        "reflex",
-        "obtuse"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Find the complement of 76°.",
-      "options": [
-        "104",
-        "166",
-        "76",
-        "14"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "An angle measures 75°. Which description is correct? (variant)",
-      "options": [
-        "straight",
-        "reflex",
-        "acute",
-        "right"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant)",
-      "options": [
-        "Three",
-        "None",
-        "Two",
-        "One"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Two",
-        "Three",
-        "One",
-        "None"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant) (variant)",
-      "options": [
-        "Parallel lines",
-        "Perpendicular lines",
-        "Curved lines",
-        "Coincident rays"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant) (variant)",
-      "options": [
-        "Two",
-        "None",
-        "One",
-        "Three"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant) (variant) (variant)",
-      "options": [
-        "Parallel lines",
-        "Perpendicular lines",
-        "Coincident rays",
-        "Curved lines"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "An angle measures 60°. Which description is correct? (variant) (variant)",
-      "options": [
-        "right",
-        "acute",
-        "reflex",
-        "straight"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two angles form a straight angle. One is 79°. Find the other.",
-      "options": [
-        "101",
-        "11",
-        "259",
-        "79"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two angles form a straight angle. One is 42°. Find the other.",
-      "options": [
-        "48",
-        "138",
-        "42",
-        "222"
-      ],
-      "answer": 1
-    }
-  ],
-  "tooHard": [
-    {
-      "question": "Adjacent angles on a straight line are 50° and x°. Find x. (variant)",
-      "options": [
-        "40",
-        "130",
-        "50",
-        "230"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Find the complement of 24°.",
-      "options": [
-        "114",
-        "24",
-        "66",
-        "156"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Adjacent angles on a straight line are 100° and x°. Find x. (variant) (variant) (variant)",
-      "options": [
-        "80",
-        "-10",
-        "280",
-        "100"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Curved lines",
-        "Perpendicular lines",
-        "Parallel lines",
-        "Coincident rays"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Three",
-        "One",
-        "Two",
-        "None"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two angles form a straight angle. One is 131°. Find the other.",
-      "options": [
-        "131",
-        "311",
-        "41",
-        "49"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "None",
-        "Three",
-        "Two",
-        "One"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Perpendicular lines",
-        "Coincident rays",
-        "Parallel lines",
-        "Curved lines"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Curved lines",
-        "Coincident rays",
-        "Parallel lines",
-        "Perpendicular lines"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Find the complement of 47°. (variant)",
-      "options": [
-        "47",
-        "133",
-        "137",
-        "43"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Two",
-        "Three",
-        "None",
-        "One"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Adjacent angles on a straight line are 50° and x°. Find x.",
-      "options": [
-        "130",
-        "40",
-        "50",
-        "230"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two angles form a straight angle. One is 81°. Find the other.",
-      "options": [
-        "99",
-        "261",
-        "81",
-        "9"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "An angle measures 110°. Which description is correct? (variant)",
+      "question": "An angle measures 112°. Is it acute or obtuse?",
       "options": [
         "obtuse",
-        "right",
         "reflex",
-        "straight"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the complement of 78°.",
-      "options": [
-        "12",
-        "102",
-        "78",
-        "168"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the complement of 47°.",
-      "options": [
-        "133",
-        "43",
-        "47",
-        "137"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Adjacent angles on a straight line are 160° and x°. Find x. (variant) (variant) (variant)",
-      "options": [
-        "20",
-        "-70",
-        "160",
-        "340"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "An angle measures 60°. Which description is correct? (variant) (variant) (variant)",
-      "options": [
         "straight",
-        "reflex",
-        "right",
-        "acute"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "An angle measures 75°. Which description is correct? (variant) (variant)",
-      "options": [
-        "straight",
-        "reflex",
-        "right",
-        "acute"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two angles form a straight angle. One is 44°. Find the other.",
-      "options": [
-        "136",
-        "224",
-        "44",
-        "46"
-      ],
-      "answer": 0
-    }
-  ],
-  "extreme": [
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Three",
-        "Two",
-        "One",
-        "None"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "None",
-        "Three",
-        "Two",
-        "One"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Find the complement of 50°.",
-      "options": [
-        "140",
-        "50",
-        "130",
-        "40"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two angles form a straight angle. One is 84°. Find the other. (variant)",
-      "options": [
-        "6",
-        "264",
-        "84",
-        "96"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Adjacent angles on a straight line are 50° and x°. Find x. (variant) (variant)",
-      "options": [
-        "50",
-        "130",
-        "40",
-        "230"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "One",
-        "None",
-        "Three",
-        "Two"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "An angle measures 75°. Which description is correct? (variant) (variant) (variant)",
-      "options": [
-        "acute",
-        "straight",
-        "reflex",
         "right"
       ],
       "answer": 0
     },
     {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
+      "question": "Two angles form a straight angle. One measures 24°. Find the other angle.",
       "options": [
-        "Coincident rays",
-        "Parallel lines",
-        "Curved lines",
-        "Perpendicular lines"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two angles form a straight angle. One is 47°. Find the other.",
-      "options": [
-        "133",
-        "47",
-        "43",
-        "227"
+        "156",
+        "24",
+        "66",
+        "204"
       ],
       "answer": 0
     },
     {
-      "question": "Adjacent angles on a straight line are 100° and x°. Find x. (variant) (variant) (variant) (variant)",
+      "question": "An angle measures 47°. Is it acute or obtuse?",
       "options": [
-        "100",
-        "-10",
-        "80",
-        "280"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Perpendicular lines",
-        "Parallel lines",
-        "Coincident rays",
-        "Curved lines"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Coincident rays",
-        "Perpendicular lines",
-        "Curved lines",
-        "Parallel lines"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "An angle measures 75°. Which description is correct? (variant) (variant) (variant) (variant)",
-      "options": [
+        "right",
         "reflex",
-        "right",
-        "straight",
-        "acute"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Find the complement of 81°.",
-      "options": [
-        "99",
-        "171",
-        "9",
-        "81"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two lines meet at 90°. What are they called? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "Parallel lines",
-        "Coincident rays",
-        "Curved lines",
-        "Perpendicular lines"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Find the complement of 50°. (variant)",
-      "options": [
-        "50",
-        "40",
-        "140",
-        "130"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many endpoints does a ray have? (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant) (variant)",
-      "options": [
-        "One",
-        "Three",
-        "None",
-        "Two"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Find the complement of 27°.",
-      "options": [
-        "63",
-        "153",
-        "27",
-        "117"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two angles form a straight angle. One is 84°. Find the other.",
-      "options": [
-        "264",
-        "84",
-        "96",
-        "6"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "An angle measures 60°. Which description is correct? (variant) (variant) (variant) (variant)",
-      "options": [
-        "right",
-        "straight",
         "acute",
-        "reflex"
+        "straight"
       ],
       "answer": 2
     },
     {
-      "question": "Two angles form a straight angle. One is 134°. Find the other.",
+      "question": "Two angles form a straight angle. One measures 134°. Find the other angle.",
       "options": [
         "46",
         "314",
@@ -774,44 +160,660 @@ window.QuizData["lines-and-angles"] = {
       "answer": 0
     },
     {
-      "question": "Adjacent angles on a straight line are 50° and x°. Find x. (variant) (variant) (variant)",
+      "question": "Two adjacent angles on a straight line are 58° and x°. Find x.",
       "options": [
-        "50",
-        "130",
-        "40",
-        "230"
+        "122",
+        "238",
+        "90",
+        "58"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "Adjacent angles on a straight line are 160° and x°. Find x. (variant) (variant) (variant) (variant)",
+      "question": "Two angles form a straight angle. One measures 79°. Find the other angle.",
       "options": [
-        "340",
-        "-70",
-        "20",
-        "160"
+        "79",
+        "11",
+        "259",
+        "101"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two adjacent angles on a straight line are 23° and x°. Find x.",
+      "options": [
+        "157",
+        "203",
+        "23",
+        "90"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the complement of an angle measuring 26°?",
+      "options": [
+        "116",
+        "26",
+        "64",
+        "154"
       ],
       "answer": 2
     },
     {
-      "question": "An angle measures 110°. Which description is correct? (variant) (variant) (variant)",
+      "question": "An angle measures 17°. Is it acute or obtuse?",
       "options": [
         "straight",
         "reflex",
+        "acute",
+        "right"
+      ],
+      "answer": 2
+    }
+  ],
+  "hard": [
+    {
+      "question": "An angle measures 142°. Is it acute or obtuse?",
+      "options": [
+        "straight",
         "right",
+        "obtuse",
+        "reflex"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Two adjacent angles on a straight line are 78° and x°. Find x.",
+      "options": [
+        "90",
+        "258",
+        "78",
+        "102"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 56°. Find the other angle.",
+      "options": [
+        "236",
+        "34",
+        "124",
+        "56"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An angle measures 77°. Is it acute or obtuse?",
+      "options": [
+        "straight",
+        "acute",
+        "right",
+        "reflex"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the complement of an angle measuring 70°?",
+      "options": [
+        "110",
+        "20",
+        "70",
+        "160"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 41°. Find the other angle.",
+      "options": [
+        "221",
+        "139",
+        "49",
+        "41"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 151°. Find the other angle.",
+      "options": [
+        "331",
+        "151",
+        "61",
+        "29"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 96°. Find the other angle.",
+      "options": [
+        "84",
+        "96",
+        "276",
+        "6"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An angle is split into 6 equal parts. Its total measure is 90°. What is each part?",
+      "options": [
+        "10",
+        "15",
+        "30",
+        "45"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two adjacent angles on a straight line are 43° and x°. Find x.",
+      "options": [
+        "90",
+        "137",
+        "43",
+        "223"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 71°. Find the other angle.",
+      "options": [
+        "109",
+        "71",
+        "19",
+        "251"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An angle is split into 5 equal parts. Its total measure is 75°. What is each part?",
+      "options": [
+        "10",
+        "15",
+        "30",
+        "45"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 111°. Find the other angle.",
+      "options": [
+        "21",
+        "111",
+        "69",
+        "291"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An angle is split into 7 equal parts. Its total measure is 105°. What is each part?",
+      "options": [
+        "15",
+        "45",
+        "30",
+        "10"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 166°. Find the other angle.",
+      "options": [
+        "166",
+        "76",
+        "346",
+        "14"
+      ],
+      "answer": 3
+    }
+  ],
+  "tooHard": [
+    {
+      "question": "What is the complement of an angle measuring 44°?",
+      "options": [
+        "136",
+        "134",
+        "44",
+        "46"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two adjacent angles on a straight line are 63° and x°. Find x.",
+      "options": [
+        "90",
+        "117",
+        "243",
+        "63"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 88°. Find the other angle.",
+      "options": [
+        "92",
+        "268",
+        "88",
+        "2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 103°. Find the other angle.",
+      "options": [
+        "103",
+        "13",
+        "283",
+        "77"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 158°. Find the other angle.",
+      "options": [
+        "68",
+        "158",
+        "22",
+        "338"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An angle measures 117°. Is it acute or obtuse?",
+      "options": [
+        "obtuse",
+        "straight",
+        "reflex",
+        "right"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 143°. Find the other angle.",
+      "options": [
+        "143",
+        "53",
+        "323",
+        "37"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 33°. Find the other angle.",
+      "options": [
+        "57",
+        "33",
+        "147",
+        "213"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Two adjacent angles on a straight line are 28° and x°. Find x.",
+      "options": [
+        "208",
+        "28",
+        "90",
+        "152"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 73°. Find the other angle.",
+      "options": [
+        "17",
+        "107",
+        "253",
+        "73"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An angle measures 107°. Is it acute or obtuse?",
+      "options": [
+        "reflex",
+        "obtuse",
+        "right",
+        "straight"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An angle measures 12°. Is it acute or obtuse?",
+      "options": [
+        "reflex",
+        "straight",
+        "acute",
+        "right"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 48°. Find the other angle.",
+      "options": [
+        "48",
+        "228",
+        "132",
+        "42"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 98°. Find the other angle.",
+      "options": [
+        "278",
+        "82",
+        "8",
+        "98"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 128°. Find the other angle.",
+      "options": [
+        "308",
+        "38",
+        "52",
+        "128"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 113°. Find the other angle.",
+      "options": [
+        "67",
+        "23",
+        "293",
+        "113"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 58°. Find the other angle.",
+      "options": [
+        "32",
+        "122",
+        "238",
+        "58"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 168°. Find the other angle.",
+      "options": [
+        "78",
+        "348",
+        "12",
+        "168"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An angle measures 42°. Is it acute or obtuse?",
+      "options": [
+        "reflex",
+        "acute",
+        "straight",
+        "right"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 153°. Find the other angle.",
+      "options": [
+        "153",
+        "333",
+        "63",
+        "27"
+      ],
+      "answer": 3
+    }
+  ],
+  "extreme": [
+    {
+      "question": "An angle measures 162°. Is it acute or obtuse?",
+      "options": [
+        "reflex",
+        "right",
+        "straight",
         "obtuse"
       ],
       "answer": 3
     },
     {
-      "question": "An angle measures 110°. Which description is correct? (variant) (variant)",
+      "question": "Two angles form a straight angle. One measures 161°. Find the other angle.",
+      "options": [
+        "19",
+        "161",
+        "71",
+        "341"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An angle measures 57°. Is it acute or obtuse?",
+      "options": [
+        "acute",
+        "right",
+        "reflex",
+        "straight"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An angle measures 22°. Is it acute or obtuse?",
+      "options": [
+        "acute",
+        "right",
+        "reflex",
+        "straight"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 81°. Find the other angle.",
+      "options": [
+        "9",
+        "261",
+        "99",
+        "81"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An angle measures 127°. Is it acute or obtuse?",
+      "options": [
+        "straight",
+        "obtuse",
+        "reflex",
+        "right"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 121°. Find the other angle.",
+      "options": [
+        "59",
+        "31",
+        "301",
+        "121"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An angle measures 32°. Is it acute or obtuse?",
+      "options": [
+        "reflex",
+        "acute",
+        "straight",
+        "right"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An angle measures 97°. Is it acute or obtuse?",
+      "options": [
+        "obtuse",
+        "straight",
+        "right",
+        "reflex"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An angle measures 62°. Is it acute or obtuse?",
+      "options": [
+        "reflex",
+        "acute",
+        "straight",
+        "right"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 51°. Find the other angle.",
+      "options": [
+        "39",
+        "129",
+        "51",
+        "231"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An angle measures 27°. Is it acute or obtuse?",
+      "options": [
+        "straight",
+        "acute",
+        "reflex",
+        "right"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An angle measures 67°. Is it acute or obtuse?",
+      "options": [
+        "straight",
+        "reflex",
+        "acute",
+        "right"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 146°. Find the other angle.",
+      "options": [
+        "146",
+        "56",
+        "34",
+        "326"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 136°. Find the other angle.",
+      "options": [
+        "316",
+        "46",
+        "44",
+        "136"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An angle measures 87°. Is it acute or obtuse?",
+      "options": [
+        "acute",
+        "reflex",
+        "straight",
+        "right"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 66°. Find the other angle.",
+      "options": [
+        "246",
+        "66",
+        "24",
+        "114"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 26°. Find the other angle.",
+      "options": [
+        "206",
+        "154",
+        "26",
+        "64"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the complement of an angle measuring 40°?",
+      "options": [
+        "40",
+        "130",
+        "140",
+        "50"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "An angle measures 152°. Is it acute or obtuse?",
+      "options": [
+        "obtuse",
+        "straight",
+        "right",
+        "reflex"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 106°. Find the other angle.",
+      "options": [
+        "106",
+        "74",
+        "16",
+        "286"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two angles form a straight angle. One measures 91°. Find the other angle.",
+      "options": [
+        "89",
+        "271",
+        "1",
+        "91"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An angle measures 157°. Is it acute or obtuse?",
+      "options": [
+        "reflex",
+        "straight",
+        "obtuse",
+        "right"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An angle measures 122°. Is it acute or obtuse?",
       "options": [
         "right",
         "straight",
-        "obtuse",
-        "reflex"
+        "reflex",
+        "obtuse"
       ],
-      "answer": 2
+      "answer": 3
+    },
+    {
+      "question": "An angle measures 92°. Is it acute or obtuse?",
+      "options": [
+        "right",
+        "reflex",
+        "straight",
+        "obtuse"
+      ],
+      "answer": 3
     }
   ]
 };
