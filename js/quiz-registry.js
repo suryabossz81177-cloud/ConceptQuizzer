@@ -220,6 +220,27 @@
         "js/quizzes/class6/mathematics/patterns-in-mathematics.js"
     );
 
+   
+window.QuizRegistry.register(
+    "lines-and-angles",
+    "js/quizzes/class6/mathematics/lines-and-angles.js"
+);
+
+window.QuizRegistry.register(
+    "number-play",
+    "js/quizzes/class6/mathematics/number-play.js"
+);
+
+window.QuizRegistry.register(
+    "data-handling-and-presentation",
+    "js/quizzes/class6/mathematics/data-handling-and-presentation.js"
+);
+
+window.QuizRegistry.register(
+    "prime-time",
+    "js/quizzes/class6/mathematics/prime-time.js"
+);
+   
 
     /* =====================================================
        FUTURE QUIZZES GO HERE
