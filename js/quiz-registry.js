@@ -86,15 +86,17 @@
 
         compact: function (value) {
 
-            return String(value || "")
-                .trim()
-                .toLowerCase()
-                .replace(/_/g, "-")
-                .replace(/\s+/g, "-")
-                .replace(/^class-?(\d+)-/, "$1-")
-                .replace(/[^a-z0-9]/g, "");
+    return String(value || "")
+        .trim()
+        .toLowerCase()
+        .replace(/_/g, "-")
+        .replace(/\s+/g, "-")
+        .replace(/^class-?(\d+)-/, "$1-")
+        .replace(/^(6|7|8|9|10)-(mathematics|math|science|social-science|socialscience|english|hindi|sanskrit)-/, "")
+        .replace(/^(6|7|8|9|10)-/, "")
+        .replace(/[^a-z0-9]/g, "");
 
-        },
+},
 
 
         /* -------------------------------------------------
