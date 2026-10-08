@@ -222,8 +222,7 @@
 
 
                     script.src =
-    "/ConceptQuizzer/" +
-    result.file.replace(/^\/+/, "");
+    result.file;
 
 
                     script.onload =
