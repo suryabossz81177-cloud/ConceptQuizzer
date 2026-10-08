@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", async function () {
 
 const questionBox = document.getElementById("question");
 const optionsBox = document.getElementById("options");
@@ -77,101 +77,53 @@ function normalizeChapterKey(key) {
         .replace(/^\d+-/, "");
 }
 
-function findChapterData(database, wantedKey) {
+/* =====================================================
+   LOAD QUESTIONS FROM QUIZ REGISTRY
+   ===================================================== */
 
-    const wanted =
-        normalizeChapterKey(wantedKey);
+if (
+    !window.QuizRegistry ||
+    typeof window.QuizRegistry.load !== "function"
+) {
 
-    const visited = new WeakSet();
+    questionBox.textContent =
+        "⚠️ Quiz Registry could not be loaded.";
 
-    function search(obj) {
+    optionsBox.innerHTML = `
+        <p style="color:white;font-size:18px;line-height:1.5;">
+            Chapter: ${chapterKey}<br>
+            Level: ${level}<br><br>
+            Quiz Registry is not available.
+        </p>`;
 
-        if (!obj || typeof obj !== "object") {
-            return null;
-        }
-
-        if (visited.has(obj)) {
-            return null;
-        }
-
-        visited.add(obj);
-
-        /* First: search exact chapter key */
-        for (const key of Object.keys(obj)) {
-
-            const value = obj[key];
-
-            if (
-                value &&
-                typeof value === "object" &&
-                !Array.isArray(value)
-            ) {
-
-                const normalized =
-                    normalizeChapterKey(key);
-
-                const hasQuizLevels =
-                    Array.isArray(value.easy) ||
-                    Array.isArray(value.medium) ||
-                    Array.isArray(value.hard) ||
-                    Array.isArray(value.tooHard) ||
-                    Array.isArray(value.extreme);
-
-                if (
-                    normalized === wanted &&
-                    hasQuizLevels
-                ) {
-                    return value;
-                }
-            }
-        }
-
-        /* Second: search nested objects */
-        for (const key of Object.keys(obj)) {
-
-            const value = obj[key];
-
-            if (
-                value &&
-                typeof value === "object"
-            ) {
-
-                const result =
-                    search(value);
-
-                if (result) {
-                    return result;
-                }
-            }
-        }
-
-        return null;
-    }
-
-    return search(database);
+    nextBtn.disabled = true;
+    return;
 }
 
 
-/* Find the chapter anywhere inside quizDatabase */
-const chapter =
-    findChapterData(
-        quizDatabase,
-        chapterKey
-    );
+try {
+
+    const chapter =
+        await window.QuizRegistry.load(
+            chapterKey
+        );
 
 
-/* Load selected difficulty */
-if (chapter) {
+    /* Load selected difficulty */
 
     questions =
         Array.isArray(chapter[level])
             ? chapter[level]
             : [];
 
-}
 
+} catch (error) {
 
-if (questions.length === 0) {
+    console.error(
+        "❌ Quiz Registry Error:",
+        error
+    );
+
     questionBox.textContent =
         "⚠️ Questions could not be loaded.";
 
@@ -179,7 +131,24 @@ if (questions.length === 0) {
         <p style="color:white;font-size:18px;line-height:1.5;">
             Chapter: ${chapterKey}<br>
             Level: ${level}<br><br>
-            Quiz database was found, but questions were not found.
+            Separate quiz file could not be loaded.
+        </p>`;
+
+    nextBtn.disabled = true;
+    return;
+}
+
+
+if (questions.length === 0) {
+
+    questionBox.textContent =
+        "⚠️ Questions could not be loaded.";
+
+    optionsBox.innerHTML = `
+        <p style="color:white;font-size:18px;line-height:1.5;">
+            Chapter: ${chapterKey}<br>
+            Level: ${level}<br><br>
+            The quiz file was loaded, but this level has no questions.
         </p>`;
 
     nextBtn.disabled = true;
