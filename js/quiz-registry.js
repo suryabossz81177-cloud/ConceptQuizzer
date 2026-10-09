@@ -240,6 +240,31 @@ window.QuizRegistry.register(
     "prime-time",
     "js/quizzes/class6/mathematics/prime-time.js"
 );
+
+   window.QuizRegistry.register(
+    "perimeter-and-area",
+    "js/quizzes/class6/mathematics/perimeter-and-area.js"
+);
+
+window.QuizRegistry.register(
+    "fractions",
+    "js/quizzes/class6/mathematics/fractions.js"
+);
+
+window.QuizRegistry.register(
+    "playing-with-constructions",
+    "js/quizzes/class6/mathematics/playing-with-constructions.js"
+);
+
+window.QuizRegistry.register(
+    "symmetry",
+    "js/quizzes/class6/mathematics/symmetry.js"
+);
+
+window.QuizRegistry.register(
+    "the-other-side-of-zero",
+    "js/quizzes/class6/mathematics/the-other-side-of-zero.js"
+);
    
 
     /* =====================================================
