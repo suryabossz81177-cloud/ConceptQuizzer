@@ -265,6 +265,37 @@ window.QuizRegistry.register(
     "the-other-side-of-zero",
     "js/quizzes/class6/mathematics/the-other-side-of-zero.js"
 );
+
+   
+window.QuizRegistry.register(
+    "the-wonderful-world-of-science",
+    "js/quizzes/class6/science/the-wonderful-world-of-science.js"
+);
+
+window.QuizRegistry.register(
+    "diversity-in-the-living-world",
+    "js/quizzes/class6/science/diversity-in-the-living-world.js"
+);
+
+window.QuizRegistry.register(
+    "mindful-eating-a-path-to-a-healthy-body",
+    "js/quizzes/class6/science/mindful-eating-a-path-to-a-healthy-body.js"
+);
+
+window.QuizRegistry.register(
+    "exploring-magnets",
+    "js/quizzes/class6/science/exploring-magnets.js"
+);
+
+window.QuizRegistry.register(
+    "measurement-of-length-and-motion",
+    "js/quizzes/class6/science/measurement-of-length-and-motion.js"
+);
+
+window.QuizRegistry.register(
+    "materials-around-us",
+    "js/quizzes/class6/science/materials-around-us.js"
+);
    
 
     /* =====================================================
