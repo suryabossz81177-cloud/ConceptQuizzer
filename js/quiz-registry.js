@@ -349,7 +349,7 @@ window.QuizRegistry.register(
     "js/quizzes/class6/history/indias-cultural-roots.js"
 );
 
-window.QuizRegistry.register(
+    window.QuizRegistry.register(
     "unity-in-diversity-many-in-one",
     "js/quizzes/class6/history/unity-in-diversity-many-in-one.js"
 );
