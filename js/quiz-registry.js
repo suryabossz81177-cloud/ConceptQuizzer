@@ -44,10 +44,12 @@
                 .replace(/_/g, "-")
                 .replace(/\s+/g, "-")
                 .replace(/^class-?(\d+)-/, "$1-")
-                .replace(
-                    /^(6|7|8|9|10)-(mathematics|math|science|social-science|socialscience|english|hindi|sanskrit)-/,
-                    ""
-                )
+                
+.replace(
+    /^(6|7|8|9|10)-(mathematics|math|science|social-science|socialscience|english|hindi|sanskrit|history|geography|civics|economics|artificial-intelligence|ai|information-technology|it|political-science|biology|chemistry|physics)-/,
+    ""
+)
+               
                 .replace(/[^a-z0-9]/g, "");
         },
 
