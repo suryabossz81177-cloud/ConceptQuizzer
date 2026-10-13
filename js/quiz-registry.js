@@ -296,6 +296,38 @@ window.QuizRegistry.register(
     "materials-around-us",
     "js/quizzes/class6/science/materials-around-us.js"
 );
+
+   
+window.QuizRegistry.register(
+    "temperature-and-its-measurement",
+    "js/quizzes/class6/science/temperature-and-its-measurement.js"
+);
+
+window.QuizRegistry.register(
+    "a-journey-through-states-of-water",
+    "js/quizzes/class6/science/a-journey-through-states-of-water.js"
+);
+
+window.QuizRegistry.register(
+    "methods-of-separation-in-everyday-life",
+    "js/quizzes/class6/science/methods-of-separation-in-everyday-life.js"
+);
+
+window.QuizRegistry.register(
+    "living-creatures-exploring-their-characteristics",
+    "js/quizzes/class6/science/living-creatures-exploring-their-characteristics.js"
+);
+
+window.QuizRegistry.register(
+    "natures-treasures",
+    "js/quizzes/class6/science/natures-treasures.js"
+);
+
+window.QuizRegistry.register(
+    "beyond-earth",
+    "js/quizzes/class6/science/beyond-earth.js"
+);
+   
    
 
     /* =====================================================
