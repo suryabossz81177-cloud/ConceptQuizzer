@@ -329,6 +329,31 @@ window.QuizRegistry.register(
 );
    
    
+window.QuizRegistry.register(
+    "timeline-and-sources-of-history",
+    "js/quizzes/class6/history/timeline-and-sources-of-history.js"
+);
+
+window.QuizRegistry.register(
+    "india-that-is-bharat",
+    "js/quizzes/class6/history/india-that-is-bharat.js"
+);
+
+window.QuizRegistry.register(
+    "the-beginnings-of-indian-civilisation",
+    "js/quizzes/class6/history/the-beginnings-of-indian-civilisation.js"
+);
+
+window.QuizRegistry.register(
+    "indias-cultural-roots",
+    "js/quizzes/class6/history/indias-cultural-roots.js"
+);
+
+window.QuizRegistry.register(
+    "unity-in-diversity-many-in-one",
+    "js/quizzes/class6/history/unity-in-diversity-many-in-one.js"
+);
+   
 
     /* =====================================================
        FUTURE QUIZZES GO HERE
