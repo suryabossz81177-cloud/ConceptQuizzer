@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["unity-in-diversity-many-in-one"] = {
+window.QuizData["unity-in-diversity-or-many-in-one"] = {
   "easy": [
     {
       "question": "What is the key idea associated with unity in diversity?",
