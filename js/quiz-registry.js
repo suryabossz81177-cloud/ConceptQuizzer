@@ -355,6 +355,25 @@ window.QuizRegistry.register(
     "unity-in-diversity-or-many-in-one",
     "js/quizzes/class6/history/unity-in-diversity-or-many-in-one.js"
 );
+
+   /* =====================================================
+   CLASS 6 — GEOGRAPHY
+   ===================================================== */
+
+window.QuizRegistry.register(
+    "locating-places-on-the-earth",
+    "js/quizzes/class6/geography/locating-places-on-the-earth.js"
+);
+
+window.QuizRegistry.register(
+    "oceans-and-continents",
+    "js/quizzes/class6/geography/oceans-and-continents.js"
+);
+
+window.QuizRegistry.register(
+    "landforms-and-life",
+    "js/quizzes/class6/geography/landforms-and-life.js"
+);
    
 
     /* =====================================================
