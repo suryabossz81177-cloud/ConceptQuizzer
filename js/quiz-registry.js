@@ -342,8 +342,8 @@ window.QuizRegistry.register(
 );
 
 window.QuizRegistry.register(
-    "the-beginnings-of-indian-civilisation",
-    "js/quizzes/class6/history/the-beginnings-of-indian-civilisation.js"
+    "the-beginning-of-indian-civilisation",
+    "js/quizzes/class6/history/the-beginning-of-indian-civilisation.js"
 );
 
 window.QuizRegistry.register(
