@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["the-beginnings-of-indian-civilisation"] = {
+window.QuizData["the-beginning-of-indian-civilisation"] = {
   "easy": [
     {
       "question": "What is the key idea associated with Harappan civilisation?",
