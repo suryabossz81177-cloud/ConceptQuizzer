@@ -374,7 +374,40 @@ window.QuizRegistry.register(
     "landforms-and-life",
     "js/quizzes/class6/geography/landforms-and-life.js"
 );
-   
+
+   /* =====================================================
+   CLASS 6 — CIVICS
+   ===================================================== */
+
+window.QuizRegistry.register(
+    "family-and-community",
+    "js/quizzes/class6/civics/family-and-community.js"
+);
+
+window.QuizRegistry.register(
+    "grassroots-democracy-part-1",
+    "js/quizzes/class6/civics/grassroots-democracy-part-1.js"
+);
+
+window.QuizRegistry.register(
+    "grassroots-democracy-part-2",
+    "js/quizzes/class6/civics/grassroots-democracy-part-2.js"
+);
+
+window.QuizRegistry.register(
+    "grassroots-democracy-part-3",
+    "js/quizzes/class6/civics/grassroots-democracy-part-3.js"
+);
+
+window.QuizRegistry.register(
+    "the-value-of-work",
+    "js/quizzes/class6/civics/the-value-of-work.js"
+);
+
+window.QuizRegistry.register(
+    "economic-activities-around-us",
+    "js/quizzes/class6/civics/economic-activities-around-us.js"
+);
 
     /* =====================================================
        FUTURE QUIZZES GO HERE
