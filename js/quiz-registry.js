@@ -353,7 +353,7 @@ window.QuizRegistry.register(
 
     window.QuizRegistry.register(
     "unity-in-diversity-or-many-in-one",
-    "js/quizzes/class6/history/unity-in-diversity-many-in-one.js"
+    "js/quizzes/class6/history/unity-in-diversity-or-many-in-one.js"
 );
    
 
