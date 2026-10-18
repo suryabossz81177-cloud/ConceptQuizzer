@@ -2,812 +2,812 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-changes-around-us-physical-and-chemical"] = {
   "easy": [
     {
-      "question": "Which statement best explains freezing?",
+      "question": "In the context of iron developing rust, which idea is most directly relevant to freezing?",
       "options": [
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about freezing?",
-      "options": [
-        "A personal preference",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates freezing. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result",
-        "Change every condition at once"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Why might a scientific model of dissolving be useful?",
-      "options": [
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It includes every detail of reality"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about melting avoids overgeneralising?",
-      "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right"
+        "Changes form or state without necessarily making a new substance",
+        "Is evidence to investigate but is not always conclusive alone",
+        "May be reversible under suitable conditions",
+        "Involves formation of one or more new substances"
       ],
       "answer": 0
     },
     {
-      "question": "Two explanations are offered for gas formation. How should they be compared?",
+      "question": "In the context of ice melting in a bowl, which idea is most directly relevant to gas formation?",
       "options": [
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence"
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Involves formation of one or more new substances"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "A result about precipitates differs from the prediction. What should the learner do?",
+      "question": "In the context of a substance producing bubbles after mixing, which idea is most directly relevant to physical change?",
       "options": [
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about gas formation would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "A result with no method"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about freezing avoids overgeneralising?",
-      "options": [
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain precipitates. What makes it scientifically useful?",
-      "options": [
-        "A claim that the diagram is the real object",
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone"
+        "Can involve gradual breakdown by environmental action",
+        "Involves formation of one or more new substances",
+        "Should be classified using evidence, not appearance alone",
+        "Changes form or state without necessarily making a new substance"
       ],
       "answer": 2
+    },
+    {
+      "question": "In the context of iron developing rust, which idea is most directly relevant to rusting?",
+      "options": [
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Changes form or state without necessarily making a new substance",
+        "Can involve gradual breakdown by environmental action",
+        "Should be classified using evidence, not appearance alone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the context of ice melting in a bowl, which idea is most directly relevant to freezing?",
+      "options": [
+        "Can be slowed by reducing exposure to moisture",
+        "Can involve gradual breakdown by environmental action",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the context of a substance producing bubbles after mixing, which idea is most directly relevant to gas formation?",
+      "options": [
+        "Can involve gradual breakdown by environmental action",
+        "Should be classified using evidence, not appearance alone",
+        "Can be slowed by reducing exposure to moisture",
+        "Needs fuel, oxygen, and sufficient heat to continue"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the context of iron developing rust, which idea is most directly relevant to physical change?",
+      "options": [
+        "Should be classified using evidence, not appearance alone",
+        "May be reversible under suitable conditions",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can be slowed by reducing exposure to moisture"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the context of ice melting in a bowl, which idea is most directly relevant to rusting?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "Can be slowed by reducing exposure to moisture",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "May be reversible under suitable conditions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the context of a substance producing bubbles after mixing, which idea is most directly relevant to freezing?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "Can be slowed by reducing exposure to moisture",
+        "May be reversible under suitable conditions",
+        "Involves formation of one or more new substances"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In the context of iron developing rust, which idea is most directly relevant to gas formation?",
+      "options": [
+        "Involves formation of one or more new substances",
+        "Changes form or state without necessarily making a new substance",
+        "May be reversible under suitable conditions",
+        "Is evidence to investigate but is not always conclusive alone"
+      ],
+      "answer": 1
     }
   ],
   "medium": [
     {
-      "question": "Why might a scientific model of rusting be useful?",
+      "question": "A learner investigates sugar dissolving in water and records the result. Which conclusion about gas formation is best supported?",
       "options": [
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for precipitates. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Choose the first explanation heard"
+        "Can be slowed by reducing exposure to moisture",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action",
+        "Needs fuel, oxygen, and sufficient heat to continue"
       ],
       "answer": 0
     },
     {
-      "question": "A diagram is used to explain dissolving. What makes it scientifically useful?",
+      "question": "A learner investigates paper being cut into pieces and records the result. Which conclusion about physical change is best supported?",
       "options": [
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Should be classified using evidence, not appearance alone",
+        "May be reversible under suitable conditions",
+        "Can be slowed by reducing exposure to moisture",
+        "Needs fuel, oxygen, and sufficient heat to continue"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A learner investigates water freezing in a tray and records the result. Which conclusion about rusting is best supported?",
+      "options": [
+        "May be reversible under suitable conditions",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can be slowed by reducing exposure to moisture",
+        "Is evidence to investigate but is not always conclusive alone"
       ],
       "answer": 3
     },
     {
-      "question": "Which report about precipitates would be most useful to another student?",
+      "question": "A learner investigates sugar dissolving in water and records the result. Which conclusion about freezing is best supported?",
       "options": [
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "Only a final answer"
+        "May be reversible under suitable conditions",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Involves formation of one or more new substances",
+        "Can be slowed by reducing exposure to moisture"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates paper being cut into pieces and records the result. Which conclusion about gas formation is best supported?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "Changes form or state without necessarily making a new substance",
+        "Involves formation of one or more new substances",
+        "May be reversible under suitable conditions"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates rusting. Which practice makes the result more reliable?",
+      "question": "A learner investigates water freezing in a tray and records the result. Which conclusion about physical change is best supported?",
       "options": [
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about dissolving. Which is evidence?",
-      "options": [
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A preferred answer",
-        "A guess made before testing"
+        "Changes form or state without necessarily making a new substance",
+        "May be reversible under suitable conditions",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Involves formation of one or more new substances"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement about gas formation avoids overgeneralising?",
+      "question": "A learner investigates sugar dissolving in water and records the result. Which conclusion about rusting is best supported?",
       "options": [
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of burning be useful?",
-      "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It removes the need for evidence",
-        "It is always perfect"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for melting?",
-      "options": [
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best"
+        "Involves formation of one or more new substances",
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance",
+        "Is evidence to investigate but is not always conclusive alone"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement about rusting avoids overgeneralising?",
+      "question": "A learner investigates paper being cut into pieces and records the result. Which conclusion about freezing is best supported?",
       "options": [
-        "A model is always identical to reality",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right"
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance",
+        "Should be classified using evidence, not appearance alone",
+        "Involves formation of one or more new substances"
       ],
       "answer": 2
+    },
+    {
+      "question": "A learner investigates water freezing in a tray and records the result. Which conclusion about gas formation is best supported?",
+      "options": [
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates sugar dissolving in water and records the result. Which conclusion about physical change is best supported?",
+      "options": [
+        "Can be slowed by reducing exposure to moisture",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action"
+      ],
+      "answer": 0
     }
   ],
   "hard": [
     {
-      "question": "Which statement best explains melting?",
+      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of physical change is scientifically strongest?",
       "options": [
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about melting?",
-      "options": [
-        "A personal preference",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence"
+        "Involves formation of one or more new substances",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Changes form or state without necessarily making a new substance",
+        "May be reversible under suitable conditions"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about precipitates. Which is evidence?",
+      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of rusting is scientifically strongest?",
       "options": [
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A guess made before testing"
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Involves formation of one or more new substances"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of freezing is scientifically strongest?",
+      "options": [
+        "Changes form or state without necessarily making a new substance",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action",
+        "Involves formation of one or more new substances"
       ],
       "answer": 1
     },
     {
-      "question": "Two explanations are offered for melting. How should they be compared?",
+      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of gas formation is scientifically strongest?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Changes form or state without necessarily making a new substance",
+        "Can involve gradual breakdown by environmental action",
+        "Should be classified using evidence, not appearance alone"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "Which report about dissolving would be most useful to another student?",
+      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of physical change is scientifically strongest?",
       "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
+        "Can involve gradual breakdown by environmental action",
+        "Should be classified using evidence, not appearance alone",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can be slowed by reducing exposure to moisture"
       ],
       "answer": 3
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about rusting. Which is evidence?",
+      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of rusting is scientifically strongest?",
       "options": [
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A rumour from a friend",
-        "A guess made before testing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which report about burning would be most useful to another student?",
-      "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A result with no method"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement best explains precipitates?",
-      "options": [
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence"
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action",
+        "Can be slowed by reducing exposure to moisture"
       ],
       "answer": 3
     },
     {
-      "question": "What is the strongest follow-up investigation for dissolving?",
+      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of freezing is scientifically strongest?",
       "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes everything at once"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement about dissolving avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "One test proves every possible case"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about precipitates avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports"
+        "Should be classified using evidence, not appearance alone",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can be slowed by reducing exposure to moisture",
+        "May be reversible under suitable conditions"
       ],
       "answer": 3
     },
     {
-      "question": "A result about gas formation differs from the prediction. What should the learner do?",
+      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of gas formation is scientifically strongest?",
       "options": [
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for rusting. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard",
-        "Choose the longer explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about melting would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates dissolving. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
-      ],
-      "answer": 1
-    }
-  ],
-  "tooHard": [
-    {
-      "question": "Which statement about burning avoids overgeneralising?",
-      "options": [
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates burning. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is a common reasoning error when discussing precipitates?",
-      "options": [
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about burning?",
-      "options": [
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "A confident statement without evidence",
-        "An unrelated measurement"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Why might a scientific model of melting be useful?",
-      "options": [
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about burning. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about rusting?",
-      "options": [
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "A personal preference"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates melting. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains burning?",
-      "options": [
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence"
+        "Can be slowed by reducing exposure to moisture",
+        "May be reversible under suitable conditions",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Is evidence to investigate but is not always conclusive alone"
       ],
       "answer": 3
     },
     {
-      "question": "Which is a common reasoning error when discussing rusting?",
+      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of physical change is scientifically strongest?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Checking evidence carefully",
-        "Considering alternative explanations"
+        "May be reversible under suitable conditions",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Can be slowed by reducing exposure to moisture",
+        "Involves formation of one or more new substances"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "Two explanations are offered for burning. How should they be compared?",
+      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of rusting is scientifically strongest?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
+        "Involves formation of one or more new substances",
+        "May be reversible under suitable conditions",
+        "Changes form or state without necessarily making a new substance",
+        "Is evidence to investigate but is not always conclusive alone"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement best explains dissolving?",
+      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of freezing is scientifically strongest?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
+        "Involves formation of one or more new substances",
+        "Changes form or state without necessarily making a new substance",
+        "May be reversible under suitable conditions",
+        "Is evidence to investigate but is not always conclusive alone"
       ],
       "answer": 1
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about melting. Which is evidence?",
+      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of gas formation is scientifically strongest?",
       "options": [
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing",
-        "A preferred answer",
-        "A rumour from a friend"
+        "Is evidence to investigate but is not always conclusive alone",
+        "Changes form or state without necessarily making a new substance",
+        "Involves formation of one or more new substances",
+        "Can involve gradual breakdown by environmental action"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of physical change is scientifically strongest?",
+      "options": [
+        "Should be classified using evidence, not appearance alone",
+        "Involves formation of one or more new substances",
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance"
       ],
       "answer": 0
     },
     {
-      "question": "A diagram is used to explain rusting. What makes it scientifically useful?",
+      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of rusting is scientifically strongest?",
       "options": [
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "Decorative detail alone"
+        "Changes form or state without necessarily making a new substance",
+        "Can involve gradual breakdown by environmental action",
+        "Should be classified using evidence, not appearance alone",
+        "Needs fuel, oxygen, and sufficient heat to continue"
       ],
-      "answer": 1
+      "answer": 3
     },
     {
-      "question": "Which is a common reasoning error when discussing dissolving?",
+      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of freezing is scientifically strongest?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully",
-        "Considering alternative explanations",
-        "Recording units"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which is a common reasoning error when discussing melting?",
-      "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Recording units"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement best explains rusting?",
-      "options": [
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A result about burning differs from the prediction. What should the learner do?",
-      "options": [
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of freezing be useful?",
-      "options": [
-        "It includes every detail of reality",
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the strongest follow-up investigation for freezing?",
-      "options": [
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question"
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can involve gradual breakdown by environmental action",
+        "Can be slowed by reducing exposure to moisture",
+        "Should be classified using evidence, not appearance alone"
       ],
       "answer": 2
     }
   ],
   "extreme": [
     {
-      "question": "Which report about rusting would be most useful to another student?",
+      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of freezing best respects the limits of the evidence?",
       "options": [
-        "Only a final answer",
-        "A conclusion without observations",
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for dissolving. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Choose the longer explanation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A diagram is used to explain melting. What makes it scientifically useful?",
-      "options": [
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "Decorative detail alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about dissolving?",
-      "options": [
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "An unrelated measurement"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for precipitates?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes everything at once"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A result about melting differs from the prediction. What should the learner do?",
-      "options": [
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A diagram is used to explain freezing. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates precipitates. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A result about dissolving differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing freezing?",
-      "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Checking evidence carefully",
-        "Considering alternative explanations"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement best explains gas formation?",
-      "options": [
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of precipitates be useful?",
-      "options": [
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A result about rusting differs from the prediction. What should the learner do?",
-      "options": [
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A result about freezing differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which is a common reasoning error when discussing burning?",
-      "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Recording units"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for gas formation?",
-      "options": [
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain burning. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols"
+        "Is evidence to investigate but is not always conclusive alone",
+        "Involves formation of one or more new substances",
+        "Changes form or state without necessarily making a new substance",
+        "May be reversible under suitable conditions"
       ],
       "answer": 2
     },
     {
-      "question": "Two explanations are offered for freezing. How should they be compared?",
+      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of gas formation best respects the limits of the evidence?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Choose the first explanation heard"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about freezing would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A conclusion without observations"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates gas formation. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the strongest follow-up investigation for rusting?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about precipitates?",
-      "options": [
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A personal preference"
+        "Can involve gradual breakdown by environmental action",
+        "Involves formation of one or more new substances",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Changes form or state without necessarily making a new substance"
       ],
       "answer": 0
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about freezing. Which is evidence?",
+      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of physical change best respects the limits of the evidence?",
       "options": [
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing",
-        "A preferred answer"
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action",
+        "Involves formation of one or more new substances",
+        "Changes form or state without necessarily making a new substance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of rusting best respects the limits of the evidence?",
+      "options": [
+        "Should be classified using evidence, not appearance alone",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance"
       ],
       "answer": 1
     },
     {
-      "question": "What is the strongest follow-up investigation for burning?",
+      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of freezing best respects the limits of the evidence?",
       "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
+        "Should be classified using evidence, not appearance alone",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can involve gradual breakdown by environmental action",
+        "Can be slowed by reducing exposure to moisture"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of gas formation best respects the limits of the evidence?",
+      "options": [
+        "Can involve gradual breakdown by environmental action",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can be slowed by reducing exposure to moisture",
+        "Should be classified using evidence, not appearance alone"
       ],
       "answer": 2
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about gas formation?",
+      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of physical change best respects the limits of the evidence?",
       "options": [
-        "A personal preference",
-        "A confident statement without evidence",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim"
+        "Should be classified using evidence, not appearance alone",
+        "May be reversible under suitable conditions",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can be slowed by reducing exposure to moisture"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of rusting best respects the limits of the evidence?",
+      "options": [
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Can be slowed by reducing exposure to moisture",
+        "May be reversible under suitable conditions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of freezing best respects the limits of the evidence?",
+      "options": [
+        "Can be slowed by reducing exposure to moisture",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Involves formation of one or more new substances",
+        "May be reversible under suitable conditions"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of gas formation best respects the limits of the evidence?",
+      "options": [
+        "Involves formation of one or more new substances",
+        "Changes form or state without necessarily making a new substance",
+        "Is evidence to investigate but is not always conclusive alone",
+        "May be reversible under suitable conditions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of physical change best respects the limits of the evidence?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "May be reversible under suitable conditions",
+        "Changes form or state without necessarily making a new substance",
+        "Involves formation of one or more new substances"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of rusting best respects the limits of the evidence?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "Involves formation of one or more new substances",
+        "Changes form or state without necessarily making a new substance",
+        "Can involve gradual breakdown by environmental action"
       ],
       "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of freezing best respects the limits of the evidence?",
+      "options": [
+        "Involves formation of one or more new substances",
+        "Can involve gradual breakdown by environmental action",
+        "Should be classified using evidence, not appearance alone",
+        "Changes form or state without necessarily making a new substance"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of gas formation best respects the limits of the evidence?",
+      "options": [
+        "Changes form or state without necessarily making a new substance",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action",
+        "Needs fuel, oxygen, and sufficient heat to continue"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of physical change best respects the limits of the evidence?",
+      "options": [
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can involve gradual breakdown by environmental action",
+        "Should be classified using evidence, not appearance alone",
+        "Can be slowed by reducing exposure to moisture"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of rusting best respects the limits of the evidence?",
+      "options": [
+        "Should be classified using evidence, not appearance alone",
+        "Can be slowed by reducing exposure to moisture",
+        "Can involve gradual breakdown by environmental action",
+        "Needs fuel, oxygen, and sufficient heat to continue"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of freezing best respects the limits of the evidence?",
+      "options": [
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "May be reversible under suitable conditions",
+        "Can be slowed by reducing exposure to moisture",
+        "Should be classified using evidence, not appearance alone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of gas formation best respects the limits of the evidence?",
+      "options": [
+        "Can be slowed by reducing exposure to moisture",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "May be reversible under suitable conditions",
+        "Is evidence to investigate but is not always conclusive alone"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of physical change best respects the limits of the evidence?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "Can be slowed by reducing exposure to moisture",
+        "May be reversible under suitable conditions",
+        "Involves formation of one or more new substances"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of rusting best respects the limits of the evidence?",
+      "options": [
+        "Involves formation of one or more new substances",
+        "May be reversible under suitable conditions",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Changes form or state without necessarily making a new substance"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of freezing best respects the limits of the evidence?",
+      "options": [
+        "May be reversible under suitable conditions",
+        "Changes form or state without necessarily making a new substance",
+        "Involves formation of one or more new substances",
+        "Is evidence to investigate but is not always conclusive alone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of gas formation best respects the limits of the evidence?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "Involves formation of one or more new substances",
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of physical change best respects the limits of the evidence?",
+      "options": [
+        "Involves formation of one or more new substances",
+        "Changes form or state without necessarily making a new substance",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of rusting best respects the limits of the evidence?",
+      "options": [
+        "Changes form or state without necessarily making a new substance",
+        "Can involve gradual breakdown by environmental action",
+        "Should be classified using evidence, not appearance alone",
+        "Needs fuel, oxygen, and sufficient heat to continue"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of freezing best respects the limits of the evidence?",
+      "options": [
+        "Can be slowed by reducing exposure to moisture",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action"
+      ],
+      "answer": 0
+    }
+  ],
+  "tooHard": [
+    {
+      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
+      "options": [
+        "Can involve gradual breakdown by environmental action",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone",
+        "Can be slowed by reducing exposure to moisture"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
+      "options": [
+        "Can be slowed by reducing exposure to moisture",
+        "May be reversible under suitable conditions",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "May be reversible under suitable conditions",
+        "Can be slowed by reducing exposure to moisture",
+        "Needs fuel, oxygen, and sufficient heat to continue"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
+      "options": [
+        "Involves formation of one or more new substances",
+        "Can be slowed by reducing exposure to moisture",
+        "Is evidence to investigate but is not always conclusive alone",
+        "May be reversible under suitable conditions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
+      "options": [
+        "May be reversible under suitable conditions",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Involves formation of one or more new substances",
+        "Changes form or state without necessarily making a new substance"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "Changes form or state without necessarily making a new substance",
+        "Involves formation of one or more new substances",
+        "May be reversible under suitable conditions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
+      "options": [
+        "Involves formation of one or more new substances",
+        "Changes form or state without necessarily making a new substance",
+        "Is evidence to investigate but is not always conclusive alone",
+        "Can involve gradual breakdown by environmental action"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
+      "options": [
+        "Involves formation of one or more new substances",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
+      "options": [
+        "Changes form or state without necessarily making a new substance",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action",
+        "Needs fuel, oxygen, and sufficient heat to continue"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
+      "options": [
+        "Can be slowed by reducing exposure to moisture",
+        "Can involve gradual breakdown by environmental action",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
+      "options": [
+        "Should be classified using evidence, not appearance alone",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can be slowed by reducing exposure to moisture",
+        "Can involve gradual breakdown by environmental action"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
+      "options": [
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone",
+        "Can be slowed by reducing exposure to moisture",
+        "May be reversible under suitable conditions"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
+      "options": [
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Can be slowed by reducing exposure to moisture",
+        "Is evidence to investigate but is not always conclusive alone",
+        "May be reversible under suitable conditions"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
+      "options": [
+        "Involves formation of one or more new substances",
+        "Is evidence to investigate but is not always conclusive alone",
+        "May be reversible under suitable conditions",
+        "Can be slowed by reducing exposure to moisture"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
+      "options": [
+        "Changes form or state without necessarily making a new substance",
+        "Is evidence to investigate but is not always conclusive alone",
+        "May be reversible under suitable conditions",
+        "Involves formation of one or more new substances"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
+      "options": [
+        "Is evidence to investigate but is not always conclusive alone",
+        "Changes form or state without necessarily making a new substance",
+        "Involves formation of one or more new substances",
+        "May be reversible under suitable conditions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
+      "options": [
+        "Changes form or state without necessarily making a new substance",
+        "Involves formation of one or more new substances",
+        "Can involve gradual breakdown by environmental action",
+        "Is evidence to investigate but is not always conclusive alone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
+      "options": [
+        "Can involve gradual breakdown by environmental action",
+        "Changes form or state without necessarily making a new substance",
+        "Involves formation of one or more new substances",
+        "Should be classified using evidence, not appearance alone"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
+      "options": [
+        "Changes form or state without necessarily making a new substance",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action",
+        "Needs fuel, oxygen, and sufficient heat to continue"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
+      "options": [
+        "Can be slowed by reducing exposure to moisture",
+        "Needs fuel, oxygen, and sufficient heat to continue",
+        "Should be classified using evidence, not appearance alone",
+        "Can involve gradual breakdown by environmental action"
+      ],
+      "answer": 0
     }
   ]
 };

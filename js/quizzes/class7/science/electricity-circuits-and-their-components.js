@@ -2,812 +2,812 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-electricity-circuits-and-their-components"] = {
   "easy": [
     {
-      "question": "A learner investigates insulators. Which practice makes the result more reliable?",
+      "question": "In the context of a bulb does not glow in a simple circuit, which idea is most directly relevant to insulator?",
       "options": [
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once"
+        "Allows current to pass relatively easily",
+        "Needs a complete conducting path",
+        "Resists the flow of electric current",
+        "Can interrupt current when open"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "A result about closed circuits differs from the prediction. What should the learner do?",
+      "question": "In the context of two cells are connected to supply energy, which idea is most directly relevant to electrical safety?",
       "options": [
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates bulbs. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
+        "Can create an unsafe low-resistance path",
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily",
+        "Can interrupt current when open"
       ],
       "answer": 0
     },
     {
-      "question": "What is the strongest follow-up investigation for circuit symbols?",
+      "question": "In the context of a wire joins the two terminals through a lamp, which idea is most directly relevant to electric cell?",
       "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question"
+        "Must be connected with correct polarity when required",
+        "Can interrupt current when open",
+        "Needs a complete conducting path",
+        "Can create an unsafe low-resistance path"
       ],
       "answer": 0
     },
     {
-      "question": "A learner investigates conductors. Which practice makes the result more reliable?",
+      "question": "In the context of a bulb does not glow in a simple circuit, which idea is most directly relevant to switch?",
       "options": [
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once"
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol",
+        "Can create an unsafe low-resistance path",
+        "Needs a complete conducting path"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Which statement about bulbs avoids overgeneralising?",
+      "question": "In the context of two cells are connected to supply energy, which idea is most directly relevant to insulator?",
       "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports"
+        "Must be connected with correct polarity when required",
+        "Should be checked without touching bare conductors",
+        "Is represented by a recognised symbol",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the context of a wire joins the two terminals through a lamp, which idea is most directly relevant to electrical safety?",
+      "options": [
+        "Can create an unsafe low-resistance path",
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors"
       ],
       "answer": 3
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about open switches?",
+      "question": "In the context of a bulb does not glow in a simple circuit, which idea is most directly relevant to electric cell?",
       "options": [
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "A confident statement without evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about closed circuits avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about circuit symbols would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
+        "Must be connected with correct polarity when required",
+        "Should be checked without touching bare conductors",
+        "Is represented by a recognised symbol",
+        "Resists the flow of electric current"
       ],
       "answer": 3
     },
     {
-      "question": "Why might a scientific model of closed circuits be useful?",
+      "question": "In the context of two cells are connected to supply energy, which idea is most directly relevant to switch?",
       "options": [
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It removes the need for evidence"
+        "Allows current to pass relatively easily",
+        "Is represented by a recognised symbol",
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the context of a wire joins the two terminals through a lamp, which idea is most directly relevant to insulator?",
+      "options": [
+        "Should be checked without touching bare conductors",
+        "Can interrupt current when open",
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current"
       ],
       "answer": 1
+    },
+    {
+      "question": "In the context of a bulb does not glow in a simple circuit, which idea is most directly relevant to electrical safety?",
+      "options": [
+        "Needs a complete conducting path",
+        "Can interrupt current when open",
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current"
+      ],
+      "answer": 0
     }
   ],
   "medium": [
     {
-      "question": "Which statement best explains insulators?",
+      "question": "A learner investigates a switch is moved to off and records the result. Which conclusion about electrical safety is best supported?",
       "options": [
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about circuit symbols?",
-      "options": [
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "An unrelated measurement",
-        "A confident statement without evidence"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which report about closed circuits would be most useful to another student?",
-      "options": [
-        "A conclusion without observations",
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about closed circuits. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A result about cells differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which report about insulators would be most useful to another student?",
-      "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A result with no method"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement about conductors avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about bulbs?",
-      "options": [
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "An unrelated measurement"
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors",
+        "Must be connected with correct polarity when required",
+        "Can create an unsafe low-resistance path"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement best explains closed circuits?",
+      "question": "A learner investigates a metal object is tested in a circuit and records the result. Which conclusion about electric cell is best supported?",
       "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing"
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors",
+        "Resists the flow of electric current",
+        "Must be connected with correct polarity when required"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates a circuit diagram uses standard symbols and records the result. Which conclusion about switch is best supported?",
+      "options": [
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors",
+        "Is represented by a recognised symbol"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement about open switches avoids overgeneralising?",
+      "question": "A learner investigates a switch is moved to off and records the result. Which conclusion about insulator is best supported?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "One test proves every possible case"
+        "Resists the flow of electric current",
+        "Can interrupt current when open",
+        "Allows current to pass relatively easily",
+        "Should be checked without touching bare conductors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A learner investigates a metal object is tested in a circuit and records the result. Which conclusion about electrical safety is best supported?",
+      "options": [
+        "Resists the flow of electric current",
+        "Can interrupt current when open",
+        "Allows current to pass relatively easily",
+        "Needs a complete conducting path"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A learner investigates a circuit diagram uses standard symbols and records the result. Which conclusion about electric cell is best supported?",
+      "options": [
+        "Allows current to pass relatively easily",
+        "Needs a complete conducting path",
+        "Can interrupt current when open",
+        "Resists the flow of electric current"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A learner investigates a switch is moved to off and records the result. Which conclusion about switch is best supported?",
+      "options": [
+        "Can interrupt current when open",
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A learner investigates a metal object is tested in a circuit and records the result. Which conclusion about insulator is best supported?",
+      "options": [
+        "Needs a complete conducting path",
+        "Can interrupt current when open",
+        "Must be connected with correct polarity when required",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates a circuit diagram uses standard symbols and records the result. Which conclusion about electrical safety is best supported?",
+      "options": [
+        "Is represented by a recognised symbol",
+        "Can create an unsafe low-resistance path",
+        "Must be connected with correct polarity when required",
+        "Needs a complete conducting path"
       ],
       "answer": 0
+    },
+    {
+      "question": "A learner investigates a switch is moved to off and records the result. Which conclusion about electric cell is best supported?",
+      "options": [
+        "Must be connected with correct polarity when required",
+        "Can create an unsafe low-resistance path",
+        "Should be checked without touching bare conductors",
+        "Is represented by a recognised symbol"
+      ],
+      "answer": 2
     }
   ],
   "hard": [
     {
-      "question": "Which is a common reasoning error when discussing bulbs?",
+      "question": "During a class investigation of a wire joins the two terminals through a lamp, a result is observed. Which interpretation of electric cell is scientifically strongest?",
       "options": [
-        "Recording units",
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the strongest follow-up investigation for conductors?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about closed circuits?",
-      "options": [
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A personal preference"
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current",
+        "Can interrupt current when open"
       ],
       "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing insulators?",
+      "question": "During a class investigation of a bulb does not glow in a simple circuit, a result is observed. Which interpretation of switch is scientifically strongest?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Recording units",
-        "Checking evidence carefully"
+        "Can create an unsafe low-resistance path",
+        "Allows current to pass relatively easily",
+        "Needs a complete conducting path",
+        "Can interrupt current when open"
       ],
       "answer": 0
     },
     {
-      "question": "Which report about cells would be most useful to another student?",
+      "question": "During a class investigation of two cells are connected to supply energy, a result is observed. Which interpretation of insulator is scientifically strongest?",
       "options": [
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "Only a final answer"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain conductors. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object"
+        "Can interrupt current when open",
+        "Can create an unsafe low-resistance path",
+        "Must be connected with correct polarity when required",
+        "Needs a complete conducting path"
       ],
       "answer": 2
     },
     {
-      "question": "Two explanations are offered for cells. How should they be compared?",
+      "question": "During a class investigation of a wire joins the two terminals through a lamp, a result is observed. Which interpretation of electrical safety is scientifically strongest?",
       "options": [
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement about circuit symbols avoids overgeneralising?",
-      "options": [
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
+        "Needs a complete conducting path",
+        "Is represented by a recognised symbol",
+        "Can create an unsafe low-resistance path",
+        "Must be connected with correct polarity when required"
       ],
       "answer": 1
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about insulators. Which is evidence?",
+      "question": "During a class investigation of a bulb does not glow in a simple circuit, a result is observed. Which interpretation of electric cell is scientifically strongest?",
       "options": [
-        "A rumour from a friend",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing"
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol",
+        "Can create an unsafe low-resistance path",
+        "Should be checked without touching bare conductors"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During a class investigation of two cells are connected to supply energy, a result is observed. Which interpretation of switch is scientifically strongest?",
+      "options": [
+        "Should be checked without touching bare conductors",
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During a class investigation of a wire joins the two terminals through a lamp, a result is observed. Which interpretation of insulator is scientifically strongest?",
+      "options": [
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol",
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors"
       ],
       "answer": 2
     },
     {
-      "question": "A result about conductors differs from the prediction. What should the learner do?",
+      "question": "During a class investigation of a bulb does not glow in a simple circuit, a result is observed. Which interpretation of electrical safety is scientifically strongest?",
       "options": [
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
+        "Allows current to pass relatively easily",
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors",
+        "Resists the flow of electric current"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During a class investigation of two cells are connected to supply energy, a result is observed. Which interpretation of electric cell is scientifically strongest?",
+      "options": [
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors",
+        "Allows current to pass relatively easily",
+        "Can interrupt current when open"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During a class investigation of a wire joins the two terminals through a lamp, a result is observed. Which interpretation of switch is scientifically strongest?",
+      "options": [
+        "Allows current to pass relatively easily",
+        "Needs a complete conducting path",
+        "Resists the flow of electric current",
+        "Can interrupt current when open"
       ],
       "answer": 1
     },
     {
-      "question": "A diagram is used to explain closed circuits. What makes it scientifically useful?",
+      "question": "During a class investigation of a bulb does not glow in a simple circuit, a result is observed. Which interpretation of insulator is scientifically strongest?",
       "options": [
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains circuit symbols?",
-      "options": [
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A result about bulbs differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
+        "Needs a complete conducting path",
+        "Resists the flow of electric current",
+        "Allows current to pass relatively easily",
+        "Can interrupt current when open"
       ],
       "answer": 0
     },
     {
-      "question": "A diagram is used to explain cells. What makes it scientifically useful?",
+      "question": "During a class investigation of two cells are connected to supply energy, a result is observed. Which interpretation of electrical safety is scientifically strongest?",
       "options": [
-        "A claim that the diagram is the real object",
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone"
+        "Needs a complete conducting path",
+        "Can interrupt current when open",
+        "Allows current to pass relatively easily",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During a class investigation of a wire joins the two terminals through a lamp, a result is observed. Which interpretation of electric cell is scientifically strongest?",
+      "options": [
+        "Can create an unsafe low-resistance path",
+        "Can interrupt current when open",
+        "Must be connected with correct polarity when required",
+        "Needs a complete conducting path"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates closed circuits. Which practice makes the result more reliable?",
+      "question": "During a class investigation of a bulb does not glow in a simple circuit, a result is observed. Which interpretation of switch is scientifically strongest?",
       "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
-      ],
-      "answer": 0
-    }
-  ],
-  "tooHard": [
-    {
-      "question": "Which report about open switches would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of insulators be useful?",
-      "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It is always perfect"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for insulators?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about cells?",
-      "options": [
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A confident statement without evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about circuit symbols differs from the prediction. What should the learner do?",
-      "options": [
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about insulators differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about conductors?",
-      "options": [
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains open switches?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about cells. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains bulbs?",
-      "options": [
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for conductors. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which is a common reasoning error when discussing conductors?",
-      "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Recording units"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for bulbs?",
-      "options": [
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once"
+        "Must be connected with correct polarity when required",
+        "Can create an unsafe low-resistance path",
+        "Is represented by a recognised symbol",
+        "Needs a complete conducting path"
       ],
       "answer": 2
     },
     {
-      "question": "What is the strongest follow-up investigation for cells?",
+      "question": "During a class investigation of two cells are connected to supply energy, a result is observed. Which interpretation of insulator is scientifically strongest?",
       "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which report about bulbs would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A conclusion without observations",
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for bulbs. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates cells. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains cells?",
-      "options": [
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is a common reasoning error when discussing closed circuits?",
-      "options": [
-        "Checking evidence carefully",
-        "Considering alternative explanations",
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates circuit symbols. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Record only the expected result"
+        "Can create an unsafe low-resistance path",
+        "Should be checked without touching bare conductors",
+        "Is represented by a recognised symbol",
+        "Must be connected with correct polarity when required"
       ],
       "answer": 1
     }
   ],
   "extreme": [
     {
-      "question": "Why might a scientific model of cells be useful?",
+      "question": "A report draws a broad claim from evidence involving two cells are connected to supply energy. Which evaluation of insulator best respects the limits of the evidence?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It removes the need for evidence",
-        "It includes every detail of reality"
+        "Needs a complete conducting path",
+        "Can interrupt current when open",
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current"
       ],
       "answer": 0
     },
     {
-      "question": "Two explanations are offered for insulators. How should they be compared?",
+      "question": "A report draws a broad claim from evidence involving a wire joins the two terminals through a lamp. Which evaluation of electrical safety best respects the limits of the evidence?",
       "options": [
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation"
+        "Can create an unsafe low-resistance path",
+        "Can interrupt current when open",
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily"
       ],
       "answer": 0
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about insulators?",
+      "question": "A report draws a broad claim from evidence involving a bulb does not glow in a simple circuit. Which evaluation of electric cell best respects the limits of the evidence?",
       "options": [
-        "A personal preference",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for open switches. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of bulbs be useful?",
-      "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It removes the need for evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains conductors?",
-      "options": [
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain open switches. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of conductors be useful?",
-      "options": [
-        "It is always perfect",
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about conductors. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is a common reasoning error when discussing open switches?",
-      "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Recording units",
-        "Checking evidence carefully"
+        "Must be connected with correct polarity when required",
+        "Can interrupt current when open",
+        "Can create an unsafe low-resistance path",
+        "Needs a complete conducting path"
       ],
       "answer": 0
     },
     {
-      "question": "Which report about conductors would be most useful to another student?",
+      "question": "A report draws a broad claim from evidence involving two cells are connected to supply energy. Which evaluation of switch best respects the limits of the evidence?",
       "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A result with no method"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for closed circuits?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about open switches. Which is evidence?",
-      "options": [
-        "A rumour from a friend",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates open switches. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain insulators. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Must be connected with correct polarity when required",
+        "Needs a complete conducting path",
+        "Can create an unsafe low-resistance path",
+        "Is represented by a recognised symbol"
       ],
       "answer": 3
     },
     {
-      "question": "Why might a scientific model of open switches be useful?",
+      "question": "A report draws a broad claim from evidence involving a wire joins the two terminals through a lamp. Which evaluation of insulator best respects the limits of the evidence?",
       "options": [
-        "It includes every detail of reality",
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect"
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors",
+        "Can create an unsafe low-resistance path"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing cells?",
+      "question": "A report draws a broad claim from evidence involving a bulb does not glow in a simple circuit. Which evaluation of electrical safety best respects the limits of the evidence?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Checking evidence carefully",
-        "Considering alternative explanations"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for open switches?",
-      "options": [
-        "A test that changes everything at once",
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
+        "Can create an unsafe low-resistance path",
+        "Must be connected with correct polarity when required",
+        "Should be checked without touching bare conductors",
+        "Is represented by a recognised symbol"
       ],
       "answer": 2
     },
     {
-      "question": "A result about open switches differs from the prediction. What should the learner do?",
+      "question": "A report draws a broad claim from evidence involving two cells are connected to supply energy. Which evaluation of electric cell best respects the limits of the evidence?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about bulbs. Which is evidence?",
-      "options": [
-        "A rumour from a friend",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
+        "Should be checked without touching bare conductors",
+        "Must be connected with correct polarity when required",
+        "Resists the flow of electric current",
+        "Is represented by a recognised symbol"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about cells avoids overgeneralising?",
+      "question": "A report draws a broad claim from evidence involving a wire joins the two terminals through a lamp. Which evaluation of switch best respects the limits of the evidence?",
       "options": [
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement about insulators avoids overgeneralising?",
-      "options": [
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports"
+        "Should be checked without touching bare conductors",
+        "Is represented by a recognised symbol",
+        "Resists the flow of electric current",
+        "Allows current to pass relatively easily"
       ],
       "answer": 3
     },
     {
-      "question": "Two explanations are offered for closed circuits. How should they be compared?",
+      "question": "A report draws a broad claim from evidence involving a bulb does not glow in a simple circuit. Which evaluation of insulator best respects the limits of the evidence?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence"
+        "Can interrupt current when open",
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors",
+        "Allows current to pass relatively easily"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving two cells are connected to supply energy. Which evaluation of electrical safety best respects the limits of the evidence?",
+      "options": [
+        "Resists the flow of electric current",
+        "Can interrupt current when open",
+        "Allows current to pass relatively easily",
+        "Needs a complete conducting path"
       ],
       "answer": 3
     },
     {
-      "question": "A diagram is used to explain bulbs. What makes it scientifically useful?",
+      "question": "A report draws a broad claim from evidence involving a wire joins the two terminals through a lamp. Which evaluation of electric cell best respects the limits of the evidence?",
       "options": [
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone"
+        "Resists the flow of electric current",
+        "Can interrupt current when open",
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily"
       ],
       "answer": 2
     },
     {
-      "question": "Two explanations are offered for circuit symbols. How should they be compared?",
+      "question": "A report draws a broad claim from evidence involving a bulb does not glow in a simple circuit. Which evaluation of switch best respects the limits of the evidence?",
       "options": [
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation"
+        "Can interrupt current when open",
+        "Allows current to pass relatively easily",
+        "Needs a complete conducting path",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving two cells are connected to supply energy. Which evaluation of insulator best respects the limits of the evidence?",
+      "options": [
+        "Can create an unsafe low-resistance path",
+        "Needs a complete conducting path",
+        "Must be connected with correct polarity when required",
+        "Can interrupt current when open"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a wire joins the two terminals through a lamp. Which evaluation of electrical safety best respects the limits of the evidence?",
+      "options": [
+        "Needs a complete conducting path",
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a bulb does not glow in a simple circuit. Which evaluation of electric cell best respects the limits of the evidence?",
+      "options": [
+        "Must be connected with correct polarity when required",
+        "Should be checked without touching bare conductors",
+        "Is represented by a recognised symbol",
+        "Can create an unsafe low-resistance path"
       ],
       "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving two cells are connected to supply energy. Which evaluation of switch best respects the limits of the evidence?",
+      "options": [
+        "Should be checked without touching bare conductors",
+        "Can create an unsafe low-resistance path",
+        "Is represented by a recognised symbol",
+        "Must be connected with correct polarity when required"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a wire joins the two terminals through a lamp. Which evaluation of insulator best respects the limits of the evidence?",
+      "options": [
+        "Must be connected with correct polarity when required",
+        "Should be checked without touching bare conductors",
+        "Is represented by a recognised symbol",
+        "Resists the flow of electric current"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a bulb does not glow in a simple circuit. Which evaluation of electrical safety best respects the limits of the evidence?",
+      "options": [
+        "Is represented by a recognised symbol",
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving two cells are connected to supply energy. Which evaluation of electric cell best respects the limits of the evidence?",
+      "options": [
+        "Should be checked without touching bare conductors",
+        "Resists the flow of electric current",
+        "Can interrupt current when open",
+        "Allows current to pass relatively easily"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a wire joins the two terminals through a lamp. Which evaluation of switch best respects the limits of the evidence?",
+      "options": [
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current",
+        "Can interrupt current when open"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a bulb does not glow in a simple circuit. Which evaluation of insulator best respects the limits of the evidence?",
+      "options": [
+        "Allows current to pass relatively easily",
+        "Needs a complete conducting path",
+        "Can interrupt current when open",
+        "Resists the flow of electric current"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving two cells are connected to supply energy. Which evaluation of electrical safety best respects the limits of the evidence?",
+      "options": [
+        "Can create an unsafe low-resistance path",
+        "Can interrupt current when open",
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a wire joins the two terminals through a lamp. Which evaluation of electric cell best respects the limits of the evidence?",
+      "options": [
+        "Can create an unsafe low-resistance path",
+        "Can interrupt current when open",
+        "Must be connected with correct polarity when required",
+        "Needs a complete conducting path"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a bulb does not glow in a simple circuit. Which evaluation of switch best respects the limits of the evidence?",
+      "options": [
+        "Needs a complete conducting path",
+        "Is represented by a recognised symbol",
+        "Can create an unsafe low-resistance path",
+        "Must be connected with correct polarity when required"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving two cells are connected to supply energy. Which evaluation of insulator best respects the limits of the evidence?",
+      "options": [
+        "Can create an unsafe low-resistance path",
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors",
+        "Must be connected with correct polarity when required"
+      ],
+      "answer": 2
+    }
+  ],
+  "tooHard": [
+    {
+      "question": "A group compares results from a circuit diagram uses standard symbols, but one condition is not perfectly controlled. Which judgement about switch is most defensible?",
+      "options": [
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors",
+        "Must be connected with correct polarity when required",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a switch is moved to off, but one condition is not perfectly controlled. Which judgement about insulator is most defensible?",
+      "options": [
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol",
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from a metal object is tested in a circuit, but one condition is not perfectly controlled. Which judgement about electrical safety is most defensible?",
+      "options": [
+        "Resists the flow of electric current",
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors",
+        "Allows current to pass relatively easily"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a circuit diagram uses standard symbols, but one condition is not perfectly controlled. Which judgement about electric cell is most defensible?",
+      "options": [
+        "Resists the flow of electric current",
+        "Can interrupt current when open",
+        "Should be checked without touching bare conductors",
+        "Allows current to pass relatively easily"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a switch is moved to off, but one condition is not perfectly controlled. Which judgement about switch is most defensible?",
+      "options": [
+        "Can interrupt current when open",
+        "Resists the flow of electric current",
+        "Allows current to pass relatively easily",
+        "Needs a complete conducting path"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a metal object is tested in a circuit, but one condition is not perfectly controlled. Which judgement about insulator is most defensible?",
+      "options": [
+        "Resists the flow of electric current",
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily",
+        "Can interrupt current when open"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a circuit diagram uses standard symbols, but one condition is not perfectly controlled. Which judgement about electrical safety is most defensible?",
+      "options": [
+        "Can interrupt current when open",
+        "Can create an unsafe low-resistance path",
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a switch is moved to off, but one condition is not perfectly controlled. Which judgement about electric cell is most defensible?",
+      "options": [
+        "Must be connected with correct polarity when required",
+        "Needs a complete conducting path",
+        "Can create an unsafe low-resistance path",
+        "Can interrupt current when open"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from a metal object is tested in a circuit, but one condition is not perfectly controlled. Which judgement about switch is most defensible?",
+      "options": [
+        "Needs a complete conducting path",
+        "Can create an unsafe low-resistance path",
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a circuit diagram uses standard symbols, but one condition is not perfectly controlled. Which judgement about insulator is most defensible?",
+      "options": [
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors",
+        "Must be connected with correct polarity when required",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a switch is moved to off, but one condition is not perfectly controlled. Which judgement about electrical safety is most defensible?",
+      "options": [
+        "Can create an unsafe low-resistance path",
+        "Is represented by a recognised symbol",
+        "Should be checked without touching bare conductors",
+        "Must be connected with correct polarity when required"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from a metal object is tested in a circuit, but one condition is not perfectly controlled. Which judgement about electric cell is most defensible?",
+      "options": [
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol",
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from a circuit diagram uses standard symbols, but one condition is not perfectly controlled. Which judgement about switch is most defensible?",
+      "options": [
+        "Is represented by a recognised symbol",
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a switch is moved to off, but one condition is not perfectly controlled. Which judgement about insulator is most defensible?",
+      "options": [
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current",
+        "Should be checked without touching bare conductors",
+        "Can interrupt current when open"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a metal object is tested in a circuit, but one condition is not perfectly controlled. Which judgement about electrical safety is most defensible?",
+      "options": [
+        "Resists the flow of electric current",
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily",
+        "Can interrupt current when open"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a circuit diagram uses standard symbols, but one condition is not perfectly controlled. Which judgement about electric cell is most defensible?",
+      "options": [
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily",
+        "Resists the flow of electric current",
+        "Can interrupt current when open"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from a switch is moved to off, but one condition is not perfectly controlled. Which judgement about switch is most defensible?",
+      "options": [
+        "Can interrupt current when open",
+        "Needs a complete conducting path",
+        "Allows current to pass relatively easily",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a metal object is tested in a circuit, but one condition is not perfectly controlled. Which judgement about insulator is most defensible?",
+      "options": [
+        "Needs a complete conducting path",
+        "Must be connected with correct polarity when required",
+        "Can interrupt current when open",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a circuit diagram uses standard symbols, but one condition is not perfectly controlled. Which judgement about electrical safety is most defensible?",
+      "options": [
+        "Is represented by a recognised symbol",
+        "Must be connected with correct polarity when required",
+        "Needs a complete conducting path",
+        "Can create an unsafe low-resistance path"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from a switch is moved to off, but one condition is not perfectly controlled. Which judgement about electric cell is most defensible?",
+      "options": [
+        "Should be checked without touching bare conductors",
+        "Can create an unsafe low-resistance path",
+        "Must be connected with correct polarity when required",
+        "Is represented by a recognised symbol"
+      ],
+      "answer": 0
     }
   ]
 };

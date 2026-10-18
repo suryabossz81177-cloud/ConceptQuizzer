@@ -2,810 +2,810 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-adolescence-a-stage-of-growth-and-change"] = {
   "easy": [
     {
-      "question": "Why might a scientific model of menstruation be useful?",
+      "question": "In the context of a young person experiences a growth spurt, which idea is most directly relevant to adolescence?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It removes the need for evidence"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about hormones?",
-      "options": [
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "A confident statement without evidence",
-        "An unrelated measurement"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about menstruation?",
-      "options": [
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A personal preference"
+        "Varies from person to person",
+        "Is a normal stage between childhood and adulthood",
+        "Supports health during growth",
+        "Can help regulate changes in the body"
       ],
       "answer": 1
     },
     {
-      "question": "Why might a scientific model of voice changes be useful?",
+      "question": "In the context of friends pressure someone to try an unsafe habit, which idea is most directly relevant to emotional changes?",
       "options": [
-        "It is always perfect",
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon"
+        "Is a normal stage between childhood and adulthood",
+        "Can protect well-being when practiced consistently",
+        "Varies from person to person",
+        "Can help regulate changes in the body"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
-      "question": "Two explanations are offered for menstruation. How should they be compared?",
+      "question": "In the context of a student feels stressed during a period of change, which idea is most directly relevant to sleep?",
       "options": [
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation"
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood",
+        "Does not mean everyone develops at the same pace",
+        "Can protect well-being when practiced consistently"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about pituitary gland avoids overgeneralising?",
+      "question": "In the context of a young person experiences a growth spurt, which idea is most directly relevant to healthy habits?",
       "options": [
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing voice changes?",
-      "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Checking evidence carefully",
-        "Considering alternative explanations"
+        "Is best addressed using reliable information and trusted adults",
+        "Is a normal stage between childhood and adulthood",
+        "Does not mean everyone develops at the same pace",
+        "Can protect well-being when practiced consistently"
       ],
       "answer": 0
     },
     {
-      "question": "A learner investigates nutrition. Which practice makes the result more reliable?",
+      "question": "In the context of friends pressure someone to try an unsafe habit, which idea is most directly relevant to adolescence?",
       "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Record only the expected result",
-        "Ignore measurements that disagree"
+        "Should be handled with privacy and respect",
+        "Can protect well-being when practiced consistently",
+        "Is best addressed using reliable information and trusted adults",
+        "Does not mean everyone develops at the same pace"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement best explains voice changes?",
+      "question": "In the context of a student feels stressed during a period of change, which idea is most directly relevant to emotional changes?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
+        "Should be handled with privacy and respect",
+        "Does not mean everyone develops at the same pace",
+        "Can protect well-being when practiced consistently",
+        "Is best addressed using reliable information and trusted adults"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "A diagram is used to explain hormones. What makes it scientifically useful?",
+      "question": "In the context of a young person experiences a growth spurt, which idea is most directly relevant to sleep?",
       "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object"
+        "Is best addressed using reliable information and trusted adults",
+        "Should be handled with privacy and respect",
+        "Does not mean everyone develops at the same pace",
+        "Supports health during growth"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In the context of friends pressure someone to try an unsafe habit, which idea is most directly relevant to healthy habits?",
+      "options": [
+        "Varies from person to person",
+        "Is best addressed using reliable information and trusted adults",
+        "Supports health during growth",
+        "Should be handled with privacy and respect"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the context of a student feels stressed during a period of change, which idea is most directly relevant to adolescence?",
+      "options": [
+        "Can help regulate changes in the body",
+        "Supports health during growth",
+        "Should be handled with privacy and respect",
+        "Varies from person to person"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the context of a young person experiences a growth spurt, which idea is most directly relevant to emotional changes?",
+      "options": [
+        "Is a normal stage between childhood and adulthood",
+        "Supports health during growth",
+        "Varies from person to person",
+        "Can help regulate changes in the body"
       ],
       "answer": 0
     }
   ],
   "medium": [
     {
-      "question": "Why might a scientific model of hygiene be useful?",
+      "question": "A learner investigates two classmates begin puberty at different ages and records the result. Which conclusion about emotional changes is best supported?",
       "options": [
-        "It is always perfect",
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon"
+        "Is best addressed using reliable information and trusted adults",
+        "Does not mean everyone develops at the same pace",
+        "Should be handled with privacy and respect",
+        "Can protect well-being when practiced consistently"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates a student needs reliable health information and records the result. Which conclusion about sleep is best supported?",
+      "options": [
+        "Should be handled with privacy and respect",
+        "Is best addressed using reliable information and trusted adults",
+        "Supports health during growth",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates a student has questions about body changes and records the result. Which conclusion about healthy habits is best supported?",
+      "options": [
+        "Is best addressed using reliable information and trusted adults",
+        "Supports health during growth",
+        "Varies from person to person",
+        "Should be handled with privacy and respect"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates two classmates begin puberty at different ages and records the result. Which conclusion about adolescence is best supported?",
+      "options": [
+        "Supports health during growth",
+        "Varies from person to person",
+        "Can help regulate changes in the body",
+        "Should be handled with privacy and respect"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates a student needs reliable health information and records the result. Which conclusion about emotional changes is best supported?",
+      "options": [
+        "Varies from person to person",
+        "Supports health during growth",
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood"
       ],
       "answer": 3
     },
     {
-      "question": "A result about pituitary gland differs from the prediction. What should the learner do?",
+      "question": "A learner investigates a student has questions about body changes and records the result. Which conclusion about sleep is best supported?",
       "options": [
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation"
+        "Varies from person to person",
+        "Can help regulate changes in the body",
+        "Supports health during growth",
+        "Is a normal stage between childhood and adulthood"
       ],
       "answer": 3
     },
     {
-      "question": "Two explanations are offered for hygiene. How should they be compared?",
+      "question": "A learner investigates two classmates begin puberty at different ages and records the result. Which conclusion about healthy habits is best supported?",
       "options": [
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard"
+        "Varies from person to person",
+        "Can help regulate changes in the body",
+        "Can protect well-being when practiced consistently",
+        "Is a normal stage between childhood and adulthood"
       ],
-      "answer": 1
+      "answer": 2
     },
     {
-      "question": "Which report about hygiene would be most useful to another student?",
+      "question": "A learner investigates a student needs reliable health information and records the result. Which conclusion about adolescence is best supported?",
       "options": [
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A result with no method"
+        "Can protect well-being when practiced consistently",
+        "Can help regulate changes in the body",
+        "Does not mean everyone develops at the same pace",
+        "Is a normal stage between childhood and adulthood"
       ],
-      "answer": 1
+      "answer": 2
     },
     {
-      "question": "Two explanations are offered for nutrition. How should they be compared?",
+      "question": "A learner investigates a student has questions about body changes and records the result. Which conclusion about emotional changes is best supported?",
       "options": [
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence"
+        "Is a normal stage between childhood and adulthood",
+        "Does not mean everyone develops at the same pace",
+        "Can protect well-being when practiced consistently",
+        "Is best addressed using reliable information and trusted adults"
       ],
       "answer": 3
     },
     {
-      "question": "What is the strongest follow-up investigation for hormones?",
+      "question": "A learner investigates two classmates begin puberty at different ages and records the result. Which conclusion about sleep is best supported?",
       "options": [
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "An observation unrelated to the question"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for voice changes?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best"
+        "Should be handled with privacy and respect",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace",
+        "Is best addressed using reliable information and trusted adults"
       ],
       "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for pituitary gland?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains nutrition?",
-      "options": [
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "An unrelated opinion"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates hormones. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
     }
   ],
   "hard": [
     {
-      "question": "A result about voice changes differs from the prediction. What should the learner do?",
+      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of sleep is scientifically strongest?",
       "options": [
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable"
+        "Supports health during growth",
+        "Varies from person to person",
+        "Is a normal stage between childhood and adulthood",
+        "Can help regulate changes in the body"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about hygiene. Which is evidence?",
+      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of healthy habits is scientifically strongest?",
       "options": [
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain menstruation. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain hygiene. What makes it scientifically useful?",
-      "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates hygiene. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
+        "Is a normal stage between childhood and adulthood",
+        "Can protect well-being when practiced consistently",
+        "Can help regulate changes in the body",
+        "Varies from person to person"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement about hormones avoids overgeneralising?",
+      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of adolescence is scientifically strongest?",
       "options": [
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports"
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood",
+        "Does not mean everyone develops at the same pace",
+        "Can protect well-being when practiced consistently"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of emotional changes is scientifically strongest?",
+      "options": [
+        "Can protect well-being when practiced consistently",
+        "Is best addressed using reliable information and trusted adults",
+        "Is a normal stage between childhood and adulthood",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of sleep is scientifically strongest?",
+      "options": [
+        "Does not mean everyone develops at the same pace",
+        "Is best addressed using reliable information and trusted adults",
+        "Can protect well-being when practiced consistently",
+        "Should be handled with privacy and respect"
       ],
       "answer": 3
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about pituitary gland?",
+      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of healthy habits is scientifically strongest?",
       "options": [
-        "A personal preference",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement"
+        "Is best addressed using reliable information and trusted adults",
+        "Should be handled with privacy and respect",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of adolescence is scientifically strongest?",
+      "options": [
+        "Should be handled with privacy and respect",
+        "Is best addressed using reliable information and trusted adults",
+        "Supports health during growth",
+        "Does not mean everyone develops at the same pace"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about voice changes avoids overgeneralising?",
+      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of emotional changes is scientifically strongest?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "One test proves every possible case"
+        "Is best addressed using reliable information and trusted adults",
+        "Supports health during growth",
+        "Varies from person to person",
+        "Should be handled with privacy and respect"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
-      "question": "Why might a scientific model of pituitary gland be useful?",
+      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of sleep is scientifically strongest?",
       "options": [
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon"
+        "Varies from person to person",
+        "Supports health during growth",
+        "Can help regulate changes in the body",
+        "Should be handled with privacy and respect"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of healthy habits is scientifically strongest?",
+      "options": [
+        "Can help regulate changes in the body",
+        "Varies from person to person",
+        "Supports health during growth",
+        "Is a normal stage between childhood and adulthood"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement best explains hygiene?",
+      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of adolescence is scientifically strongest?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing menstruation?",
-      "options": [
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about menstruation avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about voice changes. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for hormones. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain pituitary gland. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone"
-      ],
-      "answer": 1
-    }
-  ],
-  "tooHard": [
-    {
-      "question": "Which statement best explains menstruation?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement best explains hormones?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "An unrelated opinion"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A result about hormones differs from the prediction. What should the learner do?",
-      "options": [
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A result about hygiene differs from the prediction. What should the learner do?",
-      "options": [
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates pituitary gland. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement best explains growth spurts?",
-      "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for nutrition?",
-      "options": [
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question",
-        "A test that changes everything at once"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates voice changes. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which report about voice changes would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "Only a final answer"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains pituitary gland?",
-      "options": [
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about growth spurts. Which is evidence?",
-      "options": [
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing",
-        "A preferred answer"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about voice changes?",
-      "options": [
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "An unrelated measurement"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing pituitary gland?",
-      "options": [
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully",
-        "Considering alternative explanations"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for pituitary gland. How should they be compared?",
-      "options": [
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain voice changes. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Can help regulate changes in the body",
+        "Varies from person to person",
+        "Supports health during growth",
+        "Is a normal stage between childhood and adulthood"
       ],
       "answer": 3
     },
     {
-      "question": "Which is a common reasoning error when discussing hygiene?",
+      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of emotional changes is scientifically strongest?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Considering alternative explanations",
-        "Checking evidence carefully"
+        "Can protect well-being when practiced consistently",
+        "Can help regulate changes in the body",
+        "Varies from person to person",
+        "Is a normal stage between childhood and adulthood"
       ],
       "answer": 0
     },
     {
-      "question": "Which report about hormones would be most useful to another student?",
+      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of sleep is scientifically strongest?",
       "options": [
-        "A conclusion without observations",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is a common reasoning error when discussing growth spurts?",
-      "options": [
-        "Considering alternative explanations",
-        "Recording units",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule"
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace"
       ],
       "answer": 3
     },
     {
-      "question": "A learner investigates menstruation. Which practice makes the result more reliable?",
+      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of healthy habits is scientifically strongest?",
       "options": [
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of growth spurts be useful?",
-      "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It removes the need for evidence",
-        "It is always perfect"
+        "Is best addressed using reliable information and trusted adults",
+        "Is a normal stage between childhood and adulthood",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace"
       ],
       "answer": 0
+    },
+    {
+      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of adolescence is scientifically strongest?",
+      "options": [
+        "Is best addressed using reliable information and trusted adults",
+        "Should be handled with privacy and respect",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 1
     }
   ],
   "extreme": [
     {
-      "question": "Which report about growth spurts would be most useful to another student?",
+      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of adolescence best respects the limits of the evidence?",
       "options": [
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A result with no method"
+        "Supports health during growth",
+        "Varies from person to person",
+        "Is a normal stage between childhood and adulthood",
+        "Can help regulate changes in the body"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of emotional changes best respects the limits of the evidence?",
+      "options": [
+        "Varies from person to person",
+        "Can protect well-being when practiced consistently",
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood"
       ],
       "answer": 1
     },
     {
-      "question": "Two explanations are offered for growth spurts. How should they be compared?",
+      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of sleep best respects the limits of the evidence?",
       "options": [
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of hormones be useful?",
-      "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It is always perfect"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A result about nutrition differs from the prediction. What should the learner do?",
-      "options": [
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result"
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace",
+        "Is a normal stage between childhood and adulthood",
+        "Can help regulate changes in the body"
       ],
       "answer": 1
     },
     {
-      "question": "Which is a common reasoning error when discussing hormones?",
+      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of healthy habits best respects the limits of the evidence?",
       "options": [
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully"
+        "Is best addressed using reliable information and trusted adults",
+        "Is a normal stage between childhood and adulthood",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of adolescence best respects the limits of the evidence?",
+      "options": [
+        "Does not mean everyone develops at the same pace",
+        "Is best addressed using reliable information and trusted adults",
+        "Can protect well-being when practiced consistently",
+        "Should be handled with privacy and respect"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of emotional changes best respects the limits of the evidence?",
+      "options": [
+        "Should be handled with privacy and respect",
+        "Is best addressed using reliable information and trusted adults",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of sleep best respects the limits of the evidence?",
+      "options": [
+        "Should be handled with privacy and respect",
+        "Does not mean everyone develops at the same pace",
+        "Supports health during growth",
+        "Is best addressed using reliable information and trusted adults"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of healthy habits best respects the limits of the evidence?",
+      "options": [
+        "Should be handled with privacy and respect",
+        "Is best addressed using reliable information and trusted adults",
+        "Varies from person to person",
+        "Supports health during growth"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of adolescence best respects the limits of the evidence?",
+      "options": [
+        "Supports health during growth",
+        "Can help regulate changes in the body",
+        "Varies from person to person",
+        "Should be handled with privacy and respect"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement about nutrition avoids overgeneralising?",
+      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of emotional changes best respects the limits of the evidence?",
       "options": [
-        "A model is always identical to reality",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement about growth spurts avoids overgeneralising?",
-      "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
+        "Is a normal stage between childhood and adulthood",
+        "Supports health during growth",
+        "Varies from person to person",
+        "Can help regulate changes in the body"
       ],
       "answer": 0
     },
     {
-      "question": "Which report about menstruation would be most useful to another student?",
+      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of sleep best respects the limits of the evidence?",
       "options": [
-        "Only a final answer",
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations"
+        "Supports health during growth",
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood",
+        "Varies from person to person"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about hormones. Which is evidence?",
+      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of healthy habits best respects the limits of the evidence?",
       "options": [
-        "A preferred answer",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the strongest follow-up investigation for growth spurts?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about nutrition?",
-      "options": [
-        "A confident statement without evidence",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the strongest follow-up investigation for menstruation?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "An observation unrelated to the question"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates growth spurts. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result",
-        "Change every condition at once"
+        "Can help regulate changes in the body",
+        "Can protect well-being when practiced consistently",
+        "Is a normal stage between childhood and adulthood",
+        "Varies from person to person"
       ],
       "answer": 1
     },
     {
-      "question": "A result about menstruation differs from the prediction. What should the learner do?",
+      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of adolescence best respects the limits of the evidence?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result"
+        "Can help regulate changes in the body",
+        "Does not mean everyone develops at the same pace",
+        "Is a normal stage between childhood and adulthood",
+        "Can protect well-being when practiced consistently"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "A result about growth spurts differs from the prediction. What should the learner do?",
+      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of emotional changes best respects the limits of the evidence?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about hygiene?",
-      "options": [
-        "A personal preference",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence"
+        "Is a normal stage between childhood and adulthood",
+        "Does not mean everyone develops at the same pace",
+        "Is best addressed using reliable information and trusted adults",
+        "Can protect well-being when practiced consistently"
       ],
       "answer": 2
     },
     {
-      "question": "Which report about pituitary gland would be most useful to another student?",
+      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of sleep best respects the limits of the evidence?",
       "options": [
-        "A conclusion without observations",
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A diagram is used to explain growth spurts. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about nutrition would be most useful to another student?",
-      "options": [
-        "A conclusion without observations",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about menstruation. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about growth spurts?",
-      "options": [
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A personal preference"
+        "Should be handled with privacy and respect",
+        "Does not mean everyone develops at the same pace",
+        "Is best addressed using reliable information and trusted adults",
+        "Can protect well-being when practiced consistently"
       ],
       "answer": 0
     },
     {
-      "question": "Two explanations are offered for voice changes. How should they be compared?",
+      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of healthy habits best respects the limits of the evidence?",
       "options": [
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence"
+        "Does not mean everyone develops at the same pace",
+        "Is best addressed using reliable information and trusted adults",
+        "Should be handled with privacy and respect",
+        "Can protect well-being when practiced consistently"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about pituitary gland. Which is evidence?",
+      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of adolescence best respects the limits of the evidence?",
       "options": [
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A guess made before testing",
-        "A rumour from a friend"
+        "Supports health during growth",
+        "Does not mean everyone develops at the same pace",
+        "Is best addressed using reliable information and trusted adults",
+        "Should be handled with privacy and respect"
       ],
       "answer": 0
     },
     {
-      "question": "What is the strongest follow-up investigation for hygiene?",
+      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of emotional changes best respects the limits of the evidence?",
       "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable"
+        "Is best addressed using reliable information and trusted adults",
+        "Varies from person to person",
+        "Should be handled with privacy and respect",
+        "Supports health during growth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of sleep best respects the limits of the evidence?",
+      "options": [
+        "Should be handled with privacy and respect",
+        "Can help regulate changes in the body",
+        "Varies from person to person",
+        "Supports health during growth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of healthy habits best respects the limits of the evidence?",
+      "options": [
+        "Can help regulate changes in the body",
+        "Varies from person to person",
+        "Supports health during growth",
+        "Is a normal stage between childhood and adulthood"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement about hygiene avoids overgeneralising?",
+      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of adolescence best respects the limits of the evidence?",
       "options": [
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality"
+        "Can help regulate changes in the body",
+        "Supports health during growth",
+        "Is a normal stage between childhood and adulthood",
+        "Varies from person to person"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of emotional changes best respects the limits of the evidence?",
+      "options": [
+        "Is a normal stage between childhood and adulthood",
+        "Varies from person to person",
+        "Can protect well-being when practiced consistently",
+        "Can help regulate changes in the body"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of sleep best respects the limits of the evidence?",
+      "options": [
+        "Is a normal stage between childhood and adulthood",
+        "Does not mean everyone develops at the same pace",
+        "Can protect well-being when practiced consistently",
+        "Can help regulate changes in the body"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of healthy habits best respects the limits of the evidence?",
+      "options": [
+        "Is best addressed using reliable information and trusted adults",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace",
+        "Is a normal stage between childhood and adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of adolescence best respects the limits of the evidence?",
+      "options": [
+        "Does not mean everyone develops at the same pace",
+        "Can protect well-being when practiced consistently",
+        "Should be handled with privacy and respect",
+        "Is best addressed using reliable information and trusted adults"
+      ],
+      "answer": 2
+    }
+  ],
+  "tooHard": [
+    {
+      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
+      "options": [
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace",
+        "Should be handled with privacy and respect",
+        "Is best addressed using reliable information and trusted adults"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
+      "options": [
+        "Does not mean everyone develops at the same pace",
+        "Supports health during growth",
+        "Is best addressed using reliable information and trusted adults",
+        "Should be handled with privacy and respect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
+      "options": [
+        "Is best addressed using reliable information and trusted adults",
+        "Varies from person to person",
+        "Should be handled with privacy and respect",
+        "Supports health during growth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
+      "options": [
+        "Supports health during growth",
+        "Can help regulate changes in the body",
+        "Varies from person to person",
+        "Should be handled with privacy and respect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
+      "options": [
+        "Varies from person to person",
+        "Supports health during growth",
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
+      "options": [
+        "Varies from person to person",
+        "Is a normal stage between childhood and adulthood",
+        "Supports health during growth",
+        "Can help regulate changes in the body"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
+      "options": [
+        "Varies from person to person",
+        "Is a normal stage between childhood and adulthood",
+        "Can help regulate changes in the body",
+        "Can protect well-being when practiced consistently"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
+      "options": [
+        "Can protect well-being when practiced consistently",
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
+      "options": [
+        "Does not mean everyone develops at the same pace",
+        "Is a normal stage between childhood and adulthood",
+        "Can protect well-being when practiced consistently",
+        "Is best addressed using reliable information and trusted adults"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
+      "options": [
+        "Should be handled with privacy and respect",
+        "Is best addressed using reliable information and trusted adults",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
+      "options": [
+        "Does not mean everyone develops at the same pace",
+        "Can protect well-being when practiced consistently",
+        "Is best addressed using reliable information and trusted adults",
+        "Should be handled with privacy and respect"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
+      "options": [
+        "Should be handled with privacy and respect",
+        "Is best addressed using reliable information and trusted adults",
+        "Supports health during growth",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
+      "options": [
+        "Is best addressed using reliable information and trusted adults",
+        "Varies from person to person",
+        "Should be handled with privacy and respect",
+        "Supports health during growth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
+      "options": [
+        "Supports health during growth",
+        "Varies from person to person",
+        "Can help regulate changes in the body",
+        "Should be handled with privacy and respect"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
+      "options": [
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood",
+        "Varies from person to person",
+        "Supports health during growth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
+      "options": [
+        "Is a normal stage between childhood and adulthood",
+        "Varies from person to person",
+        "Can help regulate changes in the body",
+        "Supports health during growth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
+      "options": [
+        "Varies from person to person",
+        "Can help regulate changes in the body",
+        "Is a normal stage between childhood and adulthood",
+        "Can protect well-being when practiced consistently"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
+      "options": [
+        "Is a normal stage between childhood and adulthood",
+        "Can help regulate changes in the body",
+        "Can protect well-being when practiced consistently",
+        "Does not mean everyone develops at the same pace"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
+      "options": [
+        "Can protect well-being when practiced consistently",
+        "Is a normal stage between childhood and adulthood",
+        "Does not mean everyone develops at the same pace",
+        "Is best addressed using reliable information and trusted adults"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
+      "options": [
+        "Does not mean everyone develops at the same pace",
+        "Should be handled with privacy and respect",
+        "Is best addressed using reliable information and trusted adults",
+        "Can protect well-being when practiced consistently"
       ],
       "answer": 1
     }

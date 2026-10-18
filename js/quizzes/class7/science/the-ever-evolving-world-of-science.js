@@ -2,812 +2,812 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-the-ever-evolving-world-of-science"] = {
   "easy": [
     {
-      "question": "Which statement about prediction avoids overgeneralising?",
+      "question": "In the context of a graph shows a trend across several readings, which idea is most directly relevant to peer checking?",
       "options": [
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports"
+        "Is stronger when methods and conditions are recorded",
+        "Can simplify a system while leaving out details",
+        "May need revision when reliable evidence changes",
+        "Should be distinguished from a personal opinion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the context of a diagram represents a complicated natural system, which idea is most directly relevant to inference?",
+      "options": [
+        "May need revision when reliable evidence changes",
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant",
+        "Is stronger when methods and conditions are recorded"
       ],
       "answer": 3
     },
     {
-      "question": "Two explanations are offered for measurement. How should they be compared?",
+      "question": "In the context of a student notices a puddle disappears faster on a warm day, which idea is most directly relevant to observation?",
       "options": [
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about observation avoids overgeneralising?",
-      "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which is a common reasoning error when discussing measurement?",
-      "options": [
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing models?",
-      "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Recording units"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about models?",
-      "options": [
-        "A confident statement without evidence",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference"
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant",
+        "May need revision when reliable evidence changes",
+        "Should be checked rather than hidden"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about measurement. Which is evidence?",
+      "question": "In the context of a graph shows a trend across several readings, which idea is most directly relevant to repeat trials?",
       "options": [
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A guess made before testing",
-        "A rumour from a friend"
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 0
     },
     {
-      "question": "Which report about prediction would be most useful to another student?",
+      "question": "In the context of a diagram represents a complicated natural system, which idea is most directly relevant to peer checking?",
       "options": [
-        "Only a final answer",
-        "A result with no method",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "Supports a conclusion only when evidence is relevant",
+        "Is stronger when methods and conditions are recorded"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the context of a student notices a puddle disappears faster on a warm day, which idea is most directly relevant to inference?",
+      "options": [
+        "Can simplify a system while leaving out details",
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded",
+        "Should be distinguished from a personal opinion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the context of a graph shows a trend across several readings, which idea is most directly relevant to observation?",
+      "options": [
+        "May need revision when reliable evidence changes",
+        "Supports a conclusion only when evidence is relevant",
+        "Is stronger when methods and conditions are recorded",
+        "Should be distinguished from a personal opinion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the context of a diagram represents a complicated natural system, which idea is most directly relevant to repeat trials?",
+      "options": [
+        "Should be distinguished from a personal opinion",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "May need revision when reliable evidence changes"
       ],
       "answer": 3
     },
     {
-      "question": "A result about measurement differs from the prediction. What should the learner do?",
+      "question": "In the context of a student notices a puddle disappears faster on a warm day, which idea is most directly relevant to peer checking?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction"
+        "Should be checked rather than hidden",
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant",
+        "Can simplify a system while leaving out details"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about hypothesis. Which is evidence?",
+      "question": "In the context of a graph shows a trend across several readings, which idea is most directly relevant to inference?",
       "options": [
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A preferred answer",
-        "A guess made before testing"
+        "Can simplify a system while leaving out details",
+        "Is stronger when methods and conditions are recorded",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden"
       ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "medium": [
     {
-      "question": "Which statement best explains evidence?",
+      "question": "A learner investigates a scientist shares the method with other researchers and records the result. Which conclusion about inference is best supported?",
       "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
+        "Should be distinguished from a personal opinion",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "May need revision when reliable evidence changes"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A learner investigates a team repeats a test with the same procedure and records the result. Which conclusion about observation is best supported?",
+      "options": [
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden"
       ],
       "answer": 0
     },
     {
-      "question": "A diagram is used to explain measurement. What makes it scientifically useful?",
+      "question": "A learner investigates two groups measure the same object and get different values and records the result. Which conclusion about repeat trials is best supported?",
       "options": [
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "Decorative detail alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for evidence?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
+        "Is stronger when methods and conditions are recorded",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 2
     },
     {
-      "question": "Two explanations are offered for hypothesis. How should they be compared?",
+      "question": "A learner investigates a scientist shares the method with other researchers and records the result. Which conclusion about peer checking is best supported?",
       "options": [
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "Is stronger when methods and conditions are recorded",
+        "May need revision when reliable evidence changes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A learner investigates a team repeats a test with the same procedure and records the result. Which conclusion about inference is best supported?",
+      "options": [
+        "Can simplify a system while leaving out details",
+        "Should be distinguished from a personal opinion",
+        "Is stronger when methods and conditions are recorded",
+        "May need revision when reliable evidence changes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A learner investigates two groups measure the same object and get different values and records the result. Which conclusion about observation is best supported?",
+      "options": [
+        "Supports a conclusion only when evidence is relevant",
+        "Should be distinguished from a personal opinion",
+        "Should be checked rather than hidden",
+        "May need revision when reliable evidence changes"
       ],
       "answer": 3
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about prediction?",
+      "question": "A learner investigates a scientist shares the method with other researchers and records the result. Which conclusion about repeat trials is best supported?",
       "options": [
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A confident statement without evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about fair testing differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction"
+        "Should be distinguished from a personal opinion",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement about measurement avoids overgeneralising?",
+      "question": "A learner investigates a team repeats a test with the same procedure and records the result. Which conclusion about peer checking is best supported?",
       "options": [
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for models. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard"
+        "Supports a conclusion only when evidence is relevant",
+        "Can simplify a system while leaving out details",
+        "Is stronger when methods and conditions are recorded",
+        "Should be checked rather than hidden"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement about fair testing avoids overgeneralising?",
+      "question": "A learner investigates two groups measure the same object and get different values and records the result. Which conclusion about inference is best supported?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
+        "Should be checked rather than hidden",
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 0
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about measurement?",
+      "question": "A learner investigates a scientist shares the method with other researchers and records the result. Which conclusion about observation is best supported?",
       "options": [
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "A personal preference",
-        "An unrelated measurement"
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded",
+        "Can simplify a system while leaving out details",
+        "Should be distinguished from a personal opinion"
       ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "hard": [
     {
-      "question": "Which statement best explains prediction?",
+      "question": "During a class investigation of a student notices a puddle disappears faster on a warm day, a result is observed. Which interpretation of observation is scientifically strongest?",
       "options": [
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain observation. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for models?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing observation?",
-      "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Considering alternative explanations",
-        "Checking evidence carefully"
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden",
+        "Is stronger when methods and conditions are recorded",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing hypothesis?",
+      "question": "During a class investigation of a graph shows a trend across several readings, a result is observed. Which interpretation of repeat trials is scientifically strongest?",
       "options": [
-        "Recording units",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully"
+        "Is stronger when methods and conditions are recorded",
+        "May need revision when reliable evidence changes",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about models. Which is evidence?",
+      "question": "During a class investigation of a diagram represents a complicated natural system, a result is observed. Which interpretation of peer checking is scientifically strongest?",
       "options": [
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A rumour from a friend",
-        "A guess made before testing"
+        "Can simplify a system while leaving out details",
+        "Should be distinguished from a personal opinion",
+        "Is stronger when methods and conditions are recorded",
+        "May need revision when reliable evidence changes"
       ],
       "answer": 0
     },
     {
-      "question": "Which report about evidence would be most useful to another student?",
+      "question": "During a class investigation of a student notices a puddle disappears faster on a warm day, a result is observed. Which interpretation of inference is scientifically strongest?",
       "options": [
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method",
-        "Only a final answer"
+        "Should be distinguished from a personal opinion",
+        "Is stronger when methods and conditions are recorded",
+        "Supports a conclusion only when evidence is relevant",
+        "May need revision when reliable evidence changes"
       ],
       "answer": 1
     },
     {
-      "question": "What is the strongest follow-up investigation for prediction?",
+      "question": "During a class investigation of a graph shows a trend across several readings, a result is observed. Which interpretation of observation is scientifically strongest?",
       "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once"
+        "May need revision when reliable evidence changes",
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden"
       ],
       "answer": 0
     },
     {
-      "question": "A result about hypothesis differs from the prediction. What should the learner do?",
+      "question": "During a class investigation of a diagram represents a complicated natural system, a result is observed. Which interpretation of repeat trials is scientifically strongest?",
       "options": [
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result"
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "Is stronger when methods and conditions are recorded"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During a class investigation of a student notices a puddle disappears faster on a warm day, a result is observed. Which interpretation of peer checking is scientifically strongest?",
+      "options": [
+        "Should be checked rather than hidden",
+        "May need revision when reliable evidence changes",
+        "Can simplify a system while leaving out details",
+        "Is stronger when methods and conditions are recorded"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During a class investigation of a graph shows a trend across several readings, a result is observed. Which interpretation of inference is scientifically strongest?",
+      "options": [
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded",
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During a class investigation of a diagram represents a complicated natural system, a result is observed. Which interpretation of observation is scientifically strongest?",
+      "options": [
+        "Should be distinguished from a personal opinion",
+        "May need revision when reliable evidence changes",
+        "Supports a conclusion only when evidence is relevant",
+        "Is stronger when methods and conditions are recorded"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During a class investigation of a student notices a puddle disappears faster on a warm day, a result is observed. Which interpretation of repeat trials is scientifically strongest?",
+      "options": [
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be distinguished from a personal opinion",
+        "May need revision when reliable evidence changes"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During a class investigation of a graph shows a trend across several readings, a result is observed. Which interpretation of peer checking is scientifically strongest?",
+      "options": [
+        "Is stronger when methods and conditions are recorded",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "Supports a conclusion only when evidence is relevant"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During a class investigation of a diagram represents a complicated natural system, a result is observed. Which interpretation of inference is scientifically strongest?",
+      "options": [
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During a class investigation of a student notices a puddle disappears faster on a warm day, a result is observed. Which interpretation of observation is scientifically strongest?",
+      "options": [
+        "Can simplify a system while leaving out details",
+        "Should be distinguished from a personal opinion",
+        "Is stronger when methods and conditions are recorded",
+        "May need revision when reliable evidence changes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During a class investigation of a graph shows a trend across several readings, a result is observed. Which interpretation of repeat trials is scientifically strongest?",
+      "options": [
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded",
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates observation. Which practice makes the result more reliable?",
+      "question": "During a class investigation of a diagram represents a complicated natural system, a result is observed. Which interpretation of peer checking is scientifically strongest?",
       "options": [
-        "Record only the expected result",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree"
+        "Should be distinguished from a personal opinion",
+        "May need revision when reliable evidence changes",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant"
+      ],
+      "answer": 1
+    }
+  ],
+  "extreme": [
+    {
+      "question": "A report draws a broad claim from evidence involving a diagram represents a complicated natural system. Which evaluation of peer checking best respects the limits of the evidence?",
+      "options": [
+        "May need revision when reliable evidence changes",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be distinguished from a personal opinion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student notices a puddle disappears faster on a warm day. Which evaluation of inference best respects the limits of the evidence?",
+      "options": [
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden",
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement best explains observation?",
+      "question": "A report draws a broad claim from evidence involving a graph shows a trend across several readings. Which evaluation of observation best respects the limits of the evidence?",
       "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence"
+        "Should be checked rather than hidden",
+        "Is stronger when methods and conditions are recorded",
+        "Can simplify a system while leaving out details",
+        "Supports a conclusion only when evidence is relevant"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "A diagram is used to explain hypothesis. What makes it scientifically useful?",
+      "question": "A report draws a broad claim from evidence involving a diagram represents a complicated natural system. Which evaluation of repeat trials best respects the limits of the evidence?",
       "options": [
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "Decorative detail alone"
+        "May need revision when reliable evidence changes",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "Is stronger when methods and conditions are recorded"
       ],
       "answer": 1
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about fair testing?",
+      "question": "A report draws a broad claim from evidence involving a student notices a puddle disappears faster on a warm day. Which evaluation of peer checking best respects the limits of the evidence?",
       "options": [
-        "A personal preference",
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim"
+        "Is stronger when methods and conditions are recorded",
+        "May need revision when reliable evidence changes",
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 3
     },
     {
-      "question": "What is the strongest follow-up investigation for hypothesis?",
+      "question": "A report draws a broad claim from evidence involving a graph shows a trend across several readings. Which evaluation of inference best respects the limits of the evidence?",
       "options": [
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable"
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant",
+        "May need revision when reliable evidence changes",
+        "Should be checked rather than hidden"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a diagram represents a complicated natural system. Which evaluation of observation best respects the limits of the evidence?",
+      "options": [
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student notices a puddle disappears faster on a warm day. Which evaluation of repeat trials best respects the limits of the evidence?",
+      "options": [
+        "Is stronger when methods and conditions are recorded",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "Supports a conclusion only when evidence is relevant"
       ],
       "answer": 3
     },
     {
-      "question": "Two explanations are offered for evidence. How should they be compared?",
+      "question": "A report draws a broad claim from evidence involving a graph shows a trend across several readings. Which evaluation of peer checking best respects the limits of the evidence?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence"
+        "Is stronger when methods and conditions are recorded",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "May need revision when reliable evidence changes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a diagram represents a complicated natural system. Which evaluation of inference best respects the limits of the evidence?",
+      "options": [
+        "Is stronger when methods and conditions are recorded",
+        "Should be distinguished from a personal opinion",
+        "May need revision when reliable evidence changes",
+        "Can simplify a system while leaving out details"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student notices a puddle disappears faster on a warm day. Which evaluation of observation best respects the limits of the evidence?",
+      "options": [
+        "May need revision when reliable evidence changes",
+        "Should be checked rather than hidden",
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a graph shows a trend across several readings. Which evaluation of repeat trials best respects the limits of the evidence?",
+      "options": [
+        "Supports a conclusion only when evidence is relevant",
+        "Can simplify a system while leaving out details",
+        "Should be checked rather than hidden",
+        "Should be distinguished from a personal opinion"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a diagram represents a complicated natural system. Which evaluation of peer checking best respects the limits of the evidence?",
+      "options": [
+        "Can simplify a system while leaving out details",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "Is stronger when methods and conditions are recorded"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student notices a puddle disappears faster on a warm day. Which evaluation of inference best respects the limits of the evidence?",
+      "options": [
+        "Is stronger when methods and conditions are recorded",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "May need revision when reliable evidence changes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a graph shows a trend across several readings. Which evaluation of observation best respects the limits of the evidence?",
+      "options": [
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details",
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a diagram represents a complicated natural system. Which evaluation of repeat trials best respects the limits of the evidence?",
+      "options": [
+        "May need revision when reliable evidence changes",
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student notices a puddle disappears faster on a warm day. Which evaluation of peer checking best respects the limits of the evidence?",
+      "options": [
+        "Can simplify a system while leaving out details",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden",
+        "Should be distinguished from a personal opinion"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a graph shows a trend across several readings. Which evaluation of inference best respects the limits of the evidence?",
+      "options": [
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "Is stronger when methods and conditions are recorded",
+        "Can simplify a system while leaving out details"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a diagram represents a complicated natural system. Which evaluation of observation best respects the limits of the evidence?",
+      "options": [
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded",
+        "Can simplify a system while leaving out details",
+        "Should be checked rather than hidden"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student notices a puddle disappears faster on a warm day. Which evaluation of repeat trials best respects the limits of the evidence?",
+      "options": [
+        "Is stronger when methods and conditions are recorded",
+        "May need revision when reliable evidence changes",
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a graph shows a trend across several readings. Which evaluation of peer checking best respects the limits of the evidence?",
+      "options": [
+        "Supports a conclusion only when evidence is relevant",
+        "May need revision when reliable evidence changes",
+        "Should be distinguished from a personal opinion",
+        "Should be checked rather than hidden"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a diagram represents a complicated natural system. Which evaluation of inference best respects the limits of the evidence?",
+      "options": [
+        "Supports a conclusion only when evidence is relevant",
+        "Can simplify a system while leaving out details",
+        "Should be checked rather than hidden",
+        "Should be distinguished from a personal opinion"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a student notices a puddle disappears faster on a warm day. Which evaluation of observation best respects the limits of the evidence?",
+      "options": [
+        "Supports a conclusion only when evidence is relevant",
+        "Can simplify a system while leaving out details",
+        "Is stronger when methods and conditions are recorded",
+        "Should be checked rather than hidden"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a graph shows a trend across several readings. Which evaluation of repeat trials best respects the limits of the evidence?",
+      "options": [
+        "Is stronger when methods and conditions are recorded",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details",
+        "May need revision when reliable evidence changes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a diagram represents a complicated natural system. Which evaluation of peer checking best respects the limits of the evidence?",
+      "options": [
+        "Should be distinguished from a personal opinion",
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 3
     }
   ],
   "tooHard": [
     {
-      "question": "Two explanations are offered for observation. How should they be compared?",
+      "question": "A group compares results from two groups measure the same object and get different values, but one condition is not perfectly controlled. Which judgement about repeat trials is most defensible?",
       "options": [
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains fair testing?",
-      "options": [
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "An unrelated opinion"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for measurement?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates fair testing. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of measurement be useful?",
-      "options": [
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about evidence?",
-      "options": [
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "A confident statement without evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about models avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which report about hypothesis would be most useful to another student?",
-      "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "Only a final answer",
-        "A result with no method"
+        "Can simplify a system while leaving out details",
+        "Should be distinguished from a personal opinion",
+        "Is stronger when methods and conditions are recorded",
+        "May need revision when reliable evidence changes"
       ],
       "answer": 0
     },
     {
-      "question": "Which report about models would be most useful to another student?",
+      "question": "A group compares results from a scientist shares the method with other researchers, but one condition is not perfectly controlled. Which judgement about peer checking is most defensible?",
       "options": [
-        "A conclusion without observations",
-        "Only a final answer",
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations"
+        "Is stronger when methods and conditions are recorded",
+        "Should be distinguished from a personal opinion",
+        "May need revision when reliable evidence changes",
+        "Supports a conclusion only when evidence is relevant"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "A result about models differs from the prediction. What should the learner do?",
+      "question": "A group compares results from a team repeats a test with the same procedure, but one condition is not perfectly controlled. Which judgement about inference is most defensible?",
       "options": [
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about measurement would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer"
+        "Supports a conclusion only when evidence is relevant",
+        "Should be distinguished from a personal opinion",
+        "May need revision when reliable evidence changes",
+        "Should be checked rather than hidden"
       ],
       "answer": 2
     },
     {
-      "question": "Why might a scientific model of models be useful?",
+      "question": "A group compares results from two groups measure the same object and get different values, but one condition is not perfectly controlled. Which judgement about observation is most defensible?",
       "options": [
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It is always perfect"
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A group compares results from a scientist shares the method with other researchers, but one condition is not perfectly controlled. Which judgement about repeat trials is most defensible?",
+      "options": [
+        "Can simplify a system while leaving out details",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden",
+        "Is stronger when methods and conditions are recorded"
       ],
       "answer": 1
     },
     {
-      "question": "A result about prediction differs from the prediction. What should the learner do?",
+      "question": "A group compares results from a team repeats a test with the same procedure, but one condition is not perfectly controlled. Which judgement about peer checking is most defensible?",
       "options": [
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation"
+        "Can simplify a system while leaving out details",
+        "May need revision when reliable evidence changes",
+        "Should be distinguished from a personal opinion",
+        "Is stronger when methods and conditions are recorded"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "Which statement best explains models?",
+      "question": "A group compares results from two groups measure the same object and get different values, but one condition is not perfectly controlled. Which judgement about inference is most defensible?",
       "options": [
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of observation be useful?",
-      "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It includes every detail of reality"
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded",
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant"
       ],
       "answer": 1
     },
     {
-      "question": "Which report about fair testing would be most useful to another student?",
+      "question": "A group compares results from a scientist shares the method with other researchers, but one condition is not perfectly controlled. Which judgement about observation is most defensible?",
       "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations"
+        "May need revision when reliable evidence changes",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be distinguished from a personal opinion"
       ],
       "answer": 0
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about observation. Which is evidence?",
+      "question": "A group compares results from a team repeats a test with the same procedure, but one condition is not perfectly controlled. Which judgement about repeat trials is most defensible?",
       "options": [
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A preferred answer",
-        "A guess made before testing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for observation?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best"
+        "Supports a conclusion only when evidence is relevant",
+        "Should be distinguished from a personal opinion",
+        "Should be checked rather than hidden",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 1
     },
     {
-      "question": "A diagram is used to explain models. What makes it scientifically useful?",
+      "question": "A group compares results from two groups measure the same object and get different values, but one condition is not perfectly controlled. Which judgement about peer checking is most defensible?",
       "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object"
+        "Supports a conclusion only when evidence is relevant",
+        "Can simplify a system while leaving out details",
+        "Should be checked rather than hidden",
+        "Is stronger when methods and conditions are recorded"
       ],
       "answer": 0
     },
     {
-      "question": "Which report about observation would be most useful to another student?",
+      "question": "A group compares results from a scientist shares the method with other researchers, but one condition is not perfectly controlled. Which judgement about inference is most defensible?",
       "options": [
-        "A conclusion without observations",
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    }
-  ],
-  "extreme": [
-    {
-      "question": "A result about observation differs from the prediction. What should the learner do?",
-      "options": [
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement about evidence avoids overgeneralising?",
-      "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right"
+        "Can simplify a system while leaving out details",
+        "Should be distinguished from a personal opinion",
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded"
       ],
       "answer": 0
     },
     {
-      "question": "A learner investigates hypothesis. Which practice makes the result more reliable?",
+      "question": "A group compares results from a team repeats a test with the same procedure, but one condition is not perfectly controlled. Which judgement about observation is most defensible?",
       "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
+        "Is stronger when methods and conditions are recorded",
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant",
+        "May need revision when reliable evidence changes"
       ],
       "answer": 0
     },
     {
-      "question": "Why might a scientific model of evidence be useful?",
+      "question": "A group compares results from two groups measure the same object and get different values, but one condition is not perfectly controlled. Which judgement about repeat trials is most defensible?",
       "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It removes the need for evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates evidence. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Record only the expected result"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates models. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result"
+        "Should be distinguished from a personal opinion",
+        "Should be checked rather than hidden",
+        "May need revision when reliable evidence changes",
+        "Supports a conclusion only when evidence is relevant"
       ],
       "answer": 2
     },
     {
-      "question": "Two explanations are offered for fair testing. How should they be compared?",
+      "question": "A group compares results from a scientist shares the method with other researchers, but one condition is not perfectly controlled. Which judgement about peer checking is most defensible?",
       "options": [
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A diagram is used to explain evidence. What makes it scientifically useful?",
-      "options": [
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols"
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details"
       ],
       "answer": 2
     },
     {
-      "question": "What is the strongest follow-up investigation for fair testing?",
+      "question": "A group compares results from a team repeats a test with the same procedure, but one condition is not perfectly controlled. Which judgement about inference is most defensible?",
       "options": [
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing evidence?",
-      "options": [
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully",
-        "Considering alternative explanations"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain fair testing. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Unexplained symbols"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about observation?",
-      "options": [
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference"
+        "Can simplify a system while leaving out details",
+        "Should be checked rather than hidden",
+        "Supports a conclusion only when evidence is relevant",
+        "Is stronger when methods and conditions are recorded"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about evidence. Which is evidence?",
+      "question": "A group compares results from two groups measure the same object and get different values, but one condition is not perfectly controlled. Which judgement about observation is most defensible?",
       "options": [
-        "A preferred answer",
-        "A rumour from a friend",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about hypothesis?",
-      "options": [
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "A personal preference",
-        "An unrelated measurement"
+        "Can simplify a system while leaving out details",
+        "May need revision when reliable evidence changes",
+        "Is stronger when methods and conditions are recorded",
+        "Should be distinguished from a personal opinion"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement best explains measurement?",
+      "question": "A group compares results from a scientist shares the method with other researchers, but one condition is not perfectly controlled. Which judgement about repeat trials is most defensible?",
       "options": [
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "An unrelated opinion"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing fair testing?",
-      "options": [
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A result about evidence differs from the prediction. What should the learner do?",
-      "options": [
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates prediction. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for prediction. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about fair testing. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing"
+        "Supports a conclusion only when evidence is relevant",
+        "Should be distinguished from a personal opinion",
+        "Is stronger when methods and conditions are recorded",
+        "May need revision when reliable evidence changes"
       ],
       "answer": 2
     },
     {
-      "question": "Why might a scientific model of fair testing be useful?",
+      "question": "A group compares results from a team repeats a test with the same procedure, but one condition is not perfectly controlled. Which judgement about peer checking is most defensible?",
       "options": [
-        "It is always perfect",
-        "It includes every detail of reality",
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement about hypothesis avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates measurement. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Change every condition at once"
+        "Should be checked rather than hidden",
+        "May need revision when reliable evidence changes",
+        "Should be distinguished from a personal opinion",
+        "Supports a conclusion only when evidence is relevant"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement best explains hypothesis?",
+      "question": "A group compares results from two groups measure the same object and get different values, but one condition is not perfectly controlled. Which judgement about inference is most defensible?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
+        "Should be distinguished from a personal opinion",
+        "Can simplify a system while leaving out details",
+        "Supports a conclusion only when evidence is relevant",
+        "Should be checked rather than hidden"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "Why might a scientific model of hypothesis be useful?",
+      "question": "A group compares results from a scientist shares the method with other researchers, but one condition is not perfectly controlled. Which judgement about observation is most defensible?",
       "options": [
-        "It includes every detail of reality",
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect"
+        "Supports a conclusion only when evidence is relevant",
+        "Can simplify a system while leaving out details",
+        "Should be checked rather than hidden",
+        "Is stronger when methods and conditions are recorded"
       ],
-      "answer": 2
+      "answer": 0
     }
   ]
 };

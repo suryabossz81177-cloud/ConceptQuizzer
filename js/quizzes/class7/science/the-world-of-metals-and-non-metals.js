@@ -2,812 +2,812 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-the-world-of-metals-and-non-metals"] = {
   "easy": [
     {
-      "question": "Which statement best explains lustre?",
+      "question": "In the context of a sulfur sample burned in a controlled demonstration, which idea is most directly relevant to lustre?",
       "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "An unrelated opinion"
+        "Is useful because the material can be drawn into wires",
+        "Can produce a ringing sound when struck",
+        "Describes the ability to be beaten into sheets",
+        "Helps transfer heat through a cooking utensil"
       ],
       "answer": 0
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about protective coatings. Which is evidence?",
+      "question": "In the context of a metal sheet hammered into shape, which idea is most directly relevant to sonority?",
       "options": [
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A preferred answer"
+        "Is useful because the material can be drawn into wires",
+        "Depends on the intended use and the material's properties",
+        "Describes the ability to be beaten into sheets",
+        "Can produce a ringing sound when struck"
       ],
       "answer": 1
     },
     {
-      "question": "Two explanations are offered for protective coatings. How should they be compared?",
+      "question": "In the context of copper wire, which idea is most directly relevant to corrosion?",
       "options": [
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for malleability. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for graphite. How should they be compared?",
-      "options": [
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which report about graphite would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "A result with no method"
+        "Is useful because the material can be drawn into wires",
+        "Is a surface property and does not identify every material",
+        "Depends on the intended use and the material's properties",
+        "Describes the ability to be beaten into sheets"
       ],
       "answer": 1
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about lustre?",
+      "question": "In the context of a sulfur sample burned in a controlled demonstration, which idea is most directly relevant to magnesium?",
       "options": [
-        "An unrelated measurement",
-        "A personal preference",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim"
+        "Is useful because the material can be drawn into wires",
+        "Depends on the intended use and the material's properties",
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
-      "question": "Which statement about protective coatings avoids overgeneralising?",
+      "question": "In the context of a metal sheet hammered into shape, which idea is most directly relevant to lustre?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "A model is always identical to reality"
+        "May happen when iron reacts with oxygen and moisture",
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material",
+        "Depends on the intended use and the material's properties"
       ],
       "answer": 0
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about conductivity?",
+      "question": "In the context of copper wire, which idea is most directly relevant to sonority?",
       "options": [
-        "A confident statement without evidence",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference"
+        "Depends on the intended use and the material's properties",
+        "May happen when iron reacts with oxygen and moisture",
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Why might a scientific model of ductility be useful?",
+      "question": "In the context of a sulfur sample burned in a controlled demonstration, which idea is most directly relevant to corrosion?",
       "options": [
-        "It includes every detail of reality",
-        "It removes the need for evidence",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon"
+        "Helps transfer heat through a cooking utensil",
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone",
+        "May happen when iron reacts with oxygen and moisture"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the context of a metal sheet hammered into shape, which idea is most directly relevant to magnesium?",
+      "options": [
+        "May happen when iron reacts with oxygen and moisture",
+        "Can produce a ringing sound when struck",
+        "Must be tested rather than assumed from appearance alone",
+        "Helps transfer heat through a cooking utensil"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the context of copper wire, which idea is most directly relevant to lustre?",
+      "options": [
+        "May happen when iron reacts with oxygen and moisture",
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil",
+        "Describes the ability to be beaten into sheets"
       ],
       "answer": 3
+    },
+    {
+      "question": "In the context of a sulfur sample burned in a controlled demonstration, which idea is most directly relevant to sonority?",
+      "options": [
+        "Describes the ability to be beaten into sheets",
+        "Can produce a ringing sound when struck",
+        "Is useful because the material can be drawn into wires",
+        "Helps transfer heat through a cooking utensil"
+      ],
+      "answer": 2
     }
   ],
   "medium": [
     {
-      "question": "Which report about malleability would be most useful to another student?",
+      "question": "A learner investigates a shiny metal surface and records the result. Which conclusion about sonority is best supported?",
       "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
+        "Must be tested rather than assumed from appearance alone",
+        "May happen when iron reacts with oxygen and moisture",
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
-      "question": "What is the strongest follow-up investigation for lustre?",
+      "question": "A learner investigates a pan used for cooking and records the result. Which conclusion about corrosion is best supported?",
       "options": [
-        "A test that changes everything at once",
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates ductility. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree"
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material",
+        "Helps transfer heat through a cooking utensil",
+        "May happen when iron reacts with oxygen and moisture"
       ],
       "answer": 2
     },
     {
-      "question": "Two explanations are offered for lustre. How should they be compared?",
+      "question": "A learner investigates an iron gate left in damp air and records the result. Which conclusion about magnesium is best supported?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement about malleability avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for rusting. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation"
+        "Can produce a ringing sound when struck",
+        "May happen when iron reacts with oxygen and moisture",
+        "Must be tested rather than assumed from appearance alone",
+        "Helps transfer heat through a cooking utensil"
       ],
       "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing graphite?",
+      "question": "A learner investigates a shiny metal surface and records the result. Which conclusion about lustre is best supported?",
       "options": [
-        "Recording units",
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule"
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil",
+        "Describes the ability to be beaten into sheets",
+        "May happen when iron reacts with oxygen and moisture"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates a pan used for cooking and records the result. Which conclusion about sonority is best supported?",
+      "options": [
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil",
+        "Describes the ability to be beaten into sheets",
+        "Is useful because the material can be drawn into wires"
       ],
       "answer": 3
     },
     {
-      "question": "What is the strongest follow-up investigation for protective coatings?",
+      "question": "A learner investigates an iron gate left in damp air and records the result. Which conclusion about corrosion is best supported?",
       "options": [
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable"
+        "Can produce a ringing sound when struck",
+        "Describes the ability to be beaten into sheets",
+        "Helps transfer heat through a cooking utensil",
+        "Is useful because the material can be drawn into wires"
       ],
       "answer": 3
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about conductivity. Which is evidence?",
+      "question": "A learner investigates a shiny metal surface and records the result. Which conclusion about magnesium is best supported?",
       "options": [
-        "A preferred answer",
-        "A rumour from a friend",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method"
+        "Depends on the intended use and the material's properties",
+        "Is useful because the material can be drawn into wires",
+        "Can produce a ringing sound when struck",
+        "Describes the ability to be beaten into sheets"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "Why might a scientific model of protective coatings be useful?",
+      "question": "A learner investigates a pan used for cooking and records the result. Which conclusion about lustre is best supported?",
       "options": [
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It is always perfect"
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material",
+        "Describes the ability to be beaten into sheets",
+        "Is useful because the material can be drawn into wires"
       ],
       "answer": 1
+    },
+    {
+      "question": "A learner investigates an iron gate left in damp air and records the result. Which conclusion about sonority is best supported?",
+      "options": [
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone",
+        "Is useful because the material can be drawn into wires"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A learner investigates a shiny metal surface and records the result. Which conclusion about corrosion is best supported?",
+      "options": [
+        "Depends on the intended use and the material's properties",
+        "Must be tested rather than assumed from appearance alone",
+        "May happen when iron reacts with oxygen and moisture",
+        "Is a surface property and does not identify every material"
+      ],
+      "answer": 2
     }
   ],
   "hard": [
     {
-      "question": "Which statement best explains protective coatings?",
+      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of corrosion is scientifically strongest?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing"
+        "Can produce a ringing sound when struck",
+        "Is useful because the material can be drawn into wires",
+        "Helps transfer heat through a cooking utensil",
+        "Describes the ability to be beaten into sheets"
       ],
       "answer": 1
     },
     {
-      "question": "A result about protective coatings differs from the prediction. What should the learner do?",
+      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of magnesium is scientifically strongest?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable"
+        "Is useful because the material can be drawn into wires",
+        "Depends on the intended use and the material's properties",
+        "Describes the ability to be beaten into sheets",
+        "Can produce a ringing sound when struck"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of lustre is scientifically strongest?",
+      "options": [
+        "Is a surface property and does not identify every material",
+        "Is useful because the material can be drawn into wires",
+        "Describes the ability to be beaten into sheets",
+        "Depends on the intended use and the material's properties"
       ],
       "answer": 0
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about ductility?",
+      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of sonority is scientifically strongest?",
       "options": [
-        "An unrelated measurement",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence"
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone",
+        "Is useful because the material can be drawn into wires"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates protective coatings. Which practice makes the result more reliable?",
+      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of corrosion is scientifically strongest?",
       "options": [
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Change every condition at once"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about graphite?",
-      "options": [
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A confident statement without evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about graphite differs from the prediction. What should the learner do?",
-      "options": [
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for rusting?",
-      "options": [
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates rusting. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Record only the expected result",
-        "Ignore measurements that disagree"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about graphite. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A preferred answer"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing malleability?",
-      "options": [
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Recording units"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about protective coatings would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer"
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material",
+        "May happen when iron reacts with oxygen and moisture",
+        "Depends on the intended use and the material's properties"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing ductility?",
+      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of magnesium is scientifically strongest?",
       "options": [
-        "Checking evidence carefully",
-        "Recording units",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule"
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material",
+        "Depends on the intended use and the material's properties",
+        "May happen when iron reacts with oxygen and moisture"
       ],
       "answer": 3
     },
     {
-      "question": "What is the strongest follow-up investigation for graphite?",
+      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of lustre is scientifically strongest?",
       "options": [
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question"
+        "Helps transfer heat through a cooking utensil",
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material",
+        "May happen when iron reacts with oxygen and moisture"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of sonority is scientifically strongest?",
+      "options": [
+        "Must be tested rather than assumed from appearance alone",
+        "May happen when iron reacts with oxygen and moisture",
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing rusting?",
+      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of corrosion is scientifically strongest?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully",
-        "Recording units",
-        "Considering alternative explanations"
+        "Describes the ability to be beaten into sheets",
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil",
+        "May happen when iron reacts with oxygen and moisture"
       ],
       "answer": 0
     },
     {
-      "question": "Why might a scientific model of rusting be useful?",
+      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of magnesium is scientifically strongest?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It removes the need for evidence",
-        "It is always perfect"
-      ],
-      "answer": 0
-    }
-  ],
-  "tooHard": [
-    {
-      "question": "What is the strongest follow-up investigation for conductivity?",
-      "options": [
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains conductivity?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which is a common reasoning error when discussing conductivity?",
-      "options": [
-        "Checking evidence carefully",
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations"
+        "Describes the ability to be beaten into sheets",
+        "Helps transfer heat through a cooking utensil",
+        "Is useful because the material can be drawn into wires",
+        "Can produce a ringing sound when struck"
       ],
       "answer": 2
     },
     {
-      "question": "A result about lustre differs from the prediction. What should the learner do?",
+      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of lustre is scientifically strongest?",
       "options": [
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for ductility. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Choose the first explanation heard"
+        "Is useful because the material can be drawn into wires",
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil",
+        "Describes the ability to be beaten into sheets"
       ],
       "answer": 0
     },
     {
-      "question": "Which report about rusting would be most useful to another student?",
+      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of sonority is scientifically strongest?",
       "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "A result with no method",
-        "Only a final answer"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A diagram is used to explain protective coatings. What makes it scientifically useful?",
-      "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Unexplained symbols",
-        "Decorative detail alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A diagram is used to explain graphite. What makes it scientifically useful?",
-      "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Unexplained symbols",
-        "Decorative detail alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which report about ductility would be most useful to another student?",
-      "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method",
-        "A conclusion without observations",
-        "Only a final answer"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A result about rusting differs from the prediction. What should the learner do?",
-      "options": [
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for conductivity. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Choose the first explanation heard"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A diagram is used to explain rusting. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A result about malleability differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates lustre. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains ductility?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates graphite. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about lustre would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "A conclusion without observations",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement about lustre avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality"
+        "Describes the ability to be beaten into sheets",
+        "Is useful because the material can be drawn into wires",
+        "Depends on the intended use and the material's properties",
+        "Can produce a ringing sound when struck"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing protective coatings?",
+      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of corrosion is scientifically strongest?",
       "options": [
-        "Considering alternative explanations",
-        "Recording units",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of graphite be useful?",
-      "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It is always perfect",
-        "It includes every detail of reality"
+        "Is a surface property and does not identify every material",
+        "Depends on the intended use and the material's properties",
+        "Is useful because the material can be drawn into wires",
+        "Describes the ability to be beaten into sheets"
       ],
       "answer": 0
+    },
+    {
+      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of magnesium is scientifically strongest?",
+      "options": [
+        "Is a surface property and does not identify every material",
+        "Depends on the intended use and the material's properties",
+        "Must be tested rather than assumed from appearance alone",
+        "Is useful because the material can be drawn into wires"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of lustre is scientifically strongest?",
+      "options": [
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material",
+        "Depends on the intended use and the material's properties",
+        "May happen when iron reacts with oxygen and moisture"
+      ],
+      "answer": 3
     }
   ],
   "extreme": [
     {
-      "question": "Which statement about ductility avoids overgeneralising?",
+      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of lustre best respects the limits of the evidence?",
       "options": [
-        "A model is always identical to reality",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A result about conductivity differs from the prediction. What should the learner do?",
-      "options": [
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation"
+        "Describes the ability to be beaten into sheets",
+        "Helps transfer heat through a cooking utensil",
+        "Can produce a ringing sound when struck",
+        "Is useful because the material can be drawn into wires"
       ],
       "answer": 3
     },
     {
-      "question": "A learner investigates malleability. Which practice makes the result more reliable?",
+      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of sonority best respects the limits of the evidence?",
       "options": [
-        "Change every condition at once",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree"
+        "Is useful because the material can be drawn into wires",
+        "Describes the ability to be beaten into sheets",
+        "Depends on the intended use and the material's properties",
+        "Can produce a ringing sound when struck"
       ],
       "answer": 2
     },
     {
-      "question": "What is the strongest follow-up investigation for malleability?",
+      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of corrosion best respects the limits of the evidence?",
       "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once"
+        "Is useful because the material can be drawn into wires",
+        "Describes the ability to be beaten into sheets",
+        "Is a surface property and does not identify every material",
+        "Depends on the intended use and the material's properties"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of magnesium best respects the limits of the evidence?",
+      "options": [
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone",
+        "Is useful because the material can be drawn into wires",
+        "Depends on the intended use and the material's properties"
       ],
       "answer": 1
     },
     {
-      "question": "Which report about conductivity would be most useful to another student?",
+      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of lustre best respects the limits of the evidence?",
       "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about malleability. Which is evidence?",
-      "options": [
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A rumour from a friend",
-        "A guess made before testing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about protective coatings?",
-      "options": [
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "A confident statement without evidence"
+        "Is a surface property and does not identify every material",
+        "May happen when iron reacts with oxygen and moisture",
+        "Must be tested rather than assumed from appearance alone",
+        "Depends on the intended use and the material's properties"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement about rusting avoids overgeneralising?",
+      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of sonority best respects the limits of the evidence?",
       "options": [
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains graphite?",
-      "options": [
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence"
+        "Must be tested rather than assumed from appearance alone",
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material",
+        "May happen when iron reacts with oxygen and moisture"
       ],
       "answer": 3
     },
     {
-      "question": "A diagram is used to explain ductility. What makes it scientifically useful?",
+      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of corrosion best respects the limits of the evidence?",
       "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Unexplained symbols"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement best explains malleability?",
-      "options": [
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence"
+        "May happen when iron reacts with oxygen and moisture",
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone",
+        "Helps transfer heat through a cooking utensil"
       ],
       "answer": 3
     },
     {
-      "question": "A diagram is used to explain malleability. What makes it scientifically useful?",
+      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of magnesium best respects the limits of the evidence?",
       "options": [
-        "A claim that the diagram is the real object",
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil",
+        "Must be tested rather than assumed from appearance alone",
+        "May happen when iron reacts with oxygen and moisture"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of lustre best respects the limits of the evidence?",
+      "options": [
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil",
+        "Describes the ability to be beaten into sheets",
+        "May happen when iron reacts with oxygen and moisture"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of sonority best respects the limits of the evidence?",
+      "options": [
+        "Is useful because the material can be drawn into wires",
+        "Helps transfer heat through a cooking utensil",
+        "Can produce a ringing sound when struck",
+        "Describes the ability to be beaten into sheets"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of corrosion best respects the limits of the evidence?",
+      "options": [
+        "Is useful because the material can be drawn into wires",
+        "Helps transfer heat through a cooking utensil",
+        "Can produce a ringing sound when struck",
+        "Describes the ability to be beaten into sheets"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of magnesium best respects the limits of the evidence?",
+      "options": [
+        "Depends on the intended use and the material's properties",
+        "Can produce a ringing sound when struck",
+        "Describes the ability to be beaten into sheets",
+        "Is useful because the material can be drawn into wires"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of lustre best respects the limits of the evidence?",
+      "options": [
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material",
+        "Describes the ability to be beaten into sheets",
+        "Is useful because the material can be drawn into wires"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of sonority best respects the limits of the evidence?",
+      "options": [
+        "Is a surface property and does not identify every material",
+        "Is useful because the material can be drawn into wires",
+        "Must be tested rather than assumed from appearance alone",
+        "Depends on the intended use and the material's properties"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of corrosion best respects the limits of the evidence?",
+      "options": [
+        "May happen when iron reacts with oxygen and moisture",
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of magnesium best respects the limits of the evidence?",
+      "options": [
+        "Must be tested rather than assumed from appearance alone",
+        "May happen when iron reacts with oxygen and moisture",
+        "Is a surface property and does not identify every material",
+        "Depends on the intended use and the material's properties"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of lustre best respects the limits of the evidence?",
+      "options": [
+        "Must be tested rather than assumed from appearance alone",
+        "May happen when iron reacts with oxygen and moisture",
+        "Helps transfer heat through a cooking utensil",
+        "Is a surface property and does not identify every material"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of sonority best respects the limits of the evidence?",
+      "options": [
+        "Must be tested rather than assumed from appearance alone",
+        "Can produce a ringing sound when struck",
+        "May happen when iron reacts with oxygen and moisture",
+        "Helps transfer heat through a cooking utensil"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of corrosion best respects the limits of the evidence?",
+      "options": [
+        "May happen when iron reacts with oxygen and moisture",
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil",
+        "Describes the ability to be beaten into sheets"
       ],
       "answer": 3
     },
     {
-      "question": "A learner investigates conductivity. Which practice makes the result more reliable?",
+      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of magnesium best respects the limits of the evidence?",
       "options": [
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result"
+        "Is useful because the material can be drawn into wires",
+        "Describes the ability to be beaten into sheets",
+        "Helps transfer heat through a cooking utensil",
+        "Can produce a ringing sound when struck"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about malleability?",
+      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of lustre best respects the limits of the evidence?",
       "options": [
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of malleability be useful?",
-      "options": [
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It is always perfect"
+        "Helps transfer heat through a cooking utensil",
+        "Is useful because the material can be drawn into wires",
+        "Describes the ability to be beaten into sheets",
+        "Can produce a ringing sound when struck"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement about conductivity avoids overgeneralising?",
+      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of sonority best respects the limits of the evidence?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "A model is always identical to reality"
+        "Is useful because the material can be drawn into wires",
+        "Describes the ability to be beaten into sheets",
+        "Depends on the intended use and the material's properties",
+        "Can produce a ringing sound when struck"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about rusting?",
+      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of corrosion best respects the limits of the evidence?",
       "options": [
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A confident statement without evidence"
+        "Is useful because the material can be drawn into wires",
+        "Is a surface property and does not identify every material",
+        "Describes the ability to be beaten into sheets",
+        "Depends on the intended use and the material's properties"
       ],
       "answer": 1
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about rusting. Which is evidence?",
+      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of magnesium best respects the limits of the evidence?",
       "options": [
-        "A guess made before testing",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend"
+        "Is useful because the material can be drawn into wires",
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of lustre best respects the limits of the evidence?",
+      "options": [
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material",
+        "May happen when iron reacts with oxygen and moisture",
+        "Must be tested rather than assumed from appearance alone"
+      ],
+      "answer": 2
+    }
+  ],
+  "tooHard": [
+    {
+      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
+      "options": [
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone",
+        "May happen when iron reacts with oxygen and moisture",
+        "Depends on the intended use and the material's properties"
       ],
       "answer": 2
     },
     {
-      "question": "A diagram is used to explain conductivity. What makes it scientifically useful?",
+      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
       "options": [
-        "A claim that the diagram is the real object",
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone"
+        "Is a surface property and does not identify every material",
+        "May happen when iron reacts with oxygen and moisture",
+        "Helps transfer heat through a cooking utensil",
+        "Must be tested rather than assumed from appearance alone"
       ],
       "answer": 2
     },
     {
-      "question": "Why might a scientific model of conductivity be useful?",
+      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
       "options": [
-        "It removes the need for evidence",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality"
+        "May happen when iron reacts with oxygen and moisture",
+        "Helps transfer heat through a cooking utensil",
+        "Can produce a ringing sound when struck",
+        "Must be tested rather than assumed from appearance alone"
       ],
       "answer": 2
     },
     {
-      "question": "What is the strongest follow-up investigation for ductility?",
+      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
       "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "An observation unrelated to the question"
+        "Can produce a ringing sound when struck",
+        "May happen when iron reacts with oxygen and moisture",
+        "Describes the ability to be beaten into sheets",
+        "Helps transfer heat through a cooking utensil"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
+      "options": [
+        "Helps transfer heat through a cooking utensil",
+        "Is useful because the material can be drawn into wires",
+        "Describes the ability to be beaten into sheets",
+        "Can produce a ringing sound when struck"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
+      "options": [
+        "Can produce a ringing sound when struck",
+        "Describes the ability to be beaten into sheets",
+        "Is useful because the material can be drawn into wires",
+        "Helps transfer heat through a cooking utensil"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
+      "options": [
+        "Describes the ability to be beaten into sheets",
+        "Depends on the intended use and the material's properties",
+        "Is useful because the material can be drawn into wires",
+        "Can produce a ringing sound when struck"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
+      "options": [
+        "Is useful because the material can be drawn into wires",
+        "Is a surface property and does not identify every material",
+        "Depends on the intended use and the material's properties",
+        "Describes the ability to be beaten into sheets"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
+      "options": [
+        "Depends on the intended use and the material's properties",
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material",
+        "Is useful because the material can be drawn into wires"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
+      "options": [
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone",
+        "May happen when iron reacts with oxygen and moisture",
+        "Depends on the intended use and the material's properties"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
+      "options": [
+        "May happen when iron reacts with oxygen and moisture",
+        "Depends on the intended use and the material's properties",
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material"
       ],
       "answer": 0
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about ductility. Which is evidence?",
+      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
       "options": [
-        "A rumour from a friend",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
+        "May happen when iron reacts with oxygen and moisture",
+        "Helps transfer heat through a cooking utensil",
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
+      "options": [
+        "May happen when iron reacts with oxygen and moisture",
+        "Helps transfer heat through a cooking utensil",
+        "Must be tested rather than assumed from appearance alone",
+        "Can produce a ringing sound when struck"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
+      "options": [
+        "May happen when iron reacts with oxygen and moisture",
+        "Describes the ability to be beaten into sheets",
+        "Helps transfer heat through a cooking utensil",
+        "Can produce a ringing sound when struck"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
+      "options": [
+        "Helps transfer heat through a cooking utensil",
+        "Can produce a ringing sound when struck",
+        "Describes the ability to be beaten into sheets",
+        "Is useful because the material can be drawn into wires"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
+      "options": [
+        "Can produce a ringing sound when struck",
+        "Helps transfer heat through a cooking utensil",
+        "Is useful because the material can be drawn into wires",
+        "Describes the ability to be beaten into sheets"
       ],
       "answer": 2
     },
     {
-      "question": "A result about ductility differs from the prediction. What should the learner do?",
+      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable"
+        "Can produce a ringing sound when struck",
+        "Describes the ability to be beaten into sheets",
+        "Depends on the intended use and the material's properties",
+        "Is useful because the material can be drawn into wires"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
+      "options": [
+        "Is a surface property and does not identify every material",
+        "Describes the ability to be beaten into sheets",
+        "Is useful because the material can be drawn into wires",
+        "Depends on the intended use and the material's properties"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement about graphite avoids overgeneralising?",
+      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
       "options": [
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right"
+        "Must be tested rather than assumed from appearance alone",
+        "Is a surface property and does not identify every material",
+        "Is useful because the material can be drawn into wires",
+        "Depends on the intended use and the material's properties"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "Which statement best explains rusting?",
+      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
       "options": [
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion"
+        "May happen when iron reacts with oxygen and moisture",
+        "Depends on the intended use and the material's properties",
+        "Is a surface property and does not identify every material",
+        "Must be tested rather than assumed from appearance alone"
       ],
-      "answer": 2
+      "answer": 0
     }
   ]
 };
