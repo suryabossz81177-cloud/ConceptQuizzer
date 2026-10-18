@@ -453,6 +453,65 @@ window.QuizRegistry.register(
     "js/quizzes/class7/mathematics/working-with-fractions.js"
 );
 
+   window.QuizRegistry.register(
+    "7-science-the-ever-evolving-world-of-science",
+    "js/quizzes/class7/science/the-ever-evolving-world-of-science.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-exploring-substances-acidic-basic-and-neutral",
+    "js/quizzes/class7/science/exploring-substances-acidic-basic-and-neutral.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-electricity-circuits-and-their-components",
+    "js/quizzes/class7/science/electricity-circuits-and-their-components.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-the-world-of-metals-and-non-metals",
+    "js/quizzes/class7/science/the-world-of-metals-and-non-metals.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-changes-around-us-physical-and-chemical",
+    "js/quizzes/class7/science/changes-around-us-physical-and-chemical.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-adolescence-a-stage-of-growth-and-change",
+    "js/quizzes/class7/science/adolescence-a-stage-of-growth-and-change.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-heat-transfer-in-nature",
+    "js/quizzes/class7/science/heat-transfer-in-nature.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-measurement-of-time-and-motion",
+    "js/quizzes/class7/science/measurement-of-time-and-motion.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-life-processes-in-animals",
+    "js/quizzes/class7/science/life-processes-in-animals.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-life-processes-in-plants",
+    "js/quizzes/class7/science/life-processes-in-plants.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-light-shadows-and-reflections",
+    "js/quizzes/class7/science/light-shadows-and-reflections.js"
+);
+
+window.QuizRegistry.register(
+    "7-science-earth-moon-and-the-sun",
+    "js/quizzes/class7/science/earth-moon-and-the-sun.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
