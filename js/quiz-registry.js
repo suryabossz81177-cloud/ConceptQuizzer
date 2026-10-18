@@ -409,6 +409,50 @@ window.QuizRegistry.register(
     "js/quizzes/class6/civics/economic-activities-around-us.js"
 );
 
+   /* =====================================================
+   CLASS 7 — MATHEMATICS
+   ===================================================== */
+
+window.QuizRegistry.register(
+    "7-mathematics-large-numbers-around-us",
+    "js/quizzes/class7/mathematics/large-numbers-around-us.js"
+);
+
+window.QuizRegistry.register(
+    "7-mathematics-arithmetic-expressions",
+    "js/quizzes/class7/mathematics/arithmetic-expressions.js"
+);
+
+window.QuizRegistry.register(
+    "7-mathematics-a-peek-beyond-the-point",
+    "js/quizzes/class7/mathematics/a-peek-beyond-the-point.js"
+);
+
+window.QuizRegistry.register(
+    "7-mathematics-expressions-using-letter-numbers",
+    "js/quizzes/class7/mathematics/expressions-using-letter-numbers.js"
+);
+
+window.QuizRegistry.register(
+    "7-mathematics-parallel-and-intersecting-lines",
+    "js/quizzes/class7/mathematics/parallel-and-intersecting-lines.js"
+);
+
+window.QuizRegistry.register(
+    "7-mathematics-number-play",
+    "js/quizzes/class7/mathematics/number-play.js"
+);
+
+window.QuizRegistry.register(
+    "7-mathematics-a-tale-of-three-intersecting-lines",
+    "js/quizzes/class7/mathematics/a-tale-of-three-intersecting-lines.js"
+);
+
+window.QuizRegistry.register(
+    "7-mathematics-working-with-fractions",
+    "js/quizzes/class7/mathematics/working-with-fractions.js"
+);
+
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
