@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["7-history-how-land-becomes-sacred"] = {
+window.QuizData["7-history-how-land-became-sacred"] = {
   "easy": [
     {
       "question": "A sacred place visited by devotees is a?",
