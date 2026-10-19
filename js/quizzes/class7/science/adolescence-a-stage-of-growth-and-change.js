@@ -2,812 +2,812 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-adolescence-a-stage-of-growth-and-change"] = {
   "easy": [
     {
-      "question": "In the context of a young person experiences a growth spurt, which idea is most directly relevant to adolescence?",
+      "question": "The period between childhood and adulthood is called?",
       "options": [
-        "Varies from person to person",
-        "Is a normal stage between childhood and adulthood",
-        "Supports health during growth",
-        "Can help regulate changes in the body"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "In the context of friends pressure someone to try an unsafe habit, which idea is most directly relevant to emotional changes?",
-      "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Can protect well-being when practiced consistently",
-        "Varies from person to person",
-        "Can help regulate changes in the body"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "In the context of a student feels stressed during a period of change, which idea is most directly relevant to sleep?",
-      "options": [
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood",
-        "Does not mean everyone develops at the same pace",
-        "Can protect well-being when practiced consistently"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "In the context of a young person experiences a growth spurt, which idea is most directly relevant to healthy habits?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Is a normal stage between childhood and adulthood",
-        "Does not mean everyone develops at the same pace",
-        "Can protect well-being when practiced consistently"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of friends pressure someone to try an unsafe habit, which idea is most directly relevant to adolescence?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Can protect well-being when practiced consistently",
-        "Is best addressed using reliable information and trusted adults",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of a student feels stressed during a period of change, which idea is most directly relevant to emotional changes?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Does not mean everyone develops at the same pace",
-        "Can protect well-being when practiced consistently",
-        "Is best addressed using reliable information and trusted adults"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of a young person experiences a growth spurt, which idea is most directly relevant to sleep?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Should be handled with privacy and respect",
-        "Does not mean everyone develops at the same pace",
-        "Supports health during growth"
+        "Toddlerhood",
+        "Old age",
+        "Infancy",
+        "Adolescence"
       ],
       "answer": 3
     },
     {
-      "question": "In the context of friends pressure someone to try an unsafe habit, which idea is most directly relevant to healthy habits?",
+      "question": "Which gland is often called the master gland?",
       "options": [
-        "Varies from person to person",
-        "Is best addressed using reliable information and trusted adults",
-        "Supports health during growth",
-        "Should be handled with privacy and respect"
+        "Sweat",
+        "Pituitary",
+        "Tear",
+        "Salivary"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which hormone is mainly associated with male puberty?",
+      "options": [
+        "Adrenaline",
+        "Testosterone",
+        "Insulin",
+        "Thyroxine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which hormone is mainly associated with female puberty?",
+      "options": [
+        "Insulin",
+        "Adrenaline",
+        "Oestrogen",
+        "Testosterone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which gland produces insulin?",
+      "options": [
+        "Pancreas",
+        "Thyroid",
+        "Adrenal",
+        "Pituitary"
       ],
       "answer": 0
     },
     {
-      "question": "In the context of a student feels stressed during a period of change, which idea is most directly relevant to adolescence?",
+      "question": "Which nutrient supports growth and tissue repair?",
       "options": [
-        "Can help regulate changes in the body",
-        "Supports health during growth",
-        "Should be handled with privacy and respect",
-        "Varies from person to person"
+        "Water",
+        "Protein",
+        "Salt",
+        "Sugar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which vitamin is made in skin with sunlight exposure?",
+      "options": [
+        "Vitamin K",
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which habit helps keep the body clean during puberty?",
+      "options": [
+        "Dehydration",
+        "Skipping meals",
+        "Hygiene",
+        "Sleep loss"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which gland produces thyroxine?",
+      "options": [
+        "Thyroid",
+        "Salivary",
+        "Pancreas",
+        "Pituitary"
       ],
       "answer": 0
     },
     {
-      "question": "In the context of a young person experiences a growth spurt, which idea is most directly relevant to emotional changes?",
+      "question": "Which life stage follows adolescence?",
       "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Supports health during growth",
-        "Varies from person to person",
-        "Can help regulate changes in the body"
+        "Childhood",
+        "Old age",
+        "Adulthood",
+        "Infancy"
       ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "medium": [
     {
-      "question": "A learner investigates two classmates begin puberty at different ages and records the result. Which conclusion about emotional changes is best supported?",
+      "question": "What is the first menstrual flow called?",
       "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Does not mean everyone develops at the same pace",
-        "Should be handled with privacy and respect",
-        "Can protect well-being when practiced consistently"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates a student needs reliable health information and records the result. Which conclusion about sleep is best supported?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Is best addressed using reliable information and trusted adults",
-        "Supports health during growth",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates a student has questions about body changes and records the result. Which conclusion about healthy habits is best supported?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Supports health during growth",
-        "Varies from person to person",
-        "Should be handled with privacy and respect"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates two classmates begin puberty at different ages and records the result. Which conclusion about adolescence is best supported?",
-      "options": [
-        "Supports health during growth",
-        "Varies from person to person",
-        "Can help regulate changes in the body",
-        "Should be handled with privacy and respect"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates a student needs reliable health information and records the result. Which conclusion about emotional changes is best supported?",
-      "options": [
-        "Varies from person to person",
-        "Supports health during growth",
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood"
+        "Fertilisation",
+        "Ovulation",
+        "Menopause",
+        "Menarche"
       ],
       "answer": 3
     },
     {
-      "question": "A learner investigates a student has questions about body changes and records the result. Which conclusion about sleep is best supported?",
+      "question": "What is the permanent stopping of menstruation called?",
       "options": [
-        "Varies from person to person",
-        "Can help regulate changes in the body",
-        "Supports health during growth",
-        "Is a normal stage between childhood and adulthood"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates two classmates begin puberty at different ages and records the result. Which conclusion about healthy habits is best supported?",
-      "options": [
-        "Varies from person to person",
-        "Can help regulate changes in the body",
-        "Can protect well-being when practiced consistently",
-        "Is a normal stage between childhood and adulthood"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates a student needs reliable health information and records the result. Which conclusion about adolescence is best supported?",
-      "options": [
-        "Can protect well-being when practiced consistently",
-        "Can help regulate changes in the body",
-        "Does not mean everyone develops at the same pace",
-        "Is a normal stage between childhood and adulthood"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates a student has questions about body changes and records the result. Which conclusion about emotional changes is best supported?",
-      "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Does not mean everyone develops at the same pace",
-        "Can protect well-being when practiced consistently",
-        "Is best addressed using reliable information and trusted adults"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates two classmates begin puberty at different ages and records the result. Which conclusion about sleep is best supported?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace",
-        "Is best addressed using reliable information and trusted adults"
+        "Menopause",
+        "Menarche",
+        "Ovulation",
+        "Puberty"
       ],
       "answer": 0
+    },
+    {
+      "question": "Which hormone regulates blood sugar?",
+      "options": [
+        "Insulin",
+        "Oestrogen",
+        "Testosterone",
+        "Thyroxine"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which gland releases adrenaline?",
+      "options": [
+        "Pancreas",
+        "Thyroid",
+        "Adrenal",
+        "Pituitary"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which hormone helps regulate metabolism?",
+      "options": [
+        "Insulin",
+        "Testosterone",
+        "Thyroxine",
+        "Oestrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which body change commonly occurs during puberty?",
+      "options": [
+        "Fading fingerprints",
+        "Tooth loss",
+        "Growth spurt",
+        "Shrinking bones"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which mineral is important for strong bones?",
+      "options": [
+        "Calcium",
+        "Iodine",
+        "Chlorine",
+        "Sodium"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which mineral is needed to make haemoglobin?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Fluorine",
+        "Sodium"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which practice supports emotional well-being?",
+      "options": [
+        "Isolation",
+        "Communication",
+        "Bullying",
+        "Sleep deprivation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which food group supplies energy quickly?",
+      "options": [
+        "Water",
+        "Vitamins",
+        "Minerals",
+        "Carbohydrates"
+      ],
+      "answer": 3
     }
   ],
   "hard": [
     {
-      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of sleep is scientifically strongest?",
+      "question": "Which gland controls several other endocrine glands?",
       "options": [
-        "Supports health during growth",
-        "Varies from person to person",
-        "Is a normal stage between childhood and adulthood",
-        "Can help regulate changes in the body"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of healthy habits is scientifically strongest?",
-      "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Can protect well-being when practiced consistently",
-        "Can help regulate changes in the body",
-        "Varies from person to person"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of adolescence is scientifically strongest?",
-      "options": [
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood",
-        "Does not mean everyone develops at the same pace",
-        "Can protect well-being when practiced consistently"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of emotional changes is scientifically strongest?",
-      "options": [
-        "Can protect well-being when practiced consistently",
-        "Is best addressed using reliable information and trusted adults",
-        "Is a normal stage between childhood and adulthood",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of sleep is scientifically strongest?",
-      "options": [
-        "Does not mean everyone develops at the same pace",
-        "Is best addressed using reliable information and trusted adults",
-        "Can protect well-being when practiced consistently",
-        "Should be handled with privacy and respect"
+        "Sweat",
+        "Liver",
+        "Salivary",
+        "Pituitary"
       ],
       "answer": 3
     },
     {
-      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of healthy habits is scientifically strongest?",
+      "question": "Which hormone triggers many changes in male puberty?",
       "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Should be handled with privacy and respect",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace"
+        "Testosterone",
+        "Thyroxine",
+        "Melatonin",
+        "Insulin"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of adolescence is scientifically strongest?",
+      "question": "Which hormone contributes to female secondary sexual characteristics?",
       "options": [
-        "Should be handled with privacy and respect",
-        "Is best addressed using reliable information and trusted adults",
-        "Supports health during growth",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of emotional changes is scientifically strongest?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Supports health during growth",
-        "Varies from person to person",
-        "Should be handled with privacy and respect"
+        "Thyroxine",
+        "Insulin",
+        "Oestrogen",
+        "Adrenaline"
       ],
       "answer": 2
     },
     {
-      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of sleep is scientifically strongest?",
+      "question": "Which gland is located in the neck and produces thyroxine?",
       "options": [
-        "Varies from person to person",
-        "Supports health during growth",
-        "Can help regulate changes in the body",
-        "Should be handled with privacy and respect"
+        "Thyroid",
+        "Adrenal",
+        "Pancreas",
+        "Pituitary"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which nutrient is especially important for growth and repair?",
+      "options": [
+        "Salt",
+        "Water",
+        "Protein",
+        "Fibre"
       ],
       "answer": 2
     },
     {
-      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of healthy habits is scientifically strongest?",
+      "question": "Which mineral deficiency can cause anaemia?",
       "options": [
-        "Can help regulate changes in the body",
-        "Varies from person to person",
-        "Supports health during growth",
-        "Is a normal stage between childhood and adulthood"
+        "Iron",
+        "Iodine",
+        "Calcium",
+        "Sodium"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which nutrient is needed for healthy thyroid function?",
+      "options": [
+        "Iodine",
+        "Calcium",
+        "Iron",
+        "Sodium"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which regular activity supports fitness during adolescence?",
+      "options": [
+        "Inactivity",
+        "Dehydration",
+        "Exercise",
+        "Smoking"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which daily habit helps maintain a healthy body clock?",
+      "options": [
+        "Energy drinks",
+        "Skipping breakfast",
+        "Sleep",
+        "Late-night gaming"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change can occur in the voice during male puberty?",
+      "options": [
+        "Deepening",
+        "Freezing",
+        "Whitening",
+        "Shortening"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which glands produce sweat?",
+      "options": [
+        "Pituitary glands",
+        "Thyroid glands",
+        "Sweat glands",
+        "Salivary glands"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which skin condition may increase during puberty?",
+      "options": [
+        "Rickets",
+        "Goitre",
+        "Acne",
+        "Scurvy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which process releases an egg from an ovary?",
+      "options": [
+        "Menstruation",
+        "Menopause",
+        "Fertilisation",
+        "Ovulation"
       ],
       "answer": 3
     },
     {
-      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of adolescence is scientifically strongest?",
+      "question": "Which reproductive cell is produced by testes?",
       "options": [
-        "Can help regulate changes in the body",
-        "Varies from person to person",
-        "Supports health during growth",
-        "Is a normal stage between childhood and adulthood"
+        "Platelet",
+        "Ovum",
+        "Sperm",
+        "Neuron"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which reproductive cell is released by an ovary?",
+      "options": [
+        "Neuron",
+        "Sperm",
+        "Platelet",
+        "Ovum"
       ],
       "answer": 3
-    },
-    {
-      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of emotional changes is scientifically strongest?",
-      "options": [
-        "Can protect well-being when practiced consistently",
-        "Can help regulate changes in the body",
-        "Varies from person to person",
-        "Is a normal stage between childhood and adulthood"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During a class investigation of a student feels stressed during a period of change, a result is observed. Which interpretation of sleep is scientifically strongest?",
-      "options": [
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "During a class investigation of a young person experiences a growth spurt, a result is observed. Which interpretation of healthy habits is scientifically strongest?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Is a normal stage between childhood and adulthood",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During a class investigation of friends pressure someone to try an unsafe habit, a result is observed. Which interpretation of adolescence is scientifically strongest?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Should be handled with privacy and respect",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 1
-    }
-  ],
-  "extreme": [
-    {
-      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of adolescence best respects the limits of the evidence?",
-      "options": [
-        "Supports health during growth",
-        "Varies from person to person",
-        "Is a normal stage between childhood and adulthood",
-        "Can help regulate changes in the body"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of emotional changes best respects the limits of the evidence?",
-      "options": [
-        "Varies from person to person",
-        "Can protect well-being when practiced consistently",
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of sleep best respects the limits of the evidence?",
-      "options": [
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace",
-        "Is a normal stage between childhood and adulthood",
-        "Can help regulate changes in the body"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of healthy habits best respects the limits of the evidence?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Is a normal stage between childhood and adulthood",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of adolescence best respects the limits of the evidence?",
-      "options": [
-        "Does not mean everyone develops at the same pace",
-        "Is best addressed using reliable information and trusted adults",
-        "Can protect well-being when practiced consistently",
-        "Should be handled with privacy and respect"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of emotional changes best respects the limits of the evidence?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Is best addressed using reliable information and trusted adults",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of sleep best respects the limits of the evidence?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Does not mean everyone develops at the same pace",
-        "Supports health during growth",
-        "Is best addressed using reliable information and trusted adults"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of healthy habits best respects the limits of the evidence?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Is best addressed using reliable information and trusted adults",
-        "Varies from person to person",
-        "Supports health during growth"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of adolescence best respects the limits of the evidence?",
-      "options": [
-        "Supports health during growth",
-        "Can help regulate changes in the body",
-        "Varies from person to person",
-        "Should be handled with privacy and respect"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of emotional changes best respects the limits of the evidence?",
-      "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Supports health during growth",
-        "Varies from person to person",
-        "Can help regulate changes in the body"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of sleep best respects the limits of the evidence?",
-      "options": [
-        "Supports health during growth",
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood",
-        "Varies from person to person"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of healthy habits best respects the limits of the evidence?",
-      "options": [
-        "Can help regulate changes in the body",
-        "Can protect well-being when practiced consistently",
-        "Is a normal stage between childhood and adulthood",
-        "Varies from person to person"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of adolescence best respects the limits of the evidence?",
-      "options": [
-        "Can help regulate changes in the body",
-        "Does not mean everyone develops at the same pace",
-        "Is a normal stage between childhood and adulthood",
-        "Can protect well-being when practiced consistently"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of emotional changes best respects the limits of the evidence?",
-      "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Does not mean everyone develops at the same pace",
-        "Is best addressed using reliable information and trusted adults",
-        "Can protect well-being when practiced consistently"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of sleep best respects the limits of the evidence?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Does not mean everyone develops at the same pace",
-        "Is best addressed using reliable information and trusted adults",
-        "Can protect well-being when practiced consistently"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of healthy habits best respects the limits of the evidence?",
-      "options": [
-        "Does not mean everyone develops at the same pace",
-        "Is best addressed using reliable information and trusted adults",
-        "Should be handled with privacy and respect",
-        "Can protect well-being when practiced consistently"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of adolescence best respects the limits of the evidence?",
-      "options": [
-        "Supports health during growth",
-        "Does not mean everyone develops at the same pace",
-        "Is best addressed using reliable information and trusted adults",
-        "Should be handled with privacy and respect"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of emotional changes best respects the limits of the evidence?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Varies from person to person",
-        "Should be handled with privacy and respect",
-        "Supports health during growth"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of sleep best respects the limits of the evidence?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Can help regulate changes in the body",
-        "Varies from person to person",
-        "Supports health during growth"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of healthy habits best respects the limits of the evidence?",
-      "options": [
-        "Can help regulate changes in the body",
-        "Varies from person to person",
-        "Supports health during growth",
-        "Is a normal stage between childhood and adulthood"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of adolescence best respects the limits of the evidence?",
-      "options": [
-        "Can help regulate changes in the body",
-        "Supports health during growth",
-        "Is a normal stage between childhood and adulthood",
-        "Varies from person to person"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of emotional changes best respects the limits of the evidence?",
-      "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Varies from person to person",
-        "Can protect well-being when practiced consistently",
-        "Can help regulate changes in the body"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a student feels stressed during a period of change. Which evaluation of sleep best respects the limits of the evidence?",
-      "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Does not mean everyone develops at the same pace",
-        "Can protect well-being when practiced consistently",
-        "Can help regulate changes in the body"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a young person experiences a growth spurt. Which evaluation of healthy habits best respects the limits of the evidence?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace",
-        "Is a normal stage between childhood and adulthood"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving friends pressure someone to try an unsafe habit. Which evaluation of adolescence best respects the limits of the evidence?",
-      "options": [
-        "Does not mean everyone develops at the same pace",
-        "Can protect well-being when practiced consistently",
-        "Should be handled with privacy and respect",
-        "Is best addressed using reliable information and trusted adults"
-      ],
-      "answer": 2
     }
   ],
   "tooHard": [
     {
-      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
+      "question": "Which endocrine gland lies near the base of the brain?",
       "options": [
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace",
-        "Should be handled with privacy and respect",
-        "Is best addressed using reliable information and trusted adults"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
-      "options": [
-        "Does not mean everyone develops at the same pace",
-        "Supports health during growth",
-        "Is best addressed using reliable information and trusted adults",
-        "Should be handled with privacy and respect"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Varies from person to person",
-        "Should be handled with privacy and respect",
-        "Supports health during growth"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
-      "options": [
-        "Supports health during growth",
-        "Can help regulate changes in the body",
-        "Varies from person to person",
-        "Should be handled with privacy and respect"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
-      "options": [
-        "Varies from person to person",
-        "Supports health during growth",
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood"
+        "Thyroid",
+        "Adrenal",
+        "Pancreas",
+        "Pituitary"
       ],
       "answer": 3
     },
     {
-      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
+      "question": "Which hormone is secreted by the thyroid gland?",
       "options": [
-        "Varies from person to person",
-        "Is a normal stage between childhood and adulthood",
-        "Supports health during growth",
-        "Can help regulate changes in the body"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
-      "options": [
-        "Varies from person to person",
-        "Is a normal stage between childhood and adulthood",
-        "Can help regulate changes in the body",
-        "Can protect well-being when practiced consistently"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
-      "options": [
-        "Can protect well-being when practiced consistently",
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
-      "options": [
-        "Does not mean everyone develops at the same pace",
-        "Is a normal stage between childhood and adulthood",
-        "Can protect well-being when practiced consistently",
-        "Is best addressed using reliable information and trusted adults"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
-      "options": [
-        "Should be handled with privacy and respect",
-        "Is best addressed using reliable information and trusted adults",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace"
+        "Thyroxine",
+        "Testosterone",
+        "Oestrogen",
+        "Insulin"
       ],
       "answer": 0
     },
     {
-      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
+      "question": "Which hormone is secreted by the pancreas to lower blood glucose?",
       "options": [
-        "Does not mean everyone develops at the same pace",
-        "Can protect well-being when practiced consistently",
-        "Is best addressed using reliable information and trusted adults",
-        "Should be handled with privacy and respect"
+        "Testosterone",
+        "Adrenaline",
+        "Thyroxine",
+        "Insulin"
       ],
       "answer": 3
     },
     {
-      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
+      "question": "Which hormone prepares the body for emergency action?",
       "options": [
-        "Should be handled with privacy and respect",
-        "Is best addressed using reliable information and trusted adults",
-        "Supports health during growth",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
-      "options": [
-        "Is best addressed using reliable information and trusted adults",
-        "Varies from person to person",
-        "Should be handled with privacy and respect",
-        "Supports health during growth"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
-      "options": [
-        "Supports health during growth",
-        "Varies from person to person",
-        "Can help regulate changes in the body",
-        "Should be handled with privacy and respect"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
-      "options": [
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood",
-        "Varies from person to person",
-        "Supports health during growth"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
-      "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Varies from person to person",
-        "Can help regulate changes in the body",
-        "Supports health during growth"
+        "Adrenaline",
+        "Insulin",
+        "Oestrogen",
+        "Thyroxine"
       ],
       "answer": 0
     },
     {
-      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about healthy habits is most defensible?",
+      "question": "Which term describes physical changes that make the body reproductively mature?",
       "options": [
-        "Varies from person to person",
-        "Can help regulate changes in the body",
-        "Is a normal stage between childhood and adulthood",
-        "Can protect well-being when practiced consistently"
+        "Digestion",
+        "Ageing",
+        "Infancy",
+        "Puberty"
       ],
       "answer": 3
     },
     {
-      "question": "A group compares results from a student needs reliable health information, but one condition is not perfectly controlled. Which judgement about adolescence is most defensible?",
+      "question": "Which stage usually begins around the early teens?",
       "options": [
-        "Is a normal stage between childhood and adulthood",
-        "Can help regulate changes in the body",
-        "Can protect well-being when practiced consistently",
-        "Does not mean everyone develops at the same pace"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from a student has questions about body changes, but one condition is not perfectly controlled. Which judgement about emotional changes is most defensible?",
-      "options": [
-        "Can protect well-being when practiced consistently",
-        "Is a normal stage between childhood and adulthood",
-        "Does not mean everyone develops at the same pace",
-        "Is best addressed using reliable information and trusted adults"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from two classmates begin puberty at different ages, but one condition is not perfectly controlled. Which judgement about sleep is most defensible?",
-      "options": [
-        "Does not mean everyone develops at the same pace",
-        "Should be handled with privacy and respect",
-        "Is best addressed using reliable information and trusted adults",
-        "Can protect well-being when practiced consistently"
+        "Infancy",
+        "Adolescence",
+        "Old age",
+        "Adulthood"
       ],
       "answer": 1
+    },
+    {
+      "question": "Which process is the monthly shedding of the uterine lining?",
+      "options": [
+        "Menstruation",
+        "Fertilisation",
+        "Menopause",
+        "Ovulation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which term names the first menstrual period?",
+      "options": [
+        "Menopause",
+        "Menarche",
+        "Ovulation",
+        "Puberty"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which term names the end of menstrual cycles later in life?",
+      "options": [
+        "Ovulation",
+        "Fertilisation",
+        "Menarche",
+        "Menopause"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which mineral is a component of haemoglobin?",
+      "options": [
+        "Calcium",
+        "Iron",
+        "Iodine",
+        "Potassium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which mineral is required to produce thyroid hormones?",
+      "options": [
+        "Sodium",
+        "Iodine",
+        "Iron",
+        "Calcium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which nutrient is the body's main source of energy?",
+      "options": [
+        "Minerals",
+        "Vitamins",
+        "Proteins",
+        "Carbohydrates"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which nutrient helps build and repair body tissues?",
+      "options": [
+        "Salt",
+        "Fibre",
+        "Water",
+        "Protein"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which nutrient helps prevent dehydration?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Water",
+        "Iodine"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which habit helps prevent the spread of skin infections?",
+      "options": [
+        "Wearing damp clothes",
+        "Cleanliness",
+        "Sharing towels",
+        "Ignoring bathing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which gland releases growth hormone?",
+      "options": [
+        "Salivary",
+        "Pituitary",
+        "Thyroid",
+        "Pancreas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of gland releases hormones into blood?",
+      "options": [
+        "Sweat",
+        "Endocrine",
+        "Digestive",
+        "Exocrine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of change includes broader shoulders in many boys?",
+      "options": [
+        "Blood group",
+        "Fingerprints",
+        "Body shape",
+        "Eye colour"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which emotional skill helps manage stress?",
+      "options": [
+        "Bullying",
+        "Avoidance",
+        "Self-awareness",
+        "Isolation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which habit is important for menstrual hygiene?",
+      "options": [
+        "Cleanliness",
+        "Sleep loss",
+        "Skipping meals",
+        "Dehydration"
+      ],
+      "answer": 0
+    }
+  ],
+  "extreme": [
+    {
+      "question": "Which hormone from the pituitary stimulates growth?",
+      "options": [
+        "Insulin",
+        "Thyroxine",
+        "Growth hormone",
+        "Adrenaline"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which gland produces both insulin and digestive juices?",
+      "options": [
+        "Thyroid",
+        "Adrenal",
+        "Pancreas",
+        "Pituitary"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which hormone is chiefly linked with male secondary sexual traits?",
+      "options": [
+        "Oestrogen",
+        "Thyroxine",
+        "Testosterone",
+        "Insulin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which hormone is chiefly linked with female secondary sexual traits?",
+      "options": [
+        "Testosterone",
+        "Insulin",
+        "Oestrogen",
+        "Adrenaline"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which gland produces hormones that regulate metabolism?",
+      "options": [
+        "Thyroid",
+        "Salivary",
+        "Pancreas",
+        "Pituitary"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which gland produces adrenaline?",
+      "options": [
+        "Thyroid",
+        "Adrenal",
+        "Pancreas",
+        "Salivary"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which term means the first occurrence of menstruation?",
+      "options": [
+        "Menopause",
+        "Ovulation",
+        "Fertilisation",
+        "Menarche"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which term means release of an ovum from an ovary?",
+      "options": [
+        "Menopause",
+        "Ovulation",
+        "Implantation",
+        "Menstruation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which term means the permanent end of menstruation?",
+      "options": [
+        "Menarche",
+        "Ovulation",
+        "Menopause",
+        "Puberty"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which mineral deficiency is linked with goitre?",
+      "options": [
+        "Calcium",
+        "Sodium",
+        "Iodine",
+        "Iron"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which deficiency can lower haemoglobin levels?",
+      "options": [
+        "Iron deficiency",
+        "Calcium excess",
+        "Iodine excess",
+        "Water excess"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which food nutrient supplies amino acids for growth?",
+      "options": [
+        "Carbohydrate",
+        "Fat",
+        "Protein",
+        "Water"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which nutrient is needed in small amounts for body regulation?",
+      "options": [
+        "Water",
+        "Sugar",
+        "Vitamins",
+        "Starch"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which habit supports strong bones and muscles?",
+      "options": [
+        "Exercise",
+        "Inactivity",
+        "Smoking",
+        "Dehydration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which practice supports healthy sleep rhythms?",
+      "options": [
+        "All-nighters",
+        "Caffeine",
+        "Routine",
+        "Screening"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which glands release their products through ducts?",
+      "options": [
+        "Thyroid",
+        "Exocrine",
+        "Pituitary",
+        "Endocrine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which gland is commonly called the master endocrine gland?",
+      "options": [
+        "Adrenal",
+        "Pituitary",
+        "Pancreas",
+        "Thyroid"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which hormone helps control the body's blood glucose?",
+      "options": [
+        "Oestrogen",
+        "Thyroxine",
+        "Testosterone",
+        "Insulin"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which phase of life includes rapid physical and emotional change?",
+      "options": [
+        "Old age",
+        "Infancy",
+        "Adulthood",
+        "Adolescence"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which term describes glands that release hormones into blood?",
+      "options": [
+        "Salivary",
+        "Sweat",
+        "Exocrine",
+        "Endocrine"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which reproductive organ produces sperm cells?",
+      "options": [
+        "Uterus",
+        "Ovaries",
+        "Testes",
+        "Kidneys"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which reproductive organ produces ova?",
+      "options": [
+        "Ovaries",
+        "Testes",
+        "Uterus",
+        "Bladder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which term describes a sudden increase in height during puberty?",
+      "options": [
+        "Ovulation",
+        "Menarche",
+        "Growth spurt",
+        "Menopause"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which nutrient is essential for making haemoglobin?",
+      "options": [
+        "Calcium",
+        "Iron",
+        "Sodium",
+        "Iodine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which practice helps adolescents seek reliable health guidance?",
+      "options": [
+        "Guesswork",
+        "Rumours",
+        "Isolation",
+        "Trusted adult"
+      ],
+      "answer": 3
     }
   ]
 };

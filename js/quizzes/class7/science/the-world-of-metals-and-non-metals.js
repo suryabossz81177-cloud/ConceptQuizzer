@@ -2,812 +2,812 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-the-world-of-metals-and-non-metals"] = {
   "easy": [
     {
-      "question": "In the context of a sulfur sample burned in a controlled demonstration, which idea is most directly relevant to lustre?",
+      "question": "Which metal is liquid at room temperature?",
       "options": [
-        "Is useful because the material can be drawn into wires",
-        "Can produce a ringing sound when struck",
-        "Describes the ability to be beaten into sheets",
-        "Helps transfer heat through a cooking utensil"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of a metal sheet hammered into shape, which idea is most directly relevant to sonority?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Depends on the intended use and the material's properties",
-        "Describes the ability to be beaten into sheets",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "In the context of copper wire, which idea is most directly relevant to corrosion?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Is a surface property and does not identify every material",
-        "Depends on the intended use and the material's properties",
-        "Describes the ability to be beaten into sheets"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "In the context of a sulfur sample burned in a controlled demonstration, which idea is most directly relevant to magnesium?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Depends on the intended use and the material's properties",
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "In the context of a metal sheet hammered into shape, which idea is most directly relevant to lustre?",
-      "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material",
-        "Depends on the intended use and the material's properties"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of copper wire, which idea is most directly relevant to sonority?",
-      "options": [
-        "Depends on the intended use and the material's properties",
-        "May happen when iron reacts with oxygen and moisture",
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "In the context of a sulfur sample burned in a controlled demonstration, which idea is most directly relevant to corrosion?",
-      "options": [
-        "Helps transfer heat through a cooking utensil",
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone",
-        "May happen when iron reacts with oxygen and moisture"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of a metal sheet hammered into shape, which idea is most directly relevant to magnesium?",
-      "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Can produce a ringing sound when struck",
-        "Must be tested rather than assumed from appearance alone",
-        "Helps transfer heat through a cooking utensil"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "In the context of copper wire, which idea is most directly relevant to lustre?",
-      "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil",
-        "Describes the ability to be beaten into sheets"
+        "Copper",
+        "Aluminium",
+        "Iron",
+        "Mercury"
       ],
       "answer": 3
     },
     {
-      "question": "In the context of a sulfur sample burned in a controlled demonstration, which idea is most directly relevant to sonority?",
+      "question": "Which non-metal is essential for breathing?",
       "options": [
-        "Describes the ability to be beaten into sheets",
-        "Can produce a ringing sound when struck",
-        "Is useful because the material can be drawn into wires",
-        "Helps transfer heat through a cooking utensil"
+        "Oxygen",
+        "Nitrogen",
+        "Chlorine",
+        "Hydrogen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is commonly used for electrical wires?",
+      "options": [
+        "Phosphorus",
+        "Carbon",
+        "Copper",
+        "Sulphur"
       ],
       "answer": 2
+    },
+    {
+      "question": "Which non-metal is used in pencil leads?",
+      "options": [
+        "Zinc",
+        "Copper",
+        "Carbon",
+        "Iron"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which metal is attracted strongly by a magnet?",
+      "options": [
+        "Silver",
+        "Iron",
+        "Aluminium",
+        "Gold"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal is commonly used to make cooking vessels?",
+      "options": [
+        "Oxygen",
+        "Sulphur",
+        "Aluminium",
+        "Carbon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which non-metal is present in match heads?",
+      "options": [
+        "Iron",
+        "Phosphorus",
+        "Zinc",
+        "Copper"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal has a golden-yellow colour?",
+      "options": [
+        "Iron",
+        "Gold",
+        "Silver",
+        "Lead"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which non-metal supports combustion?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Helium",
+        "Nitrogen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is used in jewellery because it resists corrosion?",
+      "options": [
+        "Calcium",
+        "Iron",
+        "Sodium",
+        "Gold"
+      ],
+      "answer": 3
     }
   ],
   "medium": [
     {
-      "question": "A learner investigates a shiny metal surface and records the result. Which conclusion about sonority is best supported?",
+      "question": "Which metal is liquid near room temperature?",
       "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "May happen when iron reacts with oxygen and moisture",
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates a pan used for cooking and records the result. Which conclusion about corrosion is best supported?",
-      "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material",
-        "Helps transfer heat through a cooking utensil",
-        "May happen when iron reacts with oxygen and moisture"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates an iron gate left in damp air and records the result. Which conclusion about magnesium is best supported?",
-      "options": [
-        "Can produce a ringing sound when struck",
-        "May happen when iron reacts with oxygen and moisture",
-        "Must be tested rather than assumed from appearance alone",
-        "Helps transfer heat through a cooking utensil"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates a shiny metal surface and records the result. Which conclusion about lustre is best supported?",
-      "options": [
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil",
-        "Describes the ability to be beaten into sheets",
-        "May happen when iron reacts with oxygen and moisture"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates a pan used for cooking and records the result. Which conclusion about sonority is best supported?",
-      "options": [
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil",
-        "Describes the ability to be beaten into sheets",
-        "Is useful because the material can be drawn into wires"
+        "Sodium",
+        "Lead",
+        "Tin",
+        "Mercury"
       ],
       "answer": 3
     },
     {
-      "question": "A learner investigates an iron gate left in damp air and records the result. Which conclusion about corrosion is best supported?",
+      "question": "Which non-metal is a good electrical conductor in graphite form?",
       "options": [
-        "Can produce a ringing sound when struck",
-        "Describes the ability to be beaten into sheets",
-        "Helps transfer heat through a cooking utensil",
-        "Is useful because the material can be drawn into wires"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates a shiny metal surface and records the result. Which conclusion about magnesium is best supported?",
-      "options": [
-        "Depends on the intended use and the material's properties",
-        "Is useful because the material can be drawn into wires",
-        "Can produce a ringing sound when struck",
-        "Describes the ability to be beaten into sheets"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates a pan used for cooking and records the result. Which conclusion about lustre is best supported?",
-      "options": [
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material",
-        "Describes the ability to be beaten into sheets",
-        "Is useful because the material can be drawn into wires"
+        "Phosphorus",
+        "Carbon",
+        "Sulphur",
+        "Oxygen"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates an iron gate left in damp air and records the result. Which conclusion about sonority is best supported?",
+      "question": "Which metal reacts vigorously with water and is stored in oil?",
       "options": [
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone",
-        "Is useful because the material can be drawn into wires"
+        "Copper",
+        "Silver",
+        "Gold",
+        "Sodium"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which non-metal is used to disinfect drinking water?",
+      "options": [
+        "Carbon",
+        "Hydrogen",
+        "Nitrogen",
+        "Chlorine"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which metal forms a reddish-brown coating when it rusts?",
+      "options": [
+        "Aluminium",
+        "Copper",
+        "Zinc",
+        "Iron"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which gas makes up most of Earth's atmosphere?",
+      "options": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen",
+        "Oxygen"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates a shiny metal surface and records the result. Which conclusion about corrosion is best supported?",
+      "question": "Which metal is used for galvanising iron?",
       "options": [
-        "Depends on the intended use and the material's properties",
-        "Must be tested rather than assumed from appearance alone",
-        "May happen when iron reacts with oxygen and moisture",
-        "Is a surface property and does not identify every material"
+        "Copper",
+        "Zinc",
+        "Gold",
+        "Mercury"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which non-metal is needed to make fertilisers and matches?",
+      "options": [
+        "Neon",
+        "Argon",
+        "Phosphorus",
+        "Helium"
       ],
       "answer": 2
+    },
+    {
+      "question": "Which metal is commonly mixed with copper to make brass?",
+      "options": [
+        "Mercury",
+        "Iron",
+        "Sodium",
+        "Zinc"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which non-metal is used in water purification as a disinfectant?",
+      "options": [
+        "Chlorine",
+        "Sulphur",
+        "Carbon",
+        "Iodine"
+      ],
+      "answer": 0
     }
   ],
   "hard": [
     {
-      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of corrosion is scientifically strongest?",
+      "question": "Which property lets metals be drawn into wires?",
       "options": [
-        "Can produce a ringing sound when struck",
-        "Is useful because the material can be drawn into wires",
-        "Helps transfer heat through a cooking utensil",
-        "Describes the ability to be beaten into sheets"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of magnesium is scientifically strongest?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Depends on the intended use and the material's properties",
-        "Describes the ability to be beaten into sheets",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of lustre is scientifically strongest?",
-      "options": [
-        "Is a surface property and does not identify every material",
-        "Is useful because the material can be drawn into wires",
-        "Describes the ability to be beaten into sheets",
-        "Depends on the intended use and the material's properties"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of sonority is scientifically strongest?",
-      "options": [
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone",
-        "Is useful because the material can be drawn into wires"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of corrosion is scientifically strongest?",
-      "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material",
-        "May happen when iron reacts with oxygen and moisture",
-        "Depends on the intended use and the material's properties"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of magnesium is scientifically strongest?",
-      "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material",
-        "Depends on the intended use and the material's properties",
-        "May happen when iron reacts with oxygen and moisture"
+        "Solubility",
+        "Brittleness",
+        "Malleability",
+        "Ductility"
       ],
       "answer": 3
     },
     {
-      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of lustre is scientifically strongest?",
+      "question": "Which property lets metals be beaten into sheets?",
       "options": [
-        "Helps transfer heat through a cooking utensil",
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material",
-        "May happen when iron reacts with oxygen and moisture"
+        "Ductility",
+        "Malleability",
+        "Transparency",
+        "Elasticity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which non-metal is a lustrous solid used in antiseptics?",
+      "options": [
+        "Iodine",
+        "Carbon",
+        "Sulphur",
+        "Phosphorus"
       ],
       "answer": 0
     },
     {
-      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of sonority is scientifically strongest?",
+      "question": "Which metal is commonly used as a protective coating on steel?",
       "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "May happen when iron reacts with oxygen and moisture",
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil"
+        "Sodium",
+        "Gold",
+        "Zinc",
+        "Mercury"
       ],
       "answer": 2
     },
     {
-      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of corrosion is scientifically strongest?",
+      "question": "Which metal forms a green coating in moist air?",
       "options": [
-        "Describes the ability to be beaten into sheets",
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil",
-        "May happen when iron reacts with oxygen and moisture"
+        "Iron",
+        "Copper",
+        "Silver",
+        "Aluminium"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of magnesium is scientifically strongest?",
+      "question": "Which non-metal is a yellow solid?",
       "options": [
-        "Describes the ability to be beaten into sheets",
-        "Helps transfer heat through a cooking utensil",
-        "Is useful because the material can be drawn into wires",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of lustre is scientifically strongest?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil",
-        "Describes the ability to be beaten into sheets"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of sonority is scientifically strongest?",
-      "options": [
-        "Describes the ability to be beaten into sheets",
-        "Is useful because the material can be drawn into wires",
-        "Depends on the intended use and the material's properties",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "During a class investigation of copper wire, a result is observed. Which interpretation of corrosion is scientifically strongest?",
-      "options": [
-        "Is a surface property and does not identify every material",
-        "Depends on the intended use and the material's properties",
-        "Is useful because the material can be drawn into wires",
-        "Describes the ability to be beaten into sheets"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During a class investigation of a sulfur sample burned in a controlled demonstration, a result is observed. Which interpretation of magnesium is scientifically strongest?",
-      "options": [
-        "Is a surface property and does not identify every material",
-        "Depends on the intended use and the material's properties",
-        "Must be tested rather than assumed from appearance alone",
-        "Is useful because the material can be drawn into wires"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "During a class investigation of a metal sheet hammered into shape, a result is observed. Which interpretation of lustre is scientifically strongest?",
-      "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material",
-        "Depends on the intended use and the material's properties",
-        "May happen when iron reacts with oxygen and moisture"
-      ],
-      "answer": 3
-    }
-  ],
-  "extreme": [
-    {
-      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of lustre best respects the limits of the evidence?",
-      "options": [
-        "Describes the ability to be beaten into sheets",
-        "Helps transfer heat through a cooking utensil",
-        "Can produce a ringing sound when struck",
-        "Is useful because the material can be drawn into wires"
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen",
+        "Sulphur"
       ],
       "answer": 3
     },
     {
-      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of sonority best respects the limits of the evidence?",
+      "question": "Which metal is a major component of steel?",
       "options": [
-        "Is useful because the material can be drawn into wires",
-        "Describes the ability to be beaten into sheets",
-        "Depends on the intended use and the material's properties",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of corrosion best respects the limits of the evidence?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Describes the ability to be beaten into sheets",
-        "Is a surface property and does not identify every material",
-        "Depends on the intended use and the material's properties"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of magnesium best respects the limits of the evidence?",
-      "options": [
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone",
-        "Is useful because the material can be drawn into wires",
-        "Depends on the intended use and the material's properties"
+        "Copper",
+        "Iron",
+        "Gold",
+        "Mercury"
       ],
       "answer": 1
     },
     {
-      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of lustre best respects the limits of the evidence?",
+      "question": "Which non-metal is used in pencil cores as graphite?",
       "options": [
-        "Is a surface property and does not identify every material",
-        "May happen when iron reacts with oxygen and moisture",
-        "Must be tested rather than assumed from appearance alone",
-        "Depends on the intended use and the material's properties"
+        "Iodine",
+        "Chlorine",
+        "Carbon",
+        "Sulphur"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which metal is lightweight and used in aircraft bodies?",
+      "options": [
+        "Copper",
+        "Aluminium",
+        "Mercury",
+        "Lead"
       ],
       "answer": 1
     },
     {
-      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of sonority best respects the limits of the evidence?",
+      "question": "Which property makes copper suitable for wiring?",
       "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material",
-        "May happen when iron reacts with oxygen and moisture"
+        "Brittleness",
+        "Dullness",
+        "Softness",
+        "Conductivity"
       ],
       "answer": 3
     },
     {
-      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of corrosion best respects the limits of the evidence?",
+      "question": "Which metal is extracted from bauxite?",
       "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone",
-        "Helps transfer heat through a cooking utensil"
+        "Aluminium",
+        "Iron",
+        "Zinc",
+        "Copper"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which non-metal is a component of proteins?",
+      "options": [
+        "Nitrogen",
+        "Argon",
+        "Neon",
+        "Helium"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is used in thermometers in older designs?",
+      "options": [
+        "Sodium",
+        "Mercury",
+        "Zinc",
+        "Calcium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal reacts with dilute acids to release hydrogen?",
+      "options": [
+        "Zinc",
+        "Copper",
+        "Gold",
+        "Silver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which non-metal is present in coal and charcoal?",
+      "options": [
+        "Neon",
+        "Chlorine",
+        "Oxygen",
+        "Carbon"
       ],
       "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of magnesium best respects the limits of the evidence?",
-      "options": [
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil",
-        "Must be tested rather than assumed from appearance alone",
-        "May happen when iron reacts with oxygen and moisture"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of lustre best respects the limits of the evidence?",
-      "options": [
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil",
-        "Describes the ability to be beaten into sheets",
-        "May happen when iron reacts with oxygen and moisture"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of sonority best respects the limits of the evidence?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Helps transfer heat through a cooking utensil",
-        "Can produce a ringing sound when struck",
-        "Describes the ability to be beaten into sheets"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of corrosion best respects the limits of the evidence?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Helps transfer heat through a cooking utensil",
-        "Can produce a ringing sound when struck",
-        "Describes the ability to be beaten into sheets"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of magnesium best respects the limits of the evidence?",
-      "options": [
-        "Depends on the intended use and the material's properties",
-        "Can produce a ringing sound when struck",
-        "Describes the ability to be beaten into sheets",
-        "Is useful because the material can be drawn into wires"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of lustre best respects the limits of the evidence?",
-      "options": [
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material",
-        "Describes the ability to be beaten into sheets",
-        "Is useful because the material can be drawn into wires"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of sonority best respects the limits of the evidence?",
-      "options": [
-        "Is a surface property and does not identify every material",
-        "Is useful because the material can be drawn into wires",
-        "Must be tested rather than assumed from appearance alone",
-        "Depends on the intended use and the material's properties"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of corrosion best respects the limits of the evidence?",
-      "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of magnesium best respects the limits of the evidence?",
-      "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "May happen when iron reacts with oxygen and moisture",
-        "Is a surface property and does not identify every material",
-        "Depends on the intended use and the material's properties"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of lustre best respects the limits of the evidence?",
-      "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "May happen when iron reacts with oxygen and moisture",
-        "Helps transfer heat through a cooking utensil",
-        "Is a surface property and does not identify every material"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of sonority best respects the limits of the evidence?",
-      "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "Can produce a ringing sound when struck",
-        "May happen when iron reacts with oxygen and moisture",
-        "Helps transfer heat through a cooking utensil"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of corrosion best respects the limits of the evidence?",
-      "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil",
-        "Describes the ability to be beaten into sheets"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of magnesium best respects the limits of the evidence?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Describes the ability to be beaten into sheets",
-        "Helps transfer heat through a cooking utensil",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of lustre best respects the limits of the evidence?",
-      "options": [
-        "Helps transfer heat through a cooking utensil",
-        "Is useful because the material can be drawn into wires",
-        "Describes the ability to be beaten into sheets",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of sonority best respects the limits of the evidence?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Describes the ability to be beaten into sheets",
-        "Depends on the intended use and the material's properties",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving copper wire. Which evaluation of corrosion best respects the limits of the evidence?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Is a surface property and does not identify every material",
-        "Describes the ability to be beaten into sheets",
-        "Depends on the intended use and the material's properties"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a sulfur sample burned in a controlled demonstration. Which evaluation of magnesium best respects the limits of the evidence?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a metal sheet hammered into shape. Which evaluation of lustre best respects the limits of the evidence?",
-      "options": [
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material",
-        "May happen when iron reacts with oxygen and moisture",
-        "Must be tested rather than assumed from appearance alone"
-      ],
-      "answer": 2
     }
   ],
   "tooHard": [
     {
-      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
+      "question": "Which property describes a metal's ability to be hammered into thin sheets?",
       "options": [
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone",
-        "May happen when iron reacts with oxygen and moisture",
-        "Depends on the intended use and the material's properties"
+        "Hardness",
+        "Conductivity",
+        "Malleability",
+        "Ductility"
       ],
       "answer": 2
     },
     {
-      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
+      "question": "Which property describes a metal's ability to be pulled into wires?",
       "options": [
-        "Is a surface property and does not identify every material",
-        "May happen when iron reacts with oxygen and moisture",
-        "Helps transfer heat through a cooking utensil",
-        "Must be tested rather than assumed from appearance alone"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
-      "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Helps transfer heat through a cooking utensil",
-        "Can produce a ringing sound when struck",
-        "Must be tested rather than assumed from appearance alone"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
-      "options": [
-        "Can produce a ringing sound when struck",
-        "May happen when iron reacts with oxygen and moisture",
-        "Describes the ability to be beaten into sheets",
-        "Helps transfer heat through a cooking utensil"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
-      "options": [
-        "Helps transfer heat through a cooking utensil",
-        "Is useful because the material can be drawn into wires",
-        "Describes the ability to be beaten into sheets",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
-      "options": [
-        "Can produce a ringing sound when struck",
-        "Describes the ability to be beaten into sheets",
-        "Is useful because the material can be drawn into wires",
-        "Helps transfer heat through a cooking utensil"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
-      "options": [
-        "Describes the ability to be beaten into sheets",
-        "Depends on the intended use and the material's properties",
-        "Is useful because the material can be drawn into wires",
-        "Can produce a ringing sound when struck"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
-      "options": [
-        "Is useful because the material can be drawn into wires",
-        "Is a surface property and does not identify every material",
-        "Depends on the intended use and the material's properties",
-        "Describes the ability to be beaten into sheets"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
-      "options": [
-        "Depends on the intended use and the material's properties",
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material",
-        "Is useful because the material can be drawn into wires"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
-      "options": [
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone",
-        "May happen when iron reacts with oxygen and moisture",
-        "Depends on the intended use and the material's properties"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
-      "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Depends on the intended use and the material's properties",
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material"
+        "Ductility",
+        "Sonority",
+        "Malleability",
+        "Density"
       ],
       "answer": 0
     },
     {
-      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
+      "question": "Which metal is protected by a thin oxide layer in air?",
       "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Helps transfer heat through a cooking utensil",
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone"
+        "Aluminium",
+        "Iron",
+        "Calcium",
+        "Sodium"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
+      "question": "Which metal is liquid at ordinary room temperature?",
       "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Helps transfer heat through a cooking utensil",
-        "Must be tested rather than assumed from appearance alone",
-        "Can produce a ringing sound when struck"
+        "Iron",
+        "Gallium",
+        "Nickel",
+        "Mercury"
       ],
       "answer": 3
     },
     {
-      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
+      "question": "Which metal is commonly used to coat iron against rusting?",
       "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Describes the ability to be beaten into sheets",
-        "Helps transfer heat through a cooking utensil",
-        "Can produce a ringing sound when struck"
+        "Silver",
+        "Zinc",
+        "Tin",
+        "Gold"
       ],
       "answer": 1
     },
     {
-      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
+      "question": "Which non-metal is used in vulcanisation of rubber?",
       "options": [
-        "Helps transfer heat through a cooking utensil",
-        "Can produce a ringing sound when struck",
-        "Describes the ability to be beaten into sheets",
-        "Is useful because the material can be drawn into wires"
+        "Oxygen",
+        "Iodine",
+        "Sulphur",
+        "Nitrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which metal is obtained from hematite ore?",
+      "options": [
+        "Copper",
+        "Aluminium",
+        "Iron",
+        "Zinc"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which gas is produced when many metals react with dilute acids?",
+      "options": [
+        "Nitrogen",
+        "Chlorine",
+        "Oxygen",
+        "Hydrogen"
       ],
       "answer": 3
     },
     {
-      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
+      "question": "Which metal is used in electrical contacts due to low reactivity?",
       "options": [
-        "Can produce a ringing sound when struck",
-        "Helps transfer heat through a cooking utensil",
-        "Is useful because the material can be drawn into wires",
-        "Describes the ability to be beaten into sheets"
+        "Calcium",
+        "Sodium",
+        "Gold",
+        "Magnesium"
       ],
       "answer": 2
     },
     {
-      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about magnesium is most defensible?",
+      "question": "Which non-metal is commonly used in water-treatment bleaching powder manufacture?",
       "options": [
-        "Can produce a ringing sound when struck",
-        "Describes the ability to be beaten into sheets",
-        "Depends on the intended use and the material's properties",
-        "Is useful because the material can be drawn into wires"
+        "Chlorine",
+        "Carbon",
+        "Phosphorus",
+        "Sulphur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is used to make the filament in traditional bulbs?",
+      "options": [
+        "Zinc",
+        "Tungsten",
+        "Copper",
+        "Aluminium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal is a main component of bronze with copper?",
+      "options": [
+        "Mercury",
+        "Sodium",
+        "Tin",
+        "Iron"
       ],
       "answer": 2
     },
     {
-      "question": "A group compares results from a pan used for cooking, but one condition is not perfectly controlled. Which judgement about lustre is most defensible?",
+      "question": "Which non-metal is added to water to kill harmful microbes?",
       "options": [
-        "Is a surface property and does not identify every material",
-        "Describes the ability to be beaten into sheets",
-        "Is useful because the material can be drawn into wires",
-        "Depends on the intended use and the material's properties"
+        "Carbon",
+        "Hydrogen",
+        "Nitrogen",
+        "Chlorine"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which metal is stored under kerosene because of high reactivity?",
+      "options": [
+        "Sodium",
+        "Copper",
+        "Iron",
+        "Gold"
       ],
       "answer": 0
     },
     {
-      "question": "A group compares results from an iron gate left in damp air, but one condition is not perfectly controlled. Which judgement about sonority is most defensible?",
+      "question": "Which non-metal exists as a dark, lustrous solid and conducts electricity?",
       "options": [
-        "Must be tested rather than assumed from appearance alone",
-        "Is a surface property and does not identify every material",
-        "Is useful because the material can be drawn into wires",
-        "Depends on the intended use and the material's properties"
+        "Graphite",
+        "Sulphur",
+        "Oxygen",
+        "Phosphorus"
       ],
       "answer": 0
     },
     {
-      "question": "A group compares results from a shiny metal surface, but one condition is not perfectly controlled. Which judgement about corrosion is most defensible?",
+      "question": "Which metal is commonly used in food cans as a coating?",
       "options": [
-        "May happen when iron reacts with oxygen and moisture",
-        "Depends on the intended use and the material's properties",
-        "Is a surface property and does not identify every material",
-        "Must be tested rather than assumed from appearance alone"
+        "Sodium",
+        "Tin",
+        "Calcium",
+        "Mercury"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal is used in stainless steel along with iron?",
+      "options": [
+        "Mercury",
+        "Chromium",
+        "Lead",
+        "Sodium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which non-metal is used in the manufacture of sulphuric acid?",
+      "options": [
+        "Argon",
+        "Helium",
+        "Neon",
+        "Sulphur"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which metal is used in aircraft because it is light and corrosion-resistant?",
+      "options": [
+        "Aluminium",
+        "Iron",
+        "Lead",
+        "Mercury"
       ],
       "answer": 0
+    },
+    {
+      "question": "Which metal reacts with oxygen to form a green patina over time?",
+      "options": [
+        "Gold",
+        "Zinc",
+        "Copper",
+        "Sodium"
+      ],
+      "answer": 2
+    }
+  ],
+  "extreme": [
+    {
+      "question": "Which metal is the main constituent of brass?",
+      "options": [
+        "Copper",
+        "Lead",
+        "Iron",
+        "Aluminium"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is the main constituent of bronze?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is extracted from cinnabar?",
+      "options": [
+        "Aluminium",
+        "Mercury",
+        "Zinc",
+        "Iron"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which non-metal is used in the vulcanisation of rubber?",
+      "options": [
+        "Sulphur",
+        "Chlorine",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is the principal metal in duralumin?",
+      "options": [
+        "Tin",
+        "Iron",
+        "Copper",
+        "Aluminium"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which metal is used as a sacrificial coating to protect iron?",
+      "options": [
+        "Zinc",
+        "Gold",
+        "Mercury",
+        "Silver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is used in galvanised roofing sheets?",
+      "options": [
+        "Copper",
+        "Sodium",
+        "Gold",
+        "Zinc"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which non-metal is present in all organic compounds?",
+      "options": [
+        "Neon",
+        "Carbon",
+        "Helium",
+        "Argon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal is used for aircraft frames due to low density?",
+      "options": [
+        "Gold",
+        "Aluminium",
+        "Lead",
+        "Mercury"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal is found in haematite?",
+      "options": [
+        "Tin",
+        "Copper",
+        "Iron",
+        "Zinc"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which non-metal is used to make the tip of safety matches?",
+      "options": [
+        "Neon",
+        "Helium",
+        "Phosphorus",
+        "Argon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which metal is used for coating steel food cans?",
+      "options": [
+        "Tin",
+        "Calcium",
+        "Sodium",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is alloyed with iron to make stainless steel corrosion-resistant?",
+      "options": [
+        "Lead",
+        "Mercury",
+        "Chromium",
+        "Sodium"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which metal is commonly used in coins with copper-nickel alloy?",
+      "options": [
+        "Mercury",
+        "Nickel",
+        "Sodium",
+        "Calcium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal is a good conductor and widely used in power cables?",
+      "options": [
+        "Phosphorus",
+        "Sulphur",
+        "Carbon",
+        "Copper"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which non-metal is used in water treatment for disinfection?",
+      "options": [
+        "Chlorine",
+        "Carbon",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal forms a protective oxide layer that slows further corrosion?",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Aluminium",
+        "Calcium"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which metal is the major component of solder in traditional lead-tin solder?",
+      "options": [
+        "Gold",
+        "Sodium",
+        "Tin",
+        "Magnesium"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which non-metal is a poor conductor in most common forms, unlike graphite?",
+      "options": [
+        "Graphite",
+        "Sulphur",
+        "Copper",
+        "Iron"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal is commonly used for electrical contacts in precision devices?",
+      "options": [
+        "Gold",
+        "Sodium",
+        "Magnesium",
+        "Calcium"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which metal is used in thermocouples and high-temperature equipment?",
+      "options": [
+        "Sodium",
+        "Platinum",
+        "Calcium",
+        "Lead"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which non-metal is used in making black gunpowder along with other materials?",
+      "options": [
+        "Helium",
+        "Sulphur",
+        "Neon",
+        "Oxygen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which metal is the main metal in the alloy called steel?",
+      "options": [
+        "Aluminium",
+        "Zinc",
+        "Copper",
+        "Iron"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which metal reacts readily with cold water and is stored under oil?",
+      "options": [
+        "Copper",
+        "Silver",
+        "Gold",
+        "Sodium"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which metal is used as a coating to prevent steel corrosion in galvanising?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Gold",
+        "Mercury"
+      ],
+      "answer": 1
     }
   ]
 };

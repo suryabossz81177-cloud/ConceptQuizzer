@@ -2,812 +2,812 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-changes-around-us-physical-and-chemical"] = {
   "easy": [
     {
-      "question": "In the context of iron developing rust, which idea is most directly relevant to freezing?",
+      "question": "Melting ice is which type of change?",
       "options": [
-        "Changes form or state without necessarily making a new substance",
-        "Is evidence to investigate but is not always conclusive alone",
-        "May be reversible under suitable conditions",
-        "Involves formation of one or more new substances"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of ice melting in a bowl, which idea is most directly relevant to gas formation?",
-      "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Involves formation of one or more new substances"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of a substance producing bubbles after mixing, which idea is most directly relevant to physical change?",
-      "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Involves formation of one or more new substances",
-        "Should be classified using evidence, not appearance alone",
-        "Changes form or state without necessarily making a new substance"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "In the context of iron developing rust, which idea is most directly relevant to rusting?",
-      "options": [
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Changes form or state without necessarily making a new substance",
-        "Can involve gradual breakdown by environmental action",
-        "Should be classified using evidence, not appearance alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of ice melting in a bowl, which idea is most directly relevant to freezing?",
-      "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "Can involve gradual breakdown by environmental action",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "In the context of a substance producing bubbles after mixing, which idea is most directly relevant to gas formation?",
-      "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Should be classified using evidence, not appearance alone",
-        "Can be slowed by reducing exposure to moisture",
-        "Needs fuel, oxygen, and sufficient heat to continue"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "In the context of iron developing rust, which idea is most directly relevant to physical change?",
-      "options": [
-        "Should be classified using evidence, not appearance alone",
-        "May be reversible under suitable conditions",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can be slowed by reducing exposure to moisture"
+        "Nuclear",
+        "Physical",
+        "Chemical",
+        "Biological"
       ],
       "answer": 1
     },
     {
-      "question": "In the context of ice melting in a bowl, which idea is most directly relevant to rusting?",
+      "question": "Rusting iron is which type of change?",
       "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Can be slowed by reducing exposure to moisture",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "May be reversible under suitable conditions"
+        "Temporary",
+        "Chemical",
+        "Physical",
+        "Reversible"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "In the context of a substance producing bubbles after mixing, which idea is most directly relevant to freezing?",
+      "question": "Burning paper is which type of change?",
       "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Can be slowed by reducing exposure to moisture",
-        "May be reversible under suitable conditions",
-        "Involves formation of one or more new substances"
+        "Reversible",
+        "Physical",
+        "Mechanical",
+        "Chemical"
       ],
       "answer": 3
     },
     {
-      "question": "In the context of iron developing rust, which idea is most directly relevant to gas formation?",
+      "question": "Freezing water is which type of change?",
       "options": [
-        "Involves formation of one or more new substances",
-        "Changes form or state without necessarily making a new substance",
-        "May be reversible under suitable conditions",
-        "Is evidence to investigate but is not always conclusive alone"
+        "Permanent",
+        "Chemical",
+        "Physical",
+        "Biological"
       ],
-      "answer": 1
+      "answer": 2
+    },
+    {
+      "question": "Which change forms a new substance?",
+      "options": [
+        "Physical",
+        "Size",
+        "Chemical",
+        "Shape"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change is usually reversible: melting wax or burning wax?",
+      "options": [
+        "Cooking",
+        "Burning",
+        "Rusting",
+        "Melting"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which gas is needed for iron rusting?",
+      "options": [
+        "Oxygen",
+        "Neon",
+        "Argon",
+        "Helium"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which coating forms on rusted iron?",
+      "options": [
+        "Rust",
+        "Wax",
+        "Soot",
+        "Salt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dissolving sugar in water is usually which change?",
+      "options": [
+        "Biological",
+        "Nuclear",
+        "Chemical",
+        "Physical"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Cooking an egg is which type of change?",
+      "options": [
+        "Reversible",
+        "Mechanical",
+        "Physical",
+        "Chemical"
+      ],
+      "answer": 3
     }
   ],
   "medium": [
     {
-      "question": "A learner investigates sugar dissolving in water and records the result. Which conclusion about gas formation is best supported?",
+      "question": "Which change can usually be reversed by cooling?",
       "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action",
-        "Needs fuel, oxygen, and sufficient heat to continue"
+        "Rusting",
+        "Cooking",
+        "Condensation",
+        "Burning"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
-      "question": "A learner investigates paper being cut into pieces and records the result. Which conclusion about physical change is best supported?",
+      "question": "Which change produces carbon dioxide from burning charcoal?",
       "options": [
-        "Should be classified using evidence, not appearance alone",
-        "May be reversible under suitable conditions",
-        "Can be slowed by reducing exposure to moisture",
-        "Needs fuel, oxygen, and sufficient heat to continue"
+        "Reversible",
+        "Chemical",
+        "Physical",
+        "Temporary"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates water freezing in a tray and records the result. Which conclusion about rusting is best supported?",
+      "question": "Which process turns liquid water into vapour?",
       "options": [
-        "May be reversible under suitable conditions",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can be slowed by reducing exposure to moisture",
-        "Is evidence to investigate but is not always conclusive alone"
+        "Freezing",
+        "Condensation",
+        "Evaporation",
+        "Melting"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which process changes water vapour into liquid?",
+      "options": [
+        "Sublimation",
+        "Condensation",
+        "Melting",
+        "Rusting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which change forms curd from milk?",
+      "options": [
+        "Mechanical",
+        "Physical",
+        "Chemical",
+        "Reversible"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change involves only a change of state?",
+      "options": [
+        "Rusting",
+        "Digestion",
+        "Burning",
+        "Melting"
       ],
       "answer": 3
     },
     {
-      "question": "A learner investigates sugar dissolving in water and records the result. Which conclusion about freezing is best supported?",
+      "question": "Which substance forms on iron exposed to moist air?",
       "options": [
-        "May be reversible under suitable conditions",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Involves formation of one or more new substances",
-        "Can be slowed by reducing exposure to moisture"
+        "Sugar",
+        "Wax",
+        "Chalk",
+        "Rust"
       ],
-      "answer": 2
+      "answer": 3
     },
     {
-      "question": "A learner investigates paper being cut into pieces and records the result. Which conclusion about gas formation is best supported?",
+      "question": "Which change occurs when a candle wax melts?",
       "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Changes form or state without necessarily making a new substance",
-        "Involves formation of one or more new substances",
-        "May be reversible under suitable conditions"
+        "Biological",
+        "Physical",
+        "Nuclear",
+        "Chemical"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates water freezing in a tray and records the result. Which conclusion about physical change is best supported?",
+      "question": "Which change occurs when a candle wick burns?",
       "options": [
-        "Changes form or state without necessarily making a new substance",
-        "May be reversible under suitable conditions",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Involves formation of one or more new substances"
+        "Chemical",
+        "Mechanical",
+        "Physical",
+        "Reversible"
       ],
       "answer": 0
     },
     {
-      "question": "A learner investigates sugar dissolving in water and records the result. Which conclusion about rusting is best supported?",
+      "question": "Which process forms crystals from a solution?",
       "options": [
-        "Involves formation of one or more new substances",
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance",
-        "Is evidence to investigate but is not always conclusive alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates paper being cut into pieces and records the result. Which conclusion about freezing is best supported?",
-      "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance",
-        "Should be classified using evidence, not appearance alone",
-        "Involves formation of one or more new substances"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates water freezing in a tray and records the result. Which conclusion about gas formation is best supported?",
-      "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates sugar dissolving in water and records the result. Which conclusion about physical change is best supported?",
-      "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action"
+        "Crystallisation",
+        "Rusting",
+        "Combustion",
+        "Digestion"
       ],
       "answer": 0
     }
   ],
   "hard": [
     {
-      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of physical change is scientifically strongest?",
+      "question": "Which type of change is usually accompanied by a new substance?",
       "options": [
-        "Involves formation of one or more new substances",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Changes form or state without necessarily making a new substance",
-        "May be reversible under suitable conditions"
+        "Physical",
+        "State",
+        "Chemical",
+        "Shape"
       ],
       "answer": 2
     },
     {
-      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of rusting is scientifically strongest?",
+      "question": "Which process causes iron objects to corrode?",
       "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Involves formation of one or more new substances"
+        "Melting",
+        "Filtering",
+        "Freezing",
+        "Rusting"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of freezing is scientifically strongest?",
+      "question": "Which condition helps iron rust faster?",
       "options": [
-        "Changes form or state without necessarily making a new substance",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action",
-        "Involves formation of one or more new substances"
+        "Vacuum",
+        "Moisture",
+        "Dryness",
+        "Darkness"
       ],
       "answer": 1
     },
     {
-      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of gas formation is scientifically strongest?",
+      "question": "Which gas combines with iron during rusting?",
       "options": [
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Changes form or state without necessarily making a new substance",
-        "Can involve gradual breakdown by environmental action",
-        "Should be classified using evidence, not appearance alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of physical change is scientifically strongest?",
-      "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Should be classified using evidence, not appearance alone",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can be slowed by reducing exposure to moisture"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of rusting is scientifically strongest?",
-      "options": [
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action",
-        "Can be slowed by reducing exposure to moisture"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of freezing is scientifically strongest?",
-      "options": [
-        "Should be classified using evidence, not appearance alone",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can be slowed by reducing exposure to moisture",
-        "May be reversible under suitable conditions"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of gas formation is scientifically strongest?",
-      "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "May be reversible under suitable conditions",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Is evidence to investigate but is not always conclusive alone"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of physical change is scientifically strongest?",
-      "options": [
-        "May be reversible under suitable conditions",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Can be slowed by reducing exposure to moisture",
-        "Involves formation of one or more new substances"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of rusting is scientifically strongest?",
-      "options": [
-        "Involves formation of one or more new substances",
-        "May be reversible under suitable conditions",
-        "Changes form or state without necessarily making a new substance",
-        "Is evidence to investigate but is not always conclusive alone"
+        "Nitrogen",
+        "Helium",
+        "Oxygen",
+        "Hydrogen"
       ],
       "answer": 2
     },
     {
-      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of freezing is scientifically strongest?",
+      "question": "Which change is not a chemical change: tearing paper or burning paper?",
       "options": [
-        "Involves formation of one or more new substances",
-        "Changes form or state without necessarily making a new substance",
-        "May be reversible under suitable conditions",
-        "Is evidence to investigate but is not always conclusive alone"
+        "Burning",
+        "Tearing",
+        "Rusting",
+        "Cooking"
       ],
       "answer": 1
     },
     {
-      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of gas formation is scientifically strongest?",
+      "question": "Which method obtains pure crystals from a solution?",
       "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Changes form or state without necessarily making a new substance",
-        "Involves formation of one or more new substances",
-        "Can involve gradual breakdown by environmental action"
+        "Filtration",
+        "Rusting",
+        "Combustion",
+        "Crystallisation"
       ],
       "answer": 3
     },
     {
-      "question": "During a class investigation of a substance producing bubbles after mixing, a result is observed. Which interpretation of physical change is scientifically strongest?",
+      "question": "Which process makes dough rise using yeast?",
       "options": [
-        "Should be classified using evidence, not appearance alone",
-        "Involves formation of one or more new substances",
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During a class investigation of iron developing rust, a result is observed. Which interpretation of rusting is scientifically strongest?",
-      "options": [
-        "Changes form or state without necessarily making a new substance",
-        "Can involve gradual breakdown by environmental action",
-        "Should be classified using evidence, not appearance alone",
-        "Needs fuel, oxygen, and sufficient heat to continue"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "During a class investigation of ice melting in a bowl, a result is observed. Which interpretation of freezing is scientifically strongest?",
-      "options": [
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can involve gradual breakdown by environmental action",
-        "Can be slowed by reducing exposure to moisture",
-        "Should be classified using evidence, not appearance alone"
-      ],
-      "answer": 2
-    }
-  ],
-  "extreme": [
-    {
-      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of freezing best respects the limits of the evidence?",
-      "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Involves formation of one or more new substances",
-        "Changes form or state without necessarily making a new substance",
-        "May be reversible under suitable conditions"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of gas formation best respects the limits of the evidence?",
-      "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Involves formation of one or more new substances",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Changes form or state without necessarily making a new substance"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of physical change best respects the limits of the evidence?",
-      "options": [
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action",
-        "Involves formation of one or more new substances",
-        "Changes form or state without necessarily making a new substance"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of rusting best respects the limits of the evidence?",
-      "options": [
-        "Should be classified using evidence, not appearance alone",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance"
+        "Freezing",
+        "Fermentation",
+        "Condensation",
+        "Melting"
       ],
       "answer": 1
     },
     {
-      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of freezing best respects the limits of the evidence?",
+      "question": "Which change occurs when silver tarnishes?",
       "options": [
-        "Should be classified using evidence, not appearance alone",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can involve gradual breakdown by environmental action",
-        "Can be slowed by reducing exposure to moisture"
+        "Reversible",
+        "Mechanical",
+        "Physical",
+        "Chemical"
       ],
       "answer": 3
     },
     {
-      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of gas formation best respects the limits of the evidence?",
+      "question": "Which change occurs when salt dissolves in water?",
       "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can be slowed by reducing exposure to moisture",
-        "Should be classified using evidence, not appearance alone"
+        "Nuclear",
+        "Chemical",
+        "Physical",
+        "Biological"
       ],
       "answer": 2
     },
     {
-      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of physical change best respects the limits of the evidence?",
+      "question": "Which change produces ash from wood?",
       "options": [
-        "Should be classified using evidence, not appearance alone",
-        "May be reversible under suitable conditions",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can be slowed by reducing exposure to moisture"
+        "Freezing",
+        "Combustion",
+        "Condensation",
+        "Melting"
       ],
       "answer": 1
     },
     {
-      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of rusting best respects the limits of the evidence?",
+      "question": "Which change occurs when a metal is hammered into a sheet?",
       "options": [
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Can be slowed by reducing exposure to moisture",
-        "May be reversible under suitable conditions"
+        "Nuclear",
+        "Chemical",
+        "Biological",
+        "Physical"
       ],
-      "answer": 1
+      "answer": 3
     },
     {
-      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of freezing best respects the limits of the evidence?",
+      "question": "Which change occurs when food is digested?",
       "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Involves formation of one or more new substances",
-        "May be reversible under suitable conditions"
+        "Physical",
+        "Reversible",
+        "Chemical",
+        "Mechanical"
       ],
       "answer": 2
     },
     {
-      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of gas formation best respects the limits of the evidence?",
+      "question": "Which change is involved in photosynthesis?",
       "options": [
-        "Involves formation of one or more new substances",
-        "Changes form or state without necessarily making a new substance",
-        "Is evidence to investigate but is not always conclusive alone",
-        "May be reversible under suitable conditions"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of physical change best respects the limits of the evidence?",
-      "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "May be reversible under suitable conditions",
-        "Changes form or state without necessarily making a new substance",
-        "Involves formation of one or more new substances"
+        "Physical",
+        "Reversible",
+        "Chemical",
+        "Mechanical"
       ],
       "answer": 2
     },
     {
-      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of rusting best respects the limits of the evidence?",
+      "question": "Which process changes a solid directly into gas?",
       "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Involves formation of one or more new substances",
-        "Changes form or state without necessarily making a new substance",
-        "Can involve gradual breakdown by environmental action"
+        "Melting",
+        "Condensation",
+        "Freezing",
+        "Sublimation"
       ],
       "answer": 3
     },
     {
-      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of freezing best respects the limits of the evidence?",
+      "question": "Which process separates crystals from a saturated solution by cooling?",
       "options": [
-        "Involves formation of one or more new substances",
-        "Can involve gradual breakdown by environmental action",
-        "Should be classified using evidence, not appearance alone",
-        "Changes form or state without necessarily making a new substance"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of gas formation best respects the limits of the evidence?",
-      "options": [
-        "Changes form or state without necessarily making a new substance",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action",
-        "Needs fuel, oxygen, and sufficient heat to continue"
+        "Rusting",
+        "Combustion",
+        "Evaporation",
+        "Crystallisation"
       ],
       "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of physical change best respects the limits of the evidence?",
-      "options": [
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can involve gradual breakdown by environmental action",
-        "Should be classified using evidence, not appearance alone",
-        "Can be slowed by reducing exposure to moisture"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of rusting best respects the limits of the evidence?",
-      "options": [
-        "Should be classified using evidence, not appearance alone",
-        "Can be slowed by reducing exposure to moisture",
-        "Can involve gradual breakdown by environmental action",
-        "Needs fuel, oxygen, and sufficient heat to continue"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of freezing best respects the limits of the evidence?",
-      "options": [
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "May be reversible under suitable conditions",
-        "Can be slowed by reducing exposure to moisture",
-        "Should be classified using evidence, not appearance alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of gas formation best respects the limits of the evidence?",
-      "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "May be reversible under suitable conditions",
-        "Is evidence to investigate but is not always conclusive alone"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of physical change best respects the limits of the evidence?",
-      "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Can be slowed by reducing exposure to moisture",
-        "May be reversible under suitable conditions",
-        "Involves formation of one or more new substances"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of rusting best respects the limits of the evidence?",
-      "options": [
-        "Involves formation of one or more new substances",
-        "May be reversible under suitable conditions",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Changes form or state without necessarily making a new substance"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of freezing best respects the limits of the evidence?",
-      "options": [
-        "May be reversible under suitable conditions",
-        "Changes form or state without necessarily making a new substance",
-        "Involves formation of one or more new substances",
-        "Is evidence to investigate but is not always conclusive alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of gas formation best respects the limits of the evidence?",
-      "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Involves formation of one or more new substances",
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving a substance producing bubbles after mixing. Which evaluation of physical change best respects the limits of the evidence?",
-      "options": [
-        "Involves formation of one or more new substances",
-        "Changes form or state without necessarily making a new substance",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving iron developing rust. Which evaluation of rusting best respects the limits of the evidence?",
-      "options": [
-        "Changes form or state without necessarily making a new substance",
-        "Can involve gradual breakdown by environmental action",
-        "Should be classified using evidence, not appearance alone",
-        "Needs fuel, oxygen, and sufficient heat to continue"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report draws a broad claim from evidence involving ice melting in a bowl. Which evaluation of freezing best respects the limits of the evidence?",
-      "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action"
-      ],
-      "answer": 0
     }
   ],
   "tooHard": [
     {
-      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
+      "question": "Which condition is essential along with oxygen for ordinary iron rusting?",
       "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone",
-        "Can be slowed by reducing exposure to moisture"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
-      "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "May be reversible under suitable conditions",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
-      "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "May be reversible under suitable conditions",
-        "Can be slowed by reducing exposure to moisture",
-        "Needs fuel, oxygen, and sufficient heat to continue"
+        "Water",
+        "Helium",
+        "Oil",
+        "Sand"
       ],
       "answer": 0
     },
     {
-      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
+      "question": "Which change is represented by magnesium burning in air?",
       "options": [
-        "Involves formation of one or more new substances",
-        "Can be slowed by reducing exposure to moisture",
-        "Is evidence to investigate but is not always conclusive alone",
-        "May be reversible under suitable conditions"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
-      "options": [
-        "May be reversible under suitable conditions",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Involves formation of one or more new substances",
-        "Changes form or state without necessarily making a new substance"
+        "Physical",
+        "Mechanical",
+        "Reversible",
+        "Chemical"
       ],
       "answer": 3
     },
     {
-      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
+      "question": "Which substance appears as a reddish-brown layer on iron?",
       "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Changes form or state without necessarily making a new substance",
-        "Involves formation of one or more new substances",
-        "May be reversible under suitable conditions"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
-      "options": [
-        "Involves formation of one or more new substances",
-        "Changes form or state without necessarily making a new substance",
-        "Is evidence to investigate but is not always conclusive alone",
-        "Can involve gradual breakdown by environmental action"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
-      "options": [
-        "Involves formation of one or more new substances",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
-      "options": [
-        "Changes form or state without necessarily making a new substance",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action",
-        "Needs fuel, oxygen, and sufficient heat to continue"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
-      "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "Can involve gradual breakdown by environmental action",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
-      "options": [
-        "Should be classified using evidence, not appearance alone",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can be slowed by reducing exposure to moisture",
-        "Can involve gradual breakdown by environmental action"
+        "Copper",
+        "Carbon",
+        "Rust",
+        "Sulphur"
       ],
       "answer": 2
     },
     {
-      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
+      "question": "Which process can recover salt from seawater?",
       "options": [
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone",
-        "Can be slowed by reducing exposure to moisture",
-        "May be reversible under suitable conditions"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
-      "options": [
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Can be slowed by reducing exposure to moisture",
-        "Is evidence to investigate but is not always conclusive alone",
-        "May be reversible under suitable conditions"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
-      "options": [
-        "Involves formation of one or more new substances",
-        "Is evidence to investigate but is not always conclusive alone",
-        "May be reversible under suitable conditions",
-        "Can be slowed by reducing exposure to moisture"
+        "Evaporation",
+        "Combustion",
+        "Freezing",
+        "Rusting"
       ],
       "answer": 0
     },
     {
-      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
+      "question": "Which process can obtain copper sulphate crystals from solution?",
       "options": [
-        "Changes form or state without necessarily making a new substance",
-        "Is evidence to investigate but is not always conclusive alone",
-        "May be reversible under suitable conditions",
-        "Involves formation of one or more new substances"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
-      "options": [
-        "Is evidence to investigate but is not always conclusive alone",
-        "Changes form or state without necessarily making a new substance",
-        "Involves formation of one or more new substances",
-        "May be reversible under suitable conditions"
+        "Digestion",
+        "Crystallisation",
+        "Combustion",
+        "Rusting"
       ],
       "answer": 1
     },
     {
-      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about rusting is most defensible?",
+      "question": "Which change occurs when milk turns sour?",
       "options": [
-        "Changes form or state without necessarily making a new substance",
-        "Involves formation of one or more new substances",
-        "Can involve gradual breakdown by environmental action",
-        "Is evidence to investigate but is not always conclusive alone"
+        "Mechanical",
+        "Reversible",
+        "Physical",
+        "Chemical"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which change is involved in the formation of curd?",
+      "options": [
+        "Physical",
+        "Reversible",
+        "Chemical",
+        "Temporary"
       ],
       "answer": 2
     },
     {
-      "question": "A group compares results from paper being cut into pieces, but one condition is not perfectly controlled. Which judgement about freezing is most defensible?",
+      "question": "Which change does not create a new substance: crushing chalk or burning chalk?",
       "options": [
-        "Can involve gradual breakdown by environmental action",
-        "Changes form or state without necessarily making a new substance",
-        "Involves formation of one or more new substances",
-        "Should be classified using evidence, not appearance alone"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from water freezing in a tray, but one condition is not perfectly controlled. Which judgement about gas formation is most defensible?",
-      "options": [
-        "Changes form or state without necessarily making a new substance",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action",
-        "Needs fuel, oxygen, and sufficient heat to continue"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group compares results from sugar dissolving in water, but one condition is not perfectly controlled. Which judgement about physical change is most defensible?",
-      "options": [
-        "Can be slowed by reducing exposure to moisture",
-        "Needs fuel, oxygen, and sufficient heat to continue",
-        "Should be classified using evidence, not appearance alone",
-        "Can involve gradual breakdown by environmental action"
+        "Crushing",
+        "Burning",
+        "Cooking",
+        "Rusting"
       ],
       "answer": 0
+    },
+    {
+      "question": "Which process makes iron rust faster in salty water?",
+      "options": [
+        "Corrosion",
+        "Freezing",
+        "Condensation",
+        "Sublimation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which change occurs when a matchstick is struck and ignites?",
+      "options": [
+        "Reversible",
+        "Physical",
+        "Mechanical",
+        "Chemical"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which process forms a new substance from reactants?",
+      "options": [
+        "Cutting",
+        "Melting",
+        "Reaction",
+        "Filtering"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which process is used to prevent rust by coating iron with zinc?",
+      "options": [
+        "Crystallisation",
+        "Distillation",
+        "Sublimation",
+        "Galvanising"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which change occurs when a paper sheet is folded?",
+      "options": [
+        "Chemical",
+        "Physical",
+        "Biological",
+        "Nuclear"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which change occurs when a banana ripens?",
+      "options": [
+        "Chemical",
+        "Reversible",
+        "Mechanical",
+        "Physical"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which change occurs when water freezes into ice?",
+      "options": [
+        "Physical",
+        "Biological",
+        "Chemical",
+        "Nuclear"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which change releases heat and light when fuel burns?",
+      "options": [
+        "Combustion",
+        "Condensation",
+        "Freezing",
+        "Melting"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of change is burning LPG?",
+      "options": [
+        "Mechanical",
+        "Reversible",
+        "Physical",
+        "Chemical"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which process forms a solid deposit from a solution?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Melting",
+        "Crystallisation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which change occurs when a fruit is cut into pieces?",
+      "options": [
+        "Physical",
+        "Chemical",
+        "Biological",
+        "Nuclear"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which change occurs when a cake bakes?",
+      "options": [
+        "Mechanical",
+        "Chemical",
+        "Reversible",
+        "Physical"
+      ],
+      "answer": 1
+    }
+  ],
+  "extreme": [
+    {
+      "question": "Which process is commonly used to obtain pure copper sulphate crystals?",
+      "options": [
+        "Rusting",
+        "Combustion",
+        "Filtration",
+        "Crystallisation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which two factors are needed for ordinary iron rusting?",
+      "options": [
+        "Heat and light",
+        "Air and water",
+        "Salt and oil",
+        "Sand and air"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which change is chemically different from melting wax?",
+      "options": [
+        "Cooling wax",
+        "Solidifying wax",
+        "Burning wax",
+        "Cutting wax"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change is an example of corrosion?",
+      "options": [
+        "Melting",
+        "Rusting",
+        "Cutting",
+        "Freezing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which protective process coats iron with zinc?",
+      "options": [
+        "Sublimation",
+        "Crystallisation",
+        "Condensation",
+        "Galvanising"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which change occurs when baking soda reacts with vinegar?",
+      "options": [
+        "Mechanical",
+        "Chemical",
+        "Reversible",
+        "Physical"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which gas is commonly released by vinegar reacting with baking soda?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which change converts liquid wax into solid wax?",
+      "options": [
+        "Solidification",
+        "Rusting",
+        "Combustion",
+        "Sublimation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which change occurs when water vapour forms frost directly?",
+      "options": [
+        "Melting",
+        "Combustion",
+        "Deposition",
+        "Evaporation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change is involved in the browning of cut apples?",
+      "options": [
+        "Oxidation",
+        "Filtration",
+        "Melting",
+        "Freezing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which change is involved in the burning of magnesium ribbon?",
+      "options": [
+        "Freezing",
+        "Oxidation",
+        "Condensation",
+        "Sublimation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which product forms when iron rusts?",
+      "options": [
+        "Calcium carbonate",
+        "Copper sulphate",
+        "Sodium chloride",
+        "Iron oxide"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which process can separate dissolved salt by removing water?",
+      "options": [
+        "Combustion",
+        "Rusting",
+        "Crystallisation",
+        "Evaporation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which change occurs when a candle burns and wax melts?",
+      "options": [
+        "Chemical only",
+        "Neither type",
+        "Both types",
+        "Physical only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change is involved in the formation of a precipitate?",
+      "options": [
+        "Physical",
+        "Mechanical",
+        "Chemical",
+        "Reversible"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change occurs when a metal is polished?",
+      "options": [
+        "Nuclear",
+        "Biological",
+        "Physical",
+        "Chemical"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change is caused by yeast converting sugar into alcohol?",
+      "options": [
+        "Condensation",
+        "Sublimation",
+        "Fermentation",
+        "Freezing"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which method slows rusting by keeping iron away from air and water?",
+      "options": [
+        "Heating",
+        "Painting",
+        "Crushing",
+        "Filtering"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which change is involved in the souring of food?",
+      "options": [
+        "Physical",
+        "Reversible",
+        "Chemical",
+        "Mechanical"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change is reversible in ordinary conditions: boiling water or cooking rice?",
+      "options": [
+        "Cooking rice",
+        "Burning paper",
+        "Boiling water",
+        "Rusting iron"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change forms a new substance when fuel reacts with oxygen?",
+      "options": [
+        "Combustion",
+        "Melting",
+        "Freezing",
+        "Condensation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which process turns a dissolved substance into solid crystals?",
+      "options": [
+        "Crystallisation",
+        "Combustion",
+        "Digestion",
+        "Rusting"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of change is the breaking of glass?",
+      "options": [
+        "Physical",
+        "Biological",
+        "Nuclear",
+        "Chemical"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which change occurs when fruit juice ferments?",
+      "options": [
+        "Mechanical",
+        "Chemical",
+        "Physical",
+        "Reversible"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which term describes damage to metals through reactions with surroundings?",
+      "options": [
+        "Filtration",
+        "Condensation",
+        "Sublimation",
+        "Corrosion"
+      ],
+      "answer": 3
     }
   ]
 };
