@@ -527,6 +527,21 @@ window.QuizRegistry.register(
     "7-history-the-age-of-reorganisation",
     "js/quizzes/class7/history/the-age-of-reorganisation.js"
 );
+
+   window.QuizRegistry.register(
+    "7-history-the-gupta-era-an-age-of-tireless-creativity",
+    "js/quizzes/class7/history/the-gupta-era-an-age-of-tireless-creativity.js"
+);
+
+window.QuizRegistry.register(
+    "7-history-how-the-land-becomes-sacred",
+    "js/quizzes/class7/history/how-the-land-becomes-sacred.js"
+);
+
+window.QuizRegistry.register(
+    "7-history-from-pilgrimage-to-trade-beyond-india",
+    "js/quizzes/class7/history/from-pilgrimage-to-trade-beyond-india.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
