@@ -534,8 +534,8 @@ window.QuizRegistry.register(
 );
 
 window.QuizRegistry.register(
-    "7-history-how-land-becomes-sacred",
-    "js/quizzes/class7/history/how-land-becomes-sacred.js"
+    "7-history-how-land-became-sacred",
+    "js/quizzes/class7/history/how-land-became-sacred.js"
 );
 
 window.QuizRegistry.register(
