@@ -2,812 +2,812 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-measurement-of-time-and-motion"] = {
   "easy": [
     {
-      "question": "A result about uniform motion differs from the prediction. What should the learner do?",
+      "question": "SI unit of time?",
       "options": [
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
+        "Hour",
+        "Second",
+        "Day",
+        "Minute"
       ],
       "answer": 1
     },
     {
-      "question": "A result about average speed differs from the prediction. What should the learner do?",
+      "question": "SI unit of speed?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result"
+        "Kilometre",
+        "Metre",
+        "Metre per second",
+        "Second"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "One complete to-and-fro swing is one?",
+      "options": [
+        "Reflection",
+        "Revolution",
+        "Oscillation",
+        "Rotation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Time for one oscillation is the?",
+      "options": [
+        "Time period",
+        "Distance",
+        "Frequency only",
+        "Speed"
       ],
       "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing average speed?",
+      "question": "Distance divided by time gives?",
       "options": [
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Recording units"
+        "Force",
+        "Density",
+        "Mass",
+        "Speed"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A device using a swinging bob is a?",
+      "options": [
+        "Ammeter",
+        "Pendulum",
+        "Thermometer",
+        "Barometer"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement about oscillations avoids overgeneralising?",
+      "question": "Motion with equal distances in equal times is?",
       "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which is a common reasoning error when discussing time period?",
-      "options": [
-        "Considering alternative explanations",
-        "Recording units",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement about time period avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A result about stopwatches differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates oscillations. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Ignore measurements that disagree"
+        "Rest",
+        "Uniform motion",
+        "Random motion",
+        "Circular shape"
       ],
       "answer": 1
     },
     {
-      "question": "What is the strongest follow-up investigation for measurement error?",
+      "question": "A graph of distance against time is a?",
       "options": [
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "An observation unrelated to the question"
+        "Pie chart",
+        "Distance-time graph",
+        "Circuit diagram",
+        "Bar graph only"
       ],
       "answer": 1
     },
     {
-      "question": "What is the strongest follow-up investigation for oscillations?",
+      "question": "A sundial uses the position of a?",
       "options": [
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable"
+        "Sound",
+        "Flame",
+        "Magnet",
+        "Shadow"
       ],
       "answer": 3
+    },
+    {
+      "question": "A clock using vibrating quartz uses a?",
+      "options": [
+        "Mercury column",
+        "Spring balance",
+        "Quartz crystal",
+        "Lens"
+      ],
+      "answer": 2
     }
   ],
   "medium": [
     {
-      "question": "Why might a scientific model of oscillations be useful?",
+      "question": "A car covers 120 km in 2 h. Average speed?",
       "options": [
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It includes every detail of reality"
+        "240 km/h",
+        "60 km/h",
+        "120 km/h",
+        "30 km/h"
       ],
       "answer": 1
     },
     {
-      "question": "A result about oscillations differs from the prediction. What should the learner do?",
+      "question": "A runner covers 400 m in 80 s. Speed?",
       "options": [
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction"
+        "4 m/s",
+        "10 m/s",
+        "5 m/s",
+        "8 m/s"
       ],
       "answer": 2
     },
     {
-      "question": "A diagram is used to explain distance-time graphs. What makes it scientifically useful?",
+      "question": "Distance travelled at 12 m/s for 5 s?",
       "options": [
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object"
+        "120 m",
+        "17 m",
+        "2.4 m",
+        "60 m"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Time for 150 m at 5 m/s?",
+      "options": [
+        "750 s",
+        "30 s",
+        "45 s",
+        "25 s"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which clock uses a falling sand stream?",
+      "options": [
+        "Sundial",
+        "Water thermometer",
+        "Pendulum scale",
+        "Hourglass"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which ancient device measured time using flowing water?",
+      "options": [
+        "Spring balance",
+        "Sundial",
+        "Water clock",
+        "Compass"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates distance-time graphs. Which practice makes the result more reliable?",
+      "question": "A horizontal distance-time graph indicates?",
       "options": [
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about average speed?",
-      "options": [
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains uniform motion?",
-      "options": [
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of uniform motion be useful?",
-      "options": [
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence"
+        "Increasing speed",
+        "Decreasing speed",
+        "Rest",
+        "Uniform speed"
       ],
       "answer": 2
     },
     {
-      "question": "Which report about average speed would be most useful to another student?",
+      "question": "A straight sloping distance-time line indicates?",
       "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A result with no method"
+        "Changing speed",
+        "Zero distance always",
+        "Rest",
+        "Constant speed"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which quantity has unit kilometre per hour?",
+      "options": [
+        "Time",
+        "Distance",
+        "Acceleration",
+        "Speed"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The SI unit of distance is?",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Kelvin",
+        "Second"
       ],
       "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about distance-time graphs. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing",
-        "A rumour from a friend"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Why might a scientific model of measurement error be useful?",
-      "options": [
-        "It is always perfect",
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence"
-      ],
-      "answer": 2
     }
   ],
   "hard": [
     {
-      "question": "A student wants to distinguish evidence from an assumption about time period. Which is evidence?",
+      "question": "A cyclist travels 18 km in 45 min. Average speed?",
       "options": [
-        "A rumour from a friend",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing"
+        "18 km/h",
+        "40 km/h",
+        "24 km/h",
+        "30 km/h"
       ],
       "answer": 2
     },
     {
-      "question": "Two explanations are offered for distance-time graphs. How should they be compared?",
+      "question": "A vehicle moves 300 m in 20 s. Speed?",
       "options": [
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for oscillations. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about average speed avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement best explains measurement error?",
-      "options": [
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about uniform motion would be most useful to another student?",
-      "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A result with no method",
-        "A conclusion without observations"
+        "15 m/s",
+        "30 m/s",
+        "20 m/s",
+        "10 m/s"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement best explains stopwatches?",
+      "question": "A pendulum makes 30 oscillations in 60 s. Period?",
       "options": [
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about stopwatches?",
-      "options": [
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "A confident statement without evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain oscillations. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about measurement error. Which is evidence?",
-      "options": [
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A guess made before testing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing uniform motion?",
-      "options": [
-        "Recording units",
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule"
+        "30 s",
+        "60 s",
+        "0.5 s",
+        "2 s"
       ],
       "answer": 3
     },
     {
-      "question": "What is the strongest follow-up investigation for time period?",
+      "question": "A runner moves at 8 m/s for 25 s. Distance?",
       "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes everything at once"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about uniform motion. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A guess made before testing"
+        "33 m",
+        "200 m",
+        "250 m",
+        "175 m"
       ],
       "answer": 1
     },
     {
-      "question": "What is the strongest follow-up investigation for stopwatches?",
+      "question": "A bus covers 90 km at 45 km/h. Travel time?",
       "options": [
-        "A test that changes everything at once",
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
+        "3 h",
+        "1 h",
+        "2 h",
+        "1.5 h"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing measurement error?",
+      "question": "A 2.4 km walk takes 30 min. Average speed?",
       "options": [
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule"
+        "2.4 km/h",
+        "6 km/h",
+        "3.2 km/h",
+        "4.8 km/h"
       ],
       "answer": 3
+    },
+    {
+      "question": "A pendulum's period is 1.5 s. Time for 20 oscillations?",
+      "options": [
+        "40 s",
+        "13.3 s",
+        "30 s",
+        "21.5 s"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A 100 m track is covered in 12.5 s. Speed?",
+      "options": [
+        "12.5 m/s",
+        "8 m/s",
+        "6 m/s",
+        "10 m/s"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A distance-time graph gets steeper. Speed is?",
+      "options": [
+        "Zero",
+        "Decreasing",
+        "Constant",
+        "Increasing"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Unequal distances in equal time intervals indicate?",
+      "options": [
+        "Rest",
+        "Periodic motion only",
+        "Non-uniform motion",
+        "Uniform motion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Equal distances in unequal time intervals indicate?",
+      "options": [
+        "Rest",
+        "No motion",
+        "Non-uniform motion",
+        "Uniform motion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A car travels 40 km in the first hour and 60 km in the next. Average speed over 2 h?",
+      "options": [
+        "40 km/h",
+        "50 km/h",
+        "60 km/h",
+        "100 km/h"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A toy moves 3 m in 2 s. Speed?",
+      "options": [
+        "0.67 m/s",
+        "6 m/s",
+        "1.5 m/s",
+        "5 m/s"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which timekeeper depends on Earth's changing shadow?",
+      "options": [
+        "Atomic clock",
+        "Quartz clock",
+        "Stopwatch",
+        "Sundial"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which clock offers extremely precise time using atomic transitions?",
+      "options": [
+        "Sundial",
+        "Candle clock",
+        "Atomic clock",
+        "Hourglass"
+      ],
+      "answer": 2
     }
   ],
   "tooHard": [
     {
-      "question": "Which evidence is most relevant when evaluating a claim about oscillations?",
+      "question": "A train covers 72 km in 1.5 h. Average speed?",
       "options": [
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A personal preference"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which report about distance-time graphs would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of average speed be useful?",
-      "options": [
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of time period be useful?",
-      "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It includes every detail of reality"
+        "54 km/h",
+        "48 km/h",
+        "108 km/h",
+        "36 km/h"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates stopwatches. Which practice makes the result more reliable?",
+      "question": "A vehicle covers 600 m in 40 s, then 400 m in 20 s. Average speed?",
       "options": [
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations"
+        "16.7 m/s",
+        "15 m/s",
+        "25 m/s",
+        "20 m/s"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A pendulum's period is 0.8 s. Oscillations in 24 s?",
+      "options": [
+        "32",
+        "24",
+        "30",
+        "20"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A cyclist travels 12 km at 4 m/s. Time in seconds?",
+      "options": [
+        "4800 s",
+        "2400 s",
+        "1200 s",
+        "3000 s"
       ],
       "answer": 3
     },
     {
-      "question": "A result about distance-time graphs differs from the prediction. What should the learner do?",
+      "question": "A runner covers 1.2 km in 4 min. Speed?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about average speed. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement about uniform motion avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "One test proves every possible case"
+        "6 m/s",
+        "5 m/s",
+        "3 m/s",
+        "4 m/s"
       ],
       "answer": 1
     },
     {
-      "question": "Two explanations are offered for time period. How should they be compared?",
+      "question": "A car travels 30 km in 30 min and 45 km in 1 h. Average speed?",
       "options": [
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates average speed. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once"
+        "45 km/h",
+        "60 km/h",
+        "50 km/h",
+        "75 km/h"
       ],
       "answer": 2
     },
     {
-      "question": "Which report about oscillations would be most useful to another student?",
+      "question": "A distance-time graph rises 90 m in 15 s. Speed?",
       "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "Only a final answer",
-        "A result with no method"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for uniform motion?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes everything at once"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement about stopwatches avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality"
+        "75 m/s",
+        "15 m/s",
+        "6 m/s",
+        "5 m/s"
       ],
       "answer": 2
     },
     {
-      "question": "A diagram is used to explain measurement error. What makes it scientifically useful?",
+      "question": "A pendulum makes 50 oscillations in 100 s. Period?",
       "options": [
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts"
+        "5 s",
+        "2 s",
+        "1 s",
+        "0.5 s"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A vehicle travels at 54 km/h. Equivalent speed?",
+      "options": [
+        "20 m/s",
+        "10 m/s",
+        "18 m/s",
+        "15 m/s"
       ],
       "answer": 3
     },
     {
-      "question": "Which report about time period would be most useful to another student?",
+      "question": "A speed of 20 m/s in km/h equals?",
       "options": [
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A result with no method"
+        "72 km/h",
+        "80 km/h",
+        "54 km/h",
+        "36 km/h"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "Which statement best explains distance-time graphs?",
+      "question": "A 500 m race takes 62.5 s. Average speed?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for average speed?",
-      "options": [
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains time period?",
-      "options": [
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion"
+        "7.5 m/s",
+        "10 m/s",
+        "8 m/s",
+        "6 m/s"
       ],
       "answer": 2
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about uniform motion?",
+      "question": "A person walks 2 km east then 2 km west in 1 h. Average speed?",
       "options": [
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "An unrelated measurement"
+        "0 km/h",
+        "2 km/h",
+        "1 km/h",
+        "4 km/h"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A distance-time graph is curved upward. Speed is generally?",
+      "options": [
+        "Zero",
+        "Increasing",
+        "Negative distance",
+        "Constant"
       ],
       "answer": 1
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about oscillations. Which is evidence?",
+      "question": "Which time device relies on a shadow cast by the Sun?",
       "options": [
-        "A preferred answer",
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method"
+        "Stopwatch",
+        "Sundial",
+        "Quartz clock",
+        "Atomic clock"
       ],
-      "answer": 3
+      "answer": 1
+    },
+    {
+      "question": "A body covers 180 m in 12 s. Distance in 5 s at same speed?",
+      "options": [
+        "72 m",
+        "90 m",
+        "75 m",
+        "60 m"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A car covers 150 km in 3 h. Time for 250 km at same speed?",
+      "options": [
+        "4.5 h",
+        "4 h",
+        "5 h",
+        "6 h"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A pendulum takes 40 s for 25 oscillations. Period?",
+      "options": [
+        "2.5 s",
+        "1.5 s",
+        "1.6 s",
+        "0.625 s"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A cyclist moves at 6 m/s for 3 min. Distance?",
+      "options": [
+        "180 m",
+        "360 m",
+        "1080 m",
+        "10800 m"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A speed of 90 km/h equals?",
+      "options": [
+        "20 m/s",
+        "25 m/s",
+        "30 m/s",
+        "32.4 m/s"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A vehicle covers 2 km in 100 s. Speed?",
+      "options": [
+        "20 m/s",
+        "200 m/s",
+        "2 m/s",
+        "10 m/s"
+      ],
+      "answer": 0
     }
   ],
   "extreme": [
     {
-      "question": "A diagram is used to explain average speed. What makes it scientifically useful?",
+      "question": "A car travels 60 km at 30 km/h and 60 km at 60 km/h. Average speed?",
       "options": [
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain uniform motion. What makes it scientifically useful?",
-      "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object"
+        "40 km/h",
+        "30 km/h",
+        "50 km/h",
+        "45 km/h"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement about distance-time graphs avoids overgeneralising?",
+      "question": "A body travels 120 m in 10 s and 180 m in 20 s. Average speed?",
       "options": [
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality"
+        "9 m/s",
+        "10 m/s",
+        "15 m/s",
+        "12 m/s"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement best explains oscillations?",
+      "question": "A pendulum completes 75 oscillations in 150 s. Period?",
       "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "An unrelated opinion"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement about measurement error avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates uniform motion. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Ignore measurements that disagree"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about measurement error differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which report about measurement error would be most useful to another student?",
-      "options": [
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method",
-        "Only a final answer"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates time period. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result"
+        "0.5 s",
+        "3 s",
+        "2 s",
+        "1.5 s"
       ],
       "answer": 2
     },
     {
-      "question": "Two explanations are offered for uniform motion. How should they be compared?",
+      "question": "A 1.8 km journey takes 6 min. Speed in m/s?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
+        "4.5 m/s",
+        "6 m/s",
+        "3 m/s",
+        "5 m/s"
       ],
       "answer": 3
     },
     {
-      "question": "A result about time period differs from the prediction. What should the learner do?",
+      "question": "A car's speed rises from 10 m/s to 20 m/s; in 5 s at the final speed, distance?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable"
+        "100 m",
+        "150 m",
+        "50 m",
+        "75 m"
       ],
       "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing distance-time graphs?",
+      "question": "A distance-time graph passes through (4 s, 20 m). Constant speed?",
       "options": [
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Recording units"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain time period. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for distance-time graphs?",
-      "options": [
-        "A test that changes everything at once",
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
+        "16 m/s",
+        "4 m/s",
+        "5 m/s",
+        "24 m/s"
       ],
       "answer": 2
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about measurement error?",
+      "question": "A train travels 150 km in 2 h 30 min. Average speed?",
       "options": [
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "A personal preference"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates measurement error. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about distance-time graphs?",
-      "options": [
-        "A personal preference",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement"
+        "65 km/h",
+        "75 km/h",
+        "60 km/h",
+        "50 km/h"
       ],
       "answer": 2
     },
     {
-      "question": "Which report about stopwatches would be most useful to another student?",
+      "question": "A pendulum has a period of 1.2 s. Time for 45 oscillations?",
       "options": [
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "Only a final answer"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for average speed. How should they be compared?",
-      "options": [
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for measurement error. How should they be compared?",
-      "options": [
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about time period?",
-      "options": [
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "A confident statement without evidence",
-        "An unrelated measurement"
+        "54 s",
+        "60 s",
+        "45 s",
+        "37.5 s"
       ],
       "answer": 0
     },
     {
-      "question": "Two explanations are offered for stopwatches. How should they be compared?",
+      "question": "A vehicle travels 20 m/s for 90 s. Distance in km?",
       "options": [
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains average speed?",
-      "options": [
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence"
+        "18 km",
+        "0.18 km",
+        "1.2 km",
+        "1.8 km"
       ],
       "answer": 3
     },
     {
-      "question": "Why might a scientific model of distance-time graphs be useful?",
+      "question": "A runner completes 400 m in 50 s. Time for 1 km at same speed?",
       "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It includes every detail of reality"
+        "150 s",
+        "125 s",
+        "120 s",
+        "100 s"
       ],
       "answer": 1
     },
     {
-      "question": "Which is a common reasoning error when discussing oscillations?",
+      "question": "A car travels 80 km in 2 h, then 60 km in 1 h. Overall average speed?",
       "options": [
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully"
+        "50 km/h",
+        "40 km/h",
+        "70 km/h",
+        "46.7 km/h"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A cyclist covers 3 km in 10 min. Speed in m/s?",
+      "options": [
+        "5 m/s",
+        "3 m/s",
+        "4 m/s",
+        "6 m/s"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A 2 s-period pendulum oscillates for 3 minutes. Number of oscillations?",
+      "options": [
+        "60",
+        "75",
+        "120",
+        "90"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A vehicle's distance-time line is horizontal from 5 s to 12 s. Distance covered in that interval?",
+      "options": [
+        "5 m",
+        "12 m",
+        "0 m",
+        "7 m"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A speed of 108 km/h equals?",
+      "options": [
+        "36 m/s",
+        "30 m/s",
+        "18 m/s",
+        "27 m/s"
       ],
       "answer": 1
+    },
+    {
+      "question": "A body covers 240 m at 12 m/s. Duration?",
+      "options": [
+        "28 s",
+        "20 s",
+        "12 s",
+        "24 s"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A bus covers 15 km in 20 min. Speed in km/h?",
+      "options": [
+        "40 km/h",
+        "45 km/h",
+        "60 km/h",
+        "30 km/h"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A pendulum completes 40 oscillations in 64 s. Period?",
+      "options": [
+        "0.625 s",
+        "2.5 s",
+        "1.6 s",
+        "1.4 s"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A car covers 90 km in 1.5 h and then 30 km in 0.5 h. Average speed?",
+      "options": [
+        "65 km/h",
+        "55 km/h",
+        "60 km/h",
+        "50 km/h"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A body moves 10 m each second for 8 s. Total distance?",
+      "options": [
+        "80 m",
+        "40 m",
+        "100 m",
+        "18 m"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A distance-time graph has a straight line through origin with slope 12 m/s. Distance after 7 s?",
+      "options": [
+        "19 m",
+        "96 m",
+        "72 m",
+        "84 m"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A vehicle covers 900 m in 45 s. Speed in km/h?",
+      "options": [
+        "45 km/h",
+        "72 km/h",
+        "20 km/h",
+        "90 km/h"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A 1.5 s-period pendulum completes 120 oscillations. Total time?",
+      "options": [
+        "240 s",
+        "180 s",
+        "120 s",
+        "80 s"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A train travels 240 km in 4 h. Distance at same speed in 7 h?",
+      "options": [
+        "360 km",
+        "420 km",
+        "480 km",
+        "400 km"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A runner covers 100 m in 12.5 s. Speed?",
+      "options": [
+        "8 m/s",
+        "6 m/s",
+        "7 m/s",
+        "10 m/s"
+      ],
+      "answer": 0
     }
   ]
 };

@@ -2,810 +2,810 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-heat-transfer-in-nature"] = {
   "easy": [
     {
-      "question": "Which statement best explains radiation?",
+      "question": "Heat transfer through direct contact is called?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about vacuum flasks differs from the prediction. What should the learner do?",
-      "options": [
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates shiny surfaces. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result",
-        "Change every condition at once",
-        "Ignore measurements that disagree"
+        "Conduction",
+        "Convection",
+        "Reflection",
+        "Radiation"
       ],
       "answer": 0
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about dark surfaces?",
+      "question": "Heat transfer by moving fluid is called?",
       "options": [
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "A personal preference"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about convection. Which is evidence?",
-      "options": [
-        "A rumour from a friend",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain dark surfaces. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement about conduction avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which report about convection would be most useful to another student?",
-      "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A result with no method",
-        "A conclusion without observations"
+        "Convection",
+        "Conduction",
+        "Radiation",
+        "Insulation"
       ],
       "answer": 0
     },
     {
-      "question": "Two explanations are offered for radiation. How should they be compared?",
+      "question": "Heat from the Sun reaches Earth mainly by?",
       "options": [
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation"
+        "Convection",
+        "Evaporation",
+        "Conduction",
+        "Radiation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which material is a good heat conductor?",
+      "options": [
+        "Plastic",
+        "Wood",
+        "Copper",
+        "Rubber"
       ],
       "answer": 2
     },
     {
-      "question": "A result about shiny surfaces differs from the prediction. What should the learner do?",
+      "question": "Which material is a heat insulator?",
       "options": [
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
+        "Copper",
+        "Wood",
+        "Iron",
+        "Aluminium"
       ],
       "answer": 1
+    },
+    {
+      "question": "Which direction does heat flow naturally?",
+      "options": [
+        "Hot to cold",
+        "Down to up only",
+        "Cold to hot",
+        "North to south"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A metal spoon in hot tea becomes hot mainly by?",
+      "options": [
+        "Radiation",
+        "Convection",
+        "Condensation",
+        "Conduction"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Warm air generally rises because it becomes?",
+      "options": [
+        "Solid",
+        "Magnetic",
+        "Less dense",
+        "More dense"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which breeze blows from sea to land during daytime?",
+      "options": [
+        "Sea breeze",
+        "Trade wind",
+        "Land breeze",
+        "Mountain breeze"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which surface absorbs more radiant heat?",
+      "options": [
+        "Mirror-like",
+        "Shiny white",
+        "Polished silver",
+        "Dull black"
+      ],
+      "answer": 3
     }
   ],
   "medium": [
     {
-      "question": "A learner investigates radiation. Which practice makes the result more reliable?",
+      "question": "Which heat-transfer mode needs no material medium?",
       "options": [
-        "Change every condition at once",
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about dark surfaces. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend"
+        "Convection",
+        "Conduction",
+        "Radiation",
+        "Diffusion"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates dark surfaces. Which practice makes the result more reliable?",
+      "question": "Heat transfer in a metal rod is mainly by?",
       "options": [
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the strongest follow-up investigation for dark surfaces?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about insulation. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains shiny surfaces?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
+        "Conduction",
+        "Radiation",
+        "Evaporation",
+        "Convection"
       ],
       "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing shiny surfaces?",
+      "question": "Convection currents form most readily in?",
       "options": [
-        "Recording units",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully"
+        "Fluids",
+        "Rigid metals only",
+        "Vacuum",
+        "Solids only"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "Which statement best explains conduction?",
+      "question": "Which is the best thermal conductor here?",
       "options": [
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which report about conduction would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
+        "Cotton",
+        "Air",
+        "Wood",
+        "Silver"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement best explains insulation?",
+      "question": "Air trapped in woollen clothing acts as a?",
       "options": [
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing"
+        "Insulator",
+        "Coolant",
+        "Radiator",
+        "Conductor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which breeze usually occurs at night from land to sea?",
+      "options": [
+        "Valley breeze",
+        "Sea breeze",
+        "Monsoon",
+        "Land breeze"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which surface is the poorest absorber of radiant heat?",
+      "options": [
+        "Dull black",
+        "Shiny white",
+        "Dark rough",
+        "Matte black"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Heat transfer through empty space is?",
+      "options": [
+        "Conduction and convection",
+        "Conduction",
+        "Convection",
+        "Radiation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which cooking-vessel part is often made of an insulator?",
+      "options": [
+        "Base",
+        "Metal body",
+        "Cooking surface",
+        "Handle"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A room heater warms nearby air mainly through?",
+      "options": [
+        "Conduction through vacuum",
+        "Magnetism",
+        "Convection",
+        "Reflection"
       ],
       "answer": 2
     }
   ],
   "hard": [
     {
-      "question": "A result about convection differs from the prediction. What should the learner do?",
+      "question": "In a heated water beaker, warmer water rises by?",
       "options": [
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction"
+        "Radiation",
+        "Convection",
+        "Conduction",
+        "Sublimation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which transfer mode dominates through a vacuum flask's vacuum gap?",
+      "options": [
+        "Evaporation",
+        "Convection",
+        "Radiation",
+        "Conduction"
       ],
       "answer": 2
     },
     {
-      "question": "What is the strongest follow-up investigation for conduction?",
+      "question": "Which change lowers heat absorption from sunlight?",
       "options": [
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable"
+        "Shiny surface",
+        "Dull black surface",
+        "Black coating",
+        "Dark rough surface"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "A diagram is used to explain insulation. What makes it scientifically useful?",
+      "question": "Which combination best reduces heat loss from a hot drink?",
       "options": [
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Unexplained symbols"
+        "Wide open metal cup",
+        "Insulated lid and cup",
+        "Bare metal cup",
+        "Thin copper cup"
       ],
       "answer": 1
     },
     {
-      "question": "A result about conduction differs from the prediction. What should the learner do?",
+      "question": "Which breeze is linked to land cooling faster after sunset?",
       "options": [
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result"
+        "Sea breeze",
+        "Day breeze",
+        "Sea-to-land breeze",
+        "Land breeze"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which material would be best for a saucepan base?",
+      "options": [
+        "Rubber",
+        "Foam",
+        "Copper",
+        "Wood"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about shiny surfaces. Which is evidence?",
+      "question": "Which material would be safest for a pan handle?",
       "options": [
-        "A rumour from a friend",
-        "A preferred answer",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method"
+        "Aluminium",
+        "Wood",
+        "Copper",
+        "Iron"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In a convection current, cooler fluid generally?",
+      "options": [
+        "Sinks",
+        "Stops transferring heat",
+        "Rises",
+        "Becomes vacuum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which transfer mode carries energy from a fire across a gap?",
+      "options": [
+        "Contact heating",
+        "Radiation",
+        "Conduction only",
+        "Convection only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which surface is a strong emitter of thermal radiation?",
+      "options": [
+        "Dull black",
+        "Shiny aluminium",
+        "Mirror finish",
+        "Polished silver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which object would warm fastest in sunlight?",
+      "options": [
+        "Shiny white object",
+        "Dull black object",
+        "Polished silver object",
+        "Reflective foil"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is the correct order from direct contact to fluid circulation to waves?",
+      "options": [
+        "Convection, radiation, conduction",
+        "Conduction, convection, radiation",
+        "Radiation, conduction, convection",
+        "Conduction, radiation, convection"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which fluid property supports convection?",
+      "options": [
+        "Ability to flow",
+        "Rigid structure",
+        "Fixed shape",
+        "No particle motion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A metal chair feels colder than a wooden chair at the same room temperature due to greater?",
+      "options": [
+        "Density only",
+        "Colour only",
+        "Mass only",
+        "Thermal conductivity"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement about shiny surfaces avoids overgeneralising?",
+      "question": "Which arrangement reduces heat flow through a wall?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
+        "Insulating layer",
+        "Thin copper plate",
+        "Metal sheet only",
+        "Wet cloth"
       ],
       "answer": 0
-    },
-    {
-      "question": "A learner investigates vacuum flasks. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Change every condition at once"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two explanations are offered for dark surfaces. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Choose the longer explanation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which report about dark surfaces would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of convection be useful?",
-      "options": [
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It removes the need for evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain conduction. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement about convection avoids overgeneralising?",
-      "options": [
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing conduction?",
-      "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Recording units"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Why might a scientific model of dark surfaces be useful?",
-      "options": [
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It is always perfect"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing radiation?",
-      "options": [
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Considering alternative explanations"
-      ],
-      "answer": 1
     }
   ],
   "tooHard": [
     {
-      "question": "A diagram is used to explain convection. What makes it scientifically useful?",
+      "question": "A metal rod is heated at one end; the far end warms mainly through?",
       "options": [
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Convection",
+        "Conduction",
+        "Radiation only",
+        "Evaporation"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
-      "question": "What is the strongest follow-up investigation for convection?",
+      "question": "A vacuum gap suppresses which two transfer modes most directly?",
       "options": [
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question"
+        "Radiation and reflection",
+        "Conduction and convection",
+        "Convection and reflection",
+        "Radiation and evaporation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which coating is best for a solar heat absorber?",
+      "options": [
+        "Shiny white",
+        "Polished silver",
+        "Dull black",
+        "Mirror finish"
       ],
       "answer": 2
     },
     {
-      "question": "Which report about insulation would be most useful to another student?",
+      "question": "Which coating is best for reducing radiant heat absorption?",
       "options": [
-        "Only a final answer",
-        "A result with no method",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates convection. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for radiation?",
-      "options": [
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates insulation. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about radiation. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend"
+        "Blackened metal",
+        "Dull black",
+        "Polished silver",
+        "Dark rough paint"
       ],
       "answer": 2
     },
     {
-      "question": "A diagram is used to explain shiny surfaces. What makes it scientifically useful?",
+      "question": "A sea breeze develops in daytime because land becomes?",
       "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Unexplained symbols"
+        "Denser than water",
+        "Warmer than sea",
+        "Same temperature always",
+        "Colder than sea"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A land breeze develops at night because land becomes?",
+      "options": [
+        "Warmer than sea",
+        "A heat source",
+        "Hotter than air always",
+        "Cooler than sea"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In a convection loop, heated fluid has lower density and tends to?",
+      "options": [
+        "Sink",
+        "Freeze",
+        "Rise",
+        "Become solid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which choice best limits heat loss by conduction from a mug?",
+      "options": [
+        "Copper sleeve",
+        "Aluminium sleeve",
+        "Foam sleeve",
+        "Iron sleeve"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which mode can transfer heat from a campfire to a person without contact?",
+      "options": [
+        "Conduction",
+        "Radiation",
+        "Freezing",
+        "Convection only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which part of a vacuum flask reduces convection?",
+      "options": [
+        "Wet outer wall",
+        "Sealed narrow neck",
+        "Metal spoon inside",
+        "Wide open top"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which surface is generally a poor emitter of thermal radiation?",
+      "options": [
+        "Matte black",
+        "Polished silver",
+        "Dull black",
+        "Dark rough surface"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which statement describes a thermal insulator?",
+      "options": [
+        "It reflects all sound",
+        "It generates heat",
+        "It transfers heat rapidly",
+        "It resists heat flow"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which transfer mode explains heating of the upper layers of water in a pan by circulating water?",
+      "options": [
+        "Radiation alone",
+        "Convection",
+        "Conduction alone",
+        "Sublimation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which material is most suitable between two metal walls for insulation?",
+      "options": [
+        "Copper foil",
+        "Air gap",
+        "Iron strip",
+        "Aluminium rod"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which surface loses heat by radiation most effectively?",
+      "options": [
+        "Silver mirror",
+        "Dull black",
+        "Shiny foil",
+        "Polished metal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A hot-air balloon rises mainly because heated air is?",
+      "options": [
+        "More dense",
+        "A better conductor",
+        "Converted to liquid",
+        "Less dense"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which natural process is powered by unequal heating of land and sea?",
+      "options": [
+        "Sea and land breezes",
+        "Earthquakes",
+        "Tides only",
+        "Lunar phases"
       ],
       "answer": 0
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about vacuum flasks?",
+      "question": "Which transfer mode requires particles to pass energy through collisions?",
       "options": [
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "A personal preference"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about radiation?",
-      "options": [
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "An unrelated measurement"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains dark surfaces?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "A claim that needs no evidence"
+        "Conduction",
+        "Radiation",
+        "Reflection",
+        "Refraction"
       ],
       "answer": 0
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about convection?",
+      "question": "Which arrangement blocks convection inside a container?",
       "options": [
-        "A confident statement without evidence",
-        "An unrelated measurement",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about conduction?",
-      "options": [
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "An unrelated measurement"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Why might a scientific model of radiation be useful?",
-      "options": [
-        "It is always perfect",
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement about dark surfaces avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "One test proves every possible case"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about conduction. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A result about dark surfaces differs from the prediction. What should the learner do?",
-      "options": [
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about insulation?",
-      "options": [
-        "An unrelated measurement",
-        "A personal preference",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for vacuum flasks. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Choose the first explanation heard"
+        "Still air trapped in layers",
+        "Open fluid circulation",
+        "A wide open chimney",
+        "A stirring rod"
       ],
       "answer": 0
     },
     {
-      "question": "Two explanations are offered for shiny surfaces. How should they be compared?",
+      "question": "Which surface is most suitable for a solar cooker interior?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence"
+        "Cotton surface",
+        "Wooden surface",
+        "Reflective surface",
+        "Dull black outside only"
       ],
-      "answer": 3
+      "answer": 2
     }
   ],
   "extreme": [
     {
-      "question": "A diagram is used to explain radiation. What makes it scientifically useful?",
+      "question": "A polished metal surface reduces heat exchange mainly by lowering?",
       "options": [
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "Unexplained symbols"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about radiation avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A result about radiation differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation"
+        "Thermal mass",
+        "Electrical resistance",
+        "Specific gravity",
+        "Emissivity"
       ],
       "answer": 3
     },
     {
-      "question": "A result about insulation differs from the prediction. What should the learner do?",
+      "question": "Which transfer mode remains possible across a perfect vacuum?",
       "options": [
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for insulation?",
-      "options": [
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for conduction. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for insulation. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for vacuum flasks?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for convection. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about vacuum flasks would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which report about shiny surfaces would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "A result with no method"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about shiny surfaces?",
-      "options": [
-        "A personal preference",
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of insulation be useful?",
-      "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It includes every detail of reality"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing insulation?",
-      "options": [
-        "Recording units",
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains vacuum flasks?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "A claim that needs no evidence"
+        "Radiation",
+        "Convection",
+        "Both conduction and convection",
+        "Conduction"
       ],
       "answer": 0
     },
     {
-      "question": "Why might a scientific model of shiny surfaces be useful?",
+      "question": "Which set correctly matches mode and mechanism?",
       "options": [
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It removes the need for evidence"
+        "Radiation—fluid circulation",
+        "Conduction—particle collisions",
+        "Conduction—bulk fluid motion",
+        "Convection—vacuum waves"
       ],
       "answer": 1
     },
     {
-      "question": "Which report about radiation would be most useful to another student?",
+      "question": "A fluid parcel warms at the bottom of a vessel. Its immediate buoyant tendency is to?",
       "options": [
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method",
-        "Only a final answer"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for shiny surfaces?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains convection?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence"
+        "Rise",
+        "Remain fixed",
+        "Sink",
+        "Turn into vapour instantly"
       ],
       "answer": 0
     },
     {
-      "question": "Why might a scientific model of conduction be useful?",
+      "question": "Which condition favours a strong daytime sea breeze?",
       "options": [
-        "It is always perfect",
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon"
+        "Land heats faster than sea",
+        "Sea heats faster than land",
+        "Land remains colder all day",
+        "No temperature difference"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which condition favours a night-time land breeze?",
+      "options": [
+        "Land stays hotter than sea",
+        "Sea cools faster every time",
+        "No pressure difference",
+        "Land cools faster than sea"
       ],
       "answer": 3
     },
     {
-      "question": "A learner investigates conduction. Which practice makes the result more reliable?",
+      "question": "Which surface has the lowest absorptivity among these choices?",
       "options": [
-        "Change every condition at once",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree"
+        "Polished silver",
+        "Dull black",
+        "Matte black",
+        "Dark rough metal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which combination best limits conduction, convection and radiation in a flask?",
+      "options": [
+        "Open neck, metal wall, black lining",
+        "Copper bridge, open neck, dark lining",
+        "Water gap, open lid, black lining",
+        "Vacuum, stopper, reflective lining"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which heat-transfer mode is most responsible for warmth felt from a distant radiant heater?",
+      "options": [
+        "Radiation",
+        "Convection only",
+        "Evaporation",
+        "Conduction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A thick woollen layer works largely by trapping?",
+      "options": [
+        "Liquid water",
+        "Still air",
+        "Vacuum throughout",
+        "Moving metal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which object is likely to cool fastest by radiation, all else equal?",
+      "options": [
+        "Bright reflective foil",
+        "Polished silver surface",
+        "Shiny white surface",
+        "Dull black surface"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which property makes copper suitable for a kettle base?",
+      "options": [
+        "High transparency",
+        "Low thermal conductivity",
+        "High thermal conductivity",
+        "Electrical insulation"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about vacuum flasks avoids overgeneralising?",
+      "question": "Which property makes wood suitable for a pan grip?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right"
+        "Low thermal conductivity",
+        "High reflectivity only",
+        "High density only",
+        "High thermal conductivity"
       ],
       "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing dark surfaces?",
+      "question": "Which mode transfers heat through a solid without bulk movement of the solid?",
       "options": [
-        "Checking evidence carefully",
-        "Recording units",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule"
+        "Convection",
+        "Evaporation",
+        "Radiation only",
+        "Conduction"
       ],
       "answer": 3
     },
     {
-      "question": "Which is a common reasoning error when discussing convection?",
+      "question": "Which mechanism produces rising and sinking currents in heated air?",
       "options": [
-        "Checking evidence carefully",
-        "Recording units",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule"
+        "Electric charge only",
+        "Surface tension only",
+        "Density differences",
+        "Magnetic poles"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which change most reduces radiant heat absorption by a tank?",
+      "options": [
+        "Polishing its surface",
+        "Painting it matte black",
+        "Adding black soot",
+        "Roughening it"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which mode carries solar energy through interplanetary space?",
+      "options": [
+        "Convection",
+        "Contact transfer",
+        "Radiation",
+        "Conduction"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which statement about convection is correct?",
+      "options": [
+        "It requires a vacuum",
+        "It occurs in fluids",
+        "It occurs only in rigid solids",
+        "It needs direct solid contact only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which feature of a thermos stopper limits air circulation?",
+      "options": [
+        "Wide opening",
+        "Metal stirrer",
+        "Open vent",
+        "Tight seal"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement about insulation avoids overgeneralising?",
+      "question": "Which thermal property is most relevant to a metal cooking base?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right"
+        "Conductivity",
+        "Elasticity",
+        "Magnetism",
+        "Opacity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which surface is a good thermal radiator but a poor reflector?",
+      "options": [
+        "Mirror surface",
+        "Dull black",
+        "Polished silver",
+        "Shiny aluminium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which process transports heat with the bulk movement of air?",
+      "options": [
+        "Reflection",
+        "Conduction",
+        "Radiation",
+        "Convection"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which arrangement most reduces conduction between a hot inner vessel and its case?",
+      "options": [
+        "Vacuum gap",
+        "Copper bridge",
+        "Aluminium strip",
+        "Iron rod"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which physical cause initiates a typical convection current?",
+      "options": [
+        "Complete solidification",
+        "No density difference",
+        "Uneven heating",
+        "Uniform temperature everywhere"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which combination is matched correctly?",
+      "options": [
+        "Radiation—electromagnetic waves",
+        "Conduction—bulk fluid flow",
+        "Convection—vacuum transfer",
+        "Insulation—rapid heat transfer"
       ],
       "answer": 0
     }

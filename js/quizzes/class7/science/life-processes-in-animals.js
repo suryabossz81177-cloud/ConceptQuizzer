@@ -2,810 +2,810 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-life-processes-in-animals"] = {
   "easy": [
     {
-      "question": "Two explanations are offered for respiration. How should they be compared?",
+      "question": "Taking food into the body is called?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
+        "Ingestion",
+        "Digestion",
+        "Egestion",
+        "Absorption"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing alveoli?",
+      "question": "Breaking complex food into simpler substances is?",
       "options": [
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains respiration?",
-      "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
+        "Respiration",
+        "Digestion",
+        "Ingestion",
+        "Circulation"
       ],
       "answer": 1
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about respiration. Which is evidence?",
+      "question": "Absorbed nutrients enter the?",
       "options": [
-        "A rumour from a friend",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
+        "Trachea",
+        "Blood",
+        "Bladder",
+        "Lungs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The main site of nutrient absorption is the?",
+      "options": [
+        "Oesophagus",
+        "Large intestine",
+        "Small intestine",
+        "Stomach"
       ],
       "answer": 2
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about excretion?",
+      "question": "The muscular tube carrying food to the stomach is?",
       "options": [
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "A personal preference",
-        "An unrelated measurement"
+        "Trachea",
+        "Oesophagus",
+        "Artery",
+        "Ureter"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which statement about excretion avoids overgeneralising?",
+      "question": "The organ that pumps blood is the?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about digestion. Which is evidence?",
-      "options": [
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A guess made before testing",
-        "A rumour from a friend"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two explanations are offered for excretion. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of absorption be useful?",
-      "options": [
-        "It removes the need for evidence",
-        "It is always perfect",
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon"
+        "Lung",
+        "Kidney",
+        "Liver",
+        "Heart"
       ],
       "answer": 3
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about excretion. Which is evidence?",
+      "question": "Gas taken in for aerobic respiration?",
       "options": [
-        "A guess made before testing",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend"
+        "Helium",
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Gas released during aerobic respiration?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The basic filtering organs of blood are?",
+      "options": [
+        "Lungs",
+        "Kidneys",
+        "Stomach",
+        "Heart"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Removal of undigested food is called?",
+      "options": [
+        "Ingestion",
+        "Excretion",
+        "Egestion",
+        "Absorption"
       ],
       "answer": 2
     }
   ],
   "medium": [
     {
-      "question": "Which statement best explains circulation?",
+      "question": "The enzyme in saliva begins digestion of?",
       "options": [
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion"
+        "Fat",
+        "Protein",
+        "Starch",
+        "Mineral salts"
       ],
       "answer": 2
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about villi?",
+      "question": "The acid present in the stomach is?",
       "options": [
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "An unrelated measurement",
-        "A confident statement without evidence"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which report about villi would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about circulation would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "A conclusion without observations",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which is a common reasoning error when discussing absorption?",
-      "options": [
-        "Recording units",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations"
+        "Nitric acid",
+        "Acetic acid",
+        "Hydrochloric acid",
+        "Sulphuric acid"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates digestion. Which practice makes the result more reliable?",
+      "question": "Bile is produced by the?",
       "options": [
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
+        "Stomach",
+        "Pancreas",
+        "Kidney",
+        "Liver"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Bile is stored in the?",
+      "options": [
+        "Appendix",
+        "Gall bladder",
+        "Oesophagus",
+        "Urinary bladder"
       ],
       "answer": 1
     },
     {
-      "question": "A diagram is used to explain absorption. What makes it scientifically useful?",
+      "question": "The tiny air sacs in lungs are?",
       "options": [
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone"
+        "Villi",
+        "Bronchioles",
+        "Alveoli",
+        "Nephrons"
       ],
       "answer": 2
     },
     {
-      "question": "A diagram is used to explain excretion. What makes it scientifically useful?",
+      "question": "The functional filtering unit of kidney is?",
       "options": [
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Neuron",
+        "Nephron",
+        "Alveolus",
+        "Villus"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
-      "question": "Which is a common reasoning error when discussing digestion?",
+      "question": "Blood vessels carrying blood away from the heart are?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Checking evidence carefully",
-        "Considering alternative explanations"
+        "Arteries",
+        "Lymph ducts",
+        "Veins",
+        "Capillaries"
       ],
       "answer": 0
     },
     {
-      "question": "Why might a scientific model of circulation be useful?",
+      "question": "Blood vessels returning blood to the heart are?",
       "options": [
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It removes the need for evidence"
+        "Capillaries",
+        "Bronchi",
+        "Veins",
+        "Arteries"
       ],
-      "answer": 1
+      "answer": 2
+    },
+    {
+      "question": "Finger-like projections in the small intestine are?",
+      "options": [
+        "Nephrons",
+        "Cilia",
+        "Villi",
+        "Alveoli"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The process releasing energy from food in cells is?",
+      "options": [
+        "Transpiration",
+        "Digestion",
+        "Egestion",
+        "Respiration"
+      ],
+      "answer": 3
     }
   ],
   "hard": [
     {
-      "question": "A learner investigates alveoli. Which practice makes the result more reliable?",
+      "question": "Which enzyme in saliva acts on starch?",
       "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Record only the expected result"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two explanations are offered for circulation. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard",
-        "Choose the longer explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains alveoli?",
-      "options": [
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about respiration?",
-      "options": [
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A personal preference"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about respiration would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A result with no method",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates respiration. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree"
+        "Pepsin",
+        "Trypsin",
+        "Amylase",
+        "Lipase"
       ],
       "answer": 2
     },
     {
-      "question": "A result about digestion differs from the prediction. What should the learner do?",
+      "question": "Which stomach enzyme digests proteins?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
+        "Pepsin",
+        "Maltase",
+        "Amylase",
+        "Lipase"
       ],
       "answer": 0
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about absorption. Which is evidence?",
+      "question": "Which organ produces pancreatic juice?",
       "options": [
-        "A rumour from a friend",
-        "A preferred answer",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about alveoli. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about alveoli?",
-      "options": [
-        "A confident statement without evidence",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is a common reasoning error when discussing circulation?",
-      "options": [
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully",
-        "Recording units"
+        "Gall bladder",
+        "Pancreas",
+        "Spleen",
+        "Liver"
       ],
       "answer": 1
     },
     {
-      "question": "Why might a scientific model of respiration be useful?",
+      "question": "Which nutrient is chiefly broken down by bile-assisted emulsification?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It includes every detail of reality",
-        "It removes the need for evidence"
+        "Fats",
+        "Starch",
+        "Proteins",
+        "Vitamins"
       ],
       "answer": 0
     },
     {
-      "question": "A diagram is used to explain digestion. What makes it scientifically useful?",
+      "question": "Which structure prevents food entering the windpipe?",
       "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object"
+        "Larynx",
+        "Epiglottis",
+        "Diaphragm",
+        "Uvula"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which muscle sheet helps breathing by changing chest volume?",
+      "options": [
+        "Diaphragm",
+        "Biceps",
+        "Tongue",
+        "Triceps"
       ],
       "answer": 0
     },
     {
-      "question": "What is the strongest follow-up investigation for excretion?",
+      "question": "Which blood cells transport most oxygen?",
       "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best"
+        "Plasma cells",
+        "White blood cells",
+        "Platelets",
+        "Red blood cells"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which blood component helps clotting?",
+      "options": [
+        "Plasma water",
+        "Neurons",
+        "Platelets",
+        "Red blood cells"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which blood cells defend against pathogens?",
+      "options": [
+        "Platelets",
+        "Villi",
+        "Red blood cells",
+        "White blood cells"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which organ removes urea from blood?",
+      "options": [
+        "Stomach",
+        "Kidneys",
+        "Lungs",
+        "Heart"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which tube carries urine from kidney to bladder?",
+      "options": [
+        "Ureter",
+        "Trachea",
+        "Urethra",
+        "Oesophagus"
       ],
       "answer": 0
     },
     {
-      "question": "A result about excretion differs from the prediction. What should the learner do?",
+      "question": "Which tube carries urine out of the body?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction"
+        "Bronchus",
+        "Ureter",
+        "Artery",
+        "Urethra"
       ],
-      "answer": 0
+      "answer": 3
+    },
+    {
+      "question": "Which respiratory movement draws air into the lungs?",
+      "options": [
+        "Egestion",
+        "Exhalation",
+        "Filtration",
+        "Inhalation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which process moves digested nutrients through intestinal walls?",
+      "options": [
+        "Ingestion",
+        "Chewing",
+        "Egestion",
+        "Absorption"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which structure increases absorption area in the intestine?",
+      "options": [
+        "Alveoli",
+        "Villi",
+        "Ribs",
+        "Nephrons"
+      ],
+      "answer": 1
     }
   ],
   "tooHard": [
     {
-      "question": "Which statement best explains digestion?",
+      "question": "Which part of the alimentary canal absorbs most digested nutrients?",
       "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for circulation?",
-      "options": [
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about respiration avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right"
+        "Large intestine",
+        "Stomach",
+        "Small intestine",
+        "Oesophagus"
       ],
       "answer": 2
     },
     {
-      "question": "Why might a scientific model of digestion be useful?",
+      "question": "Which secretion neutralises acidic food from the stomach in the small intestine?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It removes the need for evidence"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A diagram is used to explain respiration. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Saliva only",
+        "Sweat",
+        "Urine",
+        "Bile and pancreatic juice"
       ],
       "answer": 3
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about digestion?",
+      "question": "Which enzyme is associated with protein digestion in the stomach?",
       "options": [
-        "A confident statement without evidence",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement"
+        "Lactase",
+        "Pepsin",
+        "Amylase",
+        "Lipase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which gas diffuses from alveoli into blood?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Water vapour only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which gas diffuses from blood into alveoli for exhalation?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen"
       ],
       "answer": 2
     },
     {
-      "question": "Two explanations are offered for villi. How should they be compared?",
+      "question": "Which vessel type has walls one cell thick for exchange?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard"
+        "Arteries",
+        "Aorta",
+        "Veins",
+        "Capillaries"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which circulation route carries blood from heart to lungs and back?",
+      "options": [
+        "Renal filtration",
+        "Digestive circulation",
+        "Systemic circulation",
+        "Pulmonary circulation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which circulation route supplies the body tissues?",
+      "options": [
+        "Ventilation",
+        "Peristalsis",
+        "Systemic circulation",
+        "Pulmonary circulation"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing excretion?",
+      "question": "Which nitrogenous waste is commonly removed in human urine?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully",
-        "Considering alternative explanations",
-        "Recording units"
+        "Urea",
+        "Starch",
+        "Bile",
+        "Glycogen"
       ],
       "answer": 0
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about absorption?",
+      "question": "Which process moves food through the alimentary canal by wave-like contractions?",
       "options": [
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "An unrelated measurement"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains excretion?",
-      "options": [
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence"
+        "Diffusion",
+        "Transpiration",
+        "Filtration",
+        "Peristalsis"
       ],
       "answer": 3
     },
     {
-      "question": "Which report about digestion would be most useful to another student?",
+      "question": "Which organ stores urine before release?",
       "options": [
-        "Only a final answer",
-        "A conclusion without observations",
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains villi?",
-      "options": [
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for alveoli. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for villi?",
-      "options": [
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "An observation unrelated to the question"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about respiration differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement about digestion avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case"
+        "Kidney",
+        "Liver",
+        "Urinary bladder",
+        "Pancreas"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates absorption. Which practice makes the result more reliable?",
+      "question": "Which structure in the kidney filters blood to begin urine formation?",
       "options": [
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result",
-        "Ignore measurements that disagree"
+        "Alveolus",
+        "Villus",
+        "Nephron",
+        "Platelet"
       ],
-      "answer": 1
+      "answer": 2
     },
     {
-      "question": "Two explanations are offered for digestion. How should they be compared?",
+      "question": "Which blood component transports dissolved nutrients and wastes?",
       "options": [
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation"
+        "Plasma",
+        "Platelets",
+        "Red cells",
+        "Bone marrow"
       ],
       "answer": 0
     },
     {
-      "question": "A learner investigates circulation. Which practice makes the result more reliable?",
+      "question": "Which chamber receives oxygen-poor blood from the body?",
       "options": [
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Ignore measurements that disagree"
+        "Left ventricle",
+        "Left atrium",
+        "Right atrium",
+        "Aorta"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which chamber pumps oxygenated blood to the body?",
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Left atrium",
+        "Right ventricle"
       ],
       "answer": 1
     },
     {
-      "question": "What is the strongest follow-up investigation for alveoli?",
+      "question": "Which flap prevents backflow between the left ventricle and aorta?",
       "options": [
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable"
+        "Pulmonary valve",
+        "Aortic valve",
+        "Mitral valve",
+        "Tricuspid valve"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which term describes taking oxygen into the body and removing carbon dioxide?",
+      "options": [
+        "Digestion",
+        "Absorption",
+        "Breathing",
+        "Excretion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which life process includes removal of metabolic wastes?",
+      "options": [
+        "Egestion",
+        "Assimilation",
+        "Excretion",
+        "Ingestion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which nutrient is absorbed as fatty acids and glycerol after digestion?",
+      "options": [
+        "Mineral",
+        "Starch",
+        "Fat",
+        "Protein"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which organ secretes bile into the small intestine?",
+      "options": [
+        "Stomach",
+        "Pancreas",
+        "Gall bladder",
+        "Liver"
       ],
       "answer": 3
     }
   ],
   "extreme": [
     {
-      "question": "Which is a common reasoning error when discussing respiration?",
+      "question": "Which enzyme begins starch digestion in the mouth?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Recording units",
-        "Checking evidence carefully"
+        "Salivary amylase",
+        "Pepsin",
+        "Trypsin",
+        "Lipase"
       ],
       "answer": 0
     },
     {
-      "question": "A result about alveoli differs from the prediction. What should the learner do?",
+      "question": "Which stomach secretion provides an acidic medium for pepsin?",
       "options": [
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction"
+        "Hydrochloric acid",
+        "Saliva",
+        "Bile",
+        "Insulin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which organ produces bile salts?",
+      "options": [
+        "Liver",
+        "Gall bladder",
+        "Pancreas",
+        "Small intestine"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which organ releases pancreatic amylase and trypsin?",
+      "options": [
+        "Gall bladder",
+        "Pancreas",
+        "Spleen",
+        "Liver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which intestinal structures increase the absorptive surface area?",
+      "options": [
+        "Alveoli",
+        "Nephrons",
+        "Villi",
+        "Bronchi"
       ],
       "answer": 2
     },
     {
-      "question": "A result about circulation differs from the prediction. What should the learner do?",
+      "question": "Which process converts absorbed nutrients into usable cell material?",
       "options": [
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation"
+        "Ventilation",
+        "Egestion",
+        "Ingestion",
+        "Assimilation"
       ],
       "answer": 3
     },
     {
-      "question": "Which report about alveoli would be most useful to another student?",
+      "question": "Which blood vessel carries oxygenated blood from lungs to heart?",
       "options": [
-        "A result with no method",
-        "A conclusion without observations",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations"
+        "Pulmonary vein",
+        "Aorta",
+        "Vena cava",
+        "Pulmonary artery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which blood vessel carries oxygen-poor blood from heart to lungs?",
+      "options": [
+        "Aorta",
+        "Pulmonary artery",
+        "Pulmonary vein",
+        "Vena cava"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which chamber pumps oxygen-poor blood toward the lungs?",
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Left atrium"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which chamber receives oxygenated blood from pulmonary veins?",
+      "options": [
+        "Left ventricle",
+        "Left atrium",
+        "Right ventricle",
+        "Right atrium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which vessel carries oxygen-rich blood from the left ventricle to the body?",
+      "options": [
+        "Vena cava",
+        "Pulmonary artery",
+        "Aorta",
+        "Pulmonary vein"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which vessel returns most body blood to the right atrium?",
+      "options": [
+        "Pulmonary artery",
+        "Aorta",
+        "Vena cava",
+        "Pulmonary vein"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which respiratory surface has thin walls and a rich capillary supply?",
+      "options": [
+        "Nasal cavity",
+        "Larynx",
+        "Alveoli",
+        "Trachea"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which waste forms from protein metabolism and is removed by kidneys?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "Oxygen",
+        "Starch"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which part carries urine from the kidney to the bladder?",
+      "options": [
+        "Ureter",
+        "Aorta",
+        "Renal artery",
+        "Urethra"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which part carries urine from bladder to outside?",
+      "options": [
+        "Nephron",
+        "Ureter",
+        "Vena cava",
+        "Urethra"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement about alveoli avoids overgeneralising?",
+      "question": "Which kidney process moves useful substances back into blood?",
       "options": [
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right"
+        "Reabsorption",
+        "Ventilation",
+        "Ingestion",
+        "Peristalsis"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "Which report about absorption would be most useful to another student?",
+      "question": "Which blood component contains haemoglobin?",
       "options": [
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method"
+        "Platelets",
+        "Plasma",
+        "Red blood cells",
+        "White blood cells"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about circulation avoids overgeneralising?",
+      "question": "Which blood component is chiefly responsible for immune defence?",
       "options": [
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain circulation. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about excretion would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A conclusion without observations"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates excretion. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Record only the expected result",
-        "Ignore measurements that disagree"
+        "White blood cells",
+        "Platelets",
+        "Red blood cells",
+        "Plasma water"
       ],
       "answer": 0
     },
     {
-      "question": "What is the strongest follow-up investigation for respiration?",
+      "question": "Which process removes undigested residues through the anus?",
       "options": [
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once"
+        "Absorption",
+        "Assimilation",
+        "Egestion",
+        "Excretion"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about villi avoids overgeneralising?",
+      "question": "Which muscular movement pushes a food bolus along the oesophagus?",
       "options": [
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A result about absorption differs from the prediction. What should the learner do?",
-      "options": [
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction"
+        "Osmosis",
+        "Peristalsis",
+        "Filtration",
+        "Diffusion"
       ],
       "answer": 1
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about circulation?",
+      "question": "Which valve separates the left atrium from the left ventricle?",
       "options": [
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "A personal preference",
-        "An unrelated measurement"
+        "Mitral valve",
+        "Aortic valve",
+        "Pulmonary valve",
+        "Tricuspid valve"
       ],
       "answer": 0
     },
     {
-      "question": "A diagram is used to explain alveoli. What makes it scientifically useful?",
+      "question": "Which valve separates the right atrium from the right ventricle?",
       "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Unexplained symbols",
-        "Decorative detail alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement best explains absorption?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "A claim that needs no evidence"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for absorption?",
-      "options": [
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of excretion be useful?",
-      "options": [
-        "It is always perfect",
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for absorption. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard",
-        "Choose the longer explanation"
+        "Aortic valve",
+        "Tricuspid valve",
+        "Pulmonary valve",
+        "Mitral valve"
       ],
       "answer": 1
     },
     {
-      "question": "Why might a scientific model of alveoli be useful?",
+      "question": "Which process in the lungs exchanges oxygen and carbon dioxide?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It is always perfect",
-        "It includes every detail of reality"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about circulation. Which is evidence?",
-      "options": [
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A guess made before testing"
+        "Assimilation",
+        "Gas exchange",
+        "Digestion",
+        "Filtration"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates villi. Which practice makes the result more reliable?",
+      "question": "Which life process releases energy from nutrients inside cells?",
       "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Record only the expected result",
-        "Ignore measurements that disagree"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the strongest follow-up investigation for digestion?",
-      "options": [
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about villi differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement about absorption avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality"
+        "Absorption",
+        "Cellular respiration",
+        "Egestion",
+        "Circulation"
       ],
       "answer": 1
     }
