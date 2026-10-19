@@ -557,6 +557,26 @@ window.QuizRegistry.register(
     "climates-of-india",
     "js/quizzes/class7/geography/climates-of-india.js"
 );
+
+   window.QuizRegistry.register(
+    "7-civics-from-the-rulers-to-ruled-types-of-government",
+    "js/quizzes/class7/civics/from-the-rulers-to-ruled-types-of-government.js"
+);
+
+window.QuizRegistry.register(
+    "7-civics-the-constitution-of-india",
+    "js/quizzes/class7/civics/the-constitution-of-india.js"
+);
+
+window.QuizRegistry.register(
+    "7-civics-from-barter-to-money",
+    "js/quizzes/class7/civics/from-barter-to-money.js"
+);
+
+window.QuizRegistry.register(
+    "7-civics-understanding-markets",
+    "js/quizzes/class7/civics/understanding-markets.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
