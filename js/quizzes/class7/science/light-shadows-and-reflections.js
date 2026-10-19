@@ -2,810 +2,810 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-light-shadows-and-reflections"] = {
   "easy": [
     {
-      "question": "A student wants to distinguish evidence from an assumption about opaque objects. Which is evidence?",
+      "question": "A material allowing most light through clearly?",
       "options": [
-        "A rumour from a friend",
-        "A preferred answer",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A diagram is used to explain plane mirrors. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about lateral inversion. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A preferred answer"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about opaque objects differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which is a common reasoning error when discussing lateral inversion?",
-      "options": [
-        "Considering alternative explanations",
-        "Recording units",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates lateral inversion. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the strongest follow-up investigation for transparent materials?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "An observation unrelated to the question"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about opaque objects?",
-      "options": [
-        "A confident statement without evidence",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement"
+        "Opaque",
+        "Luminous",
+        "Transparent",
+        "Translucent"
       ],
       "answer": 2
     },
     {
-      "question": "What is the strongest follow-up investigation for diffuse reflection?",
+      "question": "A material allowing some light through diffusely?",
       "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best"
+        "Reflective",
+        "Opaque",
+        "Translucent",
+        "Transparent"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A material blocking light?",
+      "options": [
+        "Luminous",
+        "Opaque",
+        "Translucent",
+        "Transparent"
       ],
       "answer": 1
     },
     {
-      "question": "Two explanations are offered for opaque objects. How should they be compared?",
+      "question": "Bouncing back of light?",
       "options": [
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard"
+        "Refraction",
+        "Absorption",
+        "Dispersion",
+        "Reflection"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A surface producing a clear image?",
+      "options": [
+        "Rough wall",
+        "Paper sheet",
+        "Cloth",
+        "Plane mirror"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Dark region formed when light is blocked?",
+      "options": [
+        "Spectrum",
+        "Shadow",
+        "Beam",
+        "Image"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Object that produces its own light?",
+      "options": [
+        "Opaque",
+        "Transparent",
+        "Non-luminous",
+        "Luminous"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The angle between incident ray and normal?",
+      "options": [
+        "Angle of incidence",
+        "Right angle always",
+        "Deviation",
+        "Angle of reflection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The line perpendicular to a mirror at impact?",
+      "options": [
+        "Reflected ray",
+        "Normal",
+        "Incident ray",
+        "Shadow"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A pinhole camera forms an image that is?",
+      "options": [
+        "Always virtual",
+        "Always enlarged",
+        "Inverted",
+        "Always upright"
       ],
       "answer": 2
     }
   ],
   "medium": [
     {
-      "question": "Which is a common reasoning error when discussing regular reflection?",
+      "question": "Angle of incidence equals which angle?",
       "options": [
-        "Checking evidence carefully",
-        "Considering alternative explanations",
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A result about transparent materials differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which is a common reasoning error when discussing diffuse reflection?",
-      "options": [
-        "Recording units",
-        "Checking evidence carefully",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the strongest follow-up investigation for plane mirrors?",
-      "options": [
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "An observation unrelated to the question"
+        "Right angle",
+        "Angle of reflection",
+        "Angle of deviation",
+        "Angle of refraction"
       ],
       "answer": 1
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about lateral inversion?",
+      "question": "Image in a plane mirror is usually?",
       "options": [
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "A confident statement without evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains diffuse reflection?",
-      "options": [
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A result about regular reflection differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement best explains lateral inversion?",
-      "options": [
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the strongest follow-up investigation for lateral inversion?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best"
+        "Virtual",
+        "Real",
+        "Inverted vertically",
+        "Always diminished"
       ],
       "answer": 0
     },
     {
-      "question": "What is the strongest follow-up investigation for pinhole cameras?",
+      "question": "Distance of image behind a plane mirror equals?",
       "options": [
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable"
+        "Object distance",
+        "Twice object distance",
+        "Zero",
+        "Half object distance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A smooth surface gives which reflection?",
+      "options": [
+        "Absorbed",
+        "Scattered only",
+        "Diffuse",
+        "Regular"
       ],
       "answer": 3
+    },
+    {
+      "question": "A rough surface gives which reflection?",
+      "options": [
+        "Diffuse",
+        "Regular",
+        "Total internal",
+        "No reflection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A shadow is sharpest with which light source?",
+      "options": [
+        "No source",
+        "Many spread sources",
+        "Large source",
+        "Small source"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which object is essential for a pinhole camera?",
+      "options": [
+        "Plane mirror",
+        "Prism",
+        "Convex lens always",
+        "Tiny aperture"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A plane-mirror image has the same size as the?",
+      "options": [
+        "Twice object",
+        "Half object",
+        "Object",
+        "Always larger"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Left-right reversal in a mirror is called?",
+      "options": [
+        "Refraction",
+        "Diffraction",
+        "Lateral inversion",
+        "Dispersion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which ray strikes a reflecting surface?",
+      "options": [
+        "Incident ray",
+        "Normal",
+        "Shadow ray",
+        "Reflected ray"
+      ],
+      "answer": 0
     }
   ],
   "hard": [
     {
-      "question": "A result about pinhole cameras differs from the prediction. What should the learner do?",
+      "question": "A ray makes 35° with the normal. Reflection angle?",
       "options": [
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the strongest follow-up investigation for opaque objects?",
-      "options": [
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is a common reasoning error when discussing opaque objects?",
-      "options": [
-        "Recording units",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain transparent materials. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object"
+        "55°",
+        "35°",
+        "70°",
+        "145°"
       ],
       "answer": 1
     },
     {
-      "question": "Why might a scientific model of lateral inversion be useful?",
+      "question": "A ray makes 20° with the mirror surface. Incidence angle?",
       "options": [
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon"
+        "20°",
+        "40°",
+        "70°",
+        "90°"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Incidence angle is 48°. Angle between incident and reflected rays?",
+      "options": [
+        "48°",
+        "84°",
+        "132°",
+        "96°"
       ],
       "answer": 3
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about regular reflection. Which is evidence?",
+      "question": "A plane mirror is rotated by 10° while incident ray stays fixed. Reflected ray turns by?",
       "options": [
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A rumour from a friend"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about pinhole cameras would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A conclusion without observations"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about pinhole cameras?",
-      "options": [
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "An unrelated measurement"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about plane mirrors differs from the prediction. What should the learner do?",
-      "options": [
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about lateral inversion would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method"
+        "40°",
+        "10°",
+        "20°",
+        "5°"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about plane mirrors. Which is evidence?",
+      "question": "Which surface reflects parallel incident rays in one direction?",
       "options": [
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A guess made before testing",
-        "A rumour from a friend"
+        "Rough paper",
+        "Smooth mirror",
+        "Unpolished wall",
+        "Cloth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which image property is true for a plane mirror?",
+      "options": [
+        "Always smaller",
+        "Can be caught on screen",
+        "Laterally inverted",
+        "Always real"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A 4 cm object stands 15 cm from a plane mirror. Image distance?",
+      "options": [
+        "30 cm",
+        "4 cm",
+        "7.5 cm",
+        "15 cm"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A person stands 2 m from a plane mirror. Person-image separation?",
+      "options": [
+        "2 m",
+        "6 m",
+        "1 m",
+        "4 m"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which material is best for a translucent screen?",
+      "options": [
+        "Frosted glass",
+        "Metal sheet",
+        "Clear glass",
+        "Wood"
       ],
       "answer": 0
     },
     {
-      "question": "A diagram is used to explain opaque objects. What makes it scientifically useful?",
+      "question": "Which factor determines the shape of a shadow?",
       "options": [
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Object mass only",
+        "Object outline",
+        "Sound frequency",
+        "Object temperature"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
-      "question": "Two explanations are offered for plane mirrors. How should they be compared?",
+      "question": "Which light path is assumed in basic shadow formation?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
+        "Random zigzag",
+        "Circular path",
+        "Straight line",
+        "Curved line always"
       ],
       "answer": 2
     },
     {
-      "question": "A result about diffuse reflection differs from the prediction. What should the learner do?",
+      "question": "Which object is non-luminous?",
       "options": [
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation"
+        "Moon",
+        "Lit bulb",
+        "Sun",
+        "Flame"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which part of a pinhole camera controls image brightness and sharpness trade-off?",
+      "options": [
+        "Mirror coating",
+        "Camera length only",
+        "Object colour only",
+        "Aperture"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement about lateral inversion avoids overgeneralising?",
+      "question": "Which type of image can be obtained on a screen?",
       "options": [
-        "A model is always identical to reality",
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports"
+        "Virtual image",
+        "Afterimage",
+        "Real image",
+        "Plane-mirror image"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which mirror surface is required for regular reflection?",
+      "options": [
+        "Transparent only",
+        "Porous",
+        "Rough",
+        "Smooth"
       ],
       "answer": 3
     }
   ],
   "tooHard": [
     {
-      "question": "What is the strongest follow-up investigation for regular reflection?",
+      "question": "Incidence angle is 32°. Angle between reflected ray and mirror surface?",
       "options": [
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question"
+        "32°",
+        "90°",
+        "58°",
+        "64°"
       ],
-      "answer": 1
+      "answer": 2
     },
     {
-      "question": "Why might a scientific model of transparent materials be useful?",
+      "question": "Angle between incident and reflected rays is 124°. Incidence angle?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It removes the need for evidence"
+        "62°",
+        "124°",
+        "56°",
+        "31°"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement best explains transparent materials?",
+      "question": "A ray is incident normally on a plane mirror. Reflection angle?",
       "options": [
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence"
+        "45°",
+        "180°",
+        "90°",
+        "0°"
       ],
       "answer": 3
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about transparent materials?",
+      "question": "A plane mirror image is 6 m behind the mirror. Object distance?",
       "options": [
-        "An unrelated measurement",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence"
+        "3 m",
+        "12 m",
+        "6 m",
+        "0 m"
       ],
       "answer": 2
     },
     {
-      "question": "Which report about regular reflection would be most useful to another student?",
+      "question": "An object is 1.5 m from a plane mirror. Object-image distance?",
       "options": [
-        "A conclusion without observations",
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations"
+        "4.5 m",
+        "0.75 m",
+        "1.5 m",
+        "3 m"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement best explains opaque objects?",
+      "question": "A mirror rotates by 7°. Reflected ray deviation?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about opaque objects avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about transparent materials. Which is evidence?",
-      "options": [
-        "A rumour from a friend",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement best explains plane mirrors?",
-      "options": [
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner investigates plane mirrors. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for lateral inversion. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Choose the first explanation heard"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about transparent materials avoids overgeneralising?",
-      "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
+        "14°",
+        "3.5°",
+        "21°",
+        "7°"
       ],
       "answer": 0
     },
     {
-      "question": "A learner investigates pinhole cameras. Which practice makes the result more reliable?",
+      "question": "Which change makes a shadow larger with a nearby point source?",
       "options": [
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Change every condition at once"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates diffuse reflection. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Record only the expected result"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain diffuse reflection. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols"
+        "Increase screen brightness",
+        "Use a transparent object",
+        "Move object closer to source",
+        "Move object closer to screen"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing plane mirrors?",
+      "question": "Which pair is correctly matched?",
       "options": [
-        "Checking evidence carefully",
-        "Recording units",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule"
+        "Translucent—clear image",
+        "Luminous—reflects only",
+        "Transparent—blocks all light",
+        "Opaque—blocks light"
       ],
       "answer": 3
     },
     {
-      "question": "Which report about diffuse reflection would be most useful to another student?",
+      "question": "Which statement describes diffuse reflection?",
       "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations"
+        "Light passes through unchanged",
+        "All rays remain parallel",
+        "No light is reflected",
+        "Reflected rays scatter"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which ray lies in the plane of incidence with the normal?",
+      "options": [
+        "Absorbed ray",
+        "Shadow edge",
+        "Incident ray",
+        "Image line only"
       ],
       "answer": 2
     },
     {
-      "question": "A result about lateral inversion differs from the prediction. What should the learner do?",
+      "question": "A ray makes 25° with the normal. Angle with the mirror surface?",
       "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result"
+        "90°",
+        "25°",
+        "50°",
+        "65°"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A 3 cm object forms a plane-mirror image of height?",
+      "options": [
+        "3 cm",
+        "0 cm",
+        "6 cm",
+        "1.5 cm"
       ],
       "answer": 0
     },
     {
-      "question": "A diagram is used to explain lateral inversion. What makes it scientifically useful?",
+      "question": "Which image property explains inability to project a plane-mirror image onto a screen?",
       "options": [
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone"
+        "Magnified",
+        "Upright only",
+        "Real",
+        "Virtual"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which pinhole-camera change usually makes the image larger?",
+      "options": [
+        "Increase hole size only",
+        "Increase camera length",
+        "Use a brighter object only",
+        "Remove the screen"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement best explains pinhole cameras?",
+      "question": "Which condition gives a complete shadow?",
       "options": [
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A claim that needs no evidence"
+        "Transparent object in dim light",
+        "Object emits light only",
+        "Opaque object blocks light",
+        "No light source"
       ],
-      "answer": 1
+      "answer": 2
+    },
+    {
+      "question": "Which is the correct order of ray path?",
+      "options": [
+        "Normal, shadow, object",
+        "Reflected, incident, source",
+        "Incident, normal reference, reflected",
+        "Image, source, incident"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which surface best shows diffuse reflection?",
+      "options": [
+        "Rough wall",
+        "Polished steel",
+        "Plane mirror",
+        "Still water"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A reflected ray makes 40° with the normal. Incidence angle?",
+      "options": [
+        "80°",
+        "50°",
+        "40°",
+        "20°"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which factor affects shadow length during the day?",
+      "options": [
+        "Sun's elevation",
+        "Object's chemical formula",
+        "Sound level",
+        "Object's mass only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which phenomenon makes a mirror reverse left and right?",
+      "options": [
+        "Lateral inversion",
+        "Absorption",
+        "Diffusion",
+        "Dispersion"
+      ],
+      "answer": 0
     }
   ],
   "extreme": [
     {
-      "question": "Why might a scientific model of plane mirrors be useful?",
+      "question": "A ray makes 18° with the mirror plane. Angle of reflection?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It is always perfect"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two explanations are offered for regular reflection. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about regular reflection avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about diffuse reflection. Which is evidence?",
-      "options": [
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A preferred answer"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates opaque objects. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result"
+        "18°",
+        "36°",
+        "72°",
+        "90°"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing transparent materials?",
+      "question": "The angle between incident and reflected rays is 150°. Angle with mirror surface?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully",
-        "Recording units",
-        "Considering alternative explanations"
+        "15°",
+        "60°",
+        "30°",
+        "75°"
       ],
       "answer": 0
     },
     {
-      "question": "Two explanations are offered for transparent materials. How should they be compared?",
+      "question": "A mirror rotates 12° with incident ray fixed. Change in reflected-ray direction?",
       "options": [
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
+        "6°",
+        "24°",
+        "12°",
+        "48°"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An object is 2.4 m before a plane mirror. Image-object separation?",
+      "options": [
+        "2.4 m",
+        "6.0 m",
+        "1.2 m",
+        "4.8 m"
       ],
       "answer": 3
     },
     {
-      "question": "Which report about transparent materials would be most useful to another student?",
+      "question": "A person moves 0.5 m toward a fixed plane mirror. Person-image separation decreases by?",
       "options": [
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A conclusion without observations"
+        "2 m",
+        "1 m",
+        "1.5 m",
+        "0.5 m"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement best explains regular reflection?",
+      "question": "A plane mirror image is 2.8 m behind the mirror. Mirror-object distance?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing"
+        "5.6 m",
+        "2.8 m",
+        "1.4 m",
+        "0 m"
       ],
       "answer": 1
     },
     {
-      "question": "Which report about opaque objects would be most useful to another student?",
+      "question": "Incident ray angle is 37° to the normal. Angle between ray and mirror plane?",
       "options": [
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "A result with no method"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Why might a scientific model of diffuse reflection be useful?",
-      "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It removes the need for evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain regular reflection. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for pinhole cameras. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Why might a scientific model of opaque objects be useful?",
-      "options": [
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It removes the need for evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates transparent materials. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Record only the expected result"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two explanations are offered for diffuse reflection. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Choose the first explanation heard"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about pinhole cameras avoids overgeneralising?",
-      "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "A model is always identical to reality"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which report about plane mirrors would be most useful to another student?",
-      "options": [
-        "A conclusion without observations",
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations"
+        "90°",
+        "37°",
+        "74°",
+        "53°"
       ],
       "answer": 3
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about plane mirrors?",
+      "question": "A ray reflects at 64° to the normal. Angle between incident and reflected rays?",
       "options": [
-        "A personal preference",
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement"
+        "116°",
+        "128°",
+        "64°",
+        "52°"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which aperture change usually brightens a pinhole image but reduces sharpness?",
+      "options": [
+        "Remove screen",
+        "Widen aperture",
+        "Lengthen object distance only",
+        "Narrow aperture"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which change tends to enlarge a pinhole-camera image?",
+      "options": [
+        "Use a larger screen only",
+        "Increase object distance from aperture",
+        "Move object nearer aperture",
+        "Shorten camera length"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which statement about plane-mirror images is correct?",
+      "options": [
+        "Image distance equals object distance",
+        "Image is real",
+        "Image is always smaller",
+        "Image lies on mirror surface"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which combination gives a dark, sharp-edged shadow?",
+      "options": [
+        "Transparent object and broad source",
+        "Opaque object and small source",
+        "No source and opaque object",
+        "Translucent object and broad source"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which property distinguishes regular from diffuse reflection?",
+      "options": [
+        "Speed of light in air",
+        "Object mass",
+        "Colour alone",
+        "Direction spread of reflected rays"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A ray makes 28° with a mirror. Incidence angle?",
+      "options": [
+        "90°",
+        "62°",
+        "56°",
+        "28°"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A reflected ray makes 15° with the mirror plane. Angle of incidence?",
+      "options": [
+        "30°",
+        "60°",
+        "15°",
+        "75°"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A mirror rotates by 9°. The normal rotates by?",
+      "options": [
+        "0°",
+        "18°",
+        "4.5°",
+        "9°"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A ray strikes normally and the mirror turns by 5°. New reflected direction changes by?",
+      "options": [
+        "2.5°",
+        "15°",
+        "10°",
+        "5°"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates regular reflection. Which practice makes the result more reliable?",
+      "question": "Which object makes the clearest shadow under a point source?",
       "options": [
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once"
+        "Clear glass sphere",
+        "Air",
+        "Opaque sphere",
+        "Thin clear plastic"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about diffuse reflection avoids overgeneralising?",
+      "question": "Which surface can reflect light diffusely while still obeying reflection locally?",
       "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "A model is always identical to reality"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about diffuse reflection?",
-      "options": [
-        "An unrelated measurement",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence"
+        "Transparent vacuum",
+        "Light source",
+        "Rough surface",
+        "Perfect absorber"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about plane mirrors avoids overgeneralising?",
+      "question": "Which image can be formed on a screen?",
       "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports"
+        "Virtual image",
+        "Lateral inversion",
+        "Plane-mirror image",
+        "Real image"
       ],
       "answer": 3
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about regular reflection?",
+      "question": "A plane mirror image is 7 cm tall. Object height?",
       "options": [
-        "A confident statement without evidence",
-        "An unrelated measurement",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim"
+        "14 cm",
+        "7 cm",
+        "Cannot be related",
+        "3.5 cm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A person is 3 m from a plane mirror and moves 1 m away. New separation?",
+      "options": [
+        "4 m",
+        "8 m",
+        "6 m",
+        "10 m"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which law applies to each ray in diffuse reflection?",
+      "options": [
+        "Incidence angle is always 90°",
+        "Light bends toward normal",
+        "Angle of incidence equals angle of reflection",
+        "Reflection angle is always zero"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which quantity remains unchanged for a plane-mirror image?",
+      "options": [
+        "Front-back orientation",
+        "Distance from observer",
+        "Lateral orientation",
+        "Size"
       ],
       "answer": 3
     },
     {
-      "question": "Why might a scientific model of regular reflection be useful?",
+      "question": "Which surface is most suitable for a periscope's reflecting faces?",
       "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It removes the need for evidence"
+        "Opaque wood",
+        "Plane mirrors",
+        "Frosted glass",
+        "Rough paper"
       ],
       "answer": 1
     }

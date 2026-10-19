@@ -2,812 +2,812 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-earth-moon-and-the-sun"] = {
   "easy": [
     {
-      "question": "Which evidence is most relevant when evaluating a claim about solar eclipses?",
+      "question": "Earth's natural satellite?",
       "options": [
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A personal preference",
-        "A confident statement without evidence"
+        "Mars",
+        "Moon",
+        "Sun",
+        "Venus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Star nearest to Earth?",
+      "options": [
+        "Alpha Centauri",
+        "Sun",
+        "Polaris",
+        "Sirius"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Earth's rotation causes?",
+      "options": [
+        "Day and night",
+        "Lunar phases",
+        "Eclipses every day",
+        "Seasons alone"
       ],
       "answer": 0
     },
     {
-      "question": "Two explanations are offered for seasons. How should they be compared?",
+      "question": "Earth's revolution around the Sun takes about?",
       "options": [
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Choose the first explanation heard"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement best explains revolution?",
-      "options": [
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing"
+        "One month",
+        "One week",
+        "One year",
+        "One day"
       ],
       "answer": 2
     },
     {
-      "question": "What is the strongest follow-up investigation for day and night?",
+      "question": "Moonlight is mainly reflected light from the?",
       "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about rotation. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer",
-        "A rumour from a friend"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain revolution. What makes it scientifically useful?",
-      "options": [
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "Decorative detail alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about lunar eclipses avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the strongest follow-up investigation for solar eclipses?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about lunar phases would be most useful to another student?",
-      "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "Only a final answer",
-        "A result with no method"
+        "Sun",
+        "Earth",
+        "Stars",
+        "Clouds"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement about day and night avoids overgeneralising?",
+      "question": "The Moon's changing appearance is called its?",
       "options": [
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports"
+        "Tides only",
+        "Phases",
+        "Seasons",
+        "Rotation axis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A solar eclipse occurs when the Moon is between Earth and the?",
+      "options": [
+        "Sun",
+        "Venus",
+        "Jupiter",
+        "Mars"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A lunar eclipse occurs when Earth is between the Sun and the?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Moon"
       ],
       "answer": 3
+    },
+    {
+      "question": "Earth's axis is tilted by about?",
+      "options": [
+        "23.5°",
+        "90°",
+        "5°",
+        "45°"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Sun is a?",
+      "options": [
+        "Planet",
+        "Star",
+        "Asteroid",
+        "Satellite"
+      ],
+      "answer": 1
     }
   ],
   "medium": [
     {
-      "question": "Two explanations are offered for lunar phases. How should they be compared?",
+      "question": "Time for the Moon to orbit Earth relative to stars, approximately?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard"
+        "27.3 days",
+        "365 days",
+        "24 hours",
+        "29.5 days"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Approximate interval between similar lunar phases?",
+      "options": [
+        "27.3 days",
+        "29.5 days",
+        "7 days",
+        "365 days"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which lunar phase shows the near side almost fully illuminated?",
+      "options": [
+        "Full Moon",
+        "New Moon",
+        "Third quarter",
+        "First quarter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which lunar phase is nearly invisible from Earth?",
+      "options": [
+        "First quarter",
+        "Full Moon",
+        "Gibbous",
+        "New Moon"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which body casts the shadow on the Moon during a lunar eclipse?",
+      "options": [
+        "Venus",
+        "Sun",
+        "Earth",
+        "Mars"
       ],
       "answer": 2
     },
     {
-      "question": "A result about lunar phases differs from the prediction. What should the learner do?",
+      "question": "Which body casts a shadow on Earth during a solar eclipse?",
       "options": [
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation"
+        "Moon",
+        "Earth",
+        "Jupiter",
+        "Sun"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "Two explanations are offered for rotation. How should they be compared?",
+      "question": "Which motion produces the annual cycle?",
       "options": [
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence"
+        "Revolution",
+        "Rotation",
+        "Libration only",
+        "Reflection"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "Which statement about rotation avoids overgeneralising?",
+      "question": "Which motion produces the daily cycle?",
       "options": [
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right"
+        "Revolution",
+        "Orbit of Moon",
+        "Rotation",
+        "Precession only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which planet is Earth's home?",
+      "options": [
+        "Earth",
+        "Luna",
+        "Polaris",
+        "Sol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Moon has no significant atmosphere, so its sky appears?",
+      "options": [
+        "Green",
+        "Black",
+        "White",
+        "Blue"
       ],
       "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for solar eclipses. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates day and night. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about revolution would be most useful to another student?",
-      "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method",
-        "A conclusion without observations",
-        "Only a final answer"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement best explains lunar phases?",
-      "options": [
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about solar eclipses differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two explanations are offered for lunar eclipses. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Choose the longer explanation"
-      ],
-      "answer": 0
     }
   ],
   "hard": [
     {
-      "question": "A student wants to distinguish evidence from an assumption about seasons. Which is evidence?",
+      "question": "A lunar eclipse can occur during which phase?",
       "options": [
-        "A guess made before testing",
-        "A preferred answer",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about solar eclipses. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A guess made before testing"
+        "First quarter",
+        "Full Moon",
+        "New Moon",
+        "Third quarter"
       ],
       "answer": 1
     },
     {
-      "question": "What is the strongest follow-up investigation for seasons?",
+      "question": "A solar eclipse can occur during which phase?",
       "options": [
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement best explains seasons?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
+        "New Moon",
+        "First quarter",
+        "Full Moon",
+        "Third quarter"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement best explains day and night?",
+      "question": "Which alignment causes a solar eclipse?",
       "options": [
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence"
+        "Moon–Earth–Sun",
+        "Sun–Moon–Earth",
+        "Earth–Sun–Moon",
+        "Sun–Earth–Moon"
       ],
       "answer": 1
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about day and night?",
+      "question": "Which alignment causes a lunar eclipse?",
       "options": [
-        "A personal preference",
-        "A confident statement without evidence",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about day and night would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about revolution?",
-      "options": [
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement",
-        "A personal preference"
+        "Moon–Sun–Earth",
+        "Sun–Earth–Moon",
+        "Earth–Moon–Sun",
+        "Sun–Moon–Earth"
       ],
       "answer": 1
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about lunar phases?",
+      "question": "Which lunar phase occurs about one week after new Moon?",
       "options": [
-        "An unrelated measurement",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence"
+        "Last quarter",
+        "Full Moon",
+        "Waning crescent",
+        "First quarter"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which lunar phase occurs about one week after full Moon?",
+      "options": [
+        "First quarter",
+        "New Moon",
+        "Waxing crescent",
+        "Last quarter"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which factor causes seasons on Earth?",
+      "options": [
+        "Sun's daily rotation",
+        "Axial tilt",
+        "Moon's shadow",
+        "Changing Earth-Sun distance alone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which hemisphere has summer when tilted toward the Sun?",
+      "options": [
+        "Neither hemisphere",
+        "Both equally always",
+        "That hemisphere",
+        "Opposite hemisphere"
       ],
       "answer": 2
     },
     {
-      "question": "A result about revolution differs from the prediction. What should the learner do?",
+      "question": "Which statement about the Moon's light is correct?",
       "options": [
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about day and night. Which is evidence?",
-      "options": [
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the strongest follow-up investigation for rotation?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question"
+        "It reflects sunlight",
+        "It is a star",
+        "It produces sunlight",
+        "It glows by combustion"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement best explains solar eclipses?",
+      "question": "Which celestial body is much more massive: Earth or Moon?",
       "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for revolution?",
-      "options": [
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question"
+        "Cannot compare",
+        "Equal mass",
+        "Earth",
+        "Moon"
       ],
       "answer": 2
     },
     {
-      "question": "Why might a scientific model of seasons be useful?",
+      "question": "Which object causes most solar-system gravitational binding?",
       "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It removes the need for evidence"
+        "Moon",
+        "Sun",
+        "Asteroid belt",
+        "Earth's clouds"
       ],
       "answer": 1
+    },
+    {
+      "question": "Which motion keeps the same lunar face mostly toward Earth?",
+      "options": [
+        "Earth's revolution",
+        "Solar eclipse",
+        "Synchronous rotation",
+        "Earth's axial tilt"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which event is not safe to view directly without proper protection?",
+      "options": [
+        "Full Moon",
+        "Solar eclipse",
+        "Moonrise",
+        "Night sky"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which instrument safely projects an image of the Sun for observation?",
+      "options": [
+        "Unfiltered binoculars",
+        "Bare telescope",
+        "Pinhole projector",
+        "Dark sunglasses"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which phenomenon is caused by Earth's shadow on the Moon?",
+      "options": [
+        "New Moon",
+        "Sea breeze",
+        "Solar eclipse",
+        "Lunar eclipse"
+      ],
+      "answer": 3
     }
   ],
   "tooHard": [
     {
-      "question": "A student wants to distinguish evidence from an assumption about lunar phases. Which is evidence?",
+      "question": "A lunar month from new Moon to new Moon is approximately?",
       "options": [
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing",
-        "A preferred answer"
+        "29.5 days",
+        "365.25 days",
+        "24 hours",
+        "27.3 days"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Moon's sidereal orbital period is approximately?",
+      "options": [
+        "27.3 days",
+        "365.25 days",
+        "29.5 days",
+        "30.0 days"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which eclipse alignment places Earth in the middle?",
+      "options": [
+        "New Moon only",
+        "Solar eclipse",
+        "Lunar eclipse",
+        "First quarter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which eclipse alignment places Moon in the middle?",
+      "options": [
+        "Solar eclipse",
+        "Full Moon",
+        "Last quarter",
+        "Lunar eclipse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which lunar phase has the right half illuminated in the usual Northern Hemisphere diagram?",
+      "options": [
+        "First quarter",
+        "Last quarter",
+        "Full Moon",
+        "New Moon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which lunar phase has the left half illuminated in the usual Northern Hemisphere diagram?",
+      "options": [
+        "Last quarter",
+        "First quarter",
+        "New Moon",
+        "Full Moon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which condition explains why eclipses do not occur every month?",
+      "options": [
+        "Moon emits light",
+        "Earth has no rotation",
+        "Sun is too small",
+        "Orbital plane tilt"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which Earth's motion is responsible for changing star positions through a night?",
+      "options": [
+        "Rotation",
+        "Revolution only",
+        "Moon's phases",
+        "Solar eclipse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which phenomenon results from Earth's axis remaining tilted as Earth orbits the Sun?",
+      "options": [
+        "Solar flares only",
+        "Lunar phases",
+        "Seasons",
+        "Daily day-night cycle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which term names the Moon's sunlit visible portion changing over time?",
+      "options": [
+        "Solar rotation",
+        "Lunar phases",
+        "Eclipse cycle",
+        "Axial tilt"
       ],
       "answer": 1
     },
     {
-      "question": "Which is a common reasoning error when discussing solar eclipses?",
+      "question": "Which phase is opposite the Sun in the sky, approximately?",
       "options": [
-        "Considering alternative explanations",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which report about rotation would be most useful to another student?",
-      "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "Only a final answer",
-        "A result with no method"
+        "Full Moon",
+        "New Moon",
+        "Waxing crescent",
+        "First quarter"
       ],
       "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing seasons?",
+      "question": "Which phase places the Moon roughly in the same direction as the Sun?",
       "options": [
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully",
-        "Considering alternative explanations",
-        "Recording units"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement about seasons avoids overgeneralising?",
-      "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains rotation?",
-      "options": [
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing"
+        "Waning gibbous",
+        "Last quarter",
+        "New Moon",
+        "Full Moon"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about revolution. Which is evidence?",
+      "question": "Which object lies between Sun and Earth in an annular solar eclipse?",
       "options": [
-        "A preferred answer",
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A recorded observation obtained by a stated method"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about seasons?",
-      "options": [
-        "A personal preference",
-        "A confident statement without evidence",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates revolution. Which practice makes the result more reliable?",
-      "options": [
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Change every condition at once"
+        "Mars",
+        "Moon",
+        "Earth",
+        "Venus"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates solar eclipses. Which practice makes the result more reliable?",
+      "question": "Which type of eclipse can only occur near full Moon?",
       "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Change every condition at once"
+        "Lunar eclipse",
+        "Both at new Moon",
+        "Neither",
+        "Solar eclipse"
       ],
       "answer": 0
     },
     {
-      "question": "Which is a common reasoning error when discussing day and night?",
+      "question": "Which type of eclipse can only occur near new Moon?",
       "options": [
-        "Checking evidence carefully",
-        "Recording units",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule"
+        "Neither",
+        "Both at full Moon",
+        "Lunar eclipse",
+        "Solar eclipse"
       ],
       "answer": 3
     },
     {
-      "question": "Which is a common reasoning error when discussing lunar phases?",
+      "question": "Which celestial body is at the centre of the Solar System?",
       "options": [
-        "Considering alternative explanations",
-        "Recording units",
-        "Checking evidence carefully",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about rotation?",
-      "options": [
-        "A personal preference",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence"
+        "Earth",
+        "Moon",
+        "Sun",
+        "Polaris"
       ],
       "answer": 2
     },
     {
-      "question": "A result about lunar eclipses differs from the prediction. What should the learner do?",
+      "question": "Which force keeps the Moon in orbit around Earth?",
       "options": [
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement about solar eclipses avoids overgeneralising?",
-      "options": [
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "One test proves every possible case",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A diagram is used to explain solar eclipses. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of day and night be useful?",
-      "options": [
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which is a common reasoning error when discussing revolution?",
-      "options": [
-        "Checking evidence carefully",
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is a common reasoning error when discussing rotation?",
-      "options": [
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Checking evidence carefully"
+        "Magnetism",
+        "Gravity",
+        "Friction",
+        "Buoyancy"
       ],
       "answer": 1
     },
     {
-      "question": "Two explanations are offered for revolution. How should they be compared?",
+      "question": "Which term describes Earth's spinning around its axis?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
+        "Reflection",
+        "Rotation",
+        "Libration",
+        "Revolution"
       ],
-      "answer": 2
+      "answer": 1
+    },
+    {
+      "question": "Which term describes Earth's path around the Sun?",
+      "options": [
+        "Revolution",
+        "Refraction",
+        "Rotation",
+        "Oscillation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which body blocks sunlight from reaching the Moon during a lunar eclipse?",
+      "options": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Earth"
+      ],
+      "answer": 3
     }
   ],
   "extreme": [
     {
-      "question": "Why might a scientific model of lunar phases be useful?",
+      "question": "The synodic month is longer than the sidereal month mainly due to Earth's?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It removes the need for evidence",
-        "It includes every detail of reality"
+        "Revolution around the Sun",
+        "Axial tilt alone",
+        "Daily rotation",
+        "Atmospheric refraction"
       ],
       "answer": 0
     },
     {
-      "question": "What is the strongest follow-up investigation for lunar eclipses?",
+      "question": "Approximate difference between synodic and sidereal lunar months?",
       "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Why might a scientific model of revolution be useful?",
-      "options": [
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It is always perfect"
+        "7 days",
+        "2.2 days",
+        "12 days",
+        "0.2 days"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates lunar phases. Which practice makes the result more reliable?",
+      "question": "Which orbital feature makes eclipses occur only near nodes?",
       "options": [
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result"
+        "Moon's orbital inclination",
+        "Earth's rotation speed",
+        "Moon's lack of light",
+        "Sun's colour"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which alignment is required for a total lunar eclipse?",
+      "options": [
+        "Earth–Sun–Moon",
+        "Sun–Earth–Moon near a node",
+        "Moon–Sun–Earth",
+        "Sun–Moon–Earth at any phase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which alignment is required for a solar eclipse?",
+      "options": [
+        "Sun–Moon–Earth near a node",
+        "Earth–Sun–Moon",
+        "Sun–Earth–Moon",
+        "Moon–Earth–Sun"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which phase sequence is correct after new Moon?",
+      "options": [
+        "Waning crescent, last quarter, waning gibbous",
+        "Waxing crescent, first quarter, waxing gibbous",
+        "Last quarter, new Moon, full Moon",
+        "Full Moon, new Moon, first quarter"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which phase sequence follows full Moon?",
+      "options": [
+        "New Moon, full Moon, first quarter",
+        "First quarter, new Moon, full Moon",
+        "Waning gibbous, last quarter, waning crescent",
+        "Waxing crescent, first quarter, waxing gibbous"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates seasons. Which practice makes the result more reliable?",
+      "question": "Which hemisphere has winter solstice when tilted away from the Sun?",
       "options": [
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once"
+        "Both hemispheres together",
+        "Equator only",
+        "That hemisphere",
+        "Opposite hemisphere"
       ],
       "answer": 2
     },
     {
-      "question": "Which report about seasons would be most useful to another student?",
+      "question": "Which statement about Earth's seasons is accurate?",
       "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A result with no method"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Why might a scientific model of rotation be useful?",
-      "options": [
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It removes the need for evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about rotation differs from the prediction. What should the learner do?",
-      "options": [
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain lunar phases. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates rotation. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result",
-        "Ignore measurements that disagree",
-        "Change every condition at once"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement about lunar phases avoids overgeneralising?",
-      "options": [
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain rotation. What makes it scientifically useful?",
-      "options": [
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "Unexplained symbols"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains lunar eclipses?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two explanations are offered for day and night. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Choose the longer explanation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Why might a scientific model of solar eclipses be useful?",
-      "options": [
-        "It includes every detail of reality",
-        "It is always perfect",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the strongest follow-up investigation for lunar phases?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain seasons. What makes it scientifically useful?",
-      "options": [
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "Decorative detail alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about lunar eclipses?",
-      "options": [
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "An unrelated measurement",
-        "A personal preference"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A result about seasons differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation"
+        "Both hemispheres always share summer",
+        "Distance alone causes seasons",
+        "The Moon causes seasons",
+        "Opposite hemispheres have opposite seasons"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement about revolution avoids overgeneralising?",
+      "question": "Which term describes the Moon keeping nearly the same face toward Earth?",
       "options": [
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain day and night. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about lunar eclipses would be most useful to another student?",
-      "options": [
-        "A result with no method",
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations"
+        "Retrograde orbit",
+        "Solar rotation",
+        "Axial precession",
+        "Synchronous rotation"
       ],
       "answer": 3
     },
     {
-      "question": "Which report about solar eclipses would be most useful to another student?",
+      "question": "Which phase has an elongation of approximately 180° from the Sun?",
       "options": [
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method",
-        "Only a final answer"
+        "Last quarter",
+        "Full Moon",
+        "First quarter",
+        "New Moon"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates lunar eclipses. Which practice makes the result more reliable?",
+      "question": "Which phase has an elongation of approximately 0° from the Sun?",
       "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Change every condition at once"
+        "Full Moon",
+        "First quarter",
+        "New Moon",
+        "Last quarter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which eclipse feature is the darkest central part of a shadow?",
+      "options": [
+        "Penumbra",
+        "Terminator",
+        "Ecliptic",
+        "Umbra"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which eclipse feature produces partial obscuration?",
+      "options": [
+        "Penumbra",
+        "Axis",
+        "Umbra",
+        "Orbit"
       ],
       "answer": 0
     },
     {
-      "question": "A result about day and night differs from the prediction. What should the learner do?",
+      "question": "Which observation method projects the Sun's image without direct viewing?",
       "options": [
-        "Hide the unexpected result",
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction"
+        "Sunglasses",
+        "Unfiltered telescope",
+        "Pinhole projection",
+        "Naked-eye viewing"
       ],
       "answer": 2
+    },
+    {
+      "question": "Which body is the source of the Moon's reflected visible light?",
+      "options": [
+        "Polaris",
+        "Earth's core",
+        "Sun",
+        "Venus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which motion gives a location alternating daylight and darkness?",
+      "options": [
+        "Moon's revolution only",
+        "Earth's rotation",
+        "Axial tilt alone",
+        "Earth's revolution only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which orbital period is about 365.25 days?",
+      "options": [
+        "Moon's sidereal orbit",
+        "Moon's phase cycle",
+        "Earth's rotation",
+        "Earth's revolution"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which event happens when the Moon enters Earth's umbra?",
+      "options": [
+        "Total lunar eclipse",
+        "New Moon",
+        "Annular solar eclipse",
+        "First quarter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which event happens when the Moon's umbra reaches Earth's surface?",
+      "options": [
+        "Full Moon",
+        "Total solar eclipse",
+        "Last quarter",
+        "Total lunar eclipse"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which factor primarily determines the Moon's phase as seen from Earth?",
+      "options": [
+        "Sunspots",
+        "Earth's seasons",
+        "Moon's own light production",
+        "Sun-Earth-Moon geometry"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which body is naturally illuminated by the Sun but does not emit its own visible light?",
+      "options": [
+        "Sun",
+        "Flame",
+        "A star",
+        "Moon"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which observation supports that the Moon is spherical?",
+      "options": [
+        "Curved lunar terminator",
+        "No changing phases",
+        "Always square outline",
+        "Fixed square shadow"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which celestial event must occur near new Moon?",
+      "options": [
+        "Lunar eclipse",
+        "Full Moon",
+        "Solar eclipse",
+        "Last quarter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which celestial event must occur near full Moon?",
+      "options": [
+        "Lunar eclipse",
+        "Solar eclipse",
+        "First quarter",
+        "New Moon"
+      ],
+      "answer": 0
     }
   ]
 };

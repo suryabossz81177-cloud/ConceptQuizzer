@@ -2,810 +2,810 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-life-processes-in-plants"] = {
   "easy": [
     {
-      "question": "A diagram is used to explain xylem. What makes it scientifically useful?",
+      "question": "Green pigment that absorbs light?",
       "options": [
-        "Clear labels and accurate relationships between the relevant parts",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Unexplained symbols"
+        "Haemoglobin",
+        "Chlorophyll",
+        "Melanin",
+        "Keratin"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Tiny pores on leaf surfaces?",
+      "options": [
+        "Stomata",
+        "Villi",
+        "Nephrons",
+        "Alveoli"
       ],
       "answer": 0
     },
     {
-      "question": "A result about phloem differs from the prediction. What should the learner do?",
+      "question": "Water loss from leaves as vapour?",
       "options": [
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable"
+        "Germination",
+        "Transpiration",
+        "Digestion",
+        "Respiration"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Which statement about photosynthesis avoids overgeneralising?",
+      "question": "Plant food-making process?",
       "options": [
-        "Evidence is unnecessary when a claim sounds right",
-        "A model is always identical to reality",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A diagram is used to explain photosynthesis. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Pollination",
+        "Transpiration",
+        "Fermentation",
+        "Photosynthesis"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement best explains photosynthesis?",
+      "question": "Gas absorbed for photosynthesis?",
       "options": [
-        "A conclusion chosen before observing",
-        "An unrelated opinion",
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for stomata. How should they be compared?",
-      "options": [
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation",
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation"
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
       ],
       "answer": 0
     },
     {
-      "question": "What is the strongest follow-up investigation for xylem?",
+      "question": "Gas released during photosynthesis?",
       "options": [
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "A test that changes a relevant factor while keeping other conditions comparable"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about stomata. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend"
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Methane"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about photosynthesis. Which is evidence?",
+      "question": "Water-absorbing plant structures?",
       "options": [
-        "A guess made before testing",
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend"
+        "Petals",
+        "Stamens",
+        "Root hairs",
+        "Anthers"
       ],
       "answer": 2
     },
     {
-      "question": "What is the strongest follow-up investigation for photosynthesis?",
+      "question": "Pollen-producing part of a flower?",
       "options": [
-        "A test that changes everything at once",
-        "An observation unrelated to the question",
-        "A vote on which answer sounds best",
-        "A test that changes a relevant factor while keeping other conditions comparable"
+        "Stigma",
+        "Anther",
+        "Ovary",
+        "Sepal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pollen-receiving part of a flower?",
+      "options": [
+        "Stigma",
+        "Filament",
+        "Petal",
+        "Anther"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Seed sprouting process?",
+      "options": [
+        "Transpiration",
+        "Pollination",
+        "Fertilisation",
+        "Germination"
       ],
       "answer": 3
     }
   ],
   "medium": [
     {
-      "question": "Two explanations are offered for chlorophyll. How should they be compared?",
+      "question": "Tissue that transports water upward?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Test their predictions using suitable evidence",
-        "Choose the first explanation heard",
-        "Choose the longer explanation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is a common reasoning error when discussing stomata?",
-      "options": [
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Considering alternative explanations",
-        "Checking evidence carefully"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Why might a scientific model of stomata be useful?",
-      "options": [
-        "It is always perfect",
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain stomata. What makes it scientifically useful?",
-      "options": [
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Unexplained symbols",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Epidermis",
+        "Phloem",
+        "Cortex",
+        "Xylem"
       ],
       "answer": 3
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about chlorophyll?",
+      "question": "Tissue that transports prepared food?",
       "options": [
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for transpiration. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why might a scientific model of root hairs be useful?",
-      "options": [
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It is always perfect"
+        "Xylem",
+        "Phloem",
+        "Stomata",
+        "Cambium"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement best explains transpiration?",
+      "question": "Loss of water vapour mainly through?",
       "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing"
+        "Petals",
+        "Root cap",
+        "Anthers",
+        "Stomata"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which raw material enters roots from soil?",
+      "options": [
+        "Glucose",
+        "Oxygen only",
+        "Starch",
+        "Water"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which gas is used in plant respiration?",
+      "options": [
+        "Oxygen",
+        "Helium",
+        "Neon",
+        "Carbon dioxide"
       ],
       "answer": 0
     },
     {
-      "question": "Two explanations are offered for photosynthesis. How should they be compared?",
+      "question": "Which flower part contains ovules?",
       "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Test their predictions using suitable evidence",
-        "Choose the longer explanation"
+        "Filament",
+        "Anther",
+        "Ovary",
+        "Stigma"
       ],
       "answer": 2
     },
     {
-      "question": "Which report about photosynthesis would be most useful to another student?",
+      "question": "Transfer of pollen to stigma?",
       "options": [
-        "A conclusion without observations",
-        "A result with no method",
-        "Only a final answer",
-        "A report with method, observations, units where relevant, and limitations"
+        "Germination",
+        "Transpiration",
+        "Pollination",
+        "Fertilisation"
       ],
-      "answer": 3
+      "answer": 2
+    },
+    {
+      "question": "Fusion of male and female gametes?",
+      "options": [
+        "Pollination",
+        "Fertilisation",
+        "Germination",
+        "Respiration"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Food transported in plants mainly as?",
+      "options": [
+        "Sand",
+        "Oxygen",
+        "Sugars",
+        "Chlorophyll"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which condition is essential for most seed germination?",
+      "options": [
+        "Flowers",
+        "Bright light always",
+        "Moisture",
+        "Fertiliser only"
+      ],
+      "answer": 2
     }
   ],
   "hard": [
     {
-      "question": "Which evidence is most relevant when evaluating a claim about xylem?",
+      "question": "Leaf pores controlled by guard cells?",
       "options": [
-        "A direct observation or measurement connected to the claim",
-        "A confident statement without evidence",
-        "A personal preference",
-        "An unrelated measurement"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates root hairs. Which practice makes the result more reliable?",
-      "options": [
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement about root hairs avoids overgeneralising?",
-      "options": [
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports",
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for phloem?",
-      "options": [
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about transpiration would be most useful to another student?",
-      "options": [
-        "A conclusion without observations",
-        "Only a final answer",
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two explanations are offered for root hairs. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Why might a scientific model of xylem be useful?",
-      "options": [
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It includes every detail of reality",
-        "It is always perfect"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about phloem?",
-      "options": [
-        "A confident statement without evidence",
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "An unrelated measurement"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A diagram is used to explain phloem. What makes it scientifically useful?",
-      "options": [
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts",
-        "Unexplained symbols",
-        "A claim that the diagram is the real object"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for stomata?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "A test that changes everything at once",
-        "An observation unrelated to the question"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about xylem. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A guess made before testing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the strongest follow-up investigation for transpiration?",
-      "options": [
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once"
+        "Xylem vessels",
+        "Root hairs",
+        "Stomata",
+        "Lenticels"
       ],
       "answer": 2
     },
     {
-      "question": "Why might a scientific model of phloem be useful?",
+      "question": "Water-conducting tissue in vascular plants?",
       "options": [
-        "It removes the need for evidence",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It is always perfect",
-        "It includes every detail of reality"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A learner investigates phloem. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result",
-        "Ignore measurements that disagree"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about root hairs?",
-      "options": [
-        "A confident statement without evidence",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim",
-        "An unrelated measurement"
+        "Pith",
+        "Epidermis",
+        "Xylem",
+        "Phloem"
       ],
       "answer": 2
+    },
+    {
+      "question": "Food-conducting tissue in vascular plants?",
+      "options": [
+        "Cortex",
+        "Cuticle",
+        "Phloem",
+        "Xylem"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Plant process releasing energy from glucose?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Pollination",
+        "Transpiration"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which organ typically bears stomata in large numbers?",
+      "options": [
+        "Woody heartwood",
+        "Root tip",
+        "Seed coat",
+        "Leaf"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which flower structure supports the anther?",
+      "options": [
+        "Style",
+        "Filament",
+        "Ovary",
+        "Stigma"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which structure connects stigma to ovary?",
+      "options": [
+        "Anther",
+        "Style",
+        "Filament",
+        "Sepal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which male flower part consists of anther and filament?",
+      "options": [
+        "Sepal",
+        "Stamen",
+        "Pistil",
+        "Petal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which female flower part includes stigma, style and ovary?",
+      "options": [
+        "Pistil",
+        "Sepal",
+        "Stamen",
+        "Petal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which plant process moves water vapour out of leaves?",
+      "options": [
+        "Germination",
+        "Transpiration",
+        "Fertilisation",
+        "Translocation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which factor can increase transpiration in moving air?",
+      "options": [
+        "Darkness always",
+        "Still air",
+        "Wind",
+        "High humidity only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which seed part develops into the shoot?",
+      "options": [
+        "Radicle",
+        "Plumule",
+        "Cotyledon",
+        "Testa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which seed part develops into the root?",
+      "options": [
+        "Radicle",
+        "Endosperm",
+        "Plumule",
+        "Testa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which structure protects a seed?",
+      "options": [
+        "Stigma",
+        "Seed coat",
+        "Stomatal pore",
+        "Anther"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which process occurs when pollen reaches a compatible stigma?",
+      "options": [
+        "Respiration",
+        "Transpiration",
+        "Germination",
+        "Pollination"
+      ],
+      "answer": 3
     }
   ],
   "tooHard": [
     {
-      "question": "A result about photosynthesis differs from the prediction. What should the learner do?",
+      "question": "Which vascular tissue carries water and mineral salts?",
       "options": [
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction"
+        "Cork",
+        "Epidermis",
+        "Phloem",
+        "Xylem"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which vascular tissue distributes sugars from leaves?",
+      "options": [
+        "Cuticle",
+        "Root cap",
+        "Phloem",
+        "Xylem"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing phloem?",
+      "question": "Which cells regulate stomatal opening?",
       "options": [
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units",
-        "Checking evidence carefully"
+        "Guard cells",
+        "Companion petals",
+        "Root hairs",
+        "Pollen grains"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "A result about chlorophyll differs from the prediction. What should the learner do?",
+      "question": "Which raw material supplies carbon for photosynthesis?",
       "options": [
-        "Hide the unexpected result",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Declare the whole subject unreliable"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about phloem avoids overgeneralising?",
-      "options": [
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement best explains chlorophyll?",
-      "options": [
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "An unrelated opinion"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two explanations are offered for xylem. How should they be compared?",
-      "options": [
-        "Choose the first explanation heard",
-        "Ignore evidence against one explanation",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about phloem. Which is evidence?",
-      "options": [
-        "A preferred answer",
-        "A recorded observation obtained by a stated method",
-        "A rumour from a friend",
-        "A guess made before testing"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which report about stomata would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A conclusion without observations",
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about root hairs would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method"
+        "Water vapour",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen"
       ],
       "answer": 2
     },
     {
-      "question": "Which is a common reasoning error when discussing chlorophyll?",
+      "question": "Which product stores chemical energy from photosynthesis?",
       "options": [
-        "Recording units",
-        "Checking evidence carefully",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which is a common reasoning error when discussing root hairs?",
-      "options": [
-        "Recording units",
-        "Checking evidence carefully",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains phloem?",
-      "options": [
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing",
-        "A claim that needs no evidence",
-        "An unrelated opinion"
+        "Glucose",
+        "Chlorophyll",
+        "Oxygen",
+        "Mineral salts"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement best explains stomata?",
+      "question": "Which process occurs in plant cells both day and night?",
       "options": [
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence"
+        "Seed dispersal",
+        "Pollination",
+        "Photosynthesis only",
+        "Respiration"
       ],
       "answer": 3
     },
     {
-      "question": "Which is a common reasoning error when discussing xylem?",
+      "question": "Which flower part receives pollen grains?",
       "options": [
-        "Recording units",
-        "Treating one limited observation as proof of a universal rule",
-        "Checking evidence carefully",
-        "Considering alternative explanations"
+        "Filament",
+        "Stigma",
+        "Anther",
+        "Ovary"
       ],
       "answer": 1
     },
     {
-      "question": "A result about stomata differs from the prediction. What should the learner do?",
+      "question": "Which structure contains the female gamete in a flowering plant?",
       "options": [
-        "Declare the whole subject unreliable",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Alter the data to fit the prediction",
-        "Hide the unexpected result"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result about xylem differs from the prediction. What should the learner do?",
-      "options": [
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result",
-        "Alter the data to fit the prediction"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about photosynthesis?",
-      "options": [
-        "A confident statement without evidence",
-        "A personal preference",
-        "An unrelated measurement",
-        "A direct observation or measurement connected to the claim"
+        "Petal",
+        "Sepal",
+        "Anther",
+        "Ovule"
       ],
       "answer": 3
     },
     {
-      "question": "Which is a common reasoning error when discussing photosynthesis?",
+      "question": "Which event usually follows pollination in flowering plants?",
       "options": [
-        "Checking evidence carefully",
-        "Considering alternative explanations",
-        "Treating one limited observation as proof of a universal rule",
-        "Recording units"
+        "Seed dispersal",
+        "Transpiration",
+        "Fertilisation",
+        "Germination immediately"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about xylem avoids overgeneralising?",
+      "question": "Which seed embryo structure forms the first root?",
       "options": [
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case",
-        "The conclusion should be limited to what the evidence supports"
+        "Cotyledon",
+        "Plumule",
+        "Radicle",
+        "Testa"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which seed embryo structure forms the shoot?",
+      "options": [
+        "Radicle",
+        "Testa",
+        "Micropyle",
+        "Plumule"
       ],
       "answer": 3
     },
     {
-      "question": "Which evidence is most relevant when evaluating a claim about stomata?",
+      "question": "Which process helps cool a plant through evaporative water loss?",
       "options": [
-        "A direct observation or measurement connected to the claim",
-        "A personal preference",
-        "An unrelated measurement",
-        "A confident statement without evidence"
+        "Transpiration",
+        "Fertilisation",
+        "Respiration only",
+        "Pollination"
       ],
       "answer": 0
+    },
+    {
+      "question": "Which factor commonly increases water loss from leaves?",
+      "options": [
+        "High temperature",
+        "Cool conditions",
+        "High humidity",
+        "Low airflow"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which plant part anchors the plant and absorbs water?",
+      "options": [
+        "Flower",
+        "Anther",
+        "Fruit",
+        "Root"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which term describes movement of prepared food through a plant?",
+      "options": [
+        "Pollination",
+        "Germination",
+        "Translocation",
+        "Transpiration"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which leaf feature limits uncontrolled water loss?",
+      "options": [
+        "Open stomata",
+        "Unprotected ovules",
+        "Waxy cuticle",
+        "Thin exposed roots"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which part of a flower develops into a fruit after fertilisation?",
+      "options": [
+        "Anther",
+        "Stigma",
+        "Filament",
+        "Ovary"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which structure develops into a seed after fertilisation?",
+      "options": [
+        "Ovule",
+        "Sepal",
+        "Anther",
+        "Petal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which condition usually triggers seed germination along with suitable temperature?",
+      "options": [
+        "Pollinators",
+        "Flowers",
+        "Water",
+        "Strong sunlight only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which gas is released as a by-product of photosynthesis?",
+      "options": [
+        "Nitrogen",
+        "Hydrogen",
+        "Methane",
+        "Oxygen"
+      ],
+      "answer": 3
     }
   ],
   "extreme": [
     {
-      "question": "Which statement about chlorophyll avoids overgeneralising?",
+      "question": "Which tissue transports sucrose from source leaves to sinks?",
       "options": [
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case"
+        "Epidermis",
+        "Cork",
+        "Phloem",
+        "Xylem"
       ],
       "answer": 2
     },
     {
-      "question": "What is the strongest follow-up investigation for chlorophyll?",
+      "question": "Which tissue conducts water mainly through dead, hollow vessels?",
       "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question",
-        "A test that changes everything at once"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A learner investigates stomata. Which practice makes the result more reliable?",
-      "options": [
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result",
-        "Change every condition at once",
-        "Ignore measurements that disagree"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which report about xylem would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A conclusion without observations",
-        "A report with method, observations, units where relevant, and limitations",
-        "A result with no method"
+        "Palisade tissue",
+        "Guard cells",
+        "Xylem",
+        "Phloem"
       ],
       "answer": 2
     },
     {
-      "question": "A learner investigates xylem. Which practice makes the result more reliable?",
+      "question": "Which pair of cells borders a stomatal pore?",
       "options": [
-        "Ignore measurements that disagree",
-        "Record only the expected result",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Change every condition at once"
+        "Companion cells",
+        "Pollen tubes",
+        "Root hair cells",
+        "Guard cells"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which photosynthetic input supplies carbon atoms to glucose?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Mineral salts"
       ],
       "answer": 2
     },
     {
-      "question": "Which report about chlorophyll would be most useful to another student?",
+      "question": "Which molecule captures light energy in chloroplasts?",
       "options": [
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations",
-        "A result with no method",
-        "Only a final answer"
+        "Keratin",
+        "Haemoglobin",
+        "Chlorophyll",
+        "Insulin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which plant process converts light energy into chemical energy?",
+      "options": [
+        "Respiration",
+        "Pollination",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which process breaks down glucose to release usable energy?",
+      "options": [
+        "Germination",
+        "Photosynthesis",
+        "Translocation",
+        "Respiration"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which flower part becomes the fruit wall?",
+      "options": [
+        "Ovary wall",
+        "Filament",
+        "Petal base",
+        "Anther wall"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement about transpiration avoids overgeneralising?",
+      "question": "Which structure becomes the seed after fertilisation?",
       "options": [
-        "A model is always identical to reality",
-        "The conclusion should be limited to what the evidence supports",
-        "Evidence is unnecessary when a claim sounds right",
-        "One test proves every possible case"
+        "Ovule",
+        "Stigma",
+        "Sepal",
+        "Anther"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which male gamete-bearing structure produces pollen?",
+      "options": [
+        "Stigma",
+        "Anther",
+        "Ovary",
+        "Style"
       ],
       "answer": 1
     },
     {
-      "question": "Why might a scientific model of chlorophyll be useful?",
+      "question": "Which route carries water from roots toward leaves?",
       "options": [
-        "It is always perfect",
-        "It includes every detail of reality",
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two explanations are offered for phloem. How should they be compared?",
-      "options": [
-        "Ignore evidence against one explanation",
-        "Choose the first explanation heard",
-        "Choose the longer explanation",
-        "Test their predictions using suitable evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What is the strongest follow-up investigation for root hairs?",
-      "options": [
-        "A test that changes a relevant factor while keeping other conditions comparable",
-        "A test that changes everything at once",
-        "A vote on which answer sounds best",
-        "An observation unrelated to the question"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A result about root hairs differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result"
+        "Stomata",
+        "Xylem",
+        "Cuticle",
+        "Phloem"
       ],
       "answer": 1
     },
     {
-      "question": "A student wants to distinguish evidence from an assumption about root hairs. Which is evidence?",
+      "question": "Which process drives much of the upward pull of water in plants?",
       "options": [
-        "A rumour from a friend",
-        "A guess made before testing",
-        "A recorded observation obtained by a stated method",
-        "A preferred answer"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A result about transpiration differs from the prediction. What should the learner do?",
-      "options": [
-        "Alter the data to fit the prediction",
-        "Check the method and evidence, then repeat or revise the explanation",
-        "Declare the whole subject unreliable",
-        "Hide the unexpected result"
+        "Fertilisation",
+        "Transpiration",
+        "Pollination",
+        "Seed dispersal"
       ],
       "answer": 1
     },
     {
-      "question": "A learner investigates photosynthesis. Which practice makes the result more reliable?",
+      "question": "Which condition tends to reduce transpiration most directly?",
       "options": [
-        "Record only the expected result",
-        "Change every condition at once",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Ignore measurements that disagree"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram is used to explain chlorophyll. What makes it scientifically useful?",
-      "options": [
-        "Unexplained symbols",
-        "A claim that the diagram is the real object",
-        "Decorative detail alone",
-        "Clear labels and accurate relationships between the relevant parts"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which statement best explains xylem?",
-      "options": [
-        "A claim that needs no evidence",
-        "An unrelated opinion",
-        "A conclusion chosen before observing",
-        "The explanation supported by the relevant scientific evidence"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner investigates chlorophyll. Which practice makes the result more reliable?",
-      "options": [
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations",
-        "Record only the expected result"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which statement about stomata avoids overgeneralising?",
-      "options": [
-        "A model is always identical to reality",
-        "Evidence is unnecessary when a claim sounds right",
-        "The conclusion should be limited to what the evidence supports",
-        "One test proves every possible case"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which evidence is most relevant when evaluating a claim about transpiration?",
-      "options": [
-        "An unrelated measurement",
-        "A confident statement without evidence",
-        "A personal preference",
-        "A direct observation or measurement connected to the claim"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish evidence from an assumption about chlorophyll. Which is evidence?",
-      "options": [
-        "A recorded observation obtained by a stated method",
-        "A guess made before testing",
-        "A rumour from a friend",
-        "A preferred answer"
+        "High humidity",
+        "Strong airflow",
+        "Dry moving air",
+        "High temperature"
       ],
       "answer": 0
     },
     {
-      "question": "A learner investigates transpiration. Which practice makes the result more reliable?",
+      "question": "Which embryo part develops into the shoot system?",
       "options": [
-        "Record only the expected result",
-        "Change every condition at once",
-        "Ignore measurements that disagree",
-        "Use a clear method, control relevant conditions, and repeat observations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which report about phloem would be most useful to another student?",
-      "options": [
-        "Only a final answer",
-        "A result with no method",
-        "A report with method, observations, units where relevant, and limitations",
-        "A conclusion without observations"
+        "Radicle",
+        "Micropyle",
+        "Plumule",
+        "Testa"
       ],
       "answer": 2
     },
     {
-      "question": "A diagram is used to explain root hairs. What makes it scientifically useful?",
+      "question": "Which embryo part develops into the primary root?",
       "options": [
-        "Unexplained symbols",
-        "Decorative detail alone",
-        "A claim that the diagram is the real object",
-        "Clear labels and accurate relationships between the relevant parts"
+        "Plumule",
+        "Radicle",
+        "Endosperm",
+        "Cotyledon"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
-      "question": "Why might a scientific model of photosynthesis be useful?",
+      "question": "Which seed structure stores food in many dicot seeds?",
       "options": [
-        "It highlights selected features to help explain or predict a phenomenon",
-        "It removes the need for evidence",
-        "It includes every detail of reality",
-        "It is always perfect"
+        "Stomatal pore",
+        "Cotyledon",
+        "Anther",
+        "Stigma"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which event joins male and female gametes?",
+      "options": [
+        "Fertilisation",
+        "Pollination",
+        "Germination",
+        "Transpiration"
       ],
       "answer": 0
     },
     {
-      "question": "Which statement best explains root hairs?",
+      "question": "Which term names the transfer of pollen within or between flowers?",
       "options": [
-        "An unrelated opinion",
-        "A claim that needs no evidence",
-        "The explanation supported by the relevant scientific evidence",
-        "A conclusion chosen before observing"
+        "Fertilisation",
+        "Respiration",
+        "Translocation",
+        "Pollination"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which structure allows gas exchange between leaf tissues and air?",
+      "options": [
+        "Stomata",
+        "Seed coat",
+        "Petal veins",
+        "Root cap"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which process distributes sugars to growing roots and fruits?",
+      "options": [
+        "Photosynthesis only",
+        "Pollination",
+        "Transpiration",
+        "Translocation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which part of the flower contains ovules before fertilisation?",
+      "options": [
+        "Anther",
+        "Filament",
+        "Stigma",
+        "Ovary"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which layer reduces evaporation from the leaf surface?",
+      "options": [
+        "Pollen coat",
+        "Waxy cuticle",
+        "Xylem",
+        "Phloem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which plant process occurs in mitochondria and releases energy?",
+      "options": [
+        "Pollination",
+        "Transpiration",
+        "Respiration",
+        "Photosynthesis"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which structure is the pollen-receiving tip of the pistil?",
+      "options": [
+        "Style",
+        "Stigma",
+        "Anther",
+        "Ovary"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which seed condition is needed for enzyme activity at germination?",
+      "options": [
+        "Pollination after dispersal",
+        "Bright light always",
+        "Water",
+        "Dryness"
       ],
       "answer": 2
     }
