@@ -512,6 +512,21 @@ window.QuizRegistry.register(
     "7-science-earth-moon-and-the-sun",
     "js/quizzes/class7/science/earth-moon-and-the-sun.js"
 );
+
+   window.QuizRegistry.register(
+    "7-history-new-beginnings-cities-and-states",
+    "js/quizzes/class7/history/new-beginnings-cities-and-states.js"
+);
+
+window.QuizRegistry.register(
+    "7-history-the-rise-of-empires",
+    "js/quizzes/class7/history/the-rise-of-empires.js"
+);
+
+window.QuizRegistry.register(
+    "7-history-the-age-of-reorganisation",
+    "js/quizzes/class7/history/the-age-of-reorganisation.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
