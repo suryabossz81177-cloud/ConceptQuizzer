@@ -542,6 +542,21 @@ window.QuizRegistry.register(
     "7-history-from-pilgrimage-to-trades-beyond-india",
     "js/quizzes/class7/history/from-pilgrimage-to-trades-beyond-india.js"
 );
+
+   window.QuizRegistry.register(
+    "geographical-diversity-of-india",
+    "js/quizzes/class7/geography/geographical-diversity-of-india.js"
+);
+
+window.QuizRegistry.register(
+    "understanding-the-weather",
+    "js/quizzes/class7/geography/understanding-the-weather.js"
+);
+
+window.QuizRegistry.register(
+    "climates-of-india",
+    "js/quizzes/class7/geography/climates-of-india.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
