@@ -2,810 +2,810 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-the-ever-evolving-world-of-science"] = {
   "easy": [
     {
-      "question": "A student notices that wet clothes dry faster on a sunny, windy day than on a cool, still day. Which is the best scientific first step?",
+      "question": "Which instrument measures temperature?",
       "options": [
-        "Decide that sunlight is the only possible cause",
-        "Claim that all clothes always dry at the same speed",
-        "Record the conditions and compare drying times systematically",
-        "Ignore the wind because it cannot matter"
+        "Barometer",
+        "Thermometer",
+        "Measuring tape",
+        "Compass"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Which of these is an observation rather than an explanation?",
+      "question": "Which unit is suitable for classroom temperature?",
       "options": [
-        "The shadow measured 18 cm at noon",
-        "The shadow shortened because the Sun felt hotter",
-        "The object wanted to move",
+        "Litre",
+        "Degree Celsius",
+        "Kilogram",
+        "Centimetre"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is a direct observation?",
+      "options": [
+        "The shadow is unhappy",
+        "The shadow is 12 cm long",
+        "The shadow wants to move",
         "The shadow is lucky"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which tool measures a leaf's length?",
+      "options": [
+        "Stopwatch",
+        "Ruler",
+        "Thermometer",
+        "Compass"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What makes a scientific question testable?",
+      "options": [
+        "Everyone must like its answer",
+        "Evidence can be collected to investigate it",
+        "It must express a preference",
+        "It must have no measurable outcome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why should measurements include units?",
+      "options": [
+        "Units show what the number represents",
+        "Units replace evidence",
+        "Units make every result equal",
+        "Units guarantee a conclusion"
       ],
       "answer": 0
     },
     {
-      "question": "A student wants to find out whether a paper towel brand affects how much water it absorbs. What should be measured?",
+      "question": "Which is a scientific model?",
       "options": [
-        "The name of the shop only",
-        "The colour of the student's notebook",
-        "The time of sunset",
-        "The amount of water absorbed by each towel"
+        "A list of favourite colours",
+        "A globe representing Earth",
+        "An unsupported opinion",
+        "A guess stated as fact"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a sensible response to an unexpected result?",
+      "options": [
+        "Change data to fit the prediction",
+        "Erase it immediately",
+        "Ignore disagreeing evidence",
+        "Repeat the procedure and inspect measurements"
       ],
       "answer": 3
     },
     {
-      "question": "Why should a science notebook include dates beside observations?",
+      "question": "What should support a scientific explanation?",
       "options": [
-        "To prevent other people from checking the work",
-        "To make the result automatically correct",
-        "To connect each result with when it was collected",
-        "To replace measurements with memory"
+        "A complicated title",
+        "Popularity alone",
+        "Every first guess",
+        "Evidence and reasoning"
       ],
-      "answer": 2
+      "answer": 3
     },
     {
-      "question": "A class predicts that a heavier toy car will travel farther down the same ramp. What is the prediction?",
+      "question": "Why use standard symbols in diagrams?",
       "options": [
-        "The ramp is made of a material",
-        "The car has wheels",
-        "The heavier car will travel farther",
-        "The floor is smooth"
+        "They remove connections",
+        "They guarantee success",
+        "They make diagrams actual-size copies",
+        "They make information consistently understandable"
       ],
-      "answer": 2
-    },
-    {
-      "question": "Which tool is most suitable for measuring the length of a leaf?",
-      "options": [
-        "A weighing scale",
-        "A compass",
-        "A ruler",
-        "A thermometer"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two students disagree about what they saw in an experiment. What is most useful?",
-      "options": [
-        "Change the observations until they agree",
-        "Compare their recorded observations and repeat the procedure carefully",
-        "Stop recording results",
-        "Choose the older student's opinion automatically"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is a scientific model mainly used for?",
-      "options": [
-        "Showing every detail at actual scale",
-        "Representing or explaining features of a system",
-        "Making an idea impossible to question",
-        "Replacing all observations permanently"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result does not match the class prediction. What should the class do?",
-      "options": [
-        "Pretend the prediction was different",
-        "Conclude that science cannot answer questions",
-        "Check the method and evidence before deciding what it means",
-        "Delete the result because it is inconvenient"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why is it useful to share an investigation's method with others?",
-      "options": [
-        "Others must accept the conclusion without checking",
-        "Others can examine or repeat the work",
-        "It removes the need to record data",
-        "It guarantees identical results in every setting"
-      ],
-      "answer": 1
+      "answer": 3
     }
   ],
   "medium": [
     {
-      "question": "A learner tests whether sunlight affects plant growth but gives the sunlit plant more water too. Why is the conclusion uncertain?",
+      "question": "Temperature rises from 21°C to 28°C. What is the increase?",
       "options": [
-        "Water never affects plants",
-        "Sunlight and water changed together, so their effects cannot be separated",
-        "Sunlight cannot influence living things",
-        "Plants cannot be measured"
+        "49°C",
+        "7°C",
+        "6°C",
+        "9°C"
       ],
       "answer": 1
     },
     {
-      "question": "A student records a toy car's travel distance in three trials: 82 cm, 84 cm, and 83 cm. What do these results suggest?",
+      "question": "A 15 cm strip loses a 4 cm piece. What length remains?",
       "options": [
-        "The measuring tool must be perfect",
-        "The measured distances are similar across these trials",
-        "The experiment proves every car behaves the same way",
-        "The car will always travel exactly 83 cm"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which question is most directly testable with a simple investigation?",
-      "options": [
-        "Which toy car is the most beautiful?",
-        "What is the nicest sound?",
-        "Does a steeper ramp change a toy car's travel distance?",
-        "Is science more exciting than art?"
+        "19 cm",
+        "60 cm",
+        "11 cm",
+        "9 cm"
       ],
       "answer": 2
     },
     {
-      "question": "A diagram shows the planets in the correct order but not at their real relative distances. What is its main limitation?",
+      "question": "Which question can be investigated by measurement?",
       "options": [
-        "It does not preserve distance scale",
-        "It cannot show planetary order",
-        "It proves planets are close together",
-        "It must be useless for learning"
+        "Does a longer pendulum take more time for one swing?",
+        "Which song is nicest?",
+        "Is science more fun than music?",
+        "Which colour is most beautiful?"
       ],
       "answer": 0
     },
     {
-      "question": "Two groups use different rulers to measure the same desk. Their results differ slightly. What should they check?",
+      "question": "A graph shows time and temperature. What does a plotted point represent?",
       "options": [
-        "Whether the desk changed its name",
-        "Which student likes science more",
-        "Which result has more confidence",
-        "The rulers' markings and how each measurement was taken"
+        "Thermometer colour",
+        "Number of instruments",
+        "Observer's name",
+        "Temperature at a particular time"
       ],
       "answer": 3
     },
     {
-      "question": "A student writes, 'The metal felt cold, so it must have a lower temperature than the wooden table.' What would be a better test?",
+      "question": "Which is the fairest test of ramp height on a toy car's distance?",
       "options": [
-        "Ask which surface looks colder",
-        "Measure both surfaces with the same thermometer",
-        "Trust touch as an exact temperature measure",
-        "Warm only the metal and compare from memory"
+        "Use different units in each trial",
+        "Record only the longest distance",
+        "Change car and surface each time",
+        "Keep car and surface the same while changing ramp height"
       ],
-      "answer": 1
+      "answer": 3
     },
     {
-      "question": "Why should a scientist repeat a measurement instead of relying on one reading?",
+      "question": "Readings are 8.2 cm, 8.3 cm, and 8.2 cm. What do they suggest?",
       "options": [
-        "Repeated readings make units unnecessary",
-        "Repeating forces the expected answer to appear",
-        "A repeat can reveal variation or an unusual reading",
-        "One reading is always wrong"
+        "True length must be 8.3 cm",
+        "Length cannot be measured repeatedly",
+        "The readings are close together",
+        "The ruler is perfect"
       ],
       "answer": 2
     },
     {
-      "question": "A student claims a new plant food works because one treated plant grew taller. Which evidence would strengthen the claim?",
+      "question": "Which statement is an inference?",
       "options": [
-        "Use different soil and water for every plant",
-        "Choose the tallest plant from the class",
-        "Compare several similar plants with and without the plant food under controlled conditions",
-        "Ask the seller whether the product works"
+        "The thermometer reads 22°C",
+        "The leaf is 5 cm long",
+        "The pavement has two puddles",
+        "Rain may have caused the wet pavement"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which record best helps another person repeat an experiment?",
+      "options": [
+        "Notebook colour",
+        "A guess",
+        "Materials, steps, measurements, and conditions",
+        "Only the final answer"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement is an inference rather than a direct observation?",
+      "question": "A solar-system model shows planet order but not scale. What is still represented?",
       "options": [
-        "The leaf is 6 cm long",
-        "The ground has three visible puddles",
-        "The thermometer reads 21°C",
-        "The wet ground may have been caused by rain"
+        "Exact distances",
+        "Travel times",
+        "Actual sizes",
+        "Planetary order"
       ],
       "answer": 3
     },
     {
-      "question": "Why should a graph have labelled axes and units?",
+      "question": "Why repeat a measurement?",
       "options": [
-        "Labels make the data true",
-        "Axes replace the need to collect observations",
-        "Units make all values equal",
-        "Readers need to know which quantities and scales are shown"
+        "To force the expected answer",
+        "To remove all uncertainty",
+        "To check consistency and identify unusual readings",
+        "To avoid units"
       ],
-      "answer": 3
+      "answer": 2
     }
   ],
   "hard": [
     {
-      "question": "A class compares two brands of paper towel, using 10 mL of water on one and 20 mL on the other. What is the main design flaw?",
+      "question": "Ramp angle and car mass are both changed. What prevents identifying the cause of a distance change?",
       "options": [
-        "Paper towels cannot absorb water",
-        "The results cannot be written down",
-        "The amount of water differs, making the comparison unfair",
-        "The students used numbers"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A hypothesis predicts that a ball rolls farther on a smooth surface. It rolls farther on three smooth trials than on three rough trials. What conclusion is justified?",
-      "options": [
-        "The results support the hypothesis under the tested conditions",
-        "The hypothesis is proven for every ball and surface",
-        "No more testing can ever be useful",
-        "The rough surface must be identical to the smooth one"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student reports a plant grew 4.237 cm, although the ruler only has centimetre markings. What is the concern?",
-      "options": [
-        "All scientific measurements must be whole numbers",
-        "Plants cannot be measured in centimetres",
-        "The number is too large",
-        "The reported precision is greater than the instrument supports"
+        "The car has wheels",
+        "Distance was measured",
+        "The ramp has a surface",
+        "Two variables changed together"
       ],
       "answer": 3
     },
     {
-      "question": "A team changes the ramp angle and the toy car at the same time. What can it conclude about why distance changed?",
+      "question": "An instrument reads 2 cm too high every time. What is likely?",
       "options": [
-        "Both factors have no possible effect",
-        "The ramp angle certainly caused all of it",
-        "It cannot isolate which change caused the difference",
-        "The car certainly caused all of it"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A model accurately predicts a familiar situation but fails for a new one. What is the best response?",
-      "options": [
-        "Declare the new observation impossible",
-        "Keep using the model without examination",
-        "Check the model's assumptions and the conditions where it applies",
-        "Remove the model's earlier successes from the record"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A class gets one unusual result among many similar measurements. What is the best practice?",
-      "options": [
-        "Treat it as proof that the whole method is useless",
-        "Change every other value to match it",
-        "Record it, check for possible error, and repeat if appropriate",
-        "Erase it without explanation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why does a control group help when testing a new seed treatment?",
-      "options": [
-        "It should always receive extra water",
-        "It provides a comparison without the treatment",
-        "It removes the need to keep other conditions similar",
-        "It guarantees the treatment will work"
+        "Correct calibration",
+        "Systematic error",
+        "Random change",
+        "Missing prediction"
       ],
       "answer": 1
     },
     {
-      "question": "A graph's vertical axis starts at 90, making a change from 95 to 100 look very large. What should a reader do?",
+      "question": "A graph's vertical axis begins at 90. What should be checked before judging the change?",
       "options": [
-        "Conclude the data are false immediately",
-        "Inspect the axis scale before judging the size of the change",
-        "Ignore all values on the graph",
-        "Assume every graph starts at zero"
+        "Author's name",
+        "Axis scale and labels",
+        "Title font",
+        "Paper colour"
       ],
       "answer": 1
     },
     {
-      "question": "A scientist's first explanation is popular, but repeated measurements contradict it. Which principle should guide the response?",
+      "question": "Which evidence best supports a plant treatment's effect on growth?",
       "options": [
-        "Discard all repeated measurements",
-        "Ask readers to vote on the result",
-        "Evaluate the explanation against the evidence",
-        "Keep the explanation because it is popular"
+        "A photo without measurements",
+        "One unusually tall plant",
+        "Seller's statement",
+        "Comparable treated and untreated plants measured under controlled conditions"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two explanations fit existing observations. What next step is most useful?",
+      "options": [
+        "Choose the older explanation",
+        "Collect only evidence both predict",
+        "Test a case where they predict different outcomes",
+        "Stop investigating"
       ],
       "answer": 2
     },
     {
-      "question": "A student says two variables are related because they rise together in one graph. What has not yet been established?",
+      "question": "A ruler marked only in centimetres gives a reading of 6.438 cm. What is wrong?",
       "options": [
-        "That the graph contains numbers",
-        "That one variable causes the other to rise",
-        "That the observations happened in time",
-        "That both variables were measured"
+        "The value is too small",
+        "The precision exceeds what the ruler supports",
+        "Leaves cannot be measured in centimetres",
+        "Lengths must be whole numbers"
       ],
       "answer": 1
     },
     {
-      "question": "Which procedure gives the fairest test of whether the height of a ramp affects a car's travel distance?",
+      "question": "Two quantities rise together. What is not proved by this alone?",
       "options": [
-        "Change the car, surface, and ramp height together",
-        "Use the same car and surface, changing only ramp height",
-        "Record only the longest distance",
-        "Use a different measuring method for each height"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A team shares its results but leaves out how the measurements were taken. What is the main weakness?",
-      "options": [
-        "The data become a scientific law",
-        "The numbers no longer have units",
-        "Other people cannot properly evaluate or repeat the method",
-        "The result must be false"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "An experiment gives a different result when repeated by another group. What should both groups compare?",
-      "options": [
-        "Materials, procedure, measurements, and environmental conditions",
-        "Which conclusion sounds more impressive",
-        "Their handwriting styles",
-        "Which group finished first"
+        "That one causes the other",
+        "That observations occurred in time",
+        "That both were measured",
+        "That the graph has numbers"
       ],
       "answer": 0
     },
     {
-      "question": "A new tool measures a tiny change that older tools could not detect. What does this show?",
+      "question": "Why use a control group in a seed-treatment test?",
       "options": [
-        "Every new measurement proves a theory",
-        "Technology makes reasoning unnecessary",
-        "Technology can help science gather more detailed evidence",
-        "Older observations are always false"
+        "It guarantees success",
+        "It provides a comparison without the treatment",
+        "It must have the highest result",
+        "It removes need for consistent conditions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Only trials supporting a prediction are reported. What is the problem?",
+      "options": [
+        "Selective reporting can distort evidence",
+        "Unreported trials do not matter",
+        "It guarantees a correct average",
+        "It improves representativeness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A model fits known data but fails on new examples. What may be wrong?",
+      "options": [
+        "It may not generalise beyond the original data",
+        "New examples cannot be real",
+        "All earlier observations were false",
+        "Models cannot predict"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A method measures a nearby property instead of the intended one. What is true?",
+      "options": [
+        "It must be random",
+        "It is valid because users agree",
+        "It may be repeatable but invalid for the intended quantity",
+        "It cannot produce numbers"
       ],
       "answer": 2
     },
     {
-      "question": "Why should a report mention limitations such as a small sample size?",
+      "question": "Why can a large survey still mislead?",
       "options": [
-        "It ensures the conclusion cannot change",
-        "Readers can judge how far the conclusion may reasonably apply",
-        "Limitations make all results worthless",
-        "It prevents others from repeating the study"
+        "Large samples guarantee causation",
+        "Selection never matters",
+        "Its sample may be selected in a biased way",
+        "Large samples always remove bias"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A result differs in a cold room and warm room, but room temperature was not recorded. What should improve?",
+      "options": [
+        "Remove colder results",
+        "Monitor or control room temperature",
+        "Use more decimal places only",
+        "Change the conclusion each time"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A model omits details. What should its user consider?",
+      "options": [
+        "A simplified model must be wrong",
+        "Whether omitted details matter for the question",
+        "Every model must show all details",
+        "Simplification guarantees accuracy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which evidence supports measurement reliability?",
+      "options": [
+        "The tool looks new",
+        "Repeated readings under the same conditions are similar",
+        "One reading matches expectations",
+        "The tool is popular"
       ],
       "answer": 1
     }
   ],
   "tooHard": [
     {
-      "question": "A student tests two paper types with five trials each, but one type is tested on a damp table and the other on a dry table. What is the best improvement?",
+      "question": "A study links an app to higher scores, but users chose whether to use it. What weakens causation?",
       "options": [
-        "Repeat the comparison with the same table conditions for both paper types",
-        "Average the results before checking the setup",
-        "Remove the smallest distance from every group",
-        "Add more paper types but keep the unequal conditions"
+        "Groups may differ in motivation or preparation",
+        "The app has a name",
+        "The study used a table",
+        "Scores are numerical"
       ],
       "answer": 0
     },
     {
-      "question": "A team reports a strong conclusion from one sample taken in one place. What is the most important limitation?",
+      "question": "A device measures a proxy for a quantity. What must be established?",
       "options": [
-        "Location never affects observations",
-        "One sample can never provide any information",
-        "The result may not represent other samples or places",
-        "The conclusion must be false"
+        "No other variable changes",
+        "The proxy reliably represents the intended quantity",
+        "The display has many digits",
+        "The device is modern"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Two models explain all observations collected so far. What would be the most informative next step?",
+      "question": "Two models fit existing data. What makes a new experiment informative?",
       "options": [
-        "Stop investigating because both models fit",
-        "Collect only more observations both models already predict",
-        "Design a test where the models predict different outcomes",
-        "Choose the model with the longer name"
+        "Choose the familiar model",
+        "They predict different outcomes in the new test",
+        "The test avoids measurement",
+        "They predict the same result"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "A student repeats trials but records only the ones that support the prediction. What problem does this create?",
+      "question": "A result has more decimal places than the instrument supports. What is affected?",
       "options": [
-        "The missing trials no longer matter",
-        "The repeated trials become more accurate",
-        "The prediction is automatically proven",
-        "Selective reporting makes the evidence misleading"
+        "Justified precision",
+        "Object identity",
+        "Need for units",
+        "Possibility of recording"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A procedure can be repeated only by its original researcher. What should be investigated?",
+      "options": [
+        "Notebook colour",
+        "Researcher popularity",
+        "Report title",
+        "Hidden procedural details or operator effects"
       ],
       "answer": 3
     },
     {
-      "question": "An experiment finds no detectable difference between two treatments. Which conclusion is most careful?",
+      "question": "A model predicts familiar cases but fails in a new condition. What is useful?",
       "options": [
-        "The treatments can never have different effects",
-        "The treatments are identical in every possible way",
-        "This method did not detect a difference under the tested conditions",
-        "The instrument is certainly broken"
+        "Examine assumptions and revise its range if needed",
+        "Assume every model is false",
+        "Delete earlier data",
+        "Ignore evidence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A causal conclusion is drawn from correlated measurements without controlling variables. What is the gap?",
+      "options": [
+        "Measurements must be fake",
+        "Causation cannot be studied",
+        "Other factors may explain the relationship",
+        "Correlation is never useful"
       ],
       "answer": 2
     },
     {
-      "question": "A measuring instrument gives values that are consistently 2 cm too high. What kind of problem is most likely?",
+      "question": "Two instruments agree but share a calibration fault. What does agreement establish?",
       "options": [
-        "A failure to form a hypothesis",
-        "A systematic measurement error",
-        "A change in the independent variable",
-        "A random change in the object every time"
+        "Consistency, not necessarily accuracy",
+        "The quantity is irrelevant",
+        "Absolute accuracy",
+        "Calibration is unnecessary"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A report omits variation and sample sizes while comparing averages. Why incomplete?",
+      "options": [
+        "Averages alone do not show variation or uncertainty",
+        "Averages are never useful",
+        "Sample size has no effect",
+        "Only the largest value matters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A model is revised after strong evidence while supported parts remain. What does this show?",
+      "options": [
+        "Revision means failure",
+        "Scientific explanations can be refined",
+        "Explanations must never change",
+        "Earlier evidence has no value"
       ],
       "answer": 1
     },
     {
-      "question": "A class tests whether fertilizer improves growth, but treated plants also receive more sunlight. What is the main issue?",
+      "question": "A graph uses a truncated axis and looks dramatic. What should be checked?",
       "options": [
-        "Plant height cannot be compared",
-        "The effect of fertilizer is confounded with sunlight",
-        "The tallest plant proves the claim",
-        "Sunlight is never relevant to plants"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student changes the measuring tool halfway through a month-long study. What should be done to protect comparison?",
-      "options": [
-        "Remove the earlier measurements",
-        "Report only the final day's result",
-        "Assume both tools give identical readings",
-        "Check calibration and account for differences between the tools"
+        "Whether data are invented",
+        "Whether slope proves causation",
+        "Only the title",
+        "Axis limits before judging change"
       ],
       "answer": 3
     },
     {
-      "question": "A graph shows a relationship only across a narrow range of temperatures. What is a valid caution?",
+      "question": "A conclusion from one soil type is extended to all soils. What error is this?",
       "options": [
-        "The relationship is false everywhere",
-        "The relationship may not continue outside the measured range",
-        "The same pattern must continue indefinitely",
-        "The graph proves the cause"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A claim conflicts with many earlier studies but comes from a carefully recorded new experiment. What is the balanced response?",
-      "options": [
-        "Check the method and repeat it while comparing it with earlier evidence",
-        "Alter the old records to agree",
-        "Accept it immediately because it is surprising",
-        "Reject it only because it is new"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student measures a leaf repeatedly and gets 7 cm each time, but the ruler has a damaged zero mark. What does repeatability establish?",
-      "options": [
-        "The measurement is certainly exact",
-        "The readings are consistent, but they may still be inaccurate",
-        "The ruler is calibrated correctly",
-        "The leaf cannot be measured"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A class has two groups with very different sample sizes and compares only their averages. What else should it examine?",
-      "options": [
-        "The spread of results and the size of each sample",
-        "Only the largest individual value",
-        "Whether the average is a whole number",
-        "The colour of the graph"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A student concludes that a result is universal because it happened in three trials using the same setup. What is missing?",
-      "options": [
-        "Universal conclusions need no testing",
-        "Evidence across other relevant conditions and samples",
-        "The result should not have been measured",
-        "A fourth identical trial is the only thing needed"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A scientist revises a model after a new observation but keeps parts that still match evidence. What does this demonstrate?",
-      "options": [
-        "The old evidence has no value",
-        "A scientific model must never change",
-        "A model can be refined in response to evidence",
-        "Every revision means the investigation failed"
+        "Measurement with units",
+        "Failure to graph",
+        "Overgeneralisation",
+        "Repeated trial"
       ],
       "answer": 2
     },
     {
-      "question": "A sensor gives precise readings, but it has not been calibrated. Which judgement is strongest?",
+      "question": "A tool has high resolution but readings drift. What must be checked?",
       "options": [
-        "Its readings may be consistent without being accurate",
-        "Precision guarantees accuracy",
-        "The sensor cannot produce useful data",
-        "Calibration matters only for rulers"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "An investigation measures the effect of noise on concentration but lets one group work longer than the other. What is the main concern?",
-      "options": [
-        "Working time is another factor that may affect the comparison",
-        "Noise cannot be investigated",
-        "The longer group must perform worse",
-        "Concentration has no observable effects"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Why is it important to distinguish correlation from causation in a study of screen time and sleep?",
-      "options": [
-        "Correlated quantities are never related",
-        "Causation cannot be investigated",
-        "Correlation proves that one causes the other",
-        "Other factors may influence both screen time and sleep"
+        "Display colour",
+        "Brand",
+        "Number of buttons",
+        "Stability and calibration"
       ],
       "answer": 3
     },
     {
-      "question": "A team finds an unexpected result once, then gets the expected result in four repeats. What should it do?",
+      "question": "Several independent methods support a conclusion. Why can this help?",
       "options": [
-        "Keep the unusual result in the record and investigate possible reasons",
-        "Conclude that every repeat was unnecessary",
-        "Report only the result that was expected",
-        "Delete the first result without mention"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A model works well at ordinary temperatures but fails at very high temperatures. What is the most useful revision?",
-      "options": [
-        "Pretend the high-temperature data do not exist",
-        "State and investigate the model's limits under extreme conditions",
-        "Change the units until it fits",
-        "Declare that models cannot be useful"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student says an experiment is fair because the same person performed every trial, although several other conditions changed. Which response is best?",
-      "options": [
-        "Changing conditions improves fairness",
-        "A fair test does not need comparisons",
-        "A single experimenter guarantees fairness",
-        "Using the same person is not enough; relevant variables must also be controlled"
+        "They guarantee certainty",
+        "They remove reasoning",
+        "All methods must give identical numbers",
+        "One method's weakness is less likely to explain every result"
       ],
       "answer": 3
+    },
+    {
+      "question": "A result is unusual but a confounding variable remains. What is safest?",
+      "options": [
+        "Delete the result",
+        "Confounding matters only in biology",
+        "Unusualness proves causation",
+        "The pattern merits checking, but its cause is uncertain"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A model fails only at extreme temperatures. What should be examined?",
+      "options": [
+        "Change its name",
+        "Avoid evidence",
+        "Erase ordinary observations",
+        "Boundary conditions and assumptions"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A large survey contains only volunteers who support a claim. What is the limitation?",
+      "options": [
+        "Supporters provide no data",
+        "The result must be false",
+        "Volunteer selection may bias the sample",
+        "Large samples represent everyone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Two variables rise together. What helps investigate causation?",
+      "options": [
+        "A colourful graph",
+        "More opinions",
+        "A controlled test addressing alternative causes",
+        "A longer title"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Results change after an unrecorded procedure change. Why is the conclusion weakened?",
+      "options": [
+        "Earlier result is false",
+        "Newer result is always better",
+        "Procedures do not matter",
+        "The cause of the change cannot be identified confidently"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A conclusion is broader than the population tested. What is the problem?",
+      "options": [
+        "It extends beyond the evidence",
+        "Data were measured",
+        "The method was recorded",
+        "A model was used"
+      ],
+      "answer": 0
     }
   ],
   "extreme": [
     {
-      "question": "A study reports that a study app improves marks, but students chose whether to use the app. Which factor most weakens the causal claim?",
+      "question": "A model has many adjustable parameters and fits its original data. Why test separate data?",
       "options": [
-        "Students who chose the app may already differ in motivation or preparation",
-        "The study was conducted in a school",
-        "The results were shown in a table",
-        "Marks are numerical"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two instruments agree closely because both were calibrated against the same incorrect reference. What is the key risk?",
-      "options": [
-        "Both instruments must be randomly faulty",
-        "Agreement proves absolute accuracy",
-        "Their agreement can hide a shared systematic error",
-        "Calibration is unnecessary when readings match"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A researcher builds a model with many adjustable settings and fits all collected data. Why test it on new data?",
-      "options": [
-        "To remove the need for future measurements",
-        "To make the model more complicated",
-        "To check whether it predicts cases not used to tune it",
-        "To guarantee that every setting is correct"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A team notices a pattern, proposes two explanations, and designs an experiment whose possible outcomes differ between them. Why is this especially useful?",
-      "options": [
-        "It makes predictions unnecessary",
-        "It guarantees both explanations are correct",
-        "It avoids collecting evidence",
-        "It can distinguish between competing explanations"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A report gives an average but omits a wide spread in the measurements. What important information is hidden?",
-      "options": [
-        "The date the report was printed",
-        "The name of the measuring instrument",
-        "How much the individual results vary",
-        "The topic of the investigation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A large survey uses a sample selected only from one interested online group. What is the strongest caution?",
-      "options": [
-        "The survey must be false",
-        "The large sample may still be biased and unrepresentative",
-        "Selection method does not affect conclusions",
-        "A large sample automatically removes bias"
+        "To guarantee simplicity",
+        "To check predictions beyond the data used to tune it",
+        "To remove all uncertainty",
+        "To make original data unnecessary"
       ],
       "answer": 1
     },
     {
-      "question": "A measurement method gives the same result for every user but measures a different property from the one intended. What is the best assessment?",
+      "question": "A popular claim rests on one uncontrolled demonstration. Which evaluation is strongest?",
       "options": [
-        "It is valid because users agree",
-        "It is repeatable but does not validly measure the intended property",
-        "It must be affected only by random error",
-        "It cannot generate numerical results"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A claim is supported by several independent methods with different weaknesses. Why can this strengthen confidence?",
-      "options": [
-        "Independent methods remove the need for reasoning",
-        "Several methods guarantee absolute certainty",
-        "All methods must give exactly the same number",
-        "One method's particular weakness is less likely to explain every result"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A study reports that a small difference is meaningful but gives no information about uncertainty or sample size. What is needed?",
-      "options": [
-        "A more dramatic title",
-        "Information about variation, sample size, and measurement uncertainty",
-        "A statement that the difference is permanent",
-        "Only the highest observed value"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A new observation conflicts with a model only under unusual conditions. What should researchers examine?",
-      "options": [
-        "Whether the model's assumptions or range of application need revision",
-        "Whether the model should be accepted without limits",
-        "Whether all earlier evidence is useless",
-        "Whether the observation should be erased"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A scientist planned to test one prediction but notices a different pattern after seeing the data. What should a careful report do?",
-      "options": [
-        "Describe both as predictions made in advance",
-        "Distinguish the planned test from the newly noticed pattern",
-        "Ignore the new pattern forever",
-        "Change the original records to fit the new idea"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A result is statistically unusual, but an uncontrolled variable could explain it. What is the safest conclusion?",
-      "options": [
-        "The pattern deserves investigation, but its cause remains uncertain",
-        "Unusual results always prove causation",
-        "The result must be deleted",
-        "Uncontrolled variables matter only in biology"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A device has excellent resolution but its readings drift during a long experiment. What issue needs attention?",
-      "options": [
-        "Whether the device looks modern",
-        "Calibration and stability over time",
-        "The colour of its screen",
-        "The number of buttons on the device"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A researcher generalises from one kind of soil to all soils. What is the main reasoning error?",
-      "options": [
-        "Repeating an observation",
-        "Using a measurement",
-        "Extending the conclusion beyond the evidence",
-        "Building a model"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A conclusion remains uncertain even after many repeats because the method measures an indirect proxy. What must be checked?",
-      "options": [
-        "Whether the proxy reliably represents the quantity of interest",
-        "Whether the report has a long introduction",
-        "Whether the instrument is new",
-        "Whether all results are whole numbers"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A team has two possible explanations that both fit old observations. What makes a new test informative?",
-      "options": [
-        "The explanations should predict different results in that test",
-        "The test should repeat only a result both predict",
-        "The team should select the more familiar explanation",
-        "The test should avoid measuring outcomes"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A graph's truncated axis makes a small change look dramatic. Which action best supports a fair interpretation?",
-      "options": [
-        "Assume the displayed slope gives the whole story",
-        "Ignore all graphs that begin above zero",
-        "Conclude that the data were invented",
-        "Read the axis limits and compare the change with the full scale"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "An instrument is precise but measures a quantity different from the question being investigated. What is the core failure?",
-      "options": [
-        "The measurement lacks relevance to the intended question",
-        "The quantity cannot be studied",
-        "The result is necessarily random",
-        "The instrument has too many decimal places"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A study's results can be repeated only when the original researcher performs the procedure. What should be examined?",
-      "options": [
-        "Whether the researcher is popular",
-        "Whether hidden procedural details or operator effects affect reproducibility",
-        "Whether the study has a short title",
-        "Whether the results are written neatly"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A scientist rejects an established explanation after one poorly controlled result. What is the strongest criticism?",
-      "options": [
-        "One result is always more reliable than many",
-        "Controlled experiments are unnecessary",
-        "Established explanations can never change",
-        "The evidence is not strong enough to justify the broad change in conclusion"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A group reports only successful trials from a long series. How does this affect the evidence?",
-      "options": [
-        "Selective reporting can distort the overall result",
-        "It makes the sample more representative",
-        "The average is guaranteed to be correct",
-        "Failed trials have no scientific value"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A model predicts known examples accurately but performs poorly on unfamiliar examples. What is the likely concern?",
-      "options": [
-        "All earlier observations were false",
-        "The unfamiliar examples cannot be real",
-        "It may fit the original data without capturing a general pattern",
-        "Prediction quality is unrelated to models"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A measurement is repeated by several people using the same flawed procedure. What does agreement show most directly?",
-      "options": [
-        "No independent method is needed",
-        "The measured quantity is certainly valid",
-        "The result is automatically accurate",
-        "The procedure is consistent, not necessarily correct"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A team compares average growth of two plant groups but one group has far more variable results. What is the best next step?",
-      "options": [
-        "Ignore variation because averages are enough",
-        "Conclude from the group names",
-        "Choose the group with the highest single plant",
-        "Examine the distributions and uncertainty before judging the difference"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A claim is plausible and widely shared but supported by one uncontrolled demonstration. Which evaluation is most scientific?",
-      "options": [
-        "Popularity and plausibility do not replace repeatable, well-controlled evidence",
+        "One demonstration is conclusive",
         "Plausible claims cannot be tested",
-        "A popular claim is reliable by definition",
-        "One demonstration is always conclusive"
+        "Popularity does not replace repeatable, controlled evidence",
+        "Popularity proves reliability"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is a prediction rather than an observation?",
+      "options": [
+        "The leaf has five visible veins",
+        "The shadow will be shorter at noon",
+        "The thermometer reads 25°C",
+        "The shadow is 8 cm long"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which action most improves repeatability?",
+      "options": [
+        "Report only the conclusion",
+        "Describe the method clearly enough for another person to follow",
+        "Change steps without recording them",
+        "Keep the method secret"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which factor should remain constant when comparing two paper towel brands?",
+      "options": [
+        "The conclusion written first",
+        "The volume of water used",
+        "The result expected",
+        "The brand being tested"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of a hypothesis?",
+      "options": [
+        "To guarantee the outcome",
+        "To replace all observations",
+        "To list only facts already known",
+        "To offer a testable explanation or prediction"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A scientific explanation is accepted today. What is still possible?",
+      "options": [
+        "New evidence may lead to its revision",
+        "It becomes a personal preference",
+        "Evidence is no longer needed",
+        "It can never change"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which is the best use of a graph?",
+      "options": [
+        "To replace all measurements",
+        "To make unsupported claims true",
+        "To hide unusual results",
+        "To reveal patterns in recorded data"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Why are limitations included in a scientific report?",
+      "options": [
+        "They ensure the conclusion never changes",
+        "They prevent replication",
+        "They make every result worthless",
+        "They help readers judge how far findings may apply"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the best response when two trials disagree?",
+      "options": [
+        "Delete the less convenient value",
+        "Change the hypothesis to fit one trial",
+        "Average without checking",
+        "Check conditions and repeat carefully where appropriate"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which feature is most important in a fair comparison?",
+      "options": [
+        "Only successful outcomes are recorded",
+        "Different tools are used each time",
+        "Only the intended test factor changes",
+        "Every factor changes together"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What can a model never guarantee on its own?",
+      "options": [
+        "That it can be compared with evidence",
+        "That it represents something",
+        "That every detail of reality is represented perfectly",
+        "That it can simplify a system"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which makes evidence stronger?",
+      "options": [
+        "Results from repeated, well-controlled tests",
+        "An unrecorded procedure",
+        "A conclusion chosen first",
+        "A claim repeated without testing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why can scientific ideas change over time?",
+      "options": [
+        "Popular opinion is the only evidence",
+        "New evidence and improved methods can alter explanations",
+        "All scientific ideas are guesses",
+        "Measurements are never useful"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which statement about a single unusual reading is most reasonable?",
+      "options": [
+        "It must be false",
+        "It always proves the hypothesis",
+        "It should replace all other readings",
+        "It should be recorded and investigated rather than automatically discarded"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does reproducibility mean in an investigation?",
+      "options": [
+        "The experiment has no variables",
+        "The same person remembers the result",
+        "Others can follow the method and check whether similar results occur",
+        "The result can never change"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which evidence best tests whether a new thermometer is accurate?",
+      "options": [
+        "Use it only once",
+        "Compare it with a suitable calibrated reference under the same conditions",
+        "Ask its seller",
+        "Check whether it looks modern"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why should an axis label include a unit?",
+      "options": [
+        "It makes the graph colourful",
+        "It removes the need for data",
+        "It identifies the scale and measured quantity",
+        "It guarantees causation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which statement best describes scientific uncertainty?",
+      "options": [
+        "Measurements and explanations have limits that should be considered",
+        "Uncertainty means guessing only",
+        "Every result is useless",
+        "It prevents all conclusions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A claim is not supported by the collected evidence. What should happen?",
+      "options": [
+        "Insist the claim is true",
+        "Change the recorded data",
+        "Ignore the result",
+        "Revise the claim or collect better evidence"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the most useful reason to compare independent results?",
+      "options": [
+        "To see whether a finding holds beyond one measurement or method",
+        "To select the most attractive graph",
+        "To make all values identical",
+        "To avoid explaining the method"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which is the best reason to use a measuring instrument instead of guessing?",
+      "options": [
+        "It removes the need to record units",
+        "It prevents results from varying",
+        "It provides a more systematic measurement",
+        "It guarantees every hypothesis is correct"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What should be done when reliable evidence disagrees with an accepted explanation?",
+      "options": [
+        "Change the measurements to fit the explanation",
+        "Hide the new evidence",
+        "Re-examine the explanation in light of the evidence",
+        "Keep the explanation unchanged forever"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which feature helps make an experiment fair?",
+      "options": [
+        "Record only expected results",
+        "Use a different measuring scale in every trial",
+        "Change every condition at once",
+        "Keep relevant conditions the same except the factor being tested"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does reproducibility allow other researchers to do?",
+      "options": [
+        "Repeat a method and check whether similar results occur",
+        "Guarantee the same result in every possible setting",
+        "Accept a conclusion without examining it",
+        "Avoid recording procedures"
       ],
       "answer": 0
     }

@@ -2,810 +2,810 @@ window.QuizData = window.QuizData || {};
 window.QuizData["7-science-electricity-circuits-and-their-components"] = {
   "easy": [
     {
-      "question": "Which component supplies electrical energy in a simple school circuit?",
+      "question": "Which component supplies electrical energy in a simple circuit?",
       "options": [
-        "A switch",
-        "An electric cell",
-        "A connecting wire",
-        "A bulb"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What happens to a simple bulb circuit when its switch is open?",
-      "options": [
-        "The circuit becomes closed",
-        "The wire becomes an insulator",
-        "The conducting path is broken and the bulb does not glow",
-        "The cell changes into a bulb"
+        "Switch",
+        "Connecting wire",
+        "Electric cell",
+        "Bulb"
       ],
       "answer": 2
     },
     {
-      "question": "Which material is commonly used as a conductor inside a connecting wire?",
+      "question": "Which metal is commonly used for the conducting core of electrical wires?",
       "options": [
-        "Copper",
         "Rubber",
         "Dry wood",
+        "Copper",
         "Plastic"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which material commonly covers the outside of an electrical wire?",
+      "options": [
+        "Copper",
+        "Plastic",
+        "Iron",
+        "Aluminium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which component opens or closes a circuit?",
+      "options": [
+        "Switch",
+        "Cell",
+        "Bulb",
+        "Wire"
       ],
       "answer": 0
     },
     {
-      "question": "Why is a metal wire usually covered with plastic or rubber?",
+      "question": "What is required for a simple bulb circuit to glow?",
       "options": [
-        "The covering makes the metal a bulb",
-        "The covering supplies energy",
-        "The covering makes current flow through the outside",
-        "The covering helps insulate the wire and reduce accidental contact"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What does a circuit diagram use to represent components?",
-      "options": [
-        "Written paragraphs instead of connections",
-        "Recognised symbols",
-        "Photographs of every component only",
-        "Random shapes without meaning"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which component can be used to open or close a circuit?",
-      "options": [
-        "A thermometer",
-        "A ruler",
-        "A switch",
-        "A magnet"
+        "A broken wire",
+        "An open switch",
+        "A complete conducting path",
+        "A plastic path"
       ],
       "answer": 2
     },
     {
-      "question": "What must a simple cell-bulb circuit have for the bulb to glow?",
+      "question": "Which item is an electrical insulator in ordinary classroom use?",
       "options": [
-        "A plastic path between every connection",
-        "A broken wire near the bulb",
-        "A complete conducting path through the bulb",
-        "A switch that always stays open"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which item is an electrical insulator in ordinary use?",
-      "options": [
-        "Iron",
-        "Copper",
+        "Rubber",
         "Aluminium",
-        "Rubber"
+        "Copper",
+        "Iron"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "What is a battery in common school-level circuit work?",
+      "question": "What represents components in a circuit diagram?",
       "options": [
-        "A single switch",
-        "A length of plastic insulation",
-        "A type of bulb filament",
-        "A combination of electric cells"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "What should you do before changing connections in a school circuit?",
-      "options": [
-        "Touch bare wires while the circuit is powered",
-        "Disconnect the cell or power source and follow the teacher's safety directions",
-        "Join every wire together",
-        "Use a wet hand to hold the cell"
+        "Paragraphs only",
+        "Standard symbols",
+        "Random decorative pictures",
+        "Unlabelled colour patches"
       ],
       "answer": 1
+    },
+    {
+      "question": "A school battery commonly consists of:",
+      "options": [
+        "Two or more electric cells",
+        "Bulbs without cells",
+        "Plastic-covered wire only",
+        "Two switches"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What happens when a simple circuit's switch is opened?",
+      "options": [
+        "The circuit becomes complete",
+        "The wire supplies energy",
+        "The conducting path is broken",
+        "The cell turns into a bulb"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What should be done before changing a school circuit's connections?",
+      "options": [
+        "Join cell terminals directly",
+        "Use wet hands",
+        "Disconnect the cell and follow safety instructions",
+        "Touch bare wires while powered"
+      ],
+      "answer": 2
     }
   ],
   "medium": [
     {
-      "question": "A bulb does not glow although the cell and bulb are working. Which fault could explain this?",
+      "question": "A bulb does not glow because a wire has come loose. What is the direct cause?",
       "options": [
-        "The switch is securely closed and all connections are sound",
-        "The circuit is perfectly closed",
-        "A loose connection leaves the circuit incomplete",
-        "The wire is a good conductor throughout"
+        "The cell became an insulator",
+        "The wire generates energy",
+        "The circuit path is incomplete",
+        "The bulb became a switch"
       ],
       "answer": 2
     },
     {
-      "question": "A circuit contains a cell, switch, bulb, and wires. Which change should make the bulb stop glowing?",
+      "question": "Which component allows a bulb to be switched on and off?",
       "options": [
-        "Tighten a loose connection",
-        "Close an already closed switch",
-        "Replace a short wire with a continuous conductor",
-        "Open the switch"
+        "Thermometer",
+        "Plastic strip",
+        "Switch",
+        "Second bulb only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Copper wire is replaced with dry plastic in the conducting path. What is expected?",
+      "options": [
+        "Plastic supplies energy",
+        "The bulb glows brighter",
+        "The circuit becomes a battery",
+        "The bulb will not glow because the path is insulating"
       ],
       "answer": 3
     },
     {
-      "question": "A learner replaces a copper connecting wire with a piece of dry plastic. What is most likely?",
+      "question": "Which component may fail to glow when connected in reverse?",
       "options": [
-        "The circuit path becomes insulating and the bulb will not glow",
-        "The circuit becomes a battery",
-        "The bulb glows brighter",
-        "The plastic supplies more energy than the cell"
+        "Copper strip",
+        "Ordinary wire",
+        "Closed switch",
+        "LED"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "Why should the positive and negative terminals of a cell be identified when connecting a polarity-sensitive component such as an LED?",
+      "question": "A bulb glows when a wire is pressed against a terminal but goes out when released. What is likely?",
       "options": [
-        "Polarity makes an open switch closed automatically",
-        "An LED is a source of energy",
-        "The component may work only when connected with the correct polarity",
-        "Terminals determine the wire's colour"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which is the clearest advantage of a circuit diagram over a drawing of a messy real setup?",
-      "options": [
-        "It shows the actual size of every component",
-        "It proves the circuit works without testing",
-        "Standard symbols and clear connections make the circuit easier to interpret",
-        "It eliminates the need to show connections"
+        "A perfect connection",
+        "Too much insulation everywhere",
+        "A loose contact",
+        "A switch that cannot open"
       ],
       "answer": 2
     },
     {
-      "question": "A bulb glows when a wire is pressed firmly against a terminal but goes out when released. What is the likely issue?",
+      "question": "Which description represents a complete circuit?",
       "options": [
-        "A permanently open circuit in every position",
-        "A loose or unreliable connection",
-        "A cell that is too large to fit",
-        "A wire that is always an insulator"
+        "A wire ends before reaching the cell",
+        "The only switch is open",
+        "A cell is beside an unconnected bulb",
+        "A closed loop connects the cell and bulb through wires"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which material is most likely to conduct in a simple test circuit?",
+      "options": [
+        "Plastic ruler",
+        "Copper strip",
+        "Dry wooden stick",
+        "Rubber band"
       ],
       "answer": 1
     },
     {
-      "question": "Why should a switch be included in a circuit?",
+      "question": "Why are standard circuit symbols useful?",
       "options": [
-        "It creates electrical energy from nothing",
-        "It changes every conductor into an insulator",
-        "It replaces the cell in all circuits",
-        "It lets the conducting path be opened or closed conveniently"
+        "They eliminate wires",
+        "They guarantee the real circuit works",
+        "They show actual component sizes",
+        "They show connections clearly and consistently"
       ],
       "answer": 3
     },
     {
-      "question": "A learner tests a metal spoon and a plastic ruler in a low-voltage circuit with a suitable indicator. What difference is expected?",
+      "question": "One cell is reversed in a multi-cell holder. What may happen?",
       "options": [
-        "The plastic must conduct better than the metal",
-        "Both materials must conduct equally",
-        "Neither material can ever affect the circuit",
-        "The metal is more likely to conduct than the plastic"
+        "The cells' effects may oppose instead of adding as intended",
+        "The holder becomes a bulb",
+        "The switch becomes a cell",
+        "The wires stop conducting"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "Two cells are placed in a holder, but one is reversed. Why might the circuit not behave as intended?",
+      "question": "A wire directly joins both terminals of a cell. What is this called?",
       "options": [
-        "The wires stop being conductors",
-        "The bulb becomes a switch",
-        "The cells may oppose each other rather than add their effects",
-        "The holder turns into an insulator"
+        "Neutral circuit",
+        "Insulated circuit",
+        "Short circuit",
+        "Open circuit"
       ],
       "answer": 2
-    },
-    {
-      "question": "A bulb is connected directly across a cell with a wire bypassing the bulb. What is the concern?",
-      "options": [
-        "The circuit has no path for current",
-        "The wire becomes a switch that controls the bulb",
-        "The bulb must glow brighter",
-        "The wire may create a short circuit and an unsafe high current"
-      ],
-      "answer": 3
     }
   ],
   "hard": [
     {
-      "question": "A bulb fails to glow. The cell works, the bulb works, and the switch is closed. Which check is most relevant next?",
+      "question": "The cell and bulb work, and the switch is closed, but the bulb remains off. What should be checked?",
       "options": [
-        "Cover the cell in plastic",
-        "Inspect for loose connections or a break in the conducting path",
-        "Assume the bulb is too bright to see",
-        "Replace every component without checking"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student draws a circuit diagram with a gap in the wire but says the bulb should glow. What is the key correction?",
-      "options": [
-        "A gap makes the circuit conduct better",
-        "A bulb glows whenever a cell is drawn",
-        "The diagram shows an open path, so current cannot complete the circuit",
-        "Circuit diagrams do not represent connections"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why is connecting a wire directly between the terminals of a cell dangerous?",
-      "options": [
-        "It can create a short circuit with a large current and heating",
-        "It reduces current to exactly zero in all cases",
-        "It makes the cell a switch",
-        "It changes the cell into an insulator"
+        "A break or loose connection",
+        "Bulb colour",
+        "Cell label",
+        "Drawing shape"
       ],
       "answer": 0
     },
     {
-      "question": "A metal strip allows a test lamp to glow, while a plastic strip does not. Which inference is justified?",
+      "question": "Which description is an open circuit?",
       "options": [
+        "A closed switch completes the path",
+        "A break prevents a complete conducting loop",
+        "A conductor joins the source continuously",
+        "A continuous loop connects every component"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why can a direct wire across a cell be dangerous?",
+      "options": [
+        "It makes the cell an insulator",
+        "A low-resistance path can cause a large current and heating",
+        "It turns the wire into a switch",
+        "It always reduces current to zero"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A metal strip makes a test bulb glow, but a plastic strip does not. What follows?",
+      "options": [
+        "The test gives exact chemical formulas",
+        "The metal conducts sufficiently in this test; the plastic does not",
         "The plastic has no atoms",
-        "The metal is necessarily magnetic",
-        "The test proves the exact chemical composition of both strips",
-        "The metal strip conducts in this setup, while the plastic strip does not conduct sufficiently"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "An LED does not glow in a circuit, but a regular bulb does when substituted. What should be checked first?",
-      "options": [
-        "Whether circuit diagrams use colour",
-        "The LED's polarity and whether the circuit conditions suit it",
-        "Whether the cell has turned into a switch",
-        "Whether the connecting wires are all insulators"
+        "The metal must be magnetic"
       ],
       "answer": 1
     },
     {
-      "question": "A circuit diagram has all the right symbols but wires cross without showing a connection clearly. What should be improved?",
+      "question": "A bulb works but an LED does not in the same circuit. What should be checked first?",
       "options": [
-        "Change the cell symbol into a bulb",
-        "Add decorative pictures of the cell",
-        "Make junctions and crossings unambiguous",
-        "Remove all component labels"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A student uses a switch to interrupt a circuit and the bulb goes out. What does this demonstrate?",
-      "options": [
-        "The bulb is a conductor only when glowing",
-        "A switch generates energy",
-        "An open switch breaks the conducting path",
-        "The cell stops being a source"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Why should a material test use the same cell and indicator for each sample?",
-      "options": [
-        "It removes the need to label samples",
-        "It guarantees all samples conduct",
-        "It changes every sample into metal",
-        "It keeps the comparison conditions more consistent"
+        "Whether the cell has terminals",
+        "Whether the bulb was too bright",
+        "Whether wires became plastic",
+        "LED polarity and circuit suitability"
       ],
       "answer": 3
     },
     {
-      "question": "A bulb glows weakly after several cells are connected incorrectly. What should be checked before drawing a conclusion about bulb brightness?",
+      "question": "A circuit diagram has unclear wire crossings. What should be improved?",
       "options": [
-        "The colour of the bulb holder only",
-        "The length of the student's name",
-        "Whether the diagram is drawn neatly",
-        "Cell orientation, connections, and circuit arrangement"
+        "Make the connections at crossings unambiguous",
+        "Add decorative pictures",
+        "Remove the cell symbol",
+        "Change wires into bulbs"
       ],
-      "answer": 3
+      "answer": 0
     },
     {
-      "question": "A student says a thick plastic coating means the wire inside is an insulator. What is the mistake?",
+      "question": "A closed switch is present, but the bulb is not connected to the return wire. What is missing?",
       "options": [
-        "Plastic and copper always conduct equally",
-        "The coating and the metal core have different electrical roles",
-        "A wire has no separate materials",
-        "Insulation creates electrical energy"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which diagram description represents a complete simple circuit?",
-      "options": [
-        "The switch is open and a wire ends before the cell",
-        "A bulb is shown without a source or conducting path",
-        "A cell and bulb are drawn nearby but not connected",
-        "One continuous conducting loop connects the cell, switch, and bulb, with the switch closed"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A cell becomes warm when its terminals are accidentally joined by a low-resistance wire. What should happen next?",
-      "options": [
-        "Touch the bare wire to check current",
-        "Keep the wire connected to see how hot it gets",
-        "Disconnect it safely and inform the teacher",
-        "Add more wires across the terminals"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A learner wants to find out which of four materials conducts electricity. Which procedure is most suitable?",
-      "options": [
-        "Judge by colour and shine alone",
-        "Test only the material expected to conduct",
-        "Insert each material in the same test circuit and record whether the indicator responds",
-        "Use different cells and bulbs for each material without recording changes"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A switch is closed but the bulb remains off because the bulb is not connected to the return wire. What is missing?",
-      "options": [
-        "A plastic bridge between the terminals",
+        "A second battery label",
+        "A larger bulb symbol",
         "A complete conducting loop",
-        "A larger drawing of the bulb",
-        "A second switch in every circuit"
+        "A plastic bridge"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which procedure best compares conductivity of four materials?",
+      "options": [
+        "Judge only by shine",
+        "Change the cell and bulb each time without recording",
+        "Test only the expected conductor",
+        "Use the same safe test circuit and change only the material"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A cell becomes warm after its terminals are joined by a wire. What should happen next?",
+      "options": [
+        "Disconnect it safely and inform the teacher",
+        "Cover it and leave it running",
+        "Keep it connected and touch it",
+        "Add another wire"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does an open switch do to its branch of a simple circuit?",
+      "options": [
+        "Makes every component an insulator",
+        "Interrupts the conducting path",
+        "Always increases current",
+        "Supplies energy"
       ],
       "answer": 1
     },
     {
-      "question": "A student connects a component that requires a particular polarity in reverse. Why might it fail to operate?",
+      "question": "Why is a metal wire covered with plastic?",
       "options": [
-        "All components work identically in either direction",
-        "Its internal electrical behaviour depends on the direction of connection",
-        "Polarity is a feature only of circuit symbols",
-        "The cell no longer has terminals"
+        "It creates current",
+        "It replaces the cell",
+        "Plastic conducts better than copper",
+        "The covering helps prevent accidental contact with the conducting core"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "An LED is reversed and does not glow. What cannot be concluded from this alone?",
+      "options": [
+        "That the cell and all wires are faulty",
+        "That polarity should be checked",
+        "That direction may matter",
+        "That troubleshooting is needed"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Two diagrams have different layouts but identical connections. What is correct?",
+      "options": [
+        "Only one can be a diagram",
+        "They can represent the same circuit",
+        "Connections do not matter",
+        "They must behave differently"
       ],
       "answer": 1
+    },
+    {
+      "question": "A bulb stays off because a wire is broken inside its insulation. What is the issue?",
+      "options": [
+        "The bulb is an insulator",
+        "The conducting path is interrupted although the outside looks intact",
+        "The circuit is complete because insulation looks fine",
+        "The cell became a switch"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main purpose of a return path in a simple circuit?",
+      "options": [
+        "To increase bulb size",
+        "To replace the switch",
+        "To decorate the diagram",
+        "To complete the conducting loop back to the source"
+      ],
+      "answer": 3
     }
   ],
   "tooHard": [
     {
-      "question": "A circuit works only when a wire is held at a particular angle. Which diagnosis is most likely?",
+      "question": "A bulb lights only when a wire is held at a particular angle. What is most likely?",
       "options": [
-        "The switch is always open regardless of position",
-        "A loose contact or damaged wire is intermittently breaking the path",
-        "The circuit is perfectly reliable",
-        "The cell has no terminals"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A student tests conductivity by placing a metal strip in a circuit, then changes both the cell and bulb for the plastic test. Why is the comparison weaker?",
-      "options": [
-        "Plastic and metal are the same substance",
-        "More than the tested material changed between trials",
-        "A bulb cannot be used to indicate current",
-        "Conductivity cannot be tested in circuits"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A circuit diagram shows a wire crossing another wire without a dot. Why should the diagram be checked carefully?",
-      "options": [
-        "A crossing always breaks both wires",
-        "Every crossing always means a connection",
-        "The drawing convention must make clear whether the wires join",
-        "Dots are used only to label cells"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A cell is connected directly by a wire and quickly becomes warm. Which explanation best fits?",
-      "options": [
-        "The cell is generating no current",
-        "The wire has become an insulator",
-        "The switch has changed into a bulb",
-        "The low-resistance path can allow a large current and heating"
+        "A perfectly reliable connection",
+        "A cell with no terminals",
+        "A switch that is always open",
+        "An intermittent loose contact or damaged wire"
       ],
       "answer": 3
     },
     {
-      "question": "A learner says the bulb is faulty because it does not glow in a circuit with a reversed LED. What is the best troubleshooting order?",
+      "question": "A conductivity test changes both the material and the cell between trials. Why is it weak?",
       "options": [
-        "Replace the cell immediately every time",
-        "Connect the cell terminals directly",
-        "Remove all wires and declare the circuit complete",
-        "Check polarity and each connection before replacing components"
+        "More than the tested material changed",
+        "Conductivity cannot be tested",
+        "The materials must be identical",
+        "A bulb cannot indicate current"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A circuit diagram shows a crossing without making the connection clear. What should be clarified?",
+      "options": [
+        "Cell's brand",
+        "Paper colour",
+        "Bulb's actual size",
+        "Whether the wires join at that point"
       ],
       "answer": 3
     },
     {
-      "question": "A class uses a bulb to test materials, but a very poor conductor gives no visible glow. What limitation should be considered?",
+      "question": "A cell and wire heat during a direct terminal connection. What explains this?",
+      "options": [
+        "The low-resistance path may allow excessive current and heating",
+        "The cell is a switch",
+        "There is no current",
+        "The wire became an insulator"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A regular bulb works but an LED does not. Which troubleshooting step is best?",
+      "options": [
+        "Remove all wires",
+        "Assume all components are broken",
+        "Connect cell terminals directly",
+        "Check LED polarity and circuit conditions before replacing parts"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A poor conductor is tested with a bulb that does not glow. What limitation matters?",
       "options": [
         "The bulb measures exact resistance",
-        "The material must be a perfect insulator",
         "All materials conduct equally",
-        "The test may not detect small currents or weak conduction reliably"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A circuit has two cells placed in opposite directions in a holder. What is a likely effect compared with the intended arrangement?",
-      "options": [
-        "Their electrical effects may oppose, reducing the intended supply",
-        "The wires stop conducting",
-        "They automatically become two switches",
-        "The bulb becomes a source of energy"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Why should students not investigate a short circuit by repeatedly connecting a bare wire across a cell?",
-      "options": [
-        "The cell becomes safer as it heats",
-        "Short circuits are required for every bulb",
-        "Bare wires always limit current",
-        "The large current can cause heating and damage"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A diagram uses a bulb symbol but omits the switch position. What information is needed to judge whether the circuit is complete?",
-      "options": [
-        "The real size of the cell",
-        "The student's preferred drawing style",
-        "Whether the connections form a continuous path and the switch is closed",
-        "The colour of the bulb"
+        "The bulb may not visibly indicate a small current",
+        "The material must be a perfect insulator"
       ],
       "answer": 2
     },
     {
-      "question": "A wire's metal core conducts, but its outer covering is plastic. Which statement best describes the construction?",
+      "question": "Two cells are installed in opposing orientations. What may happen?",
       "options": [
-        "The metal provides a conducting path while the plastic insulates it",
-        "The metal core prevents any current from flowing",
-        "The plastic supplies energy to the circuit",
-        "Both layers are intended to conduct equally"
+        "The wires stop conducting",
+        "The bulb becomes a source",
+        "Their effects may oppose, reducing the intended supply",
+        "They become switches"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
-      "question": "A bulb does not glow in a circuit with a known good cell and bulb. The switch is closed and wires appear connected. What is a useful next test?",
+      "question": "Why should a short circuit not be repeatedly made across a cell?",
       "options": [
-        "Assume every component is faulty at once",
-        "Check each connection and test the conducting path systematically",
-        "Increase the voltage by shorting the cell",
-        "Remove the bulb and expect it to glow"
+        "Bare wires always limit current",
+        "Excessive current can heat or damage components",
+        "The cell becomes safer as it heats",
+        "A short circuit is needed for every bulb"
       ],
       "answer": 1
     },
     {
-      "question": "A material conducts when dry but the test setup changes when it is inserted. What should be controlled?",
+      "question": "A diagram omits whether the switch is open or closed. What is missing?",
       "options": [
-        "The order of the letters in the notebook",
-        "The observer's age",
-        "Only the material's name",
-        "The contact arrangement and other circuit conditions"
+        "Artist's name",
+        "Whether the conducting path is complete",
+        "Cell size",
+        "Bulb colour"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the roles of the two layers in a plastic-coated copper wire?",
+      "options": [
+        "Copper conducts; plastic insulates",
+        "Both layers conduct equally",
+        "Plastic supplies energy",
+        "Copper prevents all current"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A good cell and bulb are present but the bulb does not glow. What is a useful next step?",
+      "options": [
+        "Assume the diagram guarantees operation",
+        "Short the cell to increase current",
+        "Inspect connections systematically and check the path safely",
+        "Replace every part at once"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A material gives inconsistent results when moved in the circuit. What should be checked?",
+      "options": [
+        "Experiment title",
+        "Observer's age",
+        "Material colour",
+        "Contact pressure and connection reliability"
       ],
       "answer": 3
     },
     {
-      "question": "A learner uses an LED as a test indicator without checking its polarity. What error may follow?",
+      "question": "An LED is used without checking polarity. What error may follow?",
       "options": [
-        "Polarity never matters for LEDs",
+        "A working path may be mistaken for a broken circuit if the LED is reversed",
         "The LED becomes a cell",
-        "A reverse connection proves the material is an insulator",
-        "A conducting circuit may be mistaken for a broken circuit if the LED is reversed"
+        "Polarity never matters",
+        "The material is proven insulating"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An open switch is bypassed by another wire. What determines whether current continues?",
+      "options": [
+        "Switch colour",
+        "Wire's name",
+        "Whether the bypass leaves a complete conducting path",
+        "Number of labels"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A material conducts in one trial but not another. What should be checked before classification?",
+      "options": [
+        "Whether it became plastic",
+        "Whether the first result should be erased",
+        "Whether conductors can be tested once",
+        "Loose contacts, surface condition, and setup differences"
       ],
       "answer": 3
     },
     {
-      "question": "Two circuit diagrams use different layouts but the same component connections. What should determine whether they represent the same circuit?",
+      "question": "Why follow cell-orientation markings in a multi-cell holder?",
       "options": [
-        "The number of colours used",
-        "The electrical connections, not the visual arrangement on the page",
-        "The size of the symbols",
-        "Whether the cell is drawn on the left"
+        "Orientation makes wires insulating",
+        "Markings are decorative",
+        "Correct orientation helps provide the intended combined supply",
+        "Markings determine bulb colour"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A diagram shows a closed switch but a gap in another wire. Will the bulb glow?",
+      "options": [
+        "Only if the wire is plastic",
+        "No, the gap still interrupts the conducting path",
+        "Yes, a closed switch repairs every gap",
+        "Yes, symbols create current"
       ],
       "answer": 1
     },
     {
-      "question": "A wire bypasses the bulb but the switch is open elsewhere in the circuit. What must be checked before claiming a short circuit is active?",
+      "question": "How can an open circuit be distinguished from a poor conductor when a bulb fails to glow in both cases?",
       "options": [
-        "Whether the bulb is drawn neatly",
-        "Whether the circuit has a title",
-        "Whether the wire is copper-coloured",
-        "Whether the actual connections create a closed low-resistance path across the source"
+        "Judge only by colour",
+        "Assume the cases are identical",
+        "Short the cell directly",
+        "Check connections and use a suitable safe indicator or measuring method"
       ],
       "answer": 3
     },
     {
-      "question": "A student finds that a metal object conducts in one test but not another. Which cause should be investigated first?",
+      "question": "A battery pack heats after a wire slips across its terminals. What is safest?",
       "options": [
-        "Loose contacts, surface condition, or differences in the test setup",
-        "The object has changed into plastic",
-        "The first observation must be erased",
-        "Conductors cannot be tested twice"
+        "Touch the wire to find the hottest point",
+        "Disconnect it safely and alert the teacher",
+        "Add another wire",
+        "Leave it connected under a cover"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "A cell holder has markings for terminal orientation. Why should the markings be followed when assembling a multi-cell circuit?",
+      "question": "A complete circuit diagram does not work in real life. What is the best approach?",
       "options": [
-        "Correct orientation helps the cells provide the intended combined supply",
-        "Orientation makes wires into insulators",
-        "Cell orientation is only decorative",
-        "The markings decide the bulb's colour"
+        "Assume symbols guarantee operation",
+        "Compare real connections with the diagram and test components safely",
+        "Short the cell",
+        "Redraw repeatedly without inspection"
       ],
-      "answer": 0
-    },
-    {
-      "question": "A circuit is represented by standard symbols but has a switch drawn closed and a gap in another wire. Will the bulb glow?",
-      "options": [
-        "Yes, because a closed switch repairs every gap",
-        "Only if the wires are plastic",
-        "Yes, because symbols create current",
-        "No, because the gap still interrupts the conducting path"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to distinguish an open circuit from a poor conductor using only a bulb that may not glow for either. What would improve the test?",
-      "options": [
-        "Judge only by the material's colour",
-        "Use a direct short across the cell",
-        "Assume both situations are identical",
-        "Check connections and use a suitable, safe indicator or measuring method"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A battery pack heats after a wire slips across its terminals. What is the safest immediate action?",
-      "options": [
-        "Cover the pack and leave it connected",
-        "Add a second wire across the terminals",
-        "Hold the wire to find the hottest point",
-        "Disconnect the power source safely and alert the teacher"
-      ],
-      "answer": 3
+      "answer": 1
     }
   ],
   "extreme": [
     {
-      "question": "A team claims a material is an insulator because a bulb did not glow, but the cell is weak and the contacts are loose. What is the strongest critique?",
+      "question": "A material is called an insulator because a bulb did not glow, but the cell is weak and contacts are loose. What is the strongest criticism?",
       "options": [
-        "The material must be a metal",
-        "The setup cannot isolate the material's conductivity from circuit faults",
-        "A bulb is never useful for conductivity testing",
-        "All materials conduct electricity"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two cells provide less effect than expected because they are installed in opposing orientations. What principle explains this?",
-      "options": [
-        "Opposing cells turn into insulators",
-        "The cells' effects can oppose instead of adding in the intended direction",
-        "Cell orientation affects only appearance",
-        "The bulb creates the missing energy"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A circuit contains a very low-resistance path bypassing the bulb. Why is this not simply a brighter-bulb arrangement?",
-      "options": [
-        "A bypass always increases the bulb's resistance",
-        "The bulb receives all current automatically",
-        "Much of the current can bypass the bulb, while the large current can heat the circuit path",
-        "A short circuit is the same as an open circuit"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A diagram's symbols are correct, but the junctions are ambiguous. What is the most important revision?",
-      "options": [
-        "Replace the wires with photographs",
-        "Make every symbol larger without changing the junctions",
-        "Remove the cell terminals",
-        "Clarify which wires connect at each junction or crossing"
+        "The material must be metal",
+        "All materials conduct equally",
+        "A bulb is never useful for testing",
+        "The setup cannot separate material behaviour from circuit faults"
       ],
       "answer": 3
     },
     {
-      "question": "A test circuit uses a regular bulb to compare conductors, but one sample allows only a very small current. Why may the conclusion be limited?",
+      "question": "Two cells provide less effect than expected because they oppose each other. What explains this?",
       "options": [
-        "A bulb always detects any current",
-        "The sample changes into an insulator when tested",
-        "A dim bulb proves a perfect conductor",
-        "The bulb may not visibly glow even when some current passes"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A polarity-sensitive component is reversed, and the circuit appears not to work. What does this result fail to establish?",
-      "options": [
-        "It proves polarity never matters",
-        "It proves every component is broken",
-        "It establishes the material's exact composition",
-        "It does not by itself prove the cell, wires, or tested material are faulty"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student wants to test whether a liquid conducts, but uses exposed mains electricity. What is the central safety issue?",
-      "options": [
-        "The method creates a serious electric-shock hazard and should not be used",
-        "Mains electricity is needed for every school test",
-        "Liquids cannot conduct electricity",
-        "A higher voltage always improves safety"
+        "Their electrical effects may oppose instead of adding as intended",
+        "Opposing cells become insulators",
+        "Orientation affects appearance only",
+        "The bulb creates missing energy"
       ],
       "answer": 0
     },
     {
-      "question": "A switch is open, but a wire accidentally connects around it. What determines whether opening the switch stops current through the rest of the circuit?",
+      "question": "A wire bypasses a bulb through a low-resistance path. Why is this a short-circuit concern?",
       "options": [
-        "The number of symbols on the diagram",
-        "The switch's colour",
-        "The length of the student's explanation",
-        "Whether the bypass still leaves a complete conducting path"
+        "A bypass always increases resistance",
+        "A short circuit is an open circuit",
+        "The bulb automatically receives all current",
+        "Current can bypass the bulb and heat the circuit path"
       ],
       "answer": 3
     },
     {
-      "question": "Two circuit drawings look different but have identical electrical connections. Which conclusion is best?",
+      "question": "Circuit symbols are correct but junctions are ambiguous. What is the most important revision?",
       "options": [
-        "Only one drawing can be a circuit diagram",
-        "Connections do not matter in a circuit",
-        "They can represent the same circuit despite different layouts",
-        "They must behave differently because their pictures differ"
+        "Replace wires with photographs",
+        "Remove cell terminals",
+        "Clarify which wires connect at each crossing or junction",
+        "Make symbols larger only"
       ],
       "answer": 2
     },
     {
-      "question": "A material gives inconsistent results in a conductivity test after being moved. What should be examined before classifying it?",
+      "question": "A bulb is used to test a material that allows a tiny current. Why may no glow be inconclusive?",
+      "options": [
+        "A bulb detects every current",
+        "The bulb may not visibly respond to a very small current",
+        "The material changes into an insulator",
+        "No glow proves a perfect insulator"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An LED is reversed and the circuit fails. What does this not prove?",
+      "options": [
+        "That troubleshooting is needed",
+        "That the cell, wires, and test material are all faulty",
+        "That polarity should be checked",
+        "That the LED may be direction-sensitive"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which method is unsafe for testing whether a liquid conducts in a school activity?",
+      "options": [
+        "Following safety directions",
+        "Using a teacher-approved low-voltage circuit",
+        "Using exposed household mains electricity",
+        "Using insulated connections"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An open switch is bypassed by another wire. What determines whether current stops?",
+      "options": [
+        "Whether the bypass still provides a complete path",
+        "Switch colour",
+        "Number of symbols",
+        "Bulb size"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Two circuit diagrams differ visually but have the same electrical connections. What is correct?",
+      "options": [
+        "They can represent the same circuit",
+        "They must behave differently",
+        "Only one can use symbols",
+        "Connections do not matter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A material gives inconsistent results after being moved. What should be checked?",
       "options": [
         "Contact pressure, surface condition, and circuit continuity",
-        "Whether the student expected it to conduct",
-        "The title of the investigation",
-        "Only its colour"
+        "Only colour",
+        "Expected answer",
+        "Experiment title"
       ],
       "answer": 0
     },
     {
-      "question": "A short circuit makes a cell and wire heat. Why should the circuit be disconnected rather than left to run as a demonstration?",
+      "question": "A short circuit heats a cell and wire. Why disconnect it immediately?",
       "options": [
-        "Heating proves the circuit is efficient",
-        "The large current can damage components and cause burns or fire",
-        "A short circuit is necessary for every circuit",
-        "A warm cell cannot be damaged"
+        "Excess current can damage components and cause burns or fire",
+        "Warm cells cannot be damaged",
+        "Short circuits are required",
+        "Heating proves efficiency"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "A teacher asks whether a bulb is faulty, but the same bulb glows in a second circuit. What is a strong inference?",
+      "question": "A bulb glows in a second circuit but not the first. What is a strong inference?",
       "options": [
-        "Bulbs do not depend on circuits",
+        "The bulb is faulty in both circuits",
         "The second circuit cannot be complete",
-        "The bulb is certainly faulty in both circuits",
-        "The first circuit's connections or arrangement may be responsible"
+        "The first circuit's connections or arrangement may be responsible",
+        "Bulbs do not depend on paths"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
-      "question": "A class compares a metal sample and plastic sample but uses different contact areas. Why does that weaken the comparison?",
+      "question": "Metal and plastic samples are tested with different contact areas. Why is the comparison weaker?",
       "options": [
         "Plastic is always a conductor",
-        "Contact area can never matter",
-        "The test proves both samples are identical",
+        "Samples are proven identical",
+        "Contact area never matters",
         "Contact quality is another variable that may affect the result"
       ],
       "answer": 3
     },
     {
-      "question": "A cell's terminals are connected by a wire without a useful component. Which circuit feature creates the hazard?",
+      "question": "A wire directly connects a cell's terminals. What creates the hazard?",
       "options": [
-        "An open path prevents current",
         "A low-resistance path can permit excessive current",
-        "The wire becomes a battery",
-        "The cell's terminals disappear"
+        "An open path prevents current",
+        "The terminals disappear",
+        "The wire becomes a battery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A diagram shows an open switch, but the bulb is predicted to glow. What is the key error?",
+      "options": [
+        "Open and closed mean the same",
+        "The open switch interrupts the path unless another complete path exists",
+        "Switch position never matters",
+        "Diagrams show only names"
       ],
       "answer": 1
     },
     {
-      "question": "A learner uses a circuit diagram to predict operation but ignores that the switch is open. What is the reasoning error?",
+      "question": "A circuit fails with an LED but works with a regular bulb. What should be checked first?",
       "options": [
-        "Switch position has no effect on a circuit",
-        "A closed switch always appears open",
-        "A diagram only shows component names",
-        "The diagram's component state is part of the circuit conditions"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A circuit fails with an LED but works with a regular bulb. Which explanation should be checked first?",
-      "options": [
-        "The LED may be reversed or require suitable circuit conditions",
-        "The cell has no energy because a bulb glowed",
-        "LEDs generate their own electrical supply",
-        "The connecting wires must be insulators"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A conductor test is repeated with a fresh cell and secure contacts, and the material still gives no response. What can be concluded most carefully?",
-      "options": [
-        "It did not conduct enough current to trigger this test under these conditions",
-        "It must be a non-metal by appearance",
-        "The cell has been short-circuited",
-        "It is proven to be an absolute insulator in every situation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A battery pack warms even though a bulb is not glowing. Which fault deserves immediate attention?",
-      "options": [
-        "A perfectly open circuit with no path",
-        "A missing label on the diagram",
-        "A correctly insulated wire far from the pack",
-        "A short circuit or unintended low-resistance connection"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A circuit's diagram is complete but the real circuit does not work. What is the best troubleshooting approach?",
-      "options": [
-        "Assume symbols always guarantee operation",
-        "Short the cell to increase current",
-        "Redraw the same diagram repeatedly without inspection",
-        "Compare actual connections with the diagram and test each component safely"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A learner says that because copper conducts, every object containing copper must conduct through its outer surface. What is missing from this reasoning?",
-      "options": [
-        "Electrical current travels only through air",
-        "All coatings are conductors",
-        "Copper never conducts in a wire",
-        "The object's structure and any insulating coating affect the available path"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A student compares conductors with a bulb that is damaged and fails to light for any sample. What does this test show?",
-      "options": [
-        "The cell is definitely too powerful",
-        "The indicator or setup is faulty, so the material results cannot be trusted",
-        "All materials have equal conductivity",
-        "Every tested material is an insulator"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A low-voltage classroom circuit contains a metal object, but the bulb glows only when the object is pressed tightly against a terminal. What should be inferred?",
-      "options": [
-        "Contact resistance or a loose connection may be affecting the test",
-        "The metal becomes an insulator when not pressed",
-        "The bulb is producing current without the cell",
-        "The circuit diagram is irrelevant"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A circuit includes a switch, but a separate wire forms a complete loop around the open switch. What will happen to the switch's control?",
-      "options": [
-        "The bypass guarantees an open circuit",
-        "The cell becomes disconnected automatically",
-        "The bypass may allow current to continue despite the switch being open",
-        "The switch must stop every possible path"
+        "The cell has no energy",
+        "LEDs generate their own supply",
+        "The LED may be reversed or need suitable circuit conditions",
+        "The wires must be insulators"
       ],
       "answer": 2
     },
     {
-      "question": "A student wants to test a new material without risking a short circuit. Which design is best?",
+      "question": "A material gives no response after the circuit is checked and a fresh cell is used. What is most careful?",
       "options": [
-        "Connect a wire directly across the cell first",
-        "Use household mains to make the result clearer",
-        "Hold bare terminals while changing samples",
-        "Use a teacher-approved low-voltage test circuit with a suitable indicator and current-limiting arrangement"
+        "It must be a non-metal by appearance",
+        "It did not conduct enough current to trigger this test under these conditions",
+        "The cell is definitely short-circuited",
+        "It is an absolute insulator in every situation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A battery pack warms while the bulb is off. Which fault needs immediate attention?",
+      "options": [
+        "A perfectly open circuit with no path",
+        "A short circuit or unintended low-resistance connection",
+        "A safely insulated wire far away",
+        "A missing diagram label"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A complete diagram does not work in real life. What is the best troubleshooting method?",
+      "options": [
+        "Compare real connections with the diagram and test each part safely",
+        "Short the cell",
+        "Assume every component works",
+        "Redraw without inspection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An object contains copper but is covered in thick plastic. Why may it fail as a test contact?",
+      "options": [
+        "All coatings conduct equally",
+        "Copper never conducts in wires",
+        "The insulating coating prevents contact with the conducting core",
+        "Current travels only through plastic"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A damaged bulb fails in every test. What does this mean for material testing?",
+      "options": [
+        "All materials have equal conductivity",
+        "The cell is too powerful",
+        "The indicator is unreliable, so material results cannot be trusted",
+        "Every material is an insulator"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A metal object works only when pressed tightly against a terminal. What is likely?",
+      "options": [
+        "The metal becomes insulating when released",
+        "The diagram is irrelevant",
+        "Poor contact may affect the result",
+        "The bulb creates current without a cell"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A wire forms a complete path around an open switch. What may happen?",
+      "options": [
+        "The open switch stops every path",
+        "The cell disconnects automatically",
+        "A bypass guarantees an open circuit",
+        "Current may continue through the bypass despite the open switch"
       ],
       "answer": 3
     },
     {
-      "question": "A circuit diagram has a closed switch and complete loop, but a bulb still fails. Which conclusion is most appropriate?",
+      "question": "Which design safely tests a new material?",
       "options": [
-        "The diagram alone does not prove real components and connections are functioning",
-        "The bulb must glow because the diagram is closed",
-        "The cell is irrelevant to bulb operation",
-        "A complete diagram means no component can fail"
+        "A bare wire directly across the cell",
+        "Household mains for clarity",
+        "Holding exposed terminals while changing samples",
+        "A teacher-approved low-voltage circuit with a suitable indicator and safe current control"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A diagram shows a complete loop and closed switch, but the bulb remains off. What is the best conclusion?",
+      "options": [
+        "Real components or connections may still be faulty",
+        "The bulb must glow because the drawing is complete",
+        "The cell is irrelevant",
+        "A complete diagram prevents component faults"
       ],
       "answer": 0
     }
