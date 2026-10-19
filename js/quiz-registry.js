@@ -534,13 +534,13 @@ window.QuizRegistry.register(
 );
 
 window.QuizRegistry.register(
-    "7-history-how-the-land-becomes-sacred",
-    "js/quizzes/class7/history/how-the-land-becomes-sacred.js"
+    "7-history-how-land-becomes-sacred",
+    "js/quizzes/class7/history/how-land-becomes-sacred.js"
 );
 
 window.QuizRegistry.register(
-    "7-history-from-pilgrimage-to-trade-beyond-india",
-    "js/quizzes/class7/history/from-pilgrimage-to-trade-beyond-india.js"
+    "7-history-from-pilgrimage-to-trades-beyond-india",
+    "js/quizzes/class7/history/from-pilgrimage-to-trades-beyond-india.js"
 );
     /* =====================================================
        FUTURE QUIZZES GO HERE
