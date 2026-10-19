@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["7-history-from-pilgrimage-to-trade-beyond-india"] = {
+window.QuizData["7-history-from-pilgrimage-to-trades-beyond-india"] = {
   "easy": [
     {
       "question": "A journey to a sacred site is called?",
