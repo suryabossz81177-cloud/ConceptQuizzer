@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["linear-equations-in-one-variable"] = {
+window.QuizData["8-mathematics-linear-equations-in-one-variable"] = {
   "easy": [
     {
       "question": "Solve 5x − (0) = 10.",

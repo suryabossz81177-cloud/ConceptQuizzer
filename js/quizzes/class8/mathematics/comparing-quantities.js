@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["comparing-quantities"] = {
+window.QuizData["8-mathematics-comparing-quantities"] = {
   "easy": [
     {
       "question": "Find 157% of 2000.",

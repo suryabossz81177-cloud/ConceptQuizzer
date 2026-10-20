@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["data-handling"] = {
+window.QuizData["8-mathematics-data-handling"] = {
   "easy": [
     {
       "question": "A bag has 5 red and 6 blue counters. Probability of drawing blue is:",

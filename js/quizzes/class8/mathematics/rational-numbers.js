@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["rational-numbers"] = {
+window.QuizData["8-mathematics-rational-numbers"] = {
   "easy": [
     {
       "question": "Find 9/4 × 2/3.",

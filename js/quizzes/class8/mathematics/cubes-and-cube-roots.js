@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["cubes-and-cube-roots"] = {
+window.QuizData["8-mathematics-cubes-and-cube-roots"] = {
   "easy": [
     {
       "question": "∛175616 equals:",

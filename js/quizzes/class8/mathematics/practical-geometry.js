@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["practical-geometry"] = {
+window.QuizData["8-mathematics-practical-geometry"] = {
   "easy": [
     {
       "question": "A quadrilateral with both pairs of opposite sides parallel is a:",

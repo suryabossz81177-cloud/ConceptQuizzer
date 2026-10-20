@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["understanding-quadrilaterals"] = {
+window.QuizData["8-mathematics-understanding-quadrilaterals"] = {
   "easy": [
     {
       "question": "A quadrilateral's interior angles total 360°. For a 3-sided polygon, the interior-angle sum is:",

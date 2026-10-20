@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["squares-and-square-roots"] = {
+window.QuizData["8-mathematics-squares-and-square-roots"] = {
   "easy": [
     {
       "question": "Find √4900.",
