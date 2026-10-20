@@ -741,8 +741,8 @@ window.QuizRegistry.register(
 );
 
 window.QuizRegistry.register(
-    "8-history-tribals-dikus-and-the-vision-of-golden-age",
-    "js/quizzes/class8/history/tribals-dikus-and-the-vision-of-golden-age.js"
+    "8-history-tribals-dikus-and-the-vision-of-a-golden-age",
+    "js/quizzes/class8/history/tribals-dikus-and-the-vision-of-a-golden-age.js"
 );
 
 window.QuizRegistry.register(
