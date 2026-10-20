@@ -577,6 +577,46 @@ window.QuizRegistry.register(
     "7-civics-understanding-markets",
     "js/quizzes/class7/civics/understanding-markets.js"
 );
+
+   window.QuizRegistry.register(
+    "8-mathematics-rational-numbers",
+    "js/quizzes/class8/mathematics/rational-numbers.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-linear-equations-in-one-variable",
+    "js/quizzes/class8/mathematics/linear-equations-in-one-variable.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-understanding-quadrilaterals",
+    "js/quizzes/class8/mathematics/understanding-quadrilaterals.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-practical-geometry",
+    "js/quizzes/class8/mathematics/practical-geometry.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-data-handling",
+    "js/quizzes/class8/mathematics/data-handling.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-squares-and-square-roots",
+    "js/quizzes/class8/mathematics/squares-and-square-roots.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-cubes-and-cube-roots",
+    "js/quizzes/class8/mathematics/cubes-and-cube-roots.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-comparing-quantities",
+    "js/quizzes/class8/mathematics/comparing-quantities.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
