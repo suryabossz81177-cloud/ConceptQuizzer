@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["8-history-tribals-dikus-and-the-vision-of-golden-age"] = {
+window.QuizData["8-history-tribals-dikus-and-the-vision-of-a-golden-age"] = {
   "easy": [
     {
       "question": "Colonial forest laws often restricted tribal access to",
