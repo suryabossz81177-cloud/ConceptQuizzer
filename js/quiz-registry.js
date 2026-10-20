@@ -723,6 +723,46 @@ window.QuizRegistry.register(
     "8-science-our-home-earth-a-unique-life-sustaining-planet",
     "js/quizzes/class8/science/our-home-earth-a-unique-life-sustaining-planet.js"
 );
+
+   window.QuizRegistry.register(
+    "8-history-how-when-and-where",
+    "js/quizzes/class8/history/how-when-and-where.js"
+);
+
+window.QuizRegistry.register(
+    "8-history-from-trade-to-territory",
+    "js/quizzes/class8/history/from-trade-to-territory.js"
+);
+
+window.QuizRegistry.register(
+    "8-history-ruling-the-countryside",
+    "js/quizzes/class8/history/ruling-the-countryside.js"
+);
+
+window.QuizRegistry.register(
+    "8-history-tribals-dikus-and-the-vision-of-golden-age",
+    "js/quizzes/class8/history/tribals-dikus-and-the-vision-of-golden-age.js"
+);
+
+window.QuizRegistry.register(
+    "8-history-when-people-rebel-1857-and-after",
+    "js/quizzes/class8/history/when-people-rebel-1857-and-after.js"
+);
+
+window.QuizRegistry.register(
+    "8-history-civilising-the-native-educating-the-nation",
+    "js/quizzes/class8/history/civilising-the-native-educating-the-nation.js"
+);
+
+window.QuizRegistry.register(
+    "8-history-women-caste-and-reform",
+    "js/quizzes/class8/history/women-caste-and-reform.js"
+);
+
+window.QuizRegistry.register(
+    "8-history-making-of-national-movement",
+    "js/quizzes/class8/history/making-of-national-movement.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
