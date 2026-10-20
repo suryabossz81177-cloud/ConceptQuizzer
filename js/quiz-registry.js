@@ -693,6 +693,36 @@ window.QuizRegistry.register(
     "8-science-particulate-nature-of-matter",
     "js/quizzes/class8/science/particulate-nature-of-matter.js"
 );
+
+   window.QuizRegistry.register(
+    "8-science-nature-of-matter-elements-compounds-and-mixtures",
+    "js/quizzes/class8/science/nature-of-matter-elements-compounds-and-mixtures.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-the-amazing-world-of-solutes-solvents-and-solutions",
+    "js/quizzes/class8/science/the-amazing-world-of-solutes-solvents-and-solutions.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-light-mirrors-and-lenses",
+    "js/quizzes/class8/science/light-mirrors-and-lenses.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-keeping-time-with-the-skies",
+    "js/quizzes/class8/science/keeping-time-with-the-skies.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-how-nature-works-in-harmony",
+    "js/quizzes/class8/science/how-nature-works-in-harmony.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-our-home-earth-a-unique-life-sustaining-planet",
+    "js/quizzes/class8/science/our-home-earth-a-unique-life-sustaining-planet.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
