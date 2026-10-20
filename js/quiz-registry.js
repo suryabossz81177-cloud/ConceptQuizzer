@@ -658,6 +658,41 @@ window.QuizRegistry.register(
     "8-mathematics-playing-with-numbers",
     "js/quizzes/class8/mathematics/playing-with-numbers.js"
 );
+
+   window.QuizRegistry.register(
+    "8-science-exploring-the-investigative-world-of-science",
+    "js/quizzes/class8/science/exploring-the-investigative-world-of-science.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-the-invisible-living-world-beyond-our-naked-eye",
+    "js/quizzes/class8/science/the-invisible-living-world-beyond-our-naked-eye.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-health-the-ultimate-treasure",
+    "js/quizzes/class8/science/health-the-ultimate-treasure.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-electricity-magnetic-and-heating-effects",
+    "js/quizzes/class8/science/electricity-magnetic-and-heating-effects.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-exploring-forces",
+    "js/quizzes/class8/science/exploring-forces.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-pressure-winds-storms-and-cyclones",
+    "js/quizzes/class8/science/pressure-winds-storms-and-cyclones.js"
+);
+
+window.QuizRegistry.register(
+    "8-science-particulate-nature-of-matter",
+    "js/quizzes/class8/science/particulate-nature-of-matter.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
