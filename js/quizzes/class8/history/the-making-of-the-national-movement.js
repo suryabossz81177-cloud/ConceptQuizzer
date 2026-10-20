@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["8-history-making-of-national-movement"] = {
+window.QuizData["8-history-the-making-of-the-national-movement"] = {
   "easy": [
     {
       "question": "The Salt March began the Civil Disobedience Movement in",
