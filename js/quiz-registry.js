@@ -618,6 +618,46 @@ window.QuizRegistry.register(
     "8-mathematics-comparing-quantities",
     "js/quizzes/class8/mathematics/comparing-quantities.js"
 );
+
+   window.QuizRegistry.register(
+    "8-mathematics-algebraic-expressions-and-identities",
+    "js/quizzes/class8/mathematics/algebraic-expressions-and-identities.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-visualising-solid-shapes",
+    "js/quizzes/class8/mathematics/visualising-solid-shapes.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-mensuration",
+    "js/quizzes/class8/mathematics/mensuration.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-exponents-and-powers",
+    "js/quizzes/class8/mathematics/exponents-and-powers.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-direct-and-inverse-proportions",
+    "js/quizzes/class8/mathematics/direct-and-inverse-proportions.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-factorisation",
+    "js/quizzes/class8/mathematics/factorisation.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-introduction-to-graphs",
+    "js/quizzes/class8/mathematics/introduction-to-graphs.js"
+);
+
+window.QuizRegistry.register(
+    "8-mathematics-playing-with-numbers",
+    "js/quizzes/class8/mathematics/playing-with-numbers.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
