@@ -789,6 +789,46 @@ window.QuizRegistry.register(
     "8-geography-human-resources",
     "js/quizzes/class8/geography/human-resources.js"
 );
+
+   window.QuizRegistry.register(
+    "8-civics-the-indian-constitution",
+    "js/quizzes/class8/civics/the-indian-constitution.js"
+);
+
+window.QuizRegistry.register(
+    "8-civics-understanding-secularism",
+    "js/quizzes/class8/civics/understanding-secularism.js"
+);
+
+window.QuizRegistry.register(
+    "8-civics-parliament-and-the-making-of-laws",
+    "js/quizzes/class8/civics/parliament-and-the-making-of-laws.js"
+);
+
+window.QuizRegistry.register(
+    "8-civics-judiciary",
+    "js/quizzes/class8/civics/judiciary.js"
+);
+
+window.QuizRegistry.register(
+    "8-civics-understanding-marginalisation",
+    "js/quizzes/class8/civics/understanding-marginalisation.js"
+);
+
+window.QuizRegistry.register(
+    "8-civics-confronting-marginalisation",
+    "js/quizzes/class8/civics/confronting-marginalisation.js"
+);
+
+window.QuizRegistry.register(
+    "8-civics-public-facilities",
+    "js/quizzes/class8/civics/public-facilities.js"
+);
+
+window.QuizRegistry.register(
+    "8-civics-law-and-social-justice",
+    "js/quizzes/class8/civics/law-and-social-justice.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
