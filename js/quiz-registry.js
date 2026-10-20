@@ -760,8 +760,8 @@ window.QuizRegistry.register(
 );
 
 window.QuizRegistry.register(
-    "8-history-making-of-national-movement",
-    "js/quizzes/class8/history/making-of-national-movement.js"
+    "8-history-the-making-of-the-national-movement",
+    "js/quizzes/class8/history/the-making-of-the-national-movement.js"
 );
     /* =====================================================
        FUTURE QUIZZES GO HERE
