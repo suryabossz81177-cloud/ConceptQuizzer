@@ -24,6 +24,7 @@
                     .toLowerCase()
             ] = quizFile;
         },
+      
 
         normalize: function (value) {
 
