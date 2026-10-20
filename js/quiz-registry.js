@@ -764,6 +764,31 @@ window.QuizRegistry.register(
     "8-history-the-making-of-the-national-movement",
     "js/quizzes/class8/history/the-making-of-the-national-movement.js"
 );
+
+   window.QuizRegistry.register(
+    "8-geography-resources",
+    "js/quizzes/class8/geography/resources.js"
+);
+
+window.QuizRegistry.register(
+    "8-geography-land-soil-water-natural-vegetation-and-wildlife-resources",
+    "js/quizzes/class8/geography/land-soil-water-natural-vegetation-and-wildlife-resources.js"
+);
+
+window.QuizRegistry.register(
+    "8-geography-agriculture",
+    "js/quizzes/class8/geography/agriculture.js"
+);
+
+window.QuizRegistry.register(
+    "8-geography-industries",
+    "js/quizzes/class8/geography/industries.js"
+);
+
+window.QuizRegistry.register(
+    "8-geography-human-resources",
+    "js/quizzes/class8/geography/human-resources.js"
+);
     /* =====================================================
        FUTURE QUIZZES GO HERE
 
