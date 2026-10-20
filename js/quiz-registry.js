@@ -577,6 +577,7 @@ window.QuizRegistry.register(
     "7-civics-understanding-markets",
     "js/quizzes/class7/civics/understanding-markets.js"
 );
+   
 
    window.QuizRegistry.register(
     "8-mathematics-rational-numbers",
