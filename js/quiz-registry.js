@@ -1074,6 +1074,31 @@ window.QuizRegistry.register(
     "9-informationtechnology-data-entry-keyboarding-skills",
     "js/quizzes/class9/informationtechnology/data-entry-keyboarding-skills.js"
 );
+
+   window.QuizRegistry.register(
+    "9-artificialintelligence-introduction-to-ai",
+    "js/quizzes/class9/artificialintelligence/introduction-to-ai.js"
+);
+
+window.QuizRegistry.register(
+    "9-artificialintelligence-ai-project-cycle",
+    "js/quizzes/class9/artificialintelligence/ai-project-cycle.js"
+);
+
+window.QuizRegistry.register(
+    "9-artificialintelligence-advanced-python-data-sciences",
+    "js/quizzes/class9/artificialintelligence/advanced-python-data-sciences.js"
+);
+
+window.QuizRegistry.register(
+    "9-artificialintelligence-computer-vision",
+    "js/quizzes/class9/artificialintelligence/computer-vision.js"
+);
+
+window.QuizRegistry.register(
+    "9-artificialintelligence-natural-language-processing",
+    "js/quizzes/class9/artificialintelligence/natural-language-processing.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
