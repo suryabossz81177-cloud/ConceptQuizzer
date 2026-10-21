@@ -974,6 +974,36 @@ window.QuizRegistry.register(
     "9-history-pastoralists-in-the-modern-world",
     "js/quizzes/class9/history/pastoralists-in-the-modern-world.js"
 );
+
+   window.QuizRegistry.register(
+    "9-geography-india-size-and-location",
+    "js/quizzes/class9/geography/india-size-and-location.js"
+);
+
+window.QuizRegistry.register(
+    "9-geography-physical-features-of-india",
+    "js/quizzes/class9/geography/physical-features-of-india.js"
+);
+
+window.QuizRegistry.register(
+    "9-geography-drainage",
+    "js/quizzes/class9/geography/drainage.js"
+);
+
+window.QuizRegistry.register(
+    "9-geography-climate",
+    "js/quizzes/class9/geography/climate.js"
+);
+
+window.QuizRegistry.register(
+    "9-geography-natural-vegetation-and-wildlife",
+    "js/quizzes/class9/geography/natural-vegetation-and-wildlife.js"
+);
+
+window.QuizRegistry.register(
+    "9-geography-population",
+    "js/quizzes/class9/geography/population.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
