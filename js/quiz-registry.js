@@ -1106,8 +1106,8 @@ window.QuizRegistry.register(
 );
 
 window.QuizRegistry.register(
-    "10-physics-human-eye-and-the-colourful-world",
-    "js/quizzes/class10/physics/human-eye-and-the-colourful-world.js"
+    "10-physics-the-human-eye-and-the-colourful-world",
+    "js/quizzes/class10/physics/the-human-eye-and-the-colourful-world.js"
 );
 
 window.QuizRegistry.register(
@@ -1118,6 +1118,26 @@ window.QuizRegistry.register(
 window.QuizRegistry.register(
     "10-physics-magnetic-effects-of-electric-current",
     "js/quizzes/class10/physics/magnetic-effects-of-electric-current.js"
+);
+
+   window.QuizRegistry.register(
+    "10-chemistry-chemical-reactions-and-equations",
+    "js/quizzes/class10/chemistry/chemical-reactions-and-equations.js"
+);
+
+window.QuizRegistry.register(
+    "10-chemistry-acids-bases-and-salts",
+    "js/quizzes/class10/chemistry/acids-bases-and-salts.js"
+);
+
+window.QuizRegistry.register(
+    "10-chemistry-metals-and-non-metals",
+    "js/quizzes/class10/chemistry/metals-and-non-metals.js"
+);
+
+window.QuizRegistry.register(
+    "10-chemistry-carbon-and-its-compounds",
+    "js/quizzes/class10/chemistry/carbon-and-its-compounds.js"
 );
    /* =====================================================
        FUTURE QUIZZES GO HERE
