@@ -1036,8 +1036,8 @@ window.QuizRegistry.register(
 );
 
 window.QuizRegistry.register(
-    "9-economics-people-as-resources",
-    "js/quizzes/class9/economics/people-as-resources.js"
+    "9-economics-people-as-resource",
+    "js/quizzes/class9/economics/people-as-resource.js"
 );
 
 window.QuizRegistry.register(
