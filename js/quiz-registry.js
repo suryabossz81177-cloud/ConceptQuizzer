@@ -949,6 +949,31 @@ window.QuizRegistry.register(
     "9-physics-sound",
     "js/quizzes/class9/physics/sound.js"
 );
+
+   window.QuizRegistry.register(
+    "9-history-the-french-revolution",
+    "js/quizzes/class9/history/the-french-revolution.js"
+);
+
+window.QuizRegistry.register(
+    "9-history-socialism-in-europe-and-the-russian-revolution",
+    "js/quizzes/class9/history/socialism-in-europe-and-the-russian-revolution.js"
+);
+
+window.QuizRegistry.register(
+    "9-history-nazism-and-the-rise-of-hitler",
+    "js/quizzes/class9/history/nazism-and-the-rise-of-hitler.js"
+);
+
+window.QuizRegistry.register(
+    "9-history-forest-society-and-colonialism",
+    "js/quizzes/class9/history/forest-society-and-colonialism.js"
+);
+
+window.QuizRegistry.register(
+    "9-history-pastoralists-in-the-modern-world",
+    "js/quizzes/class9/history/pastoralists-in-the-modern-world.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
