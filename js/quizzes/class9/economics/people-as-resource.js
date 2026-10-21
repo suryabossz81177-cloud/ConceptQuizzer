@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["9-economics-people-as-resources"] = {
+window.QuizData["9-economics-people-as-resource"] = {
   "easy": [
     {
       "question": "A person with a degree cannot find work matching their qualification, while vacancies remain in unrelated low-paid work. This most clearly reflects",
