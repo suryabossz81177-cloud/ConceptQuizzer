@@ -1099,6 +1099,26 @@ window.QuizRegistry.register(
     "9-artificialintelligence-natural-language-processing",
     "js/quizzes/class9/artificialintelligence/natural-language-processing.js"
 );
+
+   window.QuizRegistry.register(
+    "10-physics-light-reflection-and-refraction",
+    "js/quizzes/class10/physics/light-reflection-and-refraction.js"
+);
+
+window.QuizRegistry.register(
+    "10-physics-human-eye-and-the-colourful-world",
+    "js/quizzes/class10/physics/human-eye-and-the-colourful-world.js"
+);
+
+window.QuizRegistry.register(
+    "10-physics-electricity",
+    "js/quizzes/class10/physics/electricity.js"
+);
+
+window.QuizRegistry.register(
+    "10-physics-magnetic-effects-of-electric-current",
+    "js/quizzes/class10/physics/magnetic-effects-of-electric-current.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
