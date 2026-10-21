@@ -889,6 +889,26 @@ window.QuizRegistry.register(
     "9-mathematics-statistics",
     "js/quizzes/class9/mathematics/statistics.js"
 );
+
+   window.QuizRegistry.register(
+    "9-chemistry-matter-in-our-surroundings",
+    "js/quizzes/class9/chemistry/matter-in-our-surroundings.js"
+);
+
+window.QuizRegistry.register(
+    "9-chemistry-is-matter-around-us-pure",
+    "js/quizzes/class9/chemistry/is-matter-around-us-pure.js"
+);
+
+window.QuizRegistry.register(
+    "9-chemistry-atoms-and-molecules",
+    "js/quizzes/class9/chemistry/atoms-and-molecules.js"
+);
+
+window.QuizRegistry.register(
+    "9-chemistry-structure-of-the-atom",
+    "js/quizzes/class9/chemistry/structure-of-the-atom.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
