@@ -1049,6 +1049,31 @@ window.QuizRegistry.register(
     "9-economics-food-security-in-india",
     "js/quizzes/class9/economics/food-security-in-india.js"
 );
+
+   window.QuizRegistry.register(
+    "9-informationtechnology-digital-documentation",
+    "js/quizzes/class9/informationtechnology/digital-documentation.js"
+);
+
+window.QuizRegistry.register(
+    "9-informationtechnology-electronic-spreadsheet",
+    "js/quizzes/class9/informationtechnology/electronic-spreadsheet.js"
+);
+
+window.QuizRegistry.register(
+    "9-informationtechnology-digital-presentation",
+    "js/quizzes/class9/informationtechnology/digital-presentation.js"
+);
+
+window.QuizRegistry.register(
+    "9-informationtechnology-introduction-to-it-ites",
+    "js/quizzes/class9/informationtechnology/introduction-to-it-ites.js"
+);
+
+window.QuizRegistry.register(
+    "9-informationtechnology-data-entry-keyboarding-skills",
+    "js/quizzes/class9/informationtechnology/data-entry-keyboarding-skills.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
