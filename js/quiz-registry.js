@@ -829,7 +829,37 @@ window.QuizRegistry.register(
     "8-civics-law-and-social-justice",
     "js/quizzes/class8/civics/law-and-social-justice.js"
 );
-    /* =====================================================
+
+   window.QuizRegistry.register(
+    "9-mathematics-number-systems",
+    "js/quizzes/class9/mathematics/number-systems.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-polynomials",
+    "js/quizzes/class9/mathematics/polynomials.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-coordinate-geometry",
+    "js/quizzes/class9/mathematics/coordinate-geometry.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-linear-equations-in-two-variables",
+    "js/quizzes/class9/mathematics/linear-equations-in-two-variables.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-introduction-to-euclids-geometry",
+    "js/quizzes/class9/mathematics/introduction-to-euclids-geometry.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-lines-and-angles",
+    "js/quizzes/class9/mathematics/lines-and-angles.js"
+);
+   /* =====================================================
        FUTURE QUIZZES GO HERE
 
        Example:
