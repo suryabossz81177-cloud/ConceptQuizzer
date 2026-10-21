@@ -1,5 +1,5 @@
 window.QuizData = window.QuizData || {};
-window.QuizData["9-artificialintelligence-advanced-python-data-sciences"] = {
+window.QuizData["9-artificialintelligence-advance-python-data-sciences"] = {
   easy: [
     { question: "Select the correct concept for this case: In a school project involving types, what does type(7.5) return?", options: ["int", "str", "bool", "float"], answer: 3 },
     { question: "Select the correct concept for this case: During evaluation of a classroom AI example about lists, which method adds an item to the end of a list?", options: ["append()", "insert_end()", "add()", "push_back()"], answer: 0 },
