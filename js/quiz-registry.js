@@ -909,6 +909,21 @@ window.QuizRegistry.register(
     "9-chemistry-structure-of-the-atom",
     "js/quizzes/class9/chemistry/structure-of-the-atom.js"
 );
+
+   window.QuizRegistry.register(
+    "9-biology-the-fundamental-unit-of-life",
+    "js/quizzes/class9/biology/the-fundamental-unit-of-life.js"
+);
+
+window.QuizRegistry.register(
+    "9-biology-tissues",
+    "js/quizzes/class9/biology/tissues.js"
+);
+
+window.QuizRegistry.register(
+    "9-biology-improvement-in-food-resources",
+    "js/quizzes/class9/biology/improvement-in-food-resources.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
