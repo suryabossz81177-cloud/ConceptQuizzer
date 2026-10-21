@@ -1005,29 +1005,29 @@ window.QuizRegistry.register(
     "js/quizzes/class9/geography/population.js"
 );
 
-   window.QuizRegistry.register(
-    "9-political-science-what-is-democracy-why-democracy",
-    "js/quizzes/class9/political-science/what-is-democracy-why-democracy.js"
+window.QuizRegistry.register(
+    "9-politicalscience-what-is-democracy-why-democracy",
+    "js/quizzes/class9/politicalscience/what-is-democracy-why-democracy.js"
 );
 
 window.QuizRegistry.register(
-    "9-political-science-constitutional-design",
-    "js/quizzes/class9/political-science/constitutional-design.js"
+    "9-politicalscience-constitutional-design",
+    "js/quizzes/class9/politicalscience/constitutional-design.js"
 );
 
 window.QuizRegistry.register(
-    "9-political-science-electoral-politics",
-    "js/quizzes/class9/political-science/electoral-politics.js"
+    "9-politicalscience-electoral-politics",
+    "js/quizzes/class9/politicalscience/electoral-politics.js"
 );
 
 window.QuizRegistry.register(
-    "9-political-science-working-of-institutions",
-    "js/quizzes/class9/political-science/working-of-institutions.js"
+    "9-politicalscience-working-of-institutions",
+    "js/quizzes/class9/politicalscience/working-of-institutions.js"
 );
 
 window.QuizRegistry.register(
-    "9-political-science-democratic-rights",
-    "js/quizzes/class9/political-science/democratic-rights.js"
+    "9-politicalscience-democratic-rights",
+    "js/quizzes/class9/politicalscience/democratic-rights.js"
 );
    /* =====================================================
        FUTURE QUIZZES GO HERE
