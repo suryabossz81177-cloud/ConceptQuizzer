@@ -1029,6 +1029,26 @@ window.QuizRegistry.register(
     "9-politicalscience-democratic-rights",
     "js/quizzes/class9/politicalscience/democratic-rights.js"
 );
+
+   window.QuizRegistry.register(
+    "9-economics-the-story-of-village-palampur",
+    "js/quizzes/class9/economics/the-story-of-village-palampur.js"
+);
+
+window.QuizRegistry.register(
+    "9-economics-people-as-resources",
+    "js/quizzes/class9/economics/people-as-resources.js"
+);
+
+window.QuizRegistry.register(
+    "9-economics-poverty-as-a-challenge",
+    "js/quizzes/class9/economics/poverty-as-a-challenge.js"
+);
+
+window.QuizRegistry.register(
+    "9-economics-food-security-in-india",
+    "js/quizzes/class9/economics/food-security-in-india.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
