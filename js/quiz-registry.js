@@ -1004,6 +1004,31 @@ window.QuizRegistry.register(
     "9-geography-population",
     "js/quizzes/class9/geography/population.js"
 );
+
+   window.QuizRegistry.register(
+    "9-political-science-what-is-democracy-why-democracy",
+    "js/quizzes/class9/political-science/what-is-democracy-why-democracy.js"
+);
+
+window.QuizRegistry.register(
+    "9-political-science-constitutional-design",
+    "js/quizzes/class9/political-science/constitutional-design.js"
+);
+
+window.QuizRegistry.register(
+    "9-political-science-electoral-politics",
+    "js/quizzes/class9/political-science/electoral-politics.js"
+);
+
+window.QuizRegistry.register(
+    "9-political-science-working-of-institutions",
+    "js/quizzes/class9/political-science/working-of-institutions.js"
+);
+
+window.QuizRegistry.register(
+    "9-political-science-democratic-rights",
+    "js/quizzes/class9/political-science/democratic-rights.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
