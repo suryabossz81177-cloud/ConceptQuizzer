@@ -1086,8 +1086,8 @@ window.QuizRegistry.register(
 );
 
 window.QuizRegistry.register(
-    "9-artificialintelligence-advanced-python-data-sciences",
-    "js/quizzes/class9/artificialintelligence/advanced-python-data-sciences.js"
+    "9-artificialintelligence-advance-python-data-sciences",
+    "js/quizzes/class9/artificialintelligence/advance-python-data-sciences.js"
 );
 
 window.QuizRegistry.register(
