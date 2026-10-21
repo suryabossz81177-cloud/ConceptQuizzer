@@ -924,6 +924,31 @@ window.QuizRegistry.register(
     "9-biology-improvement-in-food-resources",
     "js/quizzes/class9/biology/improvement-in-food-resources.js"
 );
+
+   window.QuizRegistry.register(
+    "9-physics-motion",
+    "js/quizzes/class9/physics/motion.js"
+);
+
+window.QuizRegistry.register(
+    "9-physics-force-and-laws-of-motion",
+    "js/quizzes/class9/physics/force-and-laws-of-motion.js"
+);
+
+window.QuizRegistry.register(
+    "9-physics-gravitation",
+    "js/quizzes/class9/physics/gravitation.js"
+);
+
+window.QuizRegistry.register(
+    "9-physics-work-and-energy",
+    "js/quizzes/class9/physics/work-and-energy.js"
+);
+
+window.QuizRegistry.register(
+    "9-physics-sound",
+    "js/quizzes/class9/physics/sound.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
