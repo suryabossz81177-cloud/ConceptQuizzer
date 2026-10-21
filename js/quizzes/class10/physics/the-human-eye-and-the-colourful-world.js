@@ -1,6 +1,6 @@
 /* Original board-style practice MCQs. Not claimed as verbatim year-tagged PYQs. */
 window.QuizData = window.QuizData || {};
-window.QuizData["10-physics-human-eye-and-the-colourful-world"] = {
+window.QuizData["10-the-physics-human-eye-and-the-colourful-world"] = {
   easy: [
   {
     "question": "A myopic eye has far point 0.5 m. The spectacle power needed for distant vision is:",
