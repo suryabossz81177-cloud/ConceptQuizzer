@@ -859,6 +859,36 @@ window.QuizRegistry.register(
     "9-mathematics-lines-and-angles",
     "js/quizzes/class9/mathematics/lines-and-angles.js"
 );
+
+   window.QuizRegistry.register(
+    "9-mathematics-triangles",
+    "js/quizzes/class9/mathematics/triangles.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-quadrilaterals",
+    "js/quizzes/class9/mathematics/quadrilaterals.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-circles",
+    "js/quizzes/class9/mathematics/circles.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-herons-formula",
+    "js/quizzes/class9/mathematics/herons-formula.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-surface-areas-and-volumes",
+    "js/quizzes/class9/mathematics/surface-areas-and-volumes.js"
+);
+
+window.QuizRegistry.register(
+    "9-mathematics-statistics",
+    "js/quizzes/class9/mathematics/statistics.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
