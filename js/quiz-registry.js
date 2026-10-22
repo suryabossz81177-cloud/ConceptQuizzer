@@ -1139,6 +1139,31 @@ window.QuizRegistry.register(
     "10-chemistry-carbon-and-its-compounds",
     "js/quizzes/class10/chemistry/carbon-and-its-compounds.js"
 );
+
+   window.QuizRegistry.register(
+    "10-biology-life-processes",
+    "js/quizzes/class10/biology/life-processes.js"
+);
+
+window.QuizRegistry.register(
+    "10-biology-control-and-coordination",
+    "js/quizzes/class10/biology/control-and-coordination.js"
+);
+
+window.QuizRegistry.register(
+    "10-biology-how-do-organisms-reproduce",
+    "js/quizzes/class10/biology/how-do-organisms-reproduce.js"
+);
+
+window.QuizRegistry.register(
+    "10-biology-heredity",
+    "js/quizzes/class10/biology/heredity.js"
+);
+
+window.QuizRegistry.register(
+    "10-biology-our-environment",
+    "js/quizzes/class10/biology/our-environment.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
