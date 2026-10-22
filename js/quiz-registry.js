@@ -1368,6 +1368,36 @@ window.QuizRegistry.register(
     "10-informationtechnology-web-applications-and-security",
     "js/quizzes/class10/informationtechnology/web-applications-and-security.js"
 );
+
+   // Chapter 1: Introduction to AI
+window.QuizRegistry.register(
+    "10-artificialintelligence-introduction-to-ai",
+    "js/quizzes/class10/artificialintelligence/introduction-to-ai.js"
+);
+
+// Chapter 2: AI Project Cycle
+window.QuizRegistry.register(
+    "10-artificialintelligence-ai-project-cycle",
+    "js/quizzes/class10/artificialintelligence/ai-project-cycle.js"
+);
+
+// Chapter 3: Computer Vision (CV)
+window.QuizRegistry.register(
+    "10-artificialintelligence-computer-vision-cv",
+    "js/quizzes/class10/artificialintelligence/computer-vision-cv.js"
+);
+
+// Chapter 4: Natural Language Processing (NLP)
+window.QuizRegistry.register(
+    "10-artificialintelligence-natural-language-processing-nlp",
+    "js/quizzes/class10/artificialintelligence/natural-language-processing-nlp.js"
+);
+
+// Chapter 5: Evaluation
+window.QuizRegistry.register(
+    "10-artificialintelligence-evaluation",
+    "js/quizzes/class10/artificialintelligence/evaluation.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
