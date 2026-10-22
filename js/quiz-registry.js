@@ -1164,6 +1164,41 @@ window.QuizRegistry.register(
     "10-biology-our-environment",
     "js/quizzes/class10/biology/our-environment.js"
 );
+
+   window.QuizRegistry.register(
+    "10-mathematics-real-numbers",
+    "js/quizzes/class10/mathematics/real-numbers.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-polynomials",
+    "js/quizzes/class10/mathematics/polynomials.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-pair-of-linear-equations-in-two-variables",
+    "js/quizzes/class10/mathematics/pair-of-linear-equations-in-two-variables.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-quadratic-equations",
+    "js/quizzes/class10/mathematics/quadratic-equations.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-arithmetic-progressions",
+    "js/quizzes/class10/mathematics/arithmetic-progressions.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-triangles",
+    "js/quizzes/class10/mathematics/triangles.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-coordinate-geometry",
+    "js/quizzes/class10/mathematics/coordinate-geometry.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
