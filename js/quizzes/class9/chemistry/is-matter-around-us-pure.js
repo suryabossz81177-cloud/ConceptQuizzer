@@ -1,813 +1,817 @@
+/* Class 9 Chemistry — Is Matter Around Us Pure
+   80 MCQs; prompts are unnumbered.
+   Easy 10; Medium 10; Hard 15; Too Hard 20; Extreme 25.
+   answer is a zero-based option index. */
 window.QuizData = window.QuizData || {};
 window.QuizData["9-chemistry-is-matter-around-us-pure"] = {
   "easy": [
     {
-      "question": "The sample salt solution is best classified as a: [Item 01]",
+      "question": "A solution that cannot dissolve more solute at a given temperature is",
       "options": [
-        "homogeneous mixture of gases",
-        "homogeneous mixture",
-        "suspension",
-        "colloid"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A solution contains 10 g solute and 90 g solvent. The mass percentage of solute is approximately: [Item 02]",
-      "options": [
-        "10.0%",
-        "1.0%",
-        "90.0%",
-        "11.1%"
+        "Saturated",
+        "Always supersaturated",
+        "A suspension",
+        "Dilute by definition"
       ],
       "answer": 0
     },
     {
-      "question": "A mixture scatters a beam of light, does not settle on standing, and cannot be separated by ordinary filtration. It is most likely a: [Item 03]",
+      "question": "Which mixture can be separated by ordinary filtration?",
       "options": [
-        "true solution",
-        "colloid",
-        "coarse suspension",
-        "pure compound"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A mixture has visible particles that settle on standing and can be separated by filtration. It is a: [Item 04]",
-      "options": [
-        "true solution",
-        "homogeneous alloy",
-        "element",
-        "suspension"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The most suitable separation method for cream from milk is: [Item 05]",
-      "options": [
-        "centrifugation",
-        "evaporation",
-        "simple distillation",
-        "chromatography"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A mixture of ammonium chloride and common salt can be separated most directly by: [Item 06]",
-      "options": [
-        "magnetic separation",
-        "sublimation followed by collection of the residue",
-        "fractional distillation",
-        "chromatography alone"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "An insoluble solid is mixed with a liquid and allowed to settle before pouring off the clear liquid. The pouring step is: [Item 07]",
-      "options": [
-        "distillation",
-        "decantation",
-        "crystallisation",
-        "sublimation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which sample is a pure substance rather than a mixture? [Item 08]",
-      "options": [
-        "soil",
-        "brass",
-        "distilled water",
-        "milk"
+        "Ethanol mixed uniformly with water",
+        "Sugar dissolved in water",
+        "Chalk powder suspended in water",
+        "Salt dissolved in water"
       ],
       "answer": 2
     },
     {
-      "question": "A compound differs from a mixture because the elements in a compound are: [Item 09]",
+      "question": "A heterogeneous mixture has",
       "options": [
-        "chemically combined in a fixed proportion by mass",
-        "always separable by filtration",
-        "present in any proportion",
-        "not chemically bonded"
+        "Identical composition at every point",
+        "A fixed chemical formula",
+        "Only a single pure substance",
+        "Non-uniform composition"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "An alloy is often treated as a mixture because its components",
+      "options": [
+        "Can be separated by ordinary filtration",
+        "Are gases",
+        "Always have a fixed molecular formula",
+        "Are mixed physically at the atomic scale rather than forming one fixed compound in every case"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A mixture of miscible liquids with sufficiently different boiling points may be separated by",
+      "options": [
+        "Filtration",
+        "Sedimentation only",
+        "Distillation",
+        "Magnetic separation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The residue after filtering muddy water is mainly",
+      "options": [
+        "A dissolved sugar molecule",
+        "Water vapour",
+        "Insoluble suspended material",
+        "Dissolved salt"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Fog is a colloidal system consisting of",
+      "options": [
+        "Liquid droplets dispersed in gas",
+        "Solid particles dissolved molecularly in liquid",
+        "A pure gas",
+        "Gas dispersed in solid"
       ],
       "answer": 0
     },
     {
-      "question": "The Tyndall effect is generally observed in: [Item 10]",
+      "question": "Which is an element?",
       "options": [
-        "pure crystalline solids only",
-        "colloids",
-        "all transparent substances equally",
-        "true solutions only"
+        "Water",
+        "Carbon dioxide",
+        "Sodium chloride",
+        "Copper"
       ],
-      "answer": 1
+      "answer": 3
+    },
+    {
+      "question": "A 15% by mass solution has 30 g solute. The total solution mass is",
+      "options": [
+        "200 g",
+        "170 g",
+        "450 g",
+        "45 g"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A colloid appears homogeneous to the naked eye but is",
+      "options": [
+        "A pure element",
+        "Always a true solution",
+        "Heterogeneous at the microscopic level",
+        "A single chemical compound"
+      ],
+      "answer": 2
     }
   ],
   "medium": [
     {
-      "question": "A solution that cannot dissolve more solute at a given temperature is: [Item 11]",
+      "question": "A student wants both pure water and salt from saltwater. The suitable method is",
       "options": [
-        "saturated",
-        "always a suspension",
-        "unsaturated",
-        "dilute by definition"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "At a fixed temperature, a solution containing less solute than its saturation limit is: [Item 12]",
-      "options": [
-        "saturated",
-        "a pure element",
-        "unsaturated",
-        "supersaturated necessarily"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The best method for obtaining crystals of copper sulphate from its solution is: [Item 13]",
-      "options": [
-        "crystallisation",
-        "magnetic separation",
-        "decantation alone",
-        "sedimentation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Iron filings mixed with sulphur powder before heating can be separated using: [Item 14]",
-      "options": [
-        "fractional distillation",
-        "chromatography",
-        "a separating funnel",
-        "a magnet"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "After iron and sulphur are heated strongly, the resulting iron sulphide is: [Item 15]",
-      "options": [
-        "a solution of iron in sulphur",
-        "a compound with properties different from its constituent elements",
-        "a colloid",
-        "a mixture that can be separated with a magnet"
+        "Paper chromatography",
+        "Distillation",
+        "Magnetic separation",
+        "Filtration only"
       ],
       "answer": 1
     },
     {
-      "question": "Which statement about a true solution is correct? [Item 16]",
+      "question": "Salt can be recovered from salt solution by",
       "options": [
-        "Its solute particles are too small to be seen and do not settle.",
-        "It can always be separated by ordinary filtration",
-        "It always scatters light strongly",
-        "Its particles settle rapidly"
+        "Using a separating funnel",
+        "Evaporation or crystallisation",
+        "Magnetic separation",
+        "Ordinary filtration alone"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "A separating funnel is most appropriate for separating: [Item 17]",
+      "question": "A 12% solution has total mass 150 g. Its solvent mass is",
       "options": [
-        "two immiscible liquids of different densities",
-        "salt dissolved in water",
-        "dyes dissolved in ink",
-        "two miscible liquids with close boiling points"
+        "12 g",
+        "18 g",
+        "138 g",
+        "132 g"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "The components of air can be separated industrially after liquefaction mainly by: [Item 18]",
+      "question": "Which scientifically accurate statement matches this clue: A sample containing only one kind of particle with fixed composition is",
       "options": [
-        "fractional distillation",
-        "filtration",
-        "sedimentation",
-        "sublimation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A pure substance has a sharp melting point because it: [Item 19]",
-      "options": [
-        "always consists of one atom only",
-        "must be a colloid",
-        "has a definite composition under specified conditions",
-        "contains many unrelated components"
+        "A colloid",
+        "A suspension",
+        "A pure substance",
+        "A heterogeneous mixture"
       ],
       "answer": 2
     },
     {
-      "question": "Which is an example of a heterogeneous mixture? [Item 20]",
+      "question": "A colloid scatters light but does not settle readily. The effect is called",
       "options": [
-        "oil and water",
-        "distilled water",
-        "salt solution",
-        "pure oxygen"
+        "Tyndall effect",
+        "Crystallisation",
+        "Sublimation",
+        "Electrolysis"
       ],
       "answer": 0
+    },
+    {
+      "question": "The most accurate completion of this scientific statement is: A sample containing only one kind of particle with fixed composition is",
+      "options": [
+        "A colloid",
+        "A pure substance",
+        "A suspension",
+        "A heterogeneous mixture"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A coloured dye mixture can be analysed by",
+      "options": [
+        "A separating funnel",
+        "Sedimentation",
+        "Simple filtration",
+        "Paper chromatography"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A suspension differs from a colloid because suspension particles are generally",
+      "options": [
+        "Impossible to filter",
+        "Larger and may settle on standing",
+        "Always smaller than molecules",
+        "Always transparent"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Water is a compound because hydrogen and oxygen are",
+      "options": [
+        "Separable by ordinary filtration",
+        "Chemically combined in a fixed ratio",
+        "Mixed in any proportion without bonding",
+        "Present as independent visible layers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A 20 g solute is present in 180 g solvent. Mass percentage of solute is",
+      "options": [
+        "20%",
+        "11.1%",
+        "10%",
+        "90%"
+      ],
+      "answer": 2
     }
   ],
   "hard": [
     {
-      "question": "The sample muddy water is best classified as a: [Item 21]",
+      "question": "A solution contains 10 g solute and 90 g solvent. Its mass percentage is",
       "options": [
-        "suspension",
-        "colloid",
-        "homogeneous mixture",
-        "homogeneous mixture of gases"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A solution contains 15 g solute and 80 g solvent. The mass percentage of solute is approximately: [Item 22]",
-      "options": [
-        "84.2%",
-        "1.6%",
-        "15.8%",
-        "18.8%"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A mixture scatters a beam of light, does not settle on standing, and cannot be separated by ordinary filtration. It is most likely a: [Item 23]",
-      "options": [
-        "pure compound",
-        "colloid",
-        "true solution",
-        "coarse suspension"
+        "90%",
+        "10%",
+        "9%",
+        "11.1%"
       ],
       "answer": 1
     },
     {
-      "question": "A mixture has visible particles that settle on standing and can be separated by filtration. It is a: [Item 24]",
+      "question": "Brass is an example of",
       "options": [
-        "suspension",
-        "true solution",
-        "homogeneous alloy",
-        "element"
+        "An alloy and a homogeneous mixture",
+        "A compound with a fixed chemical formula",
+        "A pure element",
+        "A heterogeneous suspension"
       ],
       "answer": 0
     },
     {
-      "question": "The most suitable separation method for coloured components of ink is: [Item 25]",
+      "question": "In a salt solution, the component present in the smaller amount is usually called the",
       "options": [
-        "evaporation",
-        "simple distillation",
-        "centrifugation",
-        "chromatography"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A mixture of ammonium chloride and common salt can be separated most directly by: [Item 26]",
-      "options": [
-        "magnetic separation",
-        "chromatography alone",
-        "fractional distillation",
-        "sublimation followed by collection of the residue"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "An insoluble solid is mixed with a liquid and allowed to settle before pouring off the clear liquid. The pouring step is: [Item 27]",
-      "options": [
-        "distillation",
-        "crystallisation",
-        "sublimation",
-        "decantation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which sample is a pure substance rather than a mixture? [Item 28]",
-      "options": [
-        "distilled water",
-        "milk",
-        "brass",
-        "soil"
+        "Solute",
+        "Residue",
+        "Solvent",
+        "Precipitate"
       ],
       "answer": 0
     },
     {
-      "question": "A compound differs from a mixture because the elements in a compound are: [Item 29]",
+      "question": "A solution of copper sulphate in water is generally",
       "options": [
-        "present in any proportion",
-        "not chemically bonded",
-        "chemically combined in a fixed proportion by mass",
-        "always separable by filtration"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The Tyndall effect is generally observed in: [Item 30]",
-      "options": [
-        "true solutions only",
-        "pure crystalline solids only",
-        "all transparent substances equally",
-        "colloids"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A solution that cannot dissolve more solute at a given temperature is: [Item 31]",
-      "options": [
-        "always a suspension",
-        "dilute by definition",
-        "unsaturated",
-        "saturated"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "At a fixed temperature, a solution containing less solute than its saturation limit is: [Item 32]",
-      "options": [
-        "saturated",
-        "supersaturated necessarily",
-        "a pure element",
-        "unsaturated"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The best method for obtaining crystals of copper sulphate from its solution is: [Item 33]",
-      "options": [
-        "crystallisation",
-        "sedimentation",
-        "magnetic separation",
-        "decantation alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Iron filings mixed with sulphur powder before heating can be separated using: [Item 34]",
-      "options": [
-        "a separating funnel",
-        "a magnet",
-        "chromatography",
-        "fractional distillation"
+        "A pure element",
+        "Homogeneous",
+        "A suspension",
+        "Heterogeneous with visible layers"
       ],
       "answer": 1
     },
     {
-      "question": "After iron and sulphur are heated strongly, the resulting iron sulphide is: [Item 35]",
+      "question": "A mixture of iodine and sand can be separated by",
       "options": [
-        "a colloid",
-        "a mixture that can be separated with a magnet",
-        "a compound with properties different from its constituent elements",
-        "a solution of iron in sulphur"
+        "Centrifugation of dry solids",
+        "Sublimation of iodine",
+        "A separating funnel",
+        "Filtration alone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A saturated solution at a fixed temperature can dissolve additional solute if",
+      "options": [
+        "The temperature is changed, if solubility increases",
+        "The solution is already saturated and no conditions change",
+        "The solute is filtered out then returned unchanged",
+        "The solvent is removed while keeping all else unchanged"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The dispersed phase of a colloid is the substance that is",
+      "options": [
+        "Always the solvent in a true solution",
+        "Always a gas only",
+        "The filter paper",
+        "Distributed as particles through another medium"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Air is classified as a",
+      "options": [
+        "Suspension",
+        "Element",
+        "Compound with fixed ratio",
+        "Homogeneous mixture"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A sample contains 12 g salt and 188 g water. Salt mass percentage is",
+      "options": [
+        "12%",
+        "6%",
+        "94%",
+        "6.38%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A suspension is heterogeneous because its particles",
+      "options": [
+        "Are always molecularly small",
+        "Cannot be separated by filtration",
+        "Are not uniformly distributed and may settle",
+        "Never scatter light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The chemical method needed to decompose water into hydrogen and oxygen is",
+      "options": [
+        "Sublimation",
+        "Filtration",
+        "Chromatography",
+        "Electrolysis"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Milk is commonly classified as",
+      "options": [
+        "A coarse suspension that settles immediately",
+        "A pure compound",
+        "An element",
+        "A colloid (emulsion)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A colloid scatters a beam of light while a true solution usually does not; this distinction is called",
+      "options": [
+        "Brownian heating",
+        "Electrolysis",
+        "Tyndall effect",
+        "Sublimation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Ammonium chloride can be separated from common salt by",
+      "options": [
+        "Sublimation",
+        "A separating funnel",
+        "Filtration after dissolving both in water only",
+        "Magnetic separation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The solvent in an aqueous solution is",
+      "options": [
+        "The substance always present in the smaller amount",
+        "The precipitate",
+        "Water",
+        "The filter residue"
       ],
       "answer": 2
     }
   ],
   "tooHard": [
     {
-      "question": "Which statement about a true solution is correct? [Item 36]",
+      "question": "Which mixture is most likely to be a colloid?",
       "options": [
-        "Its particles settle rapidly",
-        "It can always be separated by ordinary filtration",
-        "It always scatters light strongly",
-        "Its solute particles are too small to be seen and do not settle."
+        "Copper metal",
+        "Pure distilled water",
+        "Gelatin dispersed in water",
+        "Salt completely dissolved in water"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The components of a compound are usually separated by",
+      "options": [
+        "Chemical methods",
+        "Using a magnet regardless of composition",
+        "Ordinary filtration",
+        "Hand picking"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A sample gives two spots on a chromatogram. This indicates",
+      "options": [
+        "A suspension necessarily",
+        "At least two separable components",
+        "A pure element",
+        "No solvent movement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Paper chromatography separates components based on differences in",
+      "options": [
+        "Their melting into a solid",
+        "Their nuclear charge",
+        "Their response to a magnet only",
+        "Their movement through a stationary medium with a solvent"
       ],
       "answer": 3
     },
     {
-      "question": "A separating funnel is most appropriate for separating: [Item 37]",
+      "question": "A mixture of kerosene and water forms layers because the liquids are",
       "options": [
-        "two immiscible liquids of different densities",
-        "salt dissolved in water",
-        "dyes dissolved in ink",
-        "two miscible liquids with close boiling points"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The components of air can be separated industrially after liquefaction mainly by: [Item 38]",
-      "options": [
-        "sublimation",
-        "filtration",
-        "fractional distillation",
-        "sedimentation"
+        "Chemically identical",
+        "A true solution",
+        "Immiscible",
+        "Both pure elements"
       ],
       "answer": 2
     },
     {
-      "question": "A pure substance has a sharp melting point because it: [Item 39]",
+      "question": "A 20 g solute is dissolved to make 200 g solution. The mass percentage is",
       "options": [
-        "has a definite composition under specified conditions",
-        "must be a colloid",
-        "contains many unrelated components",
-        "always consists of one atom only"
+        "10%",
+        "180%",
+        "5%",
+        "20%"
       ],
       "answer": 0
     },
     {
-      "question": "Which is an example of a heterogeneous mixture? [Item 40]",
+      "question": "Fractional distillation is especially useful when liquid components have",
       "options": [
-        "oil and water",
-        "pure oxygen",
-        "distilled water",
-        "salt solution"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The sample milk is best classified as a: [Item 41]",
-      "options": [
-        "homogeneous mixture of gases",
-        "colloid",
-        "suspension",
-        "homogeneous mixture"
+        "Very different particle sizes only",
+        "Close boiling points",
+        "Identical chemical identities",
+        "Different magnetic properties"
       ],
       "answer": 1
     },
     {
-      "question": "A solution contains 20 g solute and 70 g solvent. The mass percentage of solute is approximately: [Item 42]",
+      "question": "The Tyndall effect is the scattering of light by",
       "options": [
-        "77.8%",
-        "2.2%",
-        "22.2%",
-        "28.6%"
+        "Only dissolved ions in a clear solution",
+        "Particles in every true solution strongly",
+        "Colloidal particles",
+        "A pure solvent with no particles"
       ],
       "answer": 2
     },
     {
-      "question": "A mixture scatters a beam of light, does not settle on standing, and cannot be separated by ordinary filtration. It is most likely a: [Item 43]",
+      "question": "A solid dissolved in a liquid can be obtained as crystals by",
       "options": [
-        "pure compound",
-        "coarse suspension",
-        "colloid",
-        "true solution"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A mixture has visible particles that settle on standing and can be separated by filtration. It is a: [Item 44]",
-      "options": [
-        "suspension",
-        "true solution",
-        "element",
-        "homogeneous alloy"
+        "Crystallisation",
+        "Separating funnel",
+        "Magnetic separation",
+        "Decanting without evaporation or cooling"
       ],
       "answer": 0
     },
     {
-      "question": "The most suitable separation method for salt from seawater is: [Item 45]",
+      "question": "A mixture of sand and salt can be separated by adding water, filtering, then",
       "options": [
-        "centrifugation",
-        "simple distillation",
-        "evaporation",
-        "chromatography"
+        "Using a magnet on the filtrate",
+        "Separating with a funnel only",
+        "Evaporating or crystallising the filtrate",
+        "Cooling the sand until it sublimes"
       ],
       "answer": 2
     },
     {
-      "question": "A mixture of ammonium chloride and common salt can be separated most directly by: [Item 46]",
+      "question": "Centrifugation accelerates separation by using",
       "options": [
-        "chromatography alone",
-        "fractional distillation",
-        "sublimation followed by collection of the residue",
-        "magnetic separation"
+        "Magnetic attraction",
+        "Differences in nuclear charge",
+        "Rapid rotation to separate components of different effective densities",
+        "Chemical decomposition"
       ],
       "answer": 2
     },
     {
-      "question": "An insoluble solid is mixed with a liquid and allowed to settle before pouring off the clear liquid. The pouring step is: [Item 47]",
+      "question": "The best method to separate cream from milk is",
       "options": [
-        "distillation",
-        "sublimation",
-        "crystallisation",
-        "decantation"
+        "Paper chromatography",
+        "Magnetic separation",
+        "Sublimation",
+        "Centrifugation"
       ],
       "answer": 3
     },
     {
-      "question": "Which sample is a pure substance rather than a mixture? [Item 48]",
+      "question": "A 250 g solution is 8% solute by mass. Solute mass is",
       "options": [
-        "distilled water",
-        "milk",
-        "brass",
-        "soil"
+        "31.25 g",
+        "8 g",
+        "20 g",
+        "230 g"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A true solution is stable on standing because its particles",
+      "options": [
+        "Are always larger than colloid particles",
+        "Are visible to the naked eye",
+        "Do not settle under gravity",
+        "Are separated by ordinary filtration"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A mixture of miscible liquids with close boiling points is best separated by",
+      "options": [
+        "Fractional distillation",
+        "Magnetic separation",
+        "Filtration",
+        "Separating funnel"
       ],
       "answer": 0
     },
     {
-      "question": "A compound differs from a mixture because the elements in a compound are: [Item 49]",
+      "question": "A mixture of acetone and water is best separated using",
       "options": [
-        "present in any proportion",
-        "chemically combined in a fixed proportion by mass",
-        "always separable by filtration",
-        "not chemically bonded"
+        "Fractional distillation",
+        "A magnet",
+        "Sublimation",
+        "Filtration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A compound differs from a mixture because a compound's constituents are",
+      "options": [
+        "Chemically combined in a fixed proportion",
+        "Always separable by filtration",
+        "Present in any proportion",
+        "Unchanged and freely separable by a magnet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A saturated solution is cooled and crystals form. This indicates that solubility",
+      "options": [
+        "Depends only on colour",
+        "Decreased at the lower temperature",
+        "Changed the solute into an element",
+        "Is infinite"
       ],
       "answer": 1
     },
     {
-      "question": "The Tyndall effect is generally observed in: [Item 50]",
+      "question": "A homogeneous mixture has",
       "options": [
-        "all transparent substances equally",
-        "pure crystalline solids only",
-        "colloids",
-        "true solutions only"
+        "Particles that always settle",
+        "Different visible layers necessarily",
+        "Uniform composition throughout",
+        "Only one type of atom"
       ],
       "answer": 2
     },
     {
-      "question": "A solution that cannot dissolve more solute at a given temperature is: [Item 51]",
+      "question": "The best way to separate dissolved salt from water while also collecting water is",
       "options": [
-        "always a suspension",
-        "saturated",
-        "unsaturated",
-        "dilute by definition"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "At a fixed temperature, a solution containing less solute than its saturation limit is: [Item 52]",
-      "options": [
-        "supersaturated necessarily",
-        "saturated",
-        "unsaturated",
-        "a pure element"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The best method for obtaining crystals of copper sulphate from its solution is: [Item 53]",
-      "options": [
-        "sedimentation",
-        "decantation alone",
-        "crystallisation",
-        "magnetic separation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Iron filings mixed with sulphur powder before heating can be separated using: [Item 54]",
-      "options": [
-        "fractional distillation",
-        "a separating funnel",
-        "a magnet",
-        "chromatography"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "After iron and sulphur are heated strongly, the resulting iron sulphide is: [Item 55]",
-      "options": [
-        "a colloid",
-        "a solution of iron in sulphur",
-        "a compound with properties different from its constituent elements",
-        "a mixture that can be separated with a magnet"
+        "Hand picking",
+        "Filtration",
+        "Distillation",
+        "Simple evaporation in an open dish"
       ],
       "answer": 2
     }
   ],
   "extreme": [
     {
-      "question": "Which statement about a true solution is correct? [Item 56]",
+      "question": "A mixture with particles that settle on standing and can be filtered is most likely",
       "options": [
-        "It always scatters light strongly",
-        "Its solute particles are too small to be seen and do not settle.",
-        "It can always be separated by ordinary filtration",
-        "Its particles settle rapidly"
+        "A true solution",
+        "A suspension",
+        "An element",
+        "A pure compound"
       ],
       "answer": 1
     },
     {
-      "question": "A separating funnel is most appropriate for separating: [Item 57]",
+      "question": "A pure compound has properties that are",
       "options": [
-        "two immiscible liquids of different densities",
-        "salt dissolved in water",
-        "two miscible liquids with close boiling points",
-        "dyes dissolved in ink"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The components of air can be separated industrially after liquefaction mainly by: [Item 58]",
-      "options": [
-        "sedimentation",
-        "sublimation",
-        "filtration",
-        "fractional distillation"
+        "Those of a physical mixture only",
+        "Independent of composition",
+        "Always identical to each element separately",
+        "Different from those of its constituent elements"
       ],
       "answer": 3
     },
     {
-      "question": "A pure substance has a sharp melting point because it: [Item 59]",
+      "question": "The filtrate from saltwater still contains",
       "options": [
-        "always consists of one atom only",
-        "has a definite composition under specified conditions",
-        "contains many unrelated components",
-        "must be a colloid"
+        "Only filter fibres",
+        "Only insoluble particles",
+        "Dissolved salt",
+        "No water"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The filtrate from salt water passed through ordinary filter paper still contains",
+      "options": [
+        "No water",
+        "Only insoluble particles",
+        "Dissolved salt",
+        "Only filter fibres"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A solution contains 25 g solute and 175 g solvent. Its mass percentage is",
+      "options": [
+        "25%",
+        "14.3%",
+        "87.5%",
+        "12.5%"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A mixture of iron filings and sulphur can be separated physically using",
+      "options": [
+        "A magnet",
+        "Chromatography only",
+        "Simple distillation only",
+        "A separating funnel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A sample containing only one kind of particle with fixed composition is",
+      "options": [
+        "A suspension",
+        "A heterogeneous mixture",
+        "A colloid",
+        "A pure substance"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A separating funnel relies mainly on differences in",
+      "options": [
+        "Boiling point of solids",
+        "Particle colour only",
+        "Immiscibility and density",
+        "Magnetic susceptibility only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Immiscible liquids with different densities can commonly be separated using",
+      "options": [
+        "Paper chromatography",
+        "Sublimation alone",
+        "A separating funnel",
+        "A magnet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Crystallisation is preferred over simple evaporation when a purer solid is required because it",
+      "options": [
+        "Works only for gases",
+        "Always removes all solvent by filtration",
+        "Can separate crystals from many soluble impurities",
+        "Converts the solid into a new element"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is a pure substance?",
+      "options": [
+        "Milk",
+        "Soil",
+        "Distilled water",
+        "Air"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A liquid-liquid mixture forms two layers. A suitable apparatus is",
+      "options": [
+        "Magnet",
+        "Chromatography paper",
+        "Filter paper",
+        "Separating funnel"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A mixture's composition varies from sample to sample because it lacks",
+      "options": [
+        "Particles",
+        "Any separation method",
+        "Physical properties",
+        "A fixed composition"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A mixture is not a compound because the mixture's composition",
+      "options": [
+        "Must be fixed by a chemical formula",
+        "Can never be separated physically",
+        "Always changes atomic numbers",
+        "Can vary"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A pure substance has a fixed melting point under a given pressure, whereas a mixture often",
+      "options": [
+        "Must be an element",
+        "Has no particles",
+        "Melts over a range of temperatures",
+        "Cannot be separated"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A solution containing relatively little solute compared with solvent is",
+      "options": [
+        "Saturated in every case",
+        "A pure substance",
+        "Concentrated",
+        "Dilute"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A solution contains 18 g solute in 132 g solution. Mass percentage is",
+      "options": [
+        "18%",
+        "8%",
+        "13.64%",
+        "12%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A 5% by mass solution of total mass 400 g contains solute mass",
+      "options": [
+        "5 g",
+        "80 g",
+        "20 g",
+        "395 g"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Select the correct concept associated with the following statement: A sample containing only one kind of particle with fixed composition is",
+      "options": [
+        "A heterogeneous mixture",
+        "A suspension",
+        "A pure substance",
+        "A colloid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Smoke is commonly a colloid with",
+      "options": [
+        "Solid particles dispersed in gas",
+        "Gas dispersed in liquid only",
+        "A pure compound",
+        "Liquid dispersed in solid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A solution's concentration by mass percentage is calculated as",
+      "options": [
+        "Mass of solvent ÷ mass of solute × 100",
+        "Mass of solution ÷ mass of solute × 100",
+        "Volume of solvent ÷ mass of solute × 100",
+        "Mass of solute ÷ mass of solution × 100"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The components of a mixture retain",
+      "options": [
+        "Their individual chemical properties",
+        "A new atomic number",
+        "A fixed chemical formula",
+        "Only the properties of a compound"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A solution is best described as",
+      "options": [
+        "A coarse heterogeneous mixture",
+        "A pure compound only",
+        "A homogeneous mixture of solute and solvent",
+        "A suspension that always settles"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A true solution generally does not show the Tyndall effect because its solute particles are",
+      "options": [
+        "Always insoluble",
+        "Too small to scatter visible light appreciably",
+        "Large enough to settle rapidly",
+        "Visible to the naked eye"
       ],
       "answer": 1
     },
     {
-      "question": "Which is an example of a heterogeneous mixture? [Item 60]",
+      "question": "Which is a compound?",
       "options": [
-        "distilled water",
-        "oil and water",
-        "pure oxygen",
-        "salt solution"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The sample air is best classified as a: [Item 61]",
-      "options": [
-        "homogeneous mixture",
-        "colloid",
-        "homogeneous mixture of gases",
-        "suspension"
+        "Air",
+        "Soil",
+        "Sodium chloride",
+        "Brass"
       ],
       "answer": 2
-    },
-    {
-      "question": "A solution contains 25 g solute and 60 g solvent. The mass percentage of solute is approximately: [Item 62]",
-      "options": [
-        "2.9%",
-        "70.6%",
-        "29.4%",
-        "41.7%"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A mixture scatters a beam of light, does not settle on standing, and cannot be separated by ordinary filtration. It is most likely a: [Item 63]",
-      "options": [
-        "pure compound",
-        "true solution",
-        "colloid",
-        "coarse suspension"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A mixture has visible particles that settle on standing and can be separated by filtration. It is a: [Item 64]",
-      "options": [
-        "element",
-        "true solution",
-        "suspension",
-        "homogeneous alloy"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The most suitable separation method for pure water from salt solution is: [Item 65]",
-      "options": [
-        "centrifugation",
-        "chromatography",
-        "evaporation",
-        "simple distillation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A mixture of ammonium chloride and common salt can be separated most directly by: [Item 66]",
-      "options": [
-        "sublimation followed by collection of the residue",
-        "fractional distillation",
-        "magnetic separation",
-        "chromatography alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "An insoluble solid is mixed with a liquid and allowed to settle before pouring off the clear liquid. The pouring step is: [Item 67]",
-      "options": [
-        "distillation",
-        "sublimation",
-        "crystallisation",
-        "decantation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which sample is a pure substance rather than a mixture? [Item 68]",
-      "options": [
-        "brass",
-        "soil",
-        "milk",
-        "distilled water"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A compound differs from a mixture because the elements in a compound are: [Item 69]",
-      "options": [
-        "chemically combined in a fixed proportion by mass",
-        "always separable by filtration",
-        "not chemically bonded",
-        "present in any proportion"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The Tyndall effect is generally observed in: [Item 70]",
-      "options": [
-        "true solutions only",
-        "pure crystalline solids only",
-        "all transparent substances equally",
-        "colloids"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A solution that cannot dissolve more solute at a given temperature is: [Item 71]",
-      "options": [
-        "always a suspension",
-        "dilute by definition",
-        "saturated",
-        "unsaturated"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "At a fixed temperature, a solution containing less solute than its saturation limit is: [Item 72]",
-      "options": [
-        "unsaturated",
-        "supersaturated necessarily",
-        "saturated",
-        "a pure element"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The best method for obtaining crystals of copper sulphate from its solution is: [Item 73]",
-      "options": [
-        "crystallisation",
-        "magnetic separation",
-        "sedimentation",
-        "decantation alone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Iron filings mixed with sulphur powder before heating can be separated using: [Item 74]",
-      "options": [
-        "a separating funnel",
-        "a magnet",
-        "chromatography",
-        "fractional distillation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "After iron and sulphur are heated strongly, the resulting iron sulphide is: [Item 75]",
-      "options": [
-        "a compound with properties different from its constituent elements",
-        "a colloid",
-        "a mixture that can be separated with a magnet",
-        "a solution of iron in sulphur"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which statement about a true solution is correct? [Item 76]",
-      "options": [
-        "It can always be separated by ordinary filtration",
-        "Its particles settle rapidly",
-        "It always scatters light strongly",
-        "Its solute particles are too small to be seen and do not settle."
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A separating funnel is most appropriate for separating: [Item 77]",
-      "options": [
-        "salt dissolved in water",
-        "two immiscible liquids of different densities",
-        "two miscible liquids with close boiling points",
-        "dyes dissolved in ink"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The components of air can be separated industrially after liquefaction mainly by: [Item 78]",
-      "options": [
-        "fractional distillation",
-        "sedimentation",
-        "sublimation",
-        "filtration"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A pure substance has a sharp melting point because it: [Item 79]",
-      "options": [
-        "must be a colloid",
-        "contains many unrelated components",
-        "always consists of one atom only",
-        "has a definite composition under specified conditions"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which is an example of a heterogeneous mixture? [Item 80]",
-      "options": [
-        "pure oxygen",
-        "distilled water",
-        "salt solution",
-        "oil and water"
-      ],
-      "answer": 3
     }
   ]
 };

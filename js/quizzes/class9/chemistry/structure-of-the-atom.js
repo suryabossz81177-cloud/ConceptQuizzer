@@ -1,811 +1,815 @@
+/* Class 9 Chemistry — Structure of the Atom
+   80 MCQs; prompts are unnumbered.
+   Easy 10; Medium 10; Hard 15; Too Hard 20; Extreme 25.
+   answer is a zero-based option index. */
 window.QuizData = window.QuizData || {};
 window.QuizData["9-chemistry-structure-of-the-atom"] = {
   "easy": [
     {
-      "question": "An atom has atomic number 6 and mass number 12. Its neutron count is: [Item 01]",
+      "question": "An atom has 14 protons and 14 neutrons. Its mass number is",
       "options": [
-        "6",
-        "12",
-        "7",
-        "None of these"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A neutral atom has atomic number 10 and mass number 21. The number of electrons is: [Item 02]",
-      "options": [
-        "None of these",
-        "11",
-        "21",
-        "10"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "For a neutral atom represented by ⁽²³⁾₁₁Na, the correct particle count is: [Item 03]",
-      "options": [
-        "17 protons, 18 neutrons, 17 electrons",
-        "11 protons, 12 neutrons, 11 electrons",
-        "12 protons, 12 neutrons, 12 electrons",
-        "8 protons, 8 neutrons, 8 electrons"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The number of electrons in sodium ion, Na⁺ is: [Item 04]",
-      "options": [
-        "9",
-        "12",
-        "11",
-        "10"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The relationship between ¹²C and ¹⁴C is: [Item 05]",
-      "options": [
-        "neither isotopes nor isobars",
-        "isotopes",
-        "None of these",
-        "isobars"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The maximum electron capacity relevant to the K shell is: [Item 06]",
-      "options": [
-        "1",
-        "32",
-        "2",
-        "18"
+        "0",
+        "14",
+        "28",
+        "42"
       ],
       "answer": 2
     },
     {
-      "question": "The electronic configuration of an atom with atomic number 11 is: [Item 07]",
+      "question": "Two atoms of the same element with different mass numbers are",
       "options": [
-        "2,8,1",
-        "2,8,2",
-        "2,8,8",
-        "2,7,2"
+        "Isobars",
+        "Allotropes",
+        "Isotopes",
+        "Ions only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An atom with configuration 2,8,8 has outer-shell valency",
+      "options": [
+        "1",
+        "8",
+        "0",
+        "2"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An ion X²⁺ has 10 electrons and 12 protons. Neutral X has",
+      "options": [
+        "12 electrons",
+        "10 electrons",
+        "14 electrons",
+        "22 electrons"
       ],
       "answer": 0
     },
     {
-      "question": "Rutherford's alpha-particle scattering experiment supported the conclusion that: [Item 08]",
+      "question": "The electronic configuration of calcium is",
       "options": [
-        "electrons occupy fixed circular shells as proved by this experiment",
-        "the nucleus occupies almost the entire atomic volume",
-        "positive charge is spread uniformly throughout the atom",
-        "most of the atom is empty space with a small, dense, positively charged nucleus"
+        "2, 8, 10",
+        "2, 8, 2",
+        "2, 8, 8, 2",
+        "2, 8, 8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The term ‘nucleons’ refers to",
+      "options": [
+        "Electrons only",
+        "All electrons in shells",
+        "Electrons and protons",
+        "Protons and neutrons"
       ],
       "answer": 3
     },
     {
-      "question": "Bohr's model proposed that electrons revolve around the nucleus in: [Item 09]",
+      "question": "The valency of an atom with configuration 2,8,8,1 is",
       "options": [
-        "any orbit with continuously varying energy",
-        "the nucleus itself",
-        "random paths without energy restrictions",
-        "specific permitted energy shells"
+        "7",
+        "0",
+        "1",
+        "8"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
-      "question": "The particle that determines the atomic number of an element is the: [Item 10]",
+      "question": "Isobars have the same",
       "options": [
-        "neutron",
-        "proton",
-        "nucleon pair",
-        "electron in the outermost shell"
+        "Electronic configuration always",
+        "Atomic number but different mass numbers",
+        "Mass number but different atomic numbers",
+        "Number of neutrons only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The valency of an atom with configuration 2,8,4 is commonly",
+      "options": [
+        "8",
+        "6",
+        "4",
+        "2"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An atom with mass number 40 and atomic number 18 contains",
+      "options": [
+        "40 neutrons",
+        "22 neutrons",
+        "58 neutrons",
+        "18 neutrons"
       ],
       "answer": 1
     }
   ],
   "medium": [
     {
-      "question": "Two atoms are isotopes when they have: [Item 11]",
+      "question": "An atom has 15 protons and 16 neutrons. Its mass number is",
       "options": [
-        "the same mass number but different atomic numbers",
-        "equal numbers of neutrons only",
-        "different proton numbers and equal neutron numbers always",
-        "the same atomic number but different mass numbers"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two atoms are isobars when they have: [Item 12]",
-      "options": [
-        "identical electronic configurations always",
-        "the same atomic number and different mass numbers",
-        "the same mass number but different atomic numbers",
-        "the same number of protons and neutrons"
+        "16",
+        "1",
+        "31",
+        "15"
       ],
       "answer": 2
     },
     {
-      "question": "An atom with 17 protons and 18 electrons has a charge of: [Item 13]",
+      "question": "An atom with 11 protons and 12 neutrons has mass number",
       "options": [
-        "−1",
-        "0",
-        "+1",
-        "+2"
+        "23",
+        "24",
+        "12",
+        "11"
       ],
       "answer": 0
     },
     {
-      "question": "The number of neutrons in ³⁹₁₉K is: [Item 14]",
+      "question": "A neutral atom has mass number 39 and atomic number 19. Neutron number is",
       "options": [
-        "39",
+        "19",
         "58",
         "20",
-        "19"
+        "39"
       ],
       "answer": 2
     },
     {
-      "question": "An atom has configuration 2,8,7. Its usual tendency is to: [Item 15]",
+      "question": "The number of protons in Na⁺ remains",
       "options": [
-        "lose seven electrons",
-        "lose one neutron",
-        "gain seven protons",
-        "gain one electron to complete its outer shell"
+        "11",
+        "23",
+        "10",
+        "12"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Thomson’s atomic model represented the atom as",
+      "options": [
+        "Electrons in fixed Bohr shells",
+        "A tiny positive nucleus with empty space",
+        "A solid indivisible sphere with no substructure",
+        "Electrons embedded in a positively charged sphere"
       ],
       "answer": 3
     },
     {
-      "question": "An atom with electronic configuration 2,8,2 usually forms an ion with charge: [Item 16]",
+      "question": "A species with 13 protons and 10 electrons is",
       "options": [
-        "+1",
-        "+2",
+        "Al³⁺",
+        "Mg²⁺",
+        "Si⁴⁻",
+        "Al⁻"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A neutral atom with atomic number 17 has",
+      "options": [
+        "17 protons and 17 electrons",
+        "17 neutrons and no electrons",
+        "18 protons and 17 electrons",
+        "17 protons and 18 electrons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The discovery of the neutron helped explain why",
+      "options": [
+        "atoms have no nucleus",
+        "all isotopes have identical masses",
+        "Atomic mass could exceed the total mass contribution of protons alone",
+        "electrons carry positive charge"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The charge on a proton is",
+      "options": [
         "−2",
-        "0"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The subatomic particle with negligible mass compared with a proton and carrying negative charge is the: [Item 17]",
-      "options": [
-        "proton",
-        "nucleus",
-        "neutron",
-        "electron"
+        "−1",
+        "0",
+        "+1"
       ],
       "answer": 3
     },
     {
-      "question": "The nucleus of an atom contains: [Item 18]",
+      "question": "The valency of an atom with electronic configuration 2,8,1 is",
       "options": [
-        "electrons only",
-        "protons and neutrons, except ordinary hydrogen-1 which has no neutron",
-        "protons and electrons",
-        "neutrons and electrons only"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "An atom has 15 protons and 16 neutrons. Its mass number is: [Item 19]",
-      "options": [
-        "16",
-        "31",
         "1",
-        "15"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The number of electrons in a neutral atom with mass number 27 and 13 protons is: [Item 20]",
-      "options": [
-        "13",
-        "27",
-        "14",
-        "40"
+        "7",
+        "8",
+        "0"
       ],
       "answer": 0
     }
   ],
   "hard": [
     {
-      "question": "An atom has atomic number 8 and mass number 14. Its neutron count is: [Item 21]",
+      "question": "A species with 17 protons and 18 electrons is",
       "options": [
-        "14",
-        "6",
-        "7",
-        "8"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A neutral atom has atomic number 11 and mass number 23. The number of electrons is: [Item 22]",
-      "options": [
-        "23",
-        "None of these",
-        "12",
-        "11"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "For a neutral atom represented by ⁽³⁵⁾₁₇Cl, the correct particle count is: [Item 23]",
-      "options": [
-        "11 protons, 12 neutrons, 11 electrons",
-        "17 protons, 18 neutrons, 17 electrons",
-        "12 protons, 12 neutrons, 12 electrons",
-        "8 protons, 8 neutrons, 8 electrons"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The number of electrons in magnesium ion, Mg²⁺ is: [Item 24]",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The relationship between ⁴⁰Ar and ⁴⁰Ca is: [Item 25]",
-      "options": [
-        "neither isotopes nor isobars",
-        "None of these",
-        "isobars",
-        "isotopes"
+        "Ar⁺",
+        "Cl⁺",
+        "Cl⁻",
+        "S²⁻"
       ],
       "answer": 2
     },
     {
-      "question": "The maximum electron capacity relevant to the L shell is: [Item 26]",
+      "question": "The electronic configuration 2,6 belongs to an atom with atomic number",
       "options": [
-        "18",
-        "32",
         "8",
-        "1"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The electronic configuration of an atom with atomic number 12 is: [Item 27]",
-      "options": [
-        "2,8,8",
-        "2,8,2",
-        "2,7,2",
-        "2,8,1"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Rutherford's alpha-particle scattering experiment supported the conclusion that: [Item 28]",
-      "options": [
-        "the nucleus occupies almost the entire atomic volume",
-        "most of the atom is empty space with a small, dense, positively charged nucleus",
-        "electrons occupy fixed circular shells as proved by this experiment",
-        "positive charge is spread uniformly throughout the atom"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Bohr's model proposed that electrons revolve around the nucleus in: [Item 29]",
-      "options": [
-        "the nucleus itself",
-        "any orbit with continuously varying energy",
-        "random paths without energy restrictions",
-        "specific permitted energy shells"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The particle that determines the atomic number of an element is the: [Item 30]",
-      "options": [
-        "proton",
-        "nucleon pair",
-        "electron in the outermost shell",
-        "neutron"
+        "10",
+        "6",
+        "12"
       ],
       "answer": 0
     },
     {
-      "question": "Two atoms are isotopes when they have: [Item 31]",
+      "question": "An atom has 20 electrons and is neutral. Its atomic number is",
       "options": [
-        "equal numbers of neutrons only",
-        "the same mass number but different atomic numbers",
-        "different proton numbers and equal neutron numbers always",
-        "the same atomic number but different mass numbers"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two atoms are isobars when they have: [Item 32]",
-      "options": [
-        "the same number of protons and neutrons",
-        "the same mass number but different atomic numbers",
-        "identical electronic configurations always",
-        "the same atomic number and different mass numbers"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "An atom with 17 protons and 18 electrons has a charge of: [Item 33]",
-      "options": [
-        "+1",
-        "+2",
-        "0",
-        "−1"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The number of neutrons in ³⁹₁₉K is: [Item 34]",
-      "options": [
+        "40",
         "20",
-        "39",
-        "58",
-        "19"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "An atom has configuration 2,8,7. Its usual tendency is to: [Item 35]",
-      "options": [
-        "gain seven protons",
-        "lose seven electrons",
-        "gain one electron to complete its outer shell",
-        "lose one neutron"
-      ],
-      "answer": 2
-    }
-  ],
-  "tooHard": [
-    {
-      "question": "An atom with electronic configuration 2,8,2 usually forms an ion with charge: [Item 36]",
-      "options": [
-        "−2",
-        "+2",
-        "+1",
-        "0"
+        "10",
+        "18"
       ],
       "answer": 1
     },
     {
-      "question": "The subatomic particle with negligible mass compared with a proton and carrying negative charge is the: [Item 37]",
+      "question": "An element with atomic number 19 has one electron in its outermost shell and belongs to",
       "options": [
-        "nucleus",
-        "neutron",
-        "electron",
-        "proton"
+        "Group 17",
+        "Group 1",
+        "Group 18",
+        "Group 2"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "The nucleus of an atom contains: [Item 38]",
+      "question": "The nucleus contains",
       "options": [
-        "neutrons and electrons only",
-        "protons and electrons",
-        "electrons only",
-        "protons and neutrons, except ordinary hydrogen-1 which has no neutron"
+        "Neutrons and electrons",
+        "Protons and electrons",
+        "Only electrons",
+        "Protons and neutrons"
       ],
       "answer": 3
     },
     {
-      "question": "An atom has 15 protons and 16 neutrons. Its mass number is: [Item 39]",
+      "question": "The maximum number of electrons in the K shell is",
       "options": [
-        "1",
-        "16",
-        "31",
-        "15"
+        "32",
+        "2",
+        "8",
+        "18"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "The number of electrons in a neutral atom with mass number 27 and 13 protons is: [Item 40]",
+      "question": "For the first 18 elements, the outermost shell generally contains at most",
       "options": [
-        "13",
+        "18 electrons",
+        "8 electrons",
+        "2 electrons",
+        "32 electrons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Chlorine’s common isotopes demonstrate that isotopes of an element have similar chemical properties because they share the same",
+      "options": [
+        "Mass number",
+        "Electronic configuration in neutral atoms",
+        "Neutron number",
+        "Nuclear mass"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The isotope ²³Na has atomic number 11; its neutron number is",
+      "options": [
+        "12",
+        "23",
+        "11",
+        "34"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A magnesium ion Mg²⁺ has 10 electrons because neutral magnesium",
+      "options": [
+        "Gains two neutrons",
+        "Loses two electrons",
+        "Loses two protons",
+        "Gains two electrons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An atom has atomic number 13 and mass number 27. Its neutron count is",
+      "options": [
         "14",
+        "13",
         "40",
         "27"
       ],
       "answer": 0
     },
     {
-      "question": "An atom has atomic number 10 and mass number 16. Its neutron count is: [Item 41]",
+      "question": "The isotope ¹²C contains",
       "options": [
-        "16",
-        "7",
-        "10",
-        "6"
+        "6 protons and 0 neutrons",
+        "12 protons and 6 neutrons",
+        "6 protons and 12 neutrons",
+        "6 protons and 6 neutrons"
       ],
       "answer": 3
     },
     {
-      "question": "A neutral atom has atomic number 12 and mass number 25. The number of electrons is: [Item 42]",
+      "question": "A chloride ion Cl⁻ has 18 electrons because chlorine",
       "options": [
-        "12",
-        "None of these",
-        "13",
-        "25"
+        "Gains one electron",
+        "Loses one neutron",
+        "Loses one electron",
+        "Gains one proton"
       ],
       "answer": 0
     },
     {
-      "question": "For a neutral atom represented by ⁽²⁴⁾₁₂Mg, the correct particle count is: [Item 43]",
+      "question": "The electronic configuration of oxygen is",
       "options": [
-        "8 protons, 8 neutrons, 8 electrons",
-        "17 protons, 18 neutrons, 17 electrons",
-        "11 protons, 12 neutrons, 11 electrons",
-        "12 protons, 12 neutrons, 12 electrons"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The number of electrons in chloride ion, Cl⁻ is: [Item 44]",
-      "options": [
-        "20",
-        "18",
-        "19",
-        "17"
+        "2, 7",
+        "2, 6",
+        "2, 8",
+        "2, 4"
       ],
       "answer": 1
     },
     {
-      "question": "The relationship between ¹H and ²H is: [Item 45]",
+      "question": "The relative mass of an electron is approximately",
       "options": [
-        "neither isotopes nor isobars",
-        "isobars",
-        "None of these",
-        "isotopes"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The maximum electron capacity relevant to the M shell for the first 18 elements in the basic shell model is: [Item 46]",
-      "options": [
-        "8",
-        "18",
-        "1",
-        "32"
+        "1/1836 u",
+        "1 u",
+        "1/12 u",
+        "2 u"
       ],
       "answer": 0
-    },
-    {
-      "question": "The electronic configuration of an atom with atomic number 13 is: [Item 47]",
-      "options": [
-        "2,8,8",
-        "2,8,3",
-        "2,7,2",
-        "2,8,1"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Rutherford's alpha-particle scattering experiment supported the conclusion that: [Item 48]",
-      "options": [
-        "positive charge is spread uniformly throughout the atom",
-        "the nucleus occupies almost the entire atomic volume",
-        "most of the atom is empty space with a small, dense, positively charged nucleus",
-        "electrons occupy fixed circular shells as proved by this experiment"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Bohr's model proposed that electrons revolve around the nucleus in: [Item 49]",
-      "options": [
-        "random paths without energy restrictions",
-        "any orbit with continuously varying energy",
-        "the nucleus itself",
-        "specific permitted energy shells"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The particle that determines the atomic number of an element is the: [Item 50]",
-      "options": [
-        "neutron",
-        "electron in the outermost shell",
-        "nucleon pair",
-        "proton"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Two atoms are isotopes when they have: [Item 51]",
-      "options": [
-        "the same mass number but different atomic numbers",
-        "different proton numbers and equal neutron numbers always",
-        "the same atomic number but different mass numbers",
-        "equal numbers of neutrons only"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Two atoms are isobars when they have: [Item 52]",
-      "options": [
-        "the same atomic number and different mass numbers",
-        "the same mass number but different atomic numbers",
-        "the same number of protons and neutrons",
-        "identical electronic configurations always"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "An atom with 17 protons and 18 electrons has a charge of: [Item 53]",
-      "options": [
-        "−1",
-        "+2",
-        "+1",
-        "0"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The number of neutrons in ³⁹₁₉K is: [Item 54]",
-      "options": [
-        "39",
-        "19",
-        "20",
-        "58"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "An atom has configuration 2,8,7. Its usual tendency is to: [Item 55]",
-      "options": [
-        "lose one neutron",
-        "lose seven electrons",
-        "gain one electron to complete its outer shell",
-        "gain seven protons"
-      ],
-      "answer": 2
     }
   ],
-  "extreme": [
+  "tooHard": [
     {
-      "question": "An atom with electronic configuration 2,8,2 usually forms an ion with charge: [Item 56]",
+      "question": "Most alpha particles passed straight through gold foil, indicating that atoms are mostly",
       "options": [
-        "+2",
-        "+1",
-        "−2",
-        "0"
+        "Empty space",
+        "Without a nucleus",
+        "Negatively charged throughout",
+        "Solid matter throughout"
       ],
       "answer": 0
     },
     {
-      "question": "The subatomic particle with negligible mass compared with a proton and carrying negative charge is the: [Item 57]",
+      "question": "A few alpha particles were deflected through large angles, indicating that positive charge is",
       "options": [
-        "nucleus",
-        "proton",
-        "neutron",
-        "electron"
+        "Located only in the electron cloud",
+        "Concentrated in a small, dense nucleus",
+        "Absent from the atom",
+        "Uniformly spread through the atom"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
-      "question": "The nucleus of an atom contains: [Item 58]",
+      "question": "Bohr proposed that electrons move in",
       "options": [
-        "protons and electrons",
-        "electrons only",
-        "protons and neutrons, except ordinary hydrogen-1 which has no neutron",
-        "neutrons and electrons only"
+        "The nucleus itself",
+        "Fixed positions without energy",
+        "Certain permitted shells or energy levels",
+        "Any orbit with any energy"
       ],
       "answer": 2
     },
     {
-      "question": "An atom has 15 protons and 16 neutrons. Its mass number is: [Item 59]",
-      "options": [
-        "16",
-        "1",
-        "15",
-        "31"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The number of electrons in a neutral atom with mass number 27 and 13 protons is: [Item 60]",
-      "options": [
-        "13",
-        "40",
-        "27",
-        "14"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "An atom has atomic number 12 and mass number 18. Its neutron count is: [Item 61]",
+      "question": "The maximum number of electrons in the M shell according to the 2n² rule is",
       "options": [
         "18",
-        "7",
-        "12",
-        "6"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A neutral atom has atomic number 13 and mass number 27. The number of electrons is: [Item 62]",
-      "options": [
-        "27",
-        "None of these",
-        "14",
-        "13"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "For a neutral atom represented by ⁽¹⁶⁾₈O, the correct particle count is: [Item 63]",
-      "options": [
-        "8 protons, 8 neutrons, 8 electrons",
-        "12 protons, 12 neutrons, 12 electrons",
-        "17 protons, 18 neutrons, 17 electrons",
-        "11 protons, 12 neutrons, 11 electrons"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The number of electrons in oxide ion, O²⁻ is: [Item 64]",
-      "options": [
-        "12",
-        "9",
-        "10",
-        "11"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The relationship between ³⁹K and ⁴⁰Ca is: [Item 65]",
-      "options": [
-        "isobars",
-        "neither isotopes nor isobars",
-        "isotopes",
-        "None of these"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The maximum electron capacity relevant to the outermost shell maximum in the Bohr-Bury scheme is: [Item 66]",
-      "options": [
-        "8",
-        "1",
+        "2",
         "32",
-        "18"
+        "8"
       ],
       "answer": 0
     },
     {
-      "question": "The electronic configuration of an atom with atomic number 16 is: [Item 67]",
-      "options": [
-        "2,7,2",
-        "2,8,1",
-        "2,8,6",
-        "2,8,8"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Rutherford's alpha-particle scattering experiment supported the conclusion that: [Item 68]",
-      "options": [
-        "most of the atom is empty space with a small, dense, positively charged nucleus",
-        "positive charge is spread uniformly throughout the atom",
-        "electrons occupy fixed circular shells as proved by this experiment",
-        "the nucleus occupies almost the entire atomic volume"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Bohr's model proposed that electrons revolve around the nucleus in: [Item 69]",
-      "options": [
-        "specific permitted energy shells",
-        "any orbit with continuously varying energy",
-        "random paths without energy restrictions",
-        "the nucleus itself"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The particle that determines the atomic number of an element is the: [Item 70]",
-      "options": [
-        "neutron",
-        "proton",
-        "nucleon pair",
-        "electron in the outermost shell"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Two atoms are isotopes when they have: [Item 71]",
-      "options": [
-        "the same atomic number but different mass numbers",
-        "different proton numbers and equal neutron numbers always",
-        "equal numbers of neutrons only",
-        "the same mass number but different atomic numbers"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Two atoms are isobars when they have: [Item 72]",
-      "options": [
-        "the same mass number but different atomic numbers",
-        "the same number of protons and neutrons",
-        "identical electronic configurations always",
-        "the same atomic number and different mass numbers"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "An atom with 17 protons and 18 electrons has a charge of: [Item 73]",
+      "question": "The charge on an electron is",
       "options": [
         "0",
-        "+2",
         "+1",
+        "+2",
         "−1"
       ],
       "answer": 3
     },
     {
-      "question": "The number of neutrons in ³⁹₁₉K is: [Item 74]",
+      "question": "The isotope hydrogen-2 contains",
       "options": [
-        "19",
-        "20",
-        "58",
-        "39"
+        "One proton and two neutrons",
+        "One proton and one neutron",
+        "Two protons and no neutrons",
+        "No protons and two neutrons"
       ],
       "answer": 1
     },
     {
-      "question": "An atom has configuration 2,8,7. Its usual tendency is to: [Item 75]",
+      "question": "Argon-40 and calcium-40 are examples of",
       "options": [
-        "lose one neutron",
-        "lose seven electrons",
-        "gain one electron to complete its outer shell",
-        "gain seven protons"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "An atom with electronic configuration 2,8,2 usually forms an ion with charge: [Item 76]",
-      "options": [
-        "−2",
-        "+1",
-        "+2",
-        "0"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The subatomic particle with negligible mass compared with a proton and carrying negative charge is the: [Item 77]",
-      "options": [
-        "electron",
-        "neutron",
-        "nucleus",
-        "proton"
+        "Isobars",
+        "Identical atoms",
+        "Isotopes",
+        "Neutrons"
       ],
       "answer": 0
     },
     {
-      "question": "The nucleus of an atom contains: [Item 78]",
+      "question": "A neutral atom with configuration 2,8,5 has atomic number",
       "options": [
-        "electrons only",
-        "protons and neutrons, except ordinary hydrogen-1 which has no neutron",
-        "neutrons and electrons only",
-        "protons and electrons"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "An atom has 15 protons and 16 neutrons. Its mass number is: [Item 79]",
-      "options": [
+        "16",
+        "13",
         "15",
-        "1",
-        "31",
-        "16"
+        "18"
       ],
       "answer": 2
     },
     {
-      "question": "The number of electrons in a neutral atom with mass number 27 and 13 protons is: [Item 80]",
+      "question": "The electronic configuration 2,8,2 belongs to an atom with atomic number",
       "options": [
-        "13",
-        "27",
+        "11",
+        "10",
         "14",
-        "40"
+        "12"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "An ion has 16 protons and 18 electrons. Its charge is",
+      "options": [
+        "2+",
+        "1−",
+        "Neutral",
+        "2−"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "An element has 3 occupied shells and 2 outer-shell electrons. Its likely configuration for the first 20 elements is",
+      "options": [
+        "2, 8, 2",
+        "2, 7, 3",
+        "2, 8, 8",
+        "2, 6, 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The number of protons in an atom identifies its",
+      "options": [
+        "Element",
+        "Isotope only",
+        "Number of neutrons only",
+        "Physical state"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A neutral atom has equal numbers of",
+      "options": [
+        "Nucleons and electrons",
+        "Neutrons and electrons in all isotopes",
+        "Protons and electrons",
+        "Protons and neutrons"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The electronic configuration of neon is",
+      "options": [
+        "2, 8, 1",
+        "2, 8",
+        "2, 7",
+        "2, 6"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An ion has 12 protons and 10 electrons. Its charge is",
+      "options": [
+        "2−",
+        "2+",
+        "1+",
+        "Neutral"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An atom has 8 protons, 8 neutrons and 10 electrons. Its mass number and charge are",
+      "options": [
+        "18 and 2+",
+        "16 and neutral",
+        "16 and 2−",
+        "8 and 2−"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The atomic number of an atom equals its number of",
+      "options": [
+        "Protons plus neutrons",
+        "Nucleons",
+        "Protons",
+        "Neutrons"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The number of neutrons in ³⁷₁₇Cl is",
+      "options": [
+        "37",
+        "54",
+        "20",
+        "17"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The mass of an atom is concentrated mainly in its",
+      "options": [
+        "Empty space",
+        "Outermost shell only",
+        "Nucleus",
+        "Electron shells"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The maximum electron capacity of the N shell from 2n² is",
+      "options": [
+        "32",
+        "8",
+        "16",
+        "18"
+      ],
+      "answer": 0
+    }
+  ],
+  "extreme": [
+    {
+      "question": "The charge on a neutron is",
+      "options": [
+        "+1",
+        "+2",
+        "−1",
+        "0"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The isotope hydrogen-3 contains",
+      "options": [
+        "Three protons",
+        "One proton and two neutrons",
+        "Two protons and one neutron",
+        "One proton and three neutrons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The nucleus was identified through the scattering experiment associated with",
+      "options": [
+        "Democritus",
+        "J. J. Thomson",
+        "Ernest Rutherford",
+        "John Dalton"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Carbon-12 and carbon-14 are",
+      "options": [
+        "Ions of different elements",
+        "Isobars",
+        "Isotopes",
+        "Isomers"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The electronic configuration of aluminium is",
+      "options": [
+        "2, 6, 5",
+        "2, 8, 3",
+        "2, 8, 1",
+        "2, 8, 5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The neutron was discovered by",
+      "options": [
+        "Niels Bohr",
+        "James Chadwick",
+        "E. Goldstein",
+        "J. J. Thomson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The electronic configuration of sodium (atomic number 11) is",
+      "options": [
+        "2, 8, 1",
+        "2, 6, 3",
+        "2, 8, 2",
+        "2, 7, 2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The electron was discovered by",
+      "options": [
+        "James Chadwick",
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "J. J. Thomson"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The atomic number of oxygen is 8. A neutral oxygen atom has",
+      "options": [
+        "16 electrons",
+        "8 electrons",
+        "8 neutrons necessarily",
+        "16 protons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rutherford’s model could not explain",
+      "options": [
+        "The existence of a nucleus",
+        "The positive charge in the nucleus",
+        "The stability of orbiting electrons",
+        "The scattering of alpha particles"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Isotopes have the same number of",
+      "options": [
+        "Neutrons but different protons",
+        "Nucleons and neutrons",
+        "Protons but different numbers of neutrons",
+        "Electrons and neutrons in all ions"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The maximum number of electrons in the L shell is",
+      "options": [
+        "18",
+        "2",
+        "8",
+        "32"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The gold foil experiment used",
+      "options": [
+        "Cathode rays only",
+        "Sound waves",
+        "Alpha particles",
+        "Neutrons only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The relative mass of a proton is approximately",
+      "options": [
+        "1 u",
+        "1/1836 u",
+        "0 u",
+        "2 u"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The K, L and M shell capacities under 2n² are respectively",
+      "options": [
+        "2, 8, 8",
+        "8, 8, 2",
+        "2, 8, 18",
+        "2, 18, 8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The valency of an atom with configuration 2,8,6 is",
+      "options": [
+        "0",
+        "2",
+        "8",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An ion has 9 protons and 10 electrons. Its charge is",
+      "options": [
+        "1−",
+        "Neutral",
+        "2−",
+        "1+"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An atom with a completely filled outermost shell generally has valency",
+      "options": [
+        "0",
+        "2",
+        "8",
+        "1"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The species ⁴⁰₂₀Ca²⁺ contains",
+      "options": [
+        "18 protons, 22 neutrons and 20 electrons",
+        "20 protons, 20 neutrons and 18 electrons",
+        "40 protons and 20 electrons",
+        "20 protons, 18 neutrons and 20 electrons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The mass number equals the total number of",
+      "options": [
+        "Electrons only",
+        "Protons and electrons",
+        "Neutrons and electrons",
+        "Protons and neutrons"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The valency of an atom with configuration 2,8,7 is",
+      "options": [
+        "8",
+        "1",
+        "7",
+        "0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The number of neutrons in ³⁵₁₇Cl is",
+      "options": [
+        "17",
+        "52",
+        "18",
+        "35"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The electronic configuration of chlorine (atomic number 17) is",
+      "options": [
+        "2, 8, 8",
+        "2, 8, 7",
+        "2, 7, 8",
+        "2, 6, 9"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The charge on an ion results from a difference between numbers of",
+      "options": [
+        "Protons and neutrons",
+        "Shells and orbitals",
+        "Neutrons and nucleons",
+        "Protons and electrons"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The symbol ²³₁₁Na indicates that sodium has",
+      "options": [
+        "11 protons and 12 neutrons",
+        "23 protons and 11 neutrons",
+        "11 protons and 23 neutrons",
+        "12 protons and 11 electrons"
       ],
       "answer": 0
     }

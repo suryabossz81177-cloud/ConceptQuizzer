@@ -1,813 +1,817 @@
+/* Class 9 Chemistry — Matter in Our Surroundings
+   80 MCQs; prompts are unnumbered.
+   Easy 10; Medium 10; Hard 15; Too Hard 20; Extreme 25.
+   answer is a zero-based option index. */
 window.QuizData = window.QuizData || {};
 window.QuizData["9-chemistry-matter-in-our-surroundings"] = {
   "easy": [
     {
-      "question": "A sample is at 293 K. Its temperature in °C is: [Item 01]",
+      "question": "A liquid has a definite volume but no definite shape because its particles",
       "options": [
-        "30",
-        "293",
-        "20",
-        "10"
+        "Are separated by vacuum only",
+        "Are fixed rigidly in a lattice",
+        "Can move past one another while remaining close",
+        "Do not attract one another"
       ],
       "answer": 2
     },
     {
-      "question": "The Kelvin temperature corresponding to 25 °C is: [Item 02]",
+      "question": "The SI unit of temperature is",
       "options": [
-        "308",
-        "288",
-        "571",
-        "298"
+        "degree Celsius",
+        "degree Fahrenheit",
+        "joule",
+        "kelvin"
       ],
       "answer": 3
     },
     {
-      "question": "At ordinary atmospheric pressure, water at -5 °C is best described as: [Item 03]",
+      "question": "A substance absorbs heat while changing state but its temperature does not rise; the heat is",
       "options": [
-        "pure solid only",
-        "gas",
-        "solid",
-        "plasma"
+        "Latent heat",
+        "Mechanical work only",
+        "Electrical resistance",
+        "Specific heat only"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "The change of state associated with ice at 0 °C is: [Item 04]",
+      "question": "A solid maintains a definite shape chiefly because its particles",
       "options": [
-        "freezing",
-        "diffusion",
-        "evaporation only",
-        "melting"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which condition generally increases the rate of evaporation of water? [Item 05]",
-      "options": [
-        "smaller exposed surface area",
-        "lower temperature",
-        "higher humidity",
-        "larger exposed surface area"
+        "Are separated by very large spaces",
+        "Have no attractive forces",
+        "Move freely throughout the container",
+        "Vibrate about relatively fixed positions"
       ],
       "answer": 3
     },
     {
-      "question": "Which description correctly characterises evaporation? [Item 06]",
+      "question": "The term ‘fluid’ applies to",
       "options": [
-        "liquid changes into solid",
-        "gas changes into liquid",
-        "occurs throughout the liquid at its boiling point",
-        "occurs at the surface and can occur below boiling point"
+        "Only solids",
+        "Only crystalline substances",
+        "Only substances below 0°C",
+        "Liquids and gases"
       ],
       "answer": 3
     },
     {
-      "question": "During boiling of pure water at constant pressure, supplied heat mainly supports: [Item 07]",
+      "question": "Which condition would make evaporation slowest?",
       "options": [
-        "creation of new water molecules",
-        "continuous rise in temperature throughout boiling",
-        "overcoming intermolecular attraction during the change of state",
-        "increase in mass of the sample"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The process chiefly responsible for perfume smell spreading through a room is: [Item 08]",
-      "options": [
-        "condensation",
-        "diffusion",
-        "sedimentation",
-        "filtration"
+        "High temperature, low humidity and large surface area",
+        "Low temperature, high humidity and small surface area",
+        "Large surface area with dry air",
+        "High wind speed and low humidity"
       ],
       "answer": 1
     },
     {
-      "question": "The comparatively fastest diffusion is expected in: [Item 09]",
+      "question": "A wet palm feels cool when exposed to moving air because",
       "options": [
-        "highly rigid solids only",
-        "solids",
-        "all states at identical rates",
-        "gases"
+        "Condensation releases heat to the skin",
+        "The water's mass increases",
+        "Air freezes the water instantly",
+        "Evaporation removes energy from the skin"
       ],
       "answer": 3
     },
     {
-      "question": "A gas can be compressed substantially because its particles: [Item 10]",
+      "question": "High humidity slows evaporation because",
       "options": [
-        "are larger than the container",
-        "have large intermolecular spaces",
-        "have no kinetic energy",
-        "are fixed in a regular lattice"
+        "Air already contains a large amount of water vapour",
+        "The liquid gains a higher melting point",
+        "The surface area becomes zero",
+        "Particles stop moving completely"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The average kinetic energy of particles is most directly related to",
+      "options": [
+        "Container shape",
+        "Colour",
+        "Temperature",
+        "Density alone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A liquid at a temperature below its boiling point can still lose particles through",
+      "options": [
+        "Boiling throughout its volume only",
+        "Evaporation",
+        "Sublimation of the container",
+        "Freezing only"
       ],
       "answer": 1
     }
   ],
   "medium": [
     {
-      "question": "A liquid takes the shape of its container but retains nearly fixed volume because its particles: [Item 11]",
+      "question": "Compressibility is greatest in gases because",
       "options": [
-        "are separated by enormous spaces",
-        "can move past one another while remaining close",
-        "have no attraction at all",
-        "are completely fixed in place"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The state of matter with a definite shape and definite volume is generally: [Item 12]",
-      "options": [
-        "solid",
-        "vapour only",
-        "liquid",
-        "gas"
+        "There are large intermolecular spaces",
+        "Gas particles have no mass",
+        "Attractive forces are strongest in gases",
+        "Gas particles do not move"
       ],
       "answer": 0
     },
     {
-      "question": "The cooling effect of evaporation occurs because escaping particles: [Item 13]",
+      "question": "Diffusion is generally fastest in gases because gas particles",
       "options": [
-        "increase the liquid's mass",
-        "carry away higher-than-average kinetic energy",
-        "stop all particle motion",
-        "all lose kinetic energy to the surroundings"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A desert cooler works more effectively on a hot, dry day mainly because: [Item 14]",
-      "options": [
-        "low humidity favours faster evaporation",
-        "air has no water vapour",
-        "high humidity maximises evaporation",
-        "water boils inside the cooler"
+        "Move rapidly and have large spaces between them",
+        "Are fixed in place",
+        "Have no kinetic energy",
+        "Have the strongest intermolecular attraction"
       ],
       "answer": 0
     },
     {
-      "question": "A wet cotton cloth dries faster when spread out than when folded because spreading: [Item 15]",
+      "question": "Which observation best supports that particles have spaces between them?",
       "options": [
-        "reduces air movement to zero",
-        "increases exposed surface area",
-        "raises the boiling point",
-        "converts water into a new substance"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The latent heat of fusion of a substance is associated with: [Item 16]",
-      "options": [
-        "solid-to-liquid change at constant temperature",
-        "liquid-to-gas change with rising temperature only",
-        "heating a solid without a state change",
-        "gas-to-solid change only"
+        "Sugar dissolves in water with only a small increase in volume",
+        "A stone casts a shadow",
+        "A magnet attracts iron",
+        "A metal spoon shines"
       ],
       "answer": 0
     },
     {
-      "question": "The latent heat of vaporisation is the heat required to: [Item 17]",
+      "question": "The state of matter with the highest fluidity under ordinary conditions is generally",
       "options": [
-        "freeze a liquid without heat exchange",
-        "convert unit mass of liquid into gas at its boiling point without temperature change",
-        "change gas into solid at any temperature",
-        "raise one kilogram of solid by one degree"
+        "Gas",
+        "Solid",
+        "Crystalline salt",
+        "Glass"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "The particles in a sample of pure ice and pure liquid water differ primarily in their: [Item 18]",
+      "question": "When ice at 0°C melts to water at 0°C, the energy supplied primarily",
       "options": [
-        "chemical identity",
-        "arrangement and freedom of motion",
-        "atomic nuclei",
-        "elemental composition"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A substance changes directly from solid to vapour without becoming liquid. This is: [Item 19]",
-      "options": [
-        "solidification",
-        "condensation",
-        "sublimation",
-        "fusion"
+        "Converts water into hydrogen and oxygen",
+        "Reduces the number of water molecules",
+        "Weakens the solid structure without raising temperature",
+        "Raises the temperature immediately"
       ],
       "answer": 2
     },
     {
-      "question": "Which statement about matter particles is scientifically consistent? [Item 20]",
+      "question": "A fan increases the rate of evaporation mainly by",
       "options": [
-        "Attraction is absent in every state",
-        "Particles in solids never vibrate",
-        "Particles have no spaces between them",
-        "Particles are in continuous motion and attract one another."
+        "Removing water vapour from near the surface",
+        "Increasing the liquid's mass",
+        "Reducing exposed area",
+        "Increasing humidity next to the liquid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A liquid's evaporation can cause cooling because the escaping particles",
+      "options": [
+        "Return all energy to the liquid",
+        "Have no kinetic energy",
+        "Carry away energy from the liquid",
+        "Increase the liquid's melting point"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A change of state is generally a",
+      "options": [
+        "Change in chemical identity",
+        "Nuclear change",
+        "Change in atomic number",
+        "Physical change"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Diffusion of one gas into another supports the idea that particles of matter",
+      "options": [
+        "Have no mass",
+        "Move continuously and have spaces between them",
+        "Cannot collide",
+        "Are all visible to the naked eye"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The temperature at which a solid changes into liquid at atmospheric pressure is its",
+      "options": [
+        "Diffusion point",
+        "Boiling point",
+        "Condensation point",
+        "Melting point"
       ],
       "answer": 3
     }
   ],
   "hard": [
     {
-      "question": "A sample is at 296 K. Its temperature in °C is: [Item 21]",
+      "question": "A liquid has latent heat of vaporisation 2.26 kJ/g. Energy to vaporise 5 g is",
       "options": [
-        "33",
-        "23",
-        "13",
-        "296"
+        "2.26 kJ",
+        "11.3 kJ",
+        "0.452 kJ",
+        "7.26 kJ"
       ],
       "answer": 1
     },
     {
-      "question": "The Kelvin temperature corresponding to 32 °C is: [Item 22]",
+      "question": "A gas fills its container completely because its particles",
       "options": [
-        "578",
-        "305",
-        "295",
-        "315"
+        "Are strongly locked together",
+        "Move freely in all directions",
+        "Have a fixed shape",
+        "Have fixed positions"
       ],
       "answer": 1
     },
     {
-      "question": "At ordinary atmospheric pressure, water at 0 °C is best described as: [Item 23]",
+      "question": "A sample at 100°C boils at standard pressure. Additional heat primarily increases",
       "options": [
-        "pure solid only",
-        "plasma",
-        "gas",
-        "at the melting point of ice, where solid and liquid may coexist"
+        "The melting point",
+        "The boiling temperature continuously",
+        "The mass of each molecule",
+        "The amount of vapour formed"
       ],
       "answer": 3
     },
     {
-      "question": "The change of state associated with water at 100 °C is: [Item 24]",
+      "question": "A temperature of 300 K corresponds approximately to",
       "options": [
-        "boiling",
-        "freezing",
-        "diffusion",
-        "evaporation only"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which condition generally increases the rate of evaporation of water? [Item 25]",
-      "options": [
-        "lower temperature",
-        "higher humidity",
-        "higher temperature",
-        "smaller exposed surface area"
+        "300°C",
+        "−27°C",
+        "27°C",
+        "573°C"
       ],
       "answer": 2
     },
     {
-      "question": "Which description correctly characterises boiling? [Item 26]",
+      "question": "The change from liquid to gas throughout the liquid at its boiling point is",
       "options": [
-        "occurs throughout the liquid at its boiling point",
-        "gas changes into liquid",
-        "occurs at the surface and can occur below boiling point",
-        "liquid changes into solid"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During boiling of pure water at constant pressure, supplied heat mainly supports: [Item 27]",
-      "options": [
-        "continuous rise in temperature throughout boiling",
-        "overcoming intermolecular attraction during the change of state",
-        "increase in mass of the sample",
-        "creation of new water molecules"
+        "Condensation",
+        "Boiling",
+        "Evaporation only",
+        "Freezing"
       ],
       "answer": 1
     },
     {
-      "question": "The process chiefly responsible for ink spreading in still water is: [Item 28]",
+      "question": "A substance changes directly from solid to gas without becoming liquid. The change is",
       "options": [
-        "condensation",
-        "diffusion",
-        "filtration",
-        "sedimentation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The comparatively fastest diffusion is expected in: [Item 29]",
-      "options": [
-        "solids",
-        "gases",
-        "highly rigid solids only",
-        "all states at identical rates"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A gas can be compressed substantially because its particles: [Item 30]",
-      "options": [
-        "have large intermolecular spaces",
-        "have no kinetic energy",
-        "are larger than the container",
-        "are fixed in a regular lattice"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "A liquid takes the shape of its container but retains nearly fixed volume because its particles: [Item 31]",
-      "options": [
-        "can move past one another while remaining close",
-        "have no attraction at all",
-        "are separated by enormous spaces",
-        "are completely fixed in place"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The state of matter with a definite shape and definite volume is generally: [Item 32]",
-      "options": [
-        "gas",
-        "solid",
-        "liquid",
-        "vapour only"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The cooling effect of evaporation occurs because escaping particles: [Item 33]",
-      "options": [
-        "all lose kinetic energy to the surroundings",
-        "stop all particle motion",
-        "carry away higher-than-average kinetic energy",
-        "increase the liquid's mass"
+        "Condensation",
+        "Vaporisation",
+        "Sublimation",
+        "Fusion"
       ],
       "answer": 2
     },
     {
-      "question": "A desert cooler works more effectively on a hot, dry day mainly because: [Item 34]",
+      "question": "The particles of matter are in",
       "options": [
-        "water boils inside the cooler",
-        "high humidity maximises evaporation",
-        "air has no water vapour",
-        "low humidity favours faster evaporation"
+        "Motion only in gases",
+        "Permanent rest",
+        "Motion only when heated to boiling",
+        "Continuous motion"
       ],
       "answer": 3
     },
     {
-      "question": "A wet cotton cloth dries faster when spread out than when folded because spreading: [Item 35]",
+      "question": "Which observation best supports that particles are continuously moving?",
       "options": [
-        "converts water into a new substance",
-        "raises the boiling point",
-        "increases exposed surface area",
-        "reduces air movement to zero"
+        "The smell of incense spreads through a room",
+        "A sealed container has a label",
+        "A book remains on a table",
+        "A solid has a definite shape"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A gas can be liquefied more easily by",
+      "options": [
+        "Heating at constant pressure indefinitely",
+        "Increasing its temperature without limit",
+        "Removing all intermolecular attraction",
+        "Cooling and applying pressure"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A sample absorbs 840 J while 2 g changes state at constant temperature. Its specific latent heat is",
+      "options": [
+        "1680 J/g",
+        "840 J/g",
+        "420 J/g",
+        "420 J"
       ],
       "answer": 2
+    },
+    {
+      "question": "A gas's pressure rises when it is heated in a rigid sealed container because particles",
+      "options": [
+        "Stop colliding",
+        "Collide more energetically with the walls",
+        "Lose kinetic energy",
+        "Become larger in mass"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Evaporation occurs",
+      "options": [
+        "Only at 100°C",
+        "Only throughout the liquid at its boiling point",
+        "Only when a liquid is stirred",
+        "At the surface and can occur below the boiling point"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The direct conversion of gas into solid is",
+      "options": [
+        "Melting",
+        "Boiling",
+        "Deposition",
+        "Evaporation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The boiling point of a liquid is affected by",
+      "options": [
+        "The shape of its container alone",
+        "External pressure",
+        "Only the colour of the liquid",
+        "The mass of its container"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A temperature of 27°C is approximately",
+      "options": [
+        "300 K",
+        "273 K",
+        "246 K",
+        "310 K"
+      ],
+      "answer": 0
     }
   ],
   "tooHard": [
     {
-      "question": "The latent heat of fusion of a substance is associated with: [Item 36]",
+      "question": "Sweating cools the body most effectively when",
       "options": [
-        "heating a solid without a state change",
-        "gas-to-solid change only",
-        "liquid-to-gas change with rising temperature only",
-        "solid-to-liquid change at constant temperature"
+        "Humidity is very high and air is still",
+        "Sweat remains as liquid indefinitely",
+        "The skin is covered with an impermeable layer",
+        "Sweat can evaporate readily"
       ],
       "answer": 3
     },
     {
-      "question": "The latent heat of vaporisation is the heat required to: [Item 37]",
+      "question": "The strongest intermolecular attraction among the following is usually found in",
       "options": [
-        "convert unit mass of liquid into gas at its boiling point without temperature change",
-        "freeze a liquid without heat exchange",
-        "raise one kilogram of solid by one degree",
-        "change gas into solid at any temperature"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The particles in a sample of pure ice and pure liquid water differ primarily in their: [Item 38]",
-      "options": [
-        "atomic nuclei",
-        "arrangement and freedom of motion",
-        "chemical identity",
-        "elemental composition"
+        "A gas",
+        "A solid",
+        "A vapour",
+        "Air"
       ],
       "answer": 1
     },
     {
-      "question": "A substance changes directly from solid to vapour without becoming liquid. This is: [Item 39]",
+      "question": "The latent heat absorbed during a change of state is associated with a change in",
       "options": [
-        "fusion",
-        "sublimation",
-        "solidification",
-        "condensation"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which statement about matter particles is scientifically consistent? [Item 40]",
-      "options": [
-        "Particles have no spaces between them",
-        "Particles in solids never vibrate",
-        "Attraction is absent in every state",
-        "Particles are in continuous motion and attract one another."
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A sample is at 299 K. Its temperature in °C is: [Item 41]",
-      "options": [
-        "36",
-        "16",
-        "26",
-        "299"
+        "Chemical identity in every case",
+        "Atomic number",
+        "Interparticle arrangement and separation",
+        "Mass of each particle"
       ],
       "answer": 2
     },
     {
-      "question": "The Kelvin temperature corresponding to 39 °C is: [Item 42]",
+      "question": "The change of state from solid to liquid is",
       "options": [
-        "302",
-        "322",
-        "585",
-        "312"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "At ordinary atmospheric pressure, water at 18 °C is best described as: [Item 43]",
-      "options": [
-        "plasma",
-        "gas",
-        "pure solid only",
-        "liquid"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The change of state associated with camphor on gentle heating is: [Item 44]",
-      "options": [
-        "diffusion",
-        "freezing",
-        "evaporation only",
-        "sublimation"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "Which condition generally increases the rate of evaporation of water? [Item 45]",
-      "options": [
-        "higher wind speed",
-        "smaller exposed surface area",
-        "higher humidity",
-        "lower temperature"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which description correctly characterises condensation? [Item 46]",
-      "options": [
-        "gas changes into liquid",
-        "occurs throughout the liquid at its boiling point",
-        "occurs at the surface and can occur below boiling point",
-        "liquid changes into solid"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During boiling of pure water at constant pressure, supplied heat mainly supports: [Item 47]",
-      "options": [
-        "overcoming intermolecular attraction during the change of state",
-        "increase in mass of the sample",
-        "creation of new water molecules",
-        "continuous rise in temperature throughout boiling"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The process chiefly responsible for oxygen mixing with nitrogen is: [Item 48]",
-      "options": [
-        "condensation",
-        "sedimentation",
-        "diffusion",
-        "filtration"
+        "Sublimation",
+        "Deposition",
+        "Fusion",
+        "Condensation"
       ],
       "answer": 2
     },
     {
-      "question": "The comparatively fastest diffusion is expected in: [Item 49]",
+      "question": "Particles of a gas exert pressure on container walls because they",
       "options": [
-        "highly rigid solids only",
-        "gases",
-        "solids",
-        "all states at identical rates"
+        "Collide with the walls",
+        "Have no kinetic energy",
+        "Remain fixed in a lattice",
+        "Attract the walls permanently"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A material changes from gas directly to solid. The change is",
+      "options": [
+        "Fusion",
+        "Deposition",
+        "Condensation",
+        "Sublimation"
       ],
       "answer": 1
     },
     {
-      "question": "A gas can be compressed substantially because its particles: [Item 50]",
+      "question": "A 25°C reading is approximately",
       "options": [
-        "are fixed in a regular lattice",
-        "have large intermolecular spaces",
-        "are larger than the container",
-        "have no kinetic energy"
+        "325 K",
+        "298 K",
+        "273 K",
+        "248 K"
       ],
       "answer": 1
     },
     {
-      "question": "A liquid takes the shape of its container but retains nearly fixed volume because its particles: [Item 51]",
+      "question": "Latent heat of vaporisation is the heat needed to convert unit mass of liquid into vapour",
       "options": [
-        "are separated by enormous spaces",
-        "can move past one another while remaining close",
-        "have no attraction at all",
-        "are completely fixed in place"
+        "At its boiling point without temperature change",
+        "Only when the liquid freezes",
+        "By lowering the external pressure to zero",
+        "At any temperature with no energy transfer"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "The state of matter with a definite shape and definite volume is generally: [Item 52]",
+      "question": "A fan speeds evaporation mainly by",
       "options": [
-        "gas",
-        "liquid",
-        "vapour only",
-        "solid"
+        "Reducing surface area",
+        "Increasing local humidity",
+        "Increasing liquid mass",
+        "Removing water vapour from near the liquid surface"
       ],
       "answer": 3
     },
     {
-      "question": "The cooling effect of evaporation occurs because escaping particles: [Item 53]",
+      "question": "The temperature rise from 290 K to 310 K is",
       "options": [
-        "all lose kinetic energy to the surroundings",
-        "stop all particle motion",
-        "increase the liquid's mass",
-        "carry away higher-than-average kinetic energy"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A desert cooler works more effectively on a hot, dry day mainly because: [Item 54]",
-      "options": [
-        "high humidity maximises evaporation",
-        "water boils inside the cooler",
-        "low humidity favours faster evaporation",
-        "air has no water vapour"
+        "310°C",
+        "583°C",
+        "20 K",
+        "20°C below zero"
       ],
       "answer": 2
     },
     {
-      "question": "A wet cotton cloth dries faster when spread out than when folded because spreading: [Item 55]",
+      "question": "The temperature at which a liquid's vapour pressure equals external pressure corresponds to its",
       "options": [
-        "converts water into a new substance",
-        "raises the boiling point",
-        "reduces air movement to zero",
-        "increases exposed surface area"
+        "Freezing point",
+        "Melting point",
+        "Boiling point",
+        "Triple point only"
       ],
-      "answer": 3
+      "answer": 2
+    },
+    {
+      "question": "The melting of wax is classified as a physical change because",
+      "options": [
+        "The process must be irreversible",
+        "A new element forms",
+        "The substance's chemical composition remains unchanged",
+        "The atoms split into nuclei"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "During melting, the temperature of a pure solid remains constant because supplied heat is used mainly to",
+      "options": [
+        "Reduce the volume to zero",
+        "Increase particle mass",
+        "Overcome attractive forces between particles",
+        "Stop all particle motion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A gas can be liquefied more readily by",
+      "options": [
+        "Heating indefinitely",
+        "Increasing temperature without limit",
+        "Cooling and applying pressure",
+        "Removing all attraction"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A gas-filled syringe is compressed at constant temperature. The main change is a reduction in",
+      "options": [
+        "Particle number in a sealed syringe",
+        "Molecular size",
+        "Interparticle separation",
+        "Particle mass"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A gas has neither fixed shape nor fixed volume because",
+      "options": [
+        "Its particles are mobile and widely separated",
+        "It has no particles",
+        "Its particles are bonded in a rigid lattice",
+        "Its particles are motionless"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The process responsible for formation of water droplets on the outside of a cold glass is",
+      "options": [
+        "Freezing of the glass",
+        "Condensation of water vapour",
+        "Melting of air",
+        "Sublimation of water"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The conversion of water vapour into liquid water is",
+      "options": [
+        "Deposition",
+        "Condensation",
+        "Fusion",
+        "Sublimation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An increase in temperature generally makes diffusion faster because particles",
+      "options": [
+        "Become larger",
+        "Move faster on average",
+        "Stop moving randomly",
+        "Lose all intermolecular spaces"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A high latent heat of vaporisation means that a liquid needs",
+      "options": [
+        "A large amount of heat per unit mass to vaporise at its boiling point",
+        "A lower melting point necessarily",
+        "No heat to boil",
+        "More mass per molecule"
+      ],
+      "answer": 0
     }
   ],
   "extreme": [
     {
-      "question": "The latent heat of fusion of a substance is associated with: [Item 56]",
+      "question": "A wet cloth dries more slowly on a humid day because air",
       "options": [
-        "heating a solid without a state change",
-        "solid-to-liquid change at constant temperature",
-        "liquid-to-gas change with rising temperature only",
-        "gas-to-solid change only"
+        "Has no particles",
+        "Must have zero pressure",
+        "Has less capacity to accept additional water vapour",
+        "Freezes the water"
       ],
-      "answer": 1
+      "answer": 2
     },
     {
-      "question": "The latent heat of vaporisation is the heat required to: [Item 57]",
+      "question": "At high altitude, water boils at a lower temperature because atmospheric pressure is",
       "options": [
-        "raise one kilogram of solid by one degree",
-        "freeze a liquid without heat exchange",
-        "change gas into solid at any temperature",
-        "convert unit mass of liquid into gas at its boiling point without temperature change"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The particles in a sample of pure ice and pure liquid water differ primarily in their: [Item 58]",
-      "options": [
-        "elemental composition",
-        "arrangement and freedom of motion",
-        "atomic nuclei",
-        "chemical identity"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A substance changes directly from solid to vapour without becoming liquid. This is: [Item 59]",
-      "options": [
-        "fusion",
-        "solidification",
-        "condensation",
-        "sublimation"
+        "Higher",
+        "Exactly zero",
+        "Unaffected by altitude",
+        "Lower"
       ],
       "answer": 3
     },
     {
-      "question": "Which statement about matter particles is scientifically consistent? [Item 60]",
+      "question": "Melting point of ice on the Celsius scale at standard atmospheric pressure is",
       "options": [
-        "Attraction is absent in every state",
-        "Particles are in continuous motion and attract one another.",
-        "Particles in solids never vibrate",
-        "Particles have no spaces between them"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "A sample is at 302 K. Its temperature in °C is: [Item 61]",
-      "options": [
-        "29",
-        "302",
-        "39",
-        "19"
+        "0°C",
+        "100°C",
+        "−100°C",
+        "32°C"
       ],
       "answer": 0
     },
     {
-      "question": "The Kelvin temperature corresponding to 46 °C is: [Item 62]",
+      "question": "A liquid's particles are less tightly packed than those in a typical solid, so liquids generally",
       "options": [
-        "592",
-        "329",
-        "309",
-        "319"
+        "Are always compressible like gases",
+        "Flow and take the shape of their container",
+        "Have no definite volume",
+        "Cannot diffuse"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "At 0°C, ice and water coexist. Heat supplied slowly initially increases the liquid fraction while temperature",
+      "options": [
+        "Rises immediately",
+        "Remains at 0°C",
+        "Becomes 100°C",
+        "Falls to −10°C"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Naphthalene balls gradually disappear at room temperature due to",
+      "options": [
+        "Sedimentation",
+        "Sublimation",
+        "Melting followed by freezing",
+        "Condensation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A desert cooler works most effectively in",
+      "options": [
+        "A sealed room with no air movement",
+        "Cold, humid weather",
+        "Hot, dry weather",
+        "Cool, saturated weather"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A substance's particles attract one another, but the strength of attraction varies with",
+      "options": [
+        "The shape of a label",
+        "Container colour only",
+        "The state and nature of the substance",
+        "The amount of light in the room"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A temperature rises from 25°C to 60°C. The rise in kelvin is",
+      "options": [
+        "−35 K",
+        "298 K",
+        "35 K",
+        "333 K"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Celsius temperature corresponding to 373 K is approximately",
+      "options": [
+        "−100°C",
+        "0°C",
+        "100°C",
+        "27°C"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A liquid evaporates faster from a shallow dish than a narrow vessel of the same liquid mainly because the shallow dish has",
+      "options": [
+        "A higher boiling point",
+        "Greater exposed surface area",
+        "Greater density necessarily",
+        "Fewer surface particles"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The conversion of liquid water into ice is",
+      "options": [
+        "Vaporisation",
+        "Condensation",
+        "Freezing",
+        "Sublimation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The conversion of ice directly into water vapour is",
+      "options": [
+        "Liquefaction",
+        "Boiling",
+        "Sublimation",
+        "Fusion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A liquid evaporates faster when its exposed surface area is increased because",
+      "options": [
+        "Intermolecular forces become infinite",
+        "Its boiling point must increase",
+        "Its particles become heavier",
+        "More particles can escape from the surface per unit time"
       ],
       "answer": 3
     },
     {
-      "question": "At ordinary atmospheric pressure, water at 37 °C is best described as: [Item 63]",
+      "question": "The smell of perfume spreads through a room mainly due to",
       "options": [
-        "pure solid only",
-        "plasma",
-        "liquid",
-        "gas"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The change of state associated with steam becoming water is: [Item 64]",
-      "options": [
-        "condensation",
-        "diffusion",
-        "freezing",
-        "evaporation only"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which condition generally increases the rate of evaporation of water? [Item 65]",
-      "options": [
-        "lower humidity",
-        "lower temperature",
-        "smaller exposed surface area",
-        "higher humidity"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which description correctly characterises freezing? [Item 66]",
-      "options": [
-        "liquid changes into solid",
-        "occurs throughout the liquid at its boiling point",
-        "gas changes into liquid",
-        "occurs at the surface and can occur below boiling point"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "During boiling of pure water at constant pressure, supplied heat mainly supports: [Item 67]",
-      "options": [
-        "continuous rise in temperature throughout boiling",
-        "overcoming intermolecular attraction during the change of state",
-        "increase in mass of the sample",
-        "creation of new water molecules"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The process chiefly responsible for sugar dissolving in water is: [Item 68]",
-      "options": [
-        "filtration",
-        "sedimentation",
-        "diffusion",
-        "condensation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The comparatively fastest diffusion is expected in: [Item 69]",
-      "options": [
-        "highly rigid solids only",
-        "solids",
-        "all states at identical rates",
-        "gases"
+        "Sedimentation",
+        "Condensation",
+        "Freezing",
+        "Diffusion"
       ],
       "answer": 3
     },
     {
-      "question": "A gas can be compressed substantially because its particles: [Item 70]",
+      "question": "A gas is heated in a rigid sealed container. Its pressure rises because particles",
       "options": [
-        "have no kinetic energy",
-        "have large intermolecular spaces",
-        "are fixed in a regular lattice",
-        "are larger than the container"
+        "Lose kinetic energy",
+        "Collide more energetically with the walls",
+        "Stop colliding",
+        "Become heavier"
       ],
       "answer": 1
     },
     {
-      "question": "A liquid takes the shape of its container but retains nearly fixed volume because its particles: [Item 71]",
+      "question": "At the same temperature, which sample has the greatest average kinetic energy of its particles?",
       "options": [
-        "are completely fixed in place",
-        "have no attraction at all",
-        "can move past one another while remaining close",
-        "are separated by enormous spaces"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The state of matter with a definite shape and definite volume is generally: [Item 72]",
-      "options": [
-        "liquid",
-        "gas",
-        "vapour only",
-        "solid"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "The cooling effect of evaporation occurs because escaping particles: [Item 73]",
-      "options": [
-        "all lose kinetic energy to the surroundings",
-        "increase the liquid's mass",
-        "stop all particle motion",
-        "carry away higher-than-average kinetic energy"
-      ],
-      "answer": 3
-    },
-    {
-      "question": "A desert cooler works more effectively on a hot, dry day mainly because: [Item 74]",
-      "options": [
-        "water boils inside the cooler",
-        "air has no water vapour",
-        "low humidity favours faster evaporation",
-        "high humidity maximises evaporation"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "A wet cotton cloth dries faster when spread out than when folded because spreading: [Item 75]",
-      "options": [
-        "converts water into a new substance",
-        "increases exposed surface area",
-        "reduces air movement to zero",
-        "raises the boiling point"
+        "The sample with the greatest mass",
+        "All samples have the same average kinetic energy if they are in thermal equilibrium",
+        "The sample with the greatest volume",
+        "The sample with the highest density"
       ],
       "answer": 1
     },
     {
-      "question": "The latent heat of fusion of a substance is associated with: [Item 76]",
+      "question": "A liquid spreads over twice the surface area with other conditions fixed. Evaporation generally",
       "options": [
-        "gas-to-solid change only",
-        "heating a solid without a state change",
-        "solid-to-liquid change at constant temperature",
-        "liquid-to-gas change with rising temperature only"
+        "Becomes sublimation",
+        "Decreases to zero",
+        "Increases",
+        "Remains exactly unchanged"
       ],
       "answer": 2
     },
     {
-      "question": "The latent heat of vaporisation is the heat required to: [Item 77]",
+      "question": "A pressure cooker cooks food faster because increased pressure",
       "options": [
-        "convert unit mass of liquid into gas at its boiling point without temperature change",
-        "raise one kilogram of solid by one degree",
-        "freeze a liquid without heat exchange",
-        "change gas into solid at any temperature"
+        "Makes water's specific heat zero",
+        "Lowers water's boiling point",
+        "Stops steam formation entirely",
+        "Raises the boiling point of water"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The temperature remains constant during boiling of a pure liquid because heat supplied is used to",
+      "options": [
+        "Stop molecular motion",
+        "Increase the average kinetic energy continuously",
+        "Change liquid into vapour",
+        "Increase the mass of each molecule"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The cooling caused by evaporation is greatest when the surroundings are",
+      "options": [
+        "At the freezing point",
+        "Hot, dry and windy",
+        "Cold, humid and still",
+        "Cold and saturated with water vapour"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When a gas is compressed at constant temperature, its volume decreases mainly because",
+      "options": [
+        "Interparticle spaces decrease",
+        "The number of particles automatically doubles",
+        "Particle sizes shrink greatly",
+        "Particles lose all mass"
       ],
       "answer": 0
     },
     {
-      "question": "The particles in a sample of pure ice and pure liquid water differ primarily in their: [Item 78]",
+      "question": "A solid can be compressed slightly under very high pressure because",
       "options": [
-        "chemical identity",
-        "arrangement and freedom of motion",
-        "atomic nuclei",
-        "elemental composition"
+        "Its particles are motionless in an absolute sense",
+        "Its particles have no volume",
+        "Its particles disappear",
+        "Its particles still have some interparticle space"
       ],
-      "answer": 1
+      "answer": 3
     },
     {
-      "question": "A substance changes directly from solid to vapour without becoming liquid. This is: [Item 79]",
+      "question": "A high latent heat of vaporisation means a liquid requires",
       "options": [
-        "condensation",
-        "sublimation",
-        "solidification",
-        "fusion"
+        "Much heat per unit mass to vaporise at its boiling point",
+        "A lower melting point necessarily",
+        "More mass per molecule",
+        "No heat to boil"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
-      "question": "Which statement about matter particles is scientifically consistent? [Item 80]",
+      "question": "The state of matter whose particles are most widely separated is",
       "options": [
-        "Particles have no spaces between them",
-        "Particles in solids never vibrate",
-        "Particles are in continuous motion and attract one another.",
-        "Attraction is absent in every state"
+        "Crystal",
+        "Gas",
+        "Liquid",
+        "Solid"
       ],
-      "answer": 2
+      "answer": 1
     }
   ]
 };
