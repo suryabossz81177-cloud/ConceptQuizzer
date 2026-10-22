@@ -1294,6 +1294,31 @@ window.QuizRegistry.register(
     "10-geography-lifelines-of-national-economy",
     "js/quizzes/class10/geography/lifelines-of-national-economy.js"
 );
+
+   window.QuizRegistry.register(
+    "10-politicalscience-power-sharing",
+    "js/quizzes/class10/politicalscience/power-sharing.js"
+);
+
+window.QuizRegistry.register(
+    "10-politicalscience-federalism",
+    "js/quizzes/class10/politicalscience/federalism.js"
+);
+
+window.QuizRegistry.register(
+    "10-politicalscience-gender-religion-and-caste",
+    "js/quizzes/class10/politicalscience/gender-religion-and-caste.js"
+);
+
+window.QuizRegistry.register(
+    "10-politicalscience-political-parties",
+    "js/quizzes/class10/politicalscience/political-parties.js"
+);
+
+window.QuizRegistry.register(
+    "10-politicalscience-outcomes-of-democracy",
+    "js/quizzes/class10/politicalscience/outcomes-of-democracy.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
