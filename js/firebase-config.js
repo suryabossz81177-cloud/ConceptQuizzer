@@ -1,8 +1,5 @@
-// Concept Quizzer Firebase Configuration
-// Used by account-auth.js
-
 window.CQ_FIREBASE_CONFIG = {
-  apiKey: "YOUR_EXISTING_API_KEY",
+  apiKey: "APNI_ACTUAL_API_KEY",
   authDomain: "concept-quizzer.firebaseapp.com",
   projectId: "concept-quizzer",
   storageBucket: "concept-quizzer.firebasestorage.app",
