@@ -1344,6 +1344,30 @@ window.QuizRegistry.register(
     "10-economics-consumer-rights",
     "js/quizzes/class10/economics/consumer-rights.js"
 );
+   
+   // Chapter 1: Digital Documentation (Advanced)
+window.QuizRegistry.register(
+    "10-informationtechnology-digital-documentation-advanced",
+    "js/quizzes/class10/informationtechnology/digital-documentation-advanced.js"
+);
+
+// Chapter 2: Electronic Spreadsheet (Advanced)
+window.QuizRegistry.register(
+    "10-informationtechnology-electronic-spreadsheet-advanced",
+    "js/quizzes/class10/informationtechnology/electronic-spreadsheet-advanced.js"
+);
+
+// Chapter 3: Database Management System
+window.QuizRegistry.register(
+    "10-informationtechnology-database-management-system",
+    "js/quizzes/class10/informationtechnology/database-management-system.js"
+);
+
+// Chapter 4: Web Applications and Security
+window.QuizRegistry.register(
+    "10-informationtechnology-web-applications-and-security",
+    "js/quizzes/class10/informationtechnology/web-applications-and-security.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
