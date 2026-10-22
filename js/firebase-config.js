@@ -1,5 +1,5 @@
 window.CQ_FIREBASE_CONFIG = {
-  apiKey: "APNI_ACTUAL_API_KEY",
+  apiKey: "AIzaSyCe5hrG-yA-Qk3oSHlIE4ypflwLKV_XuzM",
   authDomain: "concept-quizzer.firebaseapp.com",
   projectId: "concept-quizzer",
   storageBucket: "concept-quizzer.firebasestorage.app",
