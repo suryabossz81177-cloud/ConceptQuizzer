@@ -1,18 +1,21 @@
-/*
-  SETUP REQUIRED:
-  1. Create a Firebase project at https://console.firebase.google.com/
-  2. Add a Web App and copy its Firebase config into the object below.
-  3. Enable Authentication > Sign-in method > Google.
-  4. Add your GitHub Pages domain (for example: 7-cloud.github.io) under
-     Authentication > Settings > Authorized domains.
-  5. Create a Firestore database and publish firestore.rules from this ZIP.
-  Never put a service-account/private admin key in this file.
-*/
-window.CQ_FIREBASE_CONFIG = {
-  apiKey: "PASTE_YOUR_FIREBASE_WEB_API_KEY",
-  authDomain: "PASTE_YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "PASTE_YOUR_PROJECT_ID",
-  storageBucket: "PASTE_YOUR_PROJECT_ID.firebasestorage.app",
-  messagingSenderId: "PASTE_YOUR_MESSAGING_SENDER_ID",
-  appId: "PASTE_YOUR_FIREBASE_APP_ID"
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyCe5hrG-yA-Qk3oSHlIE4ypflwLKV_XuzM",
+  authDomain: "concept-quizzer.firebaseapp.com",
+  projectId: "concept-quizzer",
+  storageBucket: "concept-quizzer.firebasestorage.app",
+  messagingSenderId: "765897125690",
+  appId: "1:765897125690:web:8d13a564888d772b7eaa03",
+  measurementId: "G-6PF88N207H"
 };
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
