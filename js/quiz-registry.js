@@ -1234,6 +1234,31 @@ window.QuizRegistry.register(
     "10-mathematics-probability",
     "js/quizzes/class10/mathematics/probability.js"
 );
+
+   window.QuizRegistry.register(
+    "10-history-the-rise-of-nationalism-in-europe",
+    "js/quizzes/class10/history/the-rise-of-nationalism-in-europe.js"
+);
+
+window.QuizRegistry.register(
+    "10-history-nationalism-in-india",
+    "js/quizzes/class10/history/nationalism-in-india.js"
+);
+
+window.QuizRegistry.register(
+    "10-history-the-making-of-a-global-world",
+    "js/quizzes/class10/history/the-making-of-a-global-world.js"
+);
+
+window.QuizRegistry.register(
+    "10-history-the-age-of-industrialisation",
+    "js/quizzes/class10/history/the-age-of-industrialisation.js"
+);
+
+window.QuizRegistry.register(
+    "10-history-print-culture-and-the-modern-world",
+    "js/quizzes/class10/history/print-culture-and-the-modern-world.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
