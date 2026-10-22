@@ -1259,6 +1259,41 @@ window.QuizRegistry.register(
     "10-history-print-culture-and-the-modern-world",
     "js/quizzes/class10/history/print-culture-and-the-modern-world.js"
 );
+
+   window.QuizRegistry.register(
+    "10-geography-resources-and-development",
+    "js/quizzes/class10/geography/resources-and-development.js"
+);
+
+window.QuizRegistry.register(
+    "10-geography-forest-and-wildlife-resources",
+    "js/quizzes/class10/geography/forest-and-wildlife-resources.js"
+);
+
+window.QuizRegistry.register(
+    "10-geography-water-resources",
+    "js/quizzes/class10/geography/water-resources.js"
+);
+
+window.QuizRegistry.register(
+    "10-geography-agriculture",
+    "js/quizzes/class10/geography/agriculture.js"
+);
+
+window.QuizRegistry.register(
+    "10-geography-minerals-and-energy-resources",
+    "js/quizzes/class10/geography/minerals-and-energy-resources.js"
+);
+
+window.QuizRegistry.register(
+    "10-geography-manufacturing-industries",
+    "js/quizzes/class10/geography/manufacturing-industries.js"
+);
+
+window.QuizRegistry.register(
+    "10-geography-lifelines-of-national-economy",
+    "js/quizzes/class10/geography/lifelines-of-national-economy.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
