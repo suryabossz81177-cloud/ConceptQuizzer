@@ -162,6 +162,113 @@ let quizFinished = false;
 let timer = null;
 let timeLeft = levelInfo.time;
 
+/* =========================================
+   AUTO-SAVE / RESUME QUIZ PROGRESS
+   Progress is stored locally in this browser.
+   It is not a secure server-side score record.
+   ========================================= */
+const progressKey =
+    "cq-active-quiz-v1-" +
+    encodeURIComponent(chapterKey) + "-" +
+    encodeURIComponent(level);
+
+let selectedAnswers = Array(questions.length).fill(null);
+let lastSavedAt = 0;
+
+function calculateScore() {
+    return selectedAnswers.reduce((total, answer, index) => {
+        return total + (answer !== null && questions[index] &&
+            answer === questions[index].answer ? 1 : 0);
+    }, 0);
+}
+
+function saveQuizProgress(force) {
+    if (quizFinished || !questions.length) return;
+
+    const now = Date.now();
+    if (!force && now - lastSavedAt < 5000) return;
+
+    const payload = {
+        version: 1,
+        chapterKey,
+        level,
+        questionCount: questions.length,
+        currentQuestion,
+        selectedAnswers,
+        timeLeft,
+        savedAt: now
+    };
+
+    try {
+        localStorage.setItem(progressKey, JSON.stringify(payload));
+        lastSavedAt = now;
+    } catch (error) {
+        console.warn("Quiz progress could not be saved in this browser.", error);
+    }
+}
+
+function clearQuizProgress() {
+    try {
+        localStorage.removeItem(progressKey);
+    } catch (error) {
+        console.warn("Saved quiz progress could not be cleared.", error);
+    }
+}
+
+function restoreQuizProgress() {
+    let saved;
+
+    try {
+        saved = JSON.parse(localStorage.getItem(progressKey) || "null");
+    } catch (_) {
+        saved = null;
+    }
+
+    if (!saved || saved.version !== 1 ||
+        saved.chapterKey !== chapterKey ||
+        saved.level !== level ||
+        saved.questionCount !== questions.length ||
+        !Array.isArray(saved.selectedAnswers) ||
+        saved.selectedAnswers.length !== questions.length ||
+        !Number.isInteger(saved.currentQuestion) ||
+        saved.currentQuestion < 0 ||
+        saved.currentQuestion >= questions.length ||
+        !Number.isFinite(saved.timeLeft) ||
+        saved.timeLeft <= 0) {
+        if (saved) clearQuizProgress();
+        return;
+    }
+
+    const hasProgress =
+        saved.currentQuestion > 0 ||
+        saved.selectedAnswers.some(answer => answer !== null);
+
+    if (!hasProgress) return;
+
+    const resume = window.confirm(
+        "Welcome back! Your previous quiz progress was found.\\n\\n" +
+        "Choose OK to continue where you left off, or Cancel to start this quiz again."
+    );
+
+    if (!resume) {
+        clearQuizProgress();
+        return;
+    }
+
+    selectedAnswers = saved.selectedAnswers.map((answer, index) => {
+        return Number.isInteger(answer) &&
+            answer >= 0 &&
+            questions[index] &&
+            answer < questions[index].options.length
+                ? answer
+                : null;
+    });
+
+    currentQuestion = saved.currentQuestion;
+    timeLeft = Math.max(1, Math.min(levelInfo.time, Math.floor(saved.timeLeft)));
+    score = calculateScore();
+}
+
 function formatTime(seconds) {
     const minutes = Math.floor(seconds / 60);
     const secs = seconds % 60;
@@ -214,6 +321,7 @@ function startTimer() {
         }
 
         updateTimer();
+        saveQuizProgress(false);
 
     }, 1000);
 }
@@ -224,7 +332,7 @@ function showQuestion() {
 
     if (!q || quizFinished) return;
 
-    answered = false;
+    answered = selectedAnswers[currentQuestion] !== null;
 
     questionBox.textContent = q.question;
 
@@ -263,6 +371,8 @@ function showQuestion() {
             if (answered || quizFinished) return;
 
             answered = true;
+            selectedAnswers[currentQuestion] = index;
+            score = calculateScore();
 
             const all =
                 optionsBox.querySelectorAll("button");
@@ -273,14 +383,9 @@ function showQuestion() {
             });
 
             if (index === q.answer) {
-
-                score++;
-
                 button.style.background = "#22c55e";
                 button.style.color = "white";
-
             } else {
-
                 button.style.background = "#ef4444";
                 button.style.color = "white";
 
@@ -289,9 +394,32 @@ function showQuestion() {
                     all[q.answer].style.color = "white";
                 }
             }
+
+            saveQuizProgress(true);
         };
 
         optionsBox.appendChild(button);
+
+        // Reconstruct the saved answer if this question was answered earlier.
+        const savedAnswer = selectedAnswers[currentQuestion];
+        if (savedAnswer !== null) {
+            button.disabled = true;
+            button.style.cursor = "default";
+
+            if (index === savedAnswer) {
+                button.style.background =
+                    savedAnswer === q.answer ? "#22c55e" : "#ef4444";
+                button.style.color = "white";
+            }
+
+            if (savedAnswer !== q.answer) {
+                const all = optionsBox.querySelectorAll("button");
+                if (all[q.answer]) {
+                    all[q.answer].style.background = "#22c55e";
+                    all[q.answer].style.color = "white";
+                }
+            }
+        }
     });
 }
 
@@ -434,6 +562,7 @@ function finishQuiz(timeOver) {
 
     quizFinished = true;
     stopTimer();
+    clearQuizProgress();
 
     const percentage =
         Math.round((score / questions.length) * 100);
@@ -592,11 +721,24 @@ nextBtn.onclick = function () {
     }
 
     currentQuestion++;
+    saveQuizProgress(true);
     showQuestion();
 };
 
+restoreQuizProgress();
 updateTimer();
 showQuestion();
+saveQuizProgress(true);
 startTimer();
+
+document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState === "hidden") {
+        saveQuizProgress(true);
+    }
+});
+
+window.addEventListener("pagehide", function () {
+    saveQuizProgress(true);
+});
 
 });
