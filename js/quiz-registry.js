@@ -1319,6 +1319,31 @@ window.QuizRegistry.register(
     "10-politicalscience-outcomes-of-democracy",
     "js/quizzes/class10/politicalscience/outcomes-of-democracy.js"
 );
+
+   window.QuizRegistry.register(
+    "10-economics-development",
+    "js/quizzes/class10/economics/development.js"
+);
+
+window.QuizRegistry.register(
+    "10-economics-sectors-of-the-indian-economy",
+    "js/quizzes/class10/economics/sectors-of-the-indian-economy.js"
+);
+
+window.QuizRegistry.register(
+    "10-economics-money-and-credit",
+    "js/quizzes/class10/economics/money-and-credit.js"
+);
+
+window.QuizRegistry.register(
+    "10-economics-globalisation-and-the-indian-economy",
+    "js/quizzes/class10/economics/globalisation-and-the-indian-economy.js"
+);
+
+window.QuizRegistry.register(
+    "10-economics-consumer-rights",
+    "js/quizzes/class10/economics/consumer-rights.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
