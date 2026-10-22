@@ -1359,7 +1359,7 @@ window.QuizRegistry.register(
 
 // Chapter 3: Database Management System
 window.QuizRegistry.register(
-    "10-informationtechnology-database-management-system",
+    "10-informationtechnology-database-management-system-dbms",
     "js/quizzes/class10/informationtechnology/database-management-system.js"
 );
 
