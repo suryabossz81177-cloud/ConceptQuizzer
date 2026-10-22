@@ -1,5 +1,5 @@
 // Concept Quizzer Firebase Configuration
-// Firebase compat SDK is expected by account-auth.js.
+// Used by account-auth.js
 
 window.CQ_FIREBASE_CONFIG = {
   apiKey: "YOUR_EXISTING_API_KEY",
