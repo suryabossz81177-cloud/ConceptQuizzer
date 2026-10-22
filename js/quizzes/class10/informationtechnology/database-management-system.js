@@ -1,6 +1,6 @@
 /* Class 10 Information Technology (402) — NCERT/CBSE-syllabus-aligned board-style practice. */
 window.QuizData = window.QuizData || {};
-window.QuizData["10-informationtechnology-database-management-system"] = {
+window.QuizData["10-informationtechnology-database-management-system-dbms"] = {
   easy: [
     {
         "question": "In a relational database, a row in a table is commonly called a",
