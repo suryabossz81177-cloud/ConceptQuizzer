@@ -1199,6 +1199,41 @@ window.QuizRegistry.register(
     "10-mathematics-coordinate-geometry",
     "js/quizzes/class10/mathematics/coordinate-geometry.js"
 );
+
+   window.QuizRegistry.register(
+    "10-mathematics-introduction-to-trigonometry",
+    "js/quizzes/class10/mathematics/introduction-to-trigonometry.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-some-applications-of-trigonometry",
+    "js/quizzes/class10/mathematics/some-applications-of-trigonometry.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-circles",
+    "js/quizzes/class10/mathematics/circles.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-areas-related-to-circles",
+    "js/quizzes/class10/mathematics/areas-related-to-circles.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-surface-areas-and-volumes",
+    "js/quizzes/class10/mathematics/surface-areas-and-volumes.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-statistics",
+    "js/quizzes/class10/mathematics/statistics.js"
+);
+
+window.QuizRegistry.register(
+    "10-mathematics-probability",
+    "js/quizzes/class10/mathematics/probability.js"
+);
    /* =====================================================
        FUTURE QUIZZES GO HERE
 
