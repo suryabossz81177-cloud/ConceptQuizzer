@@ -1,7 +1,7 @@
 /*==================================================
-  Concept Quizzer — Navigation + Virtual Science Laboratory
+  Concept Quizzer — Main Navigation
   Keeps the normal Class → Subject → Chapter flow separate
-  from the Virtual Science Laboratory flow.
+  Keeps the normal Class → Subject → Chapter flow.
 ==================================================*/
 "use strict";
 
@@ -30,10 +30,6 @@ const selectedSubjectTitle=byId("selectedSubjectTitle");
 const chapterTitle=byId("chapterTitle");
 const chapterSubtitle=byId("chapterSubtitle");
 const searchInput=byId("searchInput");
-const scienceLabHub=byId("scienceLabHub");
-const scienceLabSelectorScreen=byId("scienceLabSelectorScreen");
-const vslHeroPanel=byId("vslHeroPanel");
-const vslSelectorCard=byId("vslSelectorCard");
 
 function getData(){
   try { if(typeof ConceptQuizzerData!=="undefined") return ConceptQuizzerData; } catch(e){}
@@ -63,39 +59,18 @@ function hideLoader(){
 }
 
 function hideAllScreens(){
-  [classScreen,subjectScreen,chapterScreen,dashboardScreen,scienceLabSelectorScreen]
+  [classScreen,subjectScreen,chapterScreen,dashboardScreen]
     .forEach(x=>x?.classList.add("hidden"));
-  if(scienceLabHub) scienceLabHub.classList.add("homeVslHidden");
 }
 function showHome(){
   hideAllScreens();
   classScreen?.classList.remove("hidden");
-  scienceLabHub?.classList.remove("homeVslHidden");
-  vslHeroPanel?.classList.remove("hidden");
-  vslSelectorCard?.classList.add("hidden");
   scrollTop();
 }
 function setScreen(screen){
   hideAllScreens();
   if(screen) screen.classList.remove("hidden");
-  scienceLabHub?.classList.add("homeVslHidden");
   scrollTop();
-}
-function openVslSelector(){
-  hideAllScreens();
-  scienceLabHub?.classList.remove("homeVslHidden");
-  vslHeroPanel?.classList.add("hidden");
-  vslSelectorCard?.classList.remove("hidden");
-  showVslStep("class");
-  initScienceLabSelector();
-  scrollTop();
-}
-function showVslStep(step){
-  const screens={class:byId("vslClassScreen"),chapter:byId("vslChapterScreen"),experiment:byId("vslExperimentScreen")};
-  Object.values(screens).forEach(x=>x?.classList.add("hidden"));
-  const target=screens[step];
-  if(target) target.classList.remove("hidden");
-  /* Step changes stay in place. No scroll/animation = no shaking or jumping. */
 }
 
 function registerClassCards(){
@@ -168,7 +143,6 @@ function registerNavigation(){
   byId("backToClasses")?.addEventListener("click",()=>setScreen(classScreen));
   byId("backToSubjects")?.addEventListener("click",()=>setScreen(subjectScreen));
   byId("backToChapters")?.addEventListener("click",()=>setScreen(chapterScreen));
-  byId("vslArrowButton")?.addEventListener("click",openVslSelector);
 }
 function registerTheme(){
   const b=byId("themeButton"); if(!b||b.dataset.cqBound==="true") return;
@@ -193,66 +167,9 @@ function scienceChaptersForClass(classId){
   const science=getSubjects(cls).find(e=>String(e.key||e.data?.id||e.data?.name||"").toLowerCase()==="science");
   return science?.data&&Array.isArray(science.data.chapters)?science.data.chapters:[];
 }
-function scienceExperimentData(classId,chapterIndex,chapterName){
-  if(Number(classId)===6&&Number(chapterIndex)===0){
-    const base="js/chapters/science/class6/the-wonderful-world-of-science.html?tab=lab&experiment=";
-    return [
-      {n:1,icon:"🖊️",title:"Pen Detective",tag:"NCERT-style inquiry",text:"Change ink level and tip condition, predict whether the pen will write, then test it.",link:base+"1"},
-      {n:2,icon:"🌱",title:"Plant Mystery",tag:"NCERT-inspired investigation",text:"Change light, water and nutrients and observe a simulated 7-day plant response.",link:base+"2"},
-      {n:3,icon:"🚁",title:"Paper Helicopter",tag:"Extension investigation",text:"Change blade length and mass and compare simulated falling time.",link:base+"3"},
-      {n:4,icon:"🛝",title:"Ramp Investigation",tag:"Physics extension",text:"Change slope and surface and test the simulated travel distance.",link:base+"4"},
-      {n:5,icon:"❓",title:"Mystery Question Lab",tag:"Scientific thinking",text:"Turn an observation into a testable question and choose a variable to investigate.",link:base+"5"}
-    ];
-  }
-  return [1,2,3,4,5].map((n)=>({n,icon:["🧪","🔬","🌡️","⚙️","💡"][n-1],title:`Experiment ${n}`,tag:"Five practical investigations",text:`${chapterName}: interactive experiment ${n} is reserved for this chapter's laboratory build.`,link:null}));
-}
-
-function initScienceLabSelector(){
-  const grid=byId("scienceClassGrid"), chapterGrid=byId("scienceChapterGrid"), expGrid=byId("scienceExperimentGrid");
-  if(!grid||!chapterGrid||!expGrid) return;
-  const classes=getClasses().filter(c=>[6,7,8,9,10].includes(Number(c.id)));
-  grid.innerHTML=classes.map(c=>`<button type="button" class="scienceClassCard" data-science-class="${c.id}"><span>${c.id}</span><b>Class ${c.id}</b><small>Science Laboratory</small></button>`).join("");
-  chapterGrid.innerHTML=""; expGrid.innerHTML="";
-  grid.querySelectorAll("[data-science-class]").forEach(btn=>btn.addEventListener("click",()=>{
-    grid.querySelectorAll(".scienceClassCard").forEach(x=>x.classList.remove("active"));
-    btn.classList.add("active");
-    const id=Number(btn.dataset.scienceClass), chapters=scienceChaptersForClass(id);
-    byId("vslClassTitle").textContent=`Class ${id} • Science Chapters`;
-    chapterGrid.innerHTML=chapters.map((ch,i)=>{
-      const name=typeof ch==="string"?ch:(ch?.title||ch?.name||`Chapter ${i+1}`);
-      return `<button type="button" class="scienceChapterCard" data-vsl-class="${id}" data-vsl-index="${i}"><span class="vslChapterNo">CHAPTER ${i+1}</span><h3>${escapeHTML(name)}</h3><span class="experimentCount">🧪 5 simulations available</span></button>`;
-    }).join("");
-    showVslStep("chapter");
-    chapterGrid.querySelectorAll("[data-vsl-index]").forEach(chBtn=>chBtn.addEventListener("click",()=>{
-      chapterGrid.querySelectorAll(".scienceChapterCard").forEach(x=>x.classList.remove("active"));
-      chBtn.classList.add("active");
-      const ci=Number(chBtn.dataset.vslIndex), cId=Number(chBtn.dataset.vslClass), raw=scienceChaptersForClass(cId)[ci];
-      const name=typeof raw==="string"?raw:(raw?.title||raw?.name||`Chapter ${ci+1}`);
-      byId("vslChapterTitle").textContent=`Chapter ${ci+1} • ${name}`;
-      const labs=scienceExperimentData(cId,ci,name);
-      expGrid.innerHTML=labs.map(l=>`<button type="button" class="scienceExperimentLink" data-lab-class="${cId}" data-lab-index="${ci}" data-lab-name="${escapeHTML(name)}" data-lab-link="${l.link||''}" aria-label="Open ${escapeHTML(l.title)} simulation"><article class="scienceExperimentCard"><div class="experimentIcon">${l.icon}</div><div class="experimentMeta">EXPERIMENT ${l.n} • ${escapeHTML(l.tag)}</div><h3>${escapeHTML(l.title)}</h3><p>${escapeHTML(l.text)}</p><div class="experimentTap"><span>▶ Play Experiment</span><span>→</span></div></article></button>`).join("");
-      expGrid.querySelectorAll(".scienceExperimentLink").forEach(a=>a.addEventListener("click",e=>{
-        e.preventDefault();
-        const link=a.dataset.labLink;
-        if(!link) return;
-        localStorage.setItem("cq-science-class",a.dataset.labClass);
-        localStorage.setItem("cq-science-chapter-index",a.dataset.labIndex);
-        localStorage.setItem("cq-current-class",a.dataset.labClass);
-        localStorage.setItem("cq-current-subject","science");
-        localStorage.setItem("cq-current-chapter",makeChapterKeyFor(getClassById(a.dataset.labClass),{id:"science",name:"Science"},a.dataset.labName));
-        window.location.assign(link);
-      }));
-      showVslStep("experiment");
-    }));
-  }));
-  byId("vslBackToClasses")?.addEventListener("click",()=>showVslStep("class"));
-  byId("vslBackToChapters")?.addEventListener("click",()=>showVslStep("chapter"));
-}
-
 function registerDashboardCards(){
-  const notesCard=byId("notesCard"), quizCard=byId("quizCard"), scienceLabCard=byId("scienceLabCard");
+  const notesCard=byId("notesCard"), quizCard=byId("quizCard");
   const isScience=String(App.currentSubject?.id||App.currentSubject?.name||"").toLowerCase()==="science";
-  if(scienceLabCard) scienceLabCard.classList.toggle("scienceLabVisible",isScience);
   [notesCard,quizCard].forEach(card=>card?.classList.remove("dashboardHidden"));
 
   if(notesCard&&!notesCard.dataset.cqBound){
@@ -278,25 +195,12 @@ function registerDashboardCards(){
       location.href="quiz.html";
     });
   }
-  if(scienceLabCard&&!scienceLabCard.dataset.cqBound){
-    scienceLabCard.dataset.cqBound="true";
-    scienceLabCard.addEventListener("click",()=>{
-      const idx=(App.currentSubject?.chapters||[]).findIndex(c=>(typeof c==="string"?c:c?.title||c?.name)===App.currentChapter);
-      localStorage.setItem("cq-science-class",String(App.currentClass?.id||6));
-      localStorage.setItem("cq-science-chapter-index",String(Math.max(0,idx)));
-      if(Number(App.currentClass?.id)===6&&idx===0) location.href="js/chapters/science/class6/the-wonderful-world-of-science.html?tab=lab";
-      else { location.href=`index.html?vsl=1&class=${encodeURIComponent(App.currentClass?.id||6)}&chapter=${encodeURIComponent(Math.max(0,idx))}`; }
-    });
-  }
 }
 
 function initApp(){
   if(!getData()?.classes){ hideLoader(); return; }
   registerClassCards(); registerNavigation(); registerTheme(); registerSearch(); registerDashboardCards();
-  // Home is the only place where the large VSL hero is shown.
   showHome();
-  const p=new URLSearchParams(location.search);
-  if(p.get("vsl")==="1") openVslSelector();
   hideLoader();
 }
 document.addEventListener("DOMContentLoaded",initApp);
