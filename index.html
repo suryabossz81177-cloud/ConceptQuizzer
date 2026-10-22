@@ -107,6 +107,14 @@ Learn • Practice • Master
 
 </a>
 
+<div class="headerRightStack">
+  <div class="accountBar">
+    <button id="accountButton" class="accountButton" type="button">
+      <span class="material-icons-round">login</span>
+      <span id="accountButtonLabel">Login with Google</span>
+    </button>
+  </div>
+
 <div
 class="headerActions">
 
@@ -160,6 +168,7 @@ emoji_events
 
 </a>
 
+</div>
 </div>
 
 </div>
@@ -490,6 +499,38 @@ Class • Subject
 <script src="js/data.js"></script>
 <script src="js/app.js"></script>
 
+
+
+<!-- Google account sign-in / account panel -->
+<div id="accountModal" class="accountModal" aria-hidden="true">
+  <div class="accountModalCard" role="dialog" aria-modal="true" aria-labelledby="accountModalTitle">
+    <button id="closeAccountModal" class="accountClose" type="button" aria-label="Close">×</button>
+    <div class="accountModalLogo"><span class="material-icons-round">account_circle</span></div>
+    <h2 id="accountModalTitle">Your Concept Quizzer Account</h2>
+    <p id="accountModalMessage">Sign in with Google to back up your learning progress and access it when you return.</p>
+    <div id="signedInPanel" hidden>
+      <div class="signedInUser">
+        <img id="accountPhoto" alt="" hidden>
+        <div><strong id="accountName"></strong><span id="accountEmail"></span></div>
+      </div>
+      <p id="cloudSyncStatus" class="cloudSyncStatus">Your progress backup is ready.</p>
+      <button id="syncNowButton" class="accountPrimary" type="button">Back up my progress</button>
+      <button id="signOutButton" class="accountSecondary" type="button">Sign out</button>
+    </div>
+    <div id="signedOutPanel">
+      <label class="termsConsent"><input id="termsConsentCheckbox" type="checkbox"> <span>I agree to the <a href="terms.html" target="_blank" rel="noopener">Terms &amp; Conditions</a> and have read the <a href="terms.html#privacy" target="_blank" rel="noopener">Privacy Notice</a>.</span></label>
+      <button id="googleSignInButton" class="accountPrimary" type="button"><span class="googleG">G</span> Continue with Google</button>
+      <p class="accountSmallPrint">You can use the website without signing in. Sign-in is optional.</p>
+    </div>
+    <p id="accountError" class="accountError" role="status"></p>
+  </div>
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+<script src="js/firebase-config.js"></script>
+<script src="js/account-auth.js"></script>
 </body>
 
 </html>
