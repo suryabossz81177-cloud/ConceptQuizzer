@@ -6,7 +6,7 @@ window.ChapterData = {
   title: "Economic Activities Around Us",
 
   description:
-    "Explore different economic activities, how goods and services are produced and how people earn their livelihoods.",
+    "Explore the different economic activities, how goods and services are produced and how people earn their livelihoods.",
 
   sections: [
 
